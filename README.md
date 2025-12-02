@@ -19,3 +19,7 @@ Sure, ayet ve sesleri JSON dosyası olarak barındırın.
 `https://raw.githubusercontent.com/kurancilar/master/source/sure/<SURE_NUMARASI>.json`
 
 `https://raw.githubusercontent.com/kurancilar/master/source/audio/<SURE_NUMARASI:001-114>.json`
+
+#### Lisans
+
+[MIT Lisansı](/LICENSE)
