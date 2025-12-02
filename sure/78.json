@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "(1-2) Ne şeyden soruşturuyorlar? O pek büyük haberden.",
         "hayrat_nesriyat": "Birbirlerine neyden (hangi şeyden) soruyorlar?",
         "diyanet_vakfi": "Birbirlerine neyi soruyorlar?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "(1-2) Ne şeyden soruşturuyorlar? O pek büyük haberden.",
         "hayrat_nesriyat": "O (pek) büyük nebe`den (haberden, öldükten sonra dirilmeden)!",
         "diyanet_vakfi": "(2-3) (İnanıp inanmamakta) ayrılığa düştükleri büyük haberi mi?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "O haber ki, onlar onda ihtilafa düşmüşlerdir.",
         "hayrat_nesriyat": "Ki, onlar (o müşrikler) onda ihtilâfa düşen kimselerdir.",
         "diyanet_vakfi": "(2-3) (İnanıp inanmamakta) ayrılığa düştükleri büyük haberi mi?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "(4-5) Hayır. Yakında bileceklerdir. Sonra hayır. Yakında bileceklerdir.",
         "hayrat_nesriyat": "Hayır! Yakında bilecekler!",
         "diyanet_vakfi": "Hayır! Anlayacaklar!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "(4-5) Hayır. Yakında bileceklerdir. Sonra hayır. Yakında bileceklerdir.",
         "hayrat_nesriyat": "Sonra (yine) hayır! Yakında bilecekler!",
         "diyanet_vakfi": "Yine hayır! Onlar anlayacaklar!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/005.mp3"
       }
     },
     {
@@ -70,6 +85,9 @@
         "omer_nasuhi_bilmen": "(6-7) Yeri bir döşek yapmadık mı? Dağları da birer kazık yapmadık mı?",
         "hayrat_nesriyat": "(6-7) (Biz,) yeri bir beşik, dağları da birer kazık yapmadık mı?",
         "diyanet_vakfi": "(6-7) Biz yeryüzünü bir döşek, dağları da birer kazık yapmadık mı?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/006.mp3"
       }
     },
     {
@@ -82,6 +100,9 @@
         "omer_nasuhi_bilmen": "(6-7) Yeri bir döşek yapmadık mı? Dağları da birer kazık yapmadık mı?",
         "hayrat_nesriyat": "(6-7) (Biz,) yeri bir beşik, dağları da birer kazık yapmadık mı?",
         "diyanet_vakfi": "(6-7) Biz yeryüzünü bir döşek, dağları da birer kazık yapmadık mı?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/007.mp3"
       }
     },
     {
@@ -94,6 +115,9 @@
         "omer_nasuhi_bilmen": "(8-9) Ve sizleri çiftler olarak yarattık. Uykunuzu da bir dinleniş kıldık.",
         "hayrat_nesriyat": "Ve sizi çift çift yarattık!",
         "diyanet_vakfi": "Sizi çifter çifter yarattık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/008.mp3"
       }
     },
     {
@@ -106,6 +130,9 @@
         "omer_nasuhi_bilmen": "(8-9) Ve sizleri çiftler olarak yarattık. Uykunuzu da bir dinleniş kıldık.",
         "hayrat_nesriyat": "Uykunuzu da bir dinlenme kıldık!",
         "diyanet_vakfi": "Uykunuzu bir dinlenme kıldık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/009.mp3"
       }
     },
     {
@@ -118,6 +145,9 @@
         "omer_nasuhi_bilmen": "(10-11) Geceyi de bir örtü kılmış olduk. Gündüzü de bir geçim vakti yaptık.",
         "hayrat_nesriyat": "Ve geceyi bir örtü yaptık!",
         "diyanet_vakfi": "Geceyi bir örtü yaptık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/010.mp3"
       }
     },
     {
@@ -130,6 +160,9 @@
         "omer_nasuhi_bilmen": "(10-11) Geceyi de bir örtü kılmış olduk. Gündüzü de bir geçim vakti yaptık.",
         "hayrat_nesriyat": "Gündüzü ise, geçim vakti kıldık!",
         "diyanet_vakfi": "Gündüzü de çalışıp kazanma zamanı kıldık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/011.mp3"
       }
     },
     {
@@ -142,6 +175,9 @@
         "omer_nasuhi_bilmen": "(12-13) Ve üzerinize sağlam sağlam yedi gök bina ettik. Ve çok parıldayan kandil kıldık.",
         "hayrat_nesriyat": "Hem üstünüzde yedi sağlam (gök) binâ ettik!",
         "diyanet_vakfi": "Üstünüzde yedi kat sağlam göğü bina ettik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/012.mp3"
       }
     },
     {
@@ -154,6 +190,9 @@
         "omer_nasuhi_bilmen": "(12-13) Ve üzerinize sağlam sağlam yedi gök bina ettik. Ve çok parıldayan kandil kıldık.",
         "hayrat_nesriyat": "Ve (orada) çok parlayan bir kandil (bir güneş) kıldık!",
         "diyanet_vakfi": "(Orada) alev alev yanan bir kandil yarattık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/013.mp3"
       }
     },
     {
@@ -166,6 +205,9 @@
         "omer_nasuhi_bilmen": "Ve o sıkıştıranlardan şarıl şarıl bir su indirdik.",
         "hayrat_nesriyat": "Sık(ıp üzerinize yağmur yağdır)ıcı olan (bulut)lardan da şırıl şırıl (akan) bir su indirdik!",
         "diyanet_vakfi": "(14-16) Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/014.mp3"
       }
     },
     {
@@ -178,6 +220,9 @@
         "omer_nasuhi_bilmen": "(15-16) Onunla daneler ve otlar çıkaralım (diye). Ve sarmaşık bahçeler yetiştirelim diye.",
         "hayrat_nesriyat": "(15-16) Tâ ki onunla dâneler, bitkiler ve sarmaş dolaş olmuş bahçeler çıkaralım.",
         "diyanet_vakfi": "(14-16) Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/015.mp3"
       }
     },
     {
@@ -190,6 +235,9 @@
         "omer_nasuhi_bilmen": "(15-16) Onunla daneler ve otlar çıkaralım (diye). Ve sarmaşık bahçeler yetiştirelim diye.",
         "hayrat_nesriyat": "(15-16) Tâ ki onunla dâneler, bitkiler ve sarmaş dolaş olmuş bahçeler çıkaralım.",
         "diyanet_vakfi": "(14-16) Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/016.mp3"
       }
     },
     {
@@ -202,6 +250,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki, O ayırdetme günü, tayin edilmiş bir vakittir.",
         "hayrat_nesriyat": "Şübhesiz ki o ayırma (hüküm verme) günü, (sevab ve cezâ için) belirlenmiş bir vakittir.",
         "diyanet_vakfi": "Şüphesiz hüküm günü vakit olarak belirlenmiştir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/017.mp3"
       }
     },
     {
@@ -214,6 +265,9 @@
         "omer_nasuhi_bilmen": "O gün ki, Sûr’a üfürülür, artık bölük bölük geliverirsiniz.",
         "hayrat_nesriyat": "O gün Sûr`a (ikinci def`a) üflenir de bölük bölük (hesab yerine) gelirsiniz!",
         "diyanet_vakfi": "Sûr’a üflendiği gün, bölük bölük Allah’a gelirsiniz;"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/018.mp3"
       }
     },
     {
@@ -226,6 +280,9 @@
         "omer_nasuhi_bilmen": "(19-20) Gök de açılmış artık kapı kapı oluvermiştir. Dağlar da yürütülmüş de, su gibi görülen bir hayâl olmuştur.",
         "hayrat_nesriyat": "Ve (o gün) gök açılmış da, kapı kapı olmuştur!",
         "diyanet_vakfi": "Gökyüzü açılır ve orada pek çok kapılar oluşur;"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/019.mp3"
       }
     },
     {
@@ -238,6 +295,9 @@
         "omer_nasuhi_bilmen": "(19-20) Gök de açılmış artık kapı kapı oluvermiştir. Dağlar da yürütülmüş de, su gibi görülen bir hayâl olmuştur.",
         "hayrat_nesriyat": "Artık dağlar yürütülmüş, öyle ki bir serab hâline gelmiştir!",
         "diyanet_vakfi": "Dağlar yürütülür, serap haline gelir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/020.mp3"
       }
     },
     {
@@ -250,6 +310,9 @@
         "omer_nasuhi_bilmen": "Muhakkak ki, cehennem bir gözetilen yerdir.",
         "hayrat_nesriyat": "Muhakkak ki Cehennem, (kâfirlerin yolunu) gözetleme yeridir.",
         "diyanet_vakfi": "(21-22) Şüphesiz, azgınların barınağı olacak cehennem pusuda beklemektedir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/021.mp3"
       }
     },
     {
@@ -262,6 +325,9 @@
         "omer_nasuhi_bilmen": "Azgınlar için bir dolaşılıp gidilecek yerdir.",
         "hayrat_nesriyat": "Azgınlar için varılacak bir yerdir!",
         "diyanet_vakfi": "(21-22) Şüphesiz, azgınların barınağı olacak cehennem pusuda beklemektedir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/022.mp3"
       }
     },
     {
@@ -274,6 +340,9 @@
         "omer_nasuhi_bilmen": "(23-25) Onun içinde devirlerce kalıcılardır. Orada bir serinlik, içilecek bir su tadamazlar. Ancak bir kaynar su ve bir irin tadarlar.",
         "hayrat_nesriyat": "(Onlar) orada sonsuz devirler boyu kalıcıdırlar!",
         "diyanet_vakfi": "(23-26) (Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/023.mp3"
       }
     },
     {
@@ -286,6 +355,9 @@
         "omer_nasuhi_bilmen": "(23-25) Onun içinde devirlerce kalıcılardır. Orada bir serinlik, içilecek bir su tadamazlar. Ancak bir kaynar su ve bir irin tadarlar.",
         "hayrat_nesriyat": "(24-26) (Dünyada işledikleri amellere) uygun bir karşılık olarak, orada bir kaynar su ve bir irinden başka, ne bir serinlik, ne de bir içecek tadarlar!",
         "diyanet_vakfi": "(23-26) (Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/024.mp3"
       }
     },
     {
@@ -298,6 +370,9 @@
         "omer_nasuhi_bilmen": "(23-25) Onun içinde devirlerce kalıcılardır. Orada bir serinlik, içilecek bir su tadamazlar. Ancak bir kaynar su ve bir irin tadarlar.",
         "hayrat_nesriyat": "(24-26) (Dünyada işledikleri amellere) uygun bir karşılık olarak, orada bir kaynar su ve bir irinden başka, ne bir serinlik, ne de bir içecek tadarlar!",
         "diyanet_vakfi": "(23-26) (Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/025.mp3"
       }
     },
     {
@@ -310,6 +385,9 @@
         "omer_nasuhi_bilmen": "(26-27) Uygun bir ceza olarak. Şüphe yok ki onlar, bir hesabı ummaz olmuşlardı.",
         "hayrat_nesriyat": "(24-26) (Dünyada işledikleri amellere) uygun bir karşılık olarak, orada bir kaynar su ve bir irinden başka, ne bir serinlik, ne de bir içecek tadarlar!",
         "diyanet_vakfi": "(23-26) (Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/026.mp3"
       }
     },
     {
@@ -322,6 +400,9 @@
         "omer_nasuhi_bilmen": "(26-27) Uygun bir ceza olarak. Şüphe yok ki onlar, bir hesabı ummaz olmuşlardı.",
         "hayrat_nesriyat": "Çünki onlar (kendileri hakkında) bir hesab (görüleceğini) ummuyorlardı.",
         "diyanet_vakfi": "Çünkü onlar hesap gününü (geleceğini) ummazlardı."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/027.mp3"
       }
     },
     {
@@ -334,6 +415,9 @@
         "omer_nasuhi_bilmen": "Ve âyetlerimizi yalan saymakla yalan sayar olmuşlardı.",
         "hayrat_nesriyat": "Âyetlerimizi de yalanladıkça yalanlamışlardı.",
         "diyanet_vakfi": "Bizim âyetlerimizi yalanladıkça yalanlamışlardı."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/028.mp3"
       }
     },
     {
@@ -346,6 +430,9 @@
         "omer_nasuhi_bilmen": "Ve her ne şey var ise Biz onu bir kitapta saydık (kaydettik.)",
         "hayrat_nesriyat": "Hâlbuki (biz) herşeyi yazarak, onu (Levh-i Mahfûz`da) kaydetmişizdir.",
         "diyanet_vakfi": "Biz ise her şeyi bir kitapta sayıp yazmışızdır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/029.mp3"
       }
     },
     {
@@ -358,6 +445,9 @@
         "omer_nasuhi_bilmen": "Artık tadınız, imdi size azaptan başkasını artırmayacağız.",
         "hayrat_nesriyat": "(Onlara o gün şöyle denilir:) `Şimdi tadın (cezânızı)! Artık size aslâ azabdan başka bir şey artırmayacağız!`",
         "diyanet_vakfi": "Tadın! Bundan sonra yalnızca azabınızı arttıracağız."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/030.mp3"
       }
     },
     {
@@ -370,6 +460,9 @@
         "omer_nasuhi_bilmen": "Muhakkak ki, muttakîler için necât bulacak bir yer vardır.",
         "hayrat_nesriyat": "(31-34) Şübhesiz ki takvâ sâhibleri için (büyük) bir kurtuluş, bahçeler ve üzüm bağları, göğüsleri tomurcuklanmış aynı yaşta kızlar ve dolu kadehler vardır!",
         "diyanet_vakfi": "(31-34) Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/031.mp3"
       }
     },
     {
@@ -382,6 +475,9 @@
         "omer_nasuhi_bilmen": "Bahçeler ve üzümler (vardır).",
         "hayrat_nesriyat": "(31-34) Şübhesiz ki takvâ sâhibleri için (büyük) bir kurtuluş, bahçeler ve üzüm bağları, göğüsleri tomurcuklanmış aynı yaşta kızlar ve dolu kadehler vardır!",
         "diyanet_vakfi": "(31-34) Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/032.mp3"
       }
     },
     {
@@ -394,6 +490,9 @@
         "omer_nasuhi_bilmen": "Ve nar memeli, hep bir yaşta (cariyeler vardır).",
         "hayrat_nesriyat": "(31-34) Şübhesiz ki takvâ sâhibleri için (büyük) bir kurtuluş, bahçeler ve üzüm bağları, göğüsleri tomurcuklanmış aynı yaşta kızlar ve dolu kadehler vardır!",
         "diyanet_vakfi": "(31-34) Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/033.mp3"
       }
     },
     {
@@ -406,6 +505,9 @@
         "omer_nasuhi_bilmen": "Ve dopdolu kaseler vardır.",
         "hayrat_nesriyat": "(31-34) Şübhesiz ki takvâ sâhibleri için (büyük) bir kurtuluş, bahçeler ve üzüm bağları, göğüsleri tomurcuklanmış aynı yaşta kızlar ve dolu kadehler vardır!",
         "diyanet_vakfi": "(31-34) Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/034.mp3"
       }
     },
     {
@@ -418,6 +520,9 @@
         "omer_nasuhi_bilmen": "Orada bir boş lakırdı ve bir yalanlama işitmezler.",
         "hayrat_nesriyat": "(Cennet ehli) orada boş bir söz ve yalan işitmezler.",
         "diyanet_vakfi": "Onlar orada ne boş bir lâkırdı ne de yalan işitirler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/035.mp3"
       }
     },
     {
@@ -430,6 +535,9 @@
         "omer_nasuhi_bilmen": "(Bunlar) Rabbinden bir mükâfaat ve bir kâfî ihsandır.",
         "hayrat_nesriyat": "(Bunlar) Rabbinden bir mükâfât ve (O`nun fazlından, ziyâdesiyle) yeterli bir ihsân olarak (verilir).",
         "diyanet_vakfi": "Bunlar Rabbinin yeterli bir bağışı, mükâfatıdır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/036.mp3"
       }
     },
     {
@@ -442,6 +550,9 @@
         "omer_nasuhi_bilmen": "Göklerin ve yerin ve bunların aralarındakilerin Rabbi, Rahmân ki O’ndan bir hitaba mâlik olamazlar.",
         "hayrat_nesriyat": "Göklerin ve yerin ve ikisi arasında bulunanların Rabbinden, o Rahmân`dan ki,(bütün mahlûkat, azametinden) O`na karşı bir hitâba mâlik olamazlar!",
         "diyanet_vakfi": "O, göklerin, yerin ve ikisi arasında bulunanların Rabbidir. O, rahmândır. O gün insanlar O’na karşı konuşmaya yetkili değillerdir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/037.mp3"
       }
     },
     {
@@ -454,6 +565,9 @@
         "omer_nasuhi_bilmen": "O gün ki Rûh ve melekler saf saf ayakta duracaklardır. Kendisine Rahmân’ın izin verdiğinden başkaları konuşamıyacaklar ve (o da) doğruyu söylemiş olur.",
         "hayrat_nesriyat": "O gün ruh (Cebrâîl) ve melekler saf saf olarak ayakta durur. Rahmân`ın kendisine izin verdiği kimseden başkası konuşamaz; ve (o konuşan da ancak) doğruyu söyler!",
         "diyanet_vakfi": "Ruh (Cebrail) ve melekler saf saf olup durduğu gün, Rahmân’ın izin verdiklerinden başkaları konuşmazlar; konuşan da doğruyu söyler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/038.mp3"
       }
     },
     {
@@ -466,6 +580,9 @@
         "omer_nasuhi_bilmen": "İşte bu, o hak olan gündür, artık kim dilerse Rabbine sığınacak bir mahal edinsin.",
         "hayrat_nesriyat": "İşte bu, o hak olan gündür. Artık dileyen, Rabbine varan bir yol tutar.",
         "diyanet_vakfi": "İşte o, kesin olarak gelecek gündür. O halde dileyen Rabbine varan bir yol tutsun."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/039.mp3"
       }
     },
     {
@@ -478,6 +595,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki Biz, sizi yakın bir azap ile korkutmuş olduk. O gün ki herkes iki elinin ne takdim etmiş olduğuna bakacaktır. Kâfir de, «Ah! Ben keşke, bir toprak olaydım,» diyecektir.",
         "hayrat_nesriyat": "Şübhesiz ki biz, sizi yakın bir azâb ile korkuttuk. O gün kişi, ellerinin takdîm ettiği şeye (önceden işlediği ameline) bakar ve kâfir: `Ah! Keşke ben toprak olaydım!` der.",
         "diyanet_vakfi": "Biz, yakın bir azap ile sizi uyardık. O gün kişi önceden yaptıklarına bakacak ve inkârcı kişi: «Keşke toprak olsaydım!» diyecektir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/078/040.mp3"
       }
     }
   ]

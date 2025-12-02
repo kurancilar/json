@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "Ey örtüsüne bürünüp örtünen (Resûl-i Zîşan)!",
         "hayrat_nesriyat": "Ey müzzemmil olan (elbisesine örtünüp bürünen peygamber)!",
         "diyanet_vakfi": "Ey örtünüp bürünen (Resûlüm)!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "(2-3) Geceleyin kalk, birazı müstesna. Onun yarısı (kalk) veya ondan biraz eksilt (yarısından az kalk),",
         "hayrat_nesriyat": "Bir kısmı hâriç, geceleyin (namaz için) kalk!",
         "diyanet_vakfi": "(2-4) Birazı hariç, geceleri kalk namaz kıl. (Gecenin) yarısını (kıl). Yahut bunu biraz azalt, ya da çoğalt ve Kur’an’ı tane tane oku."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "(2-3) Geceleyin kalk, birazı müstesna. Onun yarısı (kalk) veya ondan biraz eksilt (yarısından az kalk),",
         "hayrat_nesriyat": "(3-4) (Gecenin) yarısı kadar (namaz kıl) veya bundan (yarısından) biraz eksilt yâhut onu artır (serbestsin), Kur`ân`ı da tâne tâne oku!",
         "diyanet_vakfi": "(2-4) Birazı hariç, geceleri kalk namaz kıl. (Gecenin) yarısını (kıl). Yahut bunu biraz azalt, ya da çoğalt ve Kur’an’ı tane tane oku."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "Veya onun üzerine artır ve Kur’an’ı güzelce tertil ile açıkça oku.",
         "hayrat_nesriyat": "(3-4) (Gecenin) yarısı kadar (namaz kıl) veya bundan (yarısından) biraz eksilt yâhut onu artır (serbestsin), Kur`ân`ı da tâne tâne oku!",
         "diyanet_vakfi": "(2-4) Birazı hariç, geceleri kalk namaz kıl. (Gecenin) yarısını (kıl). Yahut bunu biraz azalt, ya da çoğalt ve Kur’an’ı tane tane oku."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki Biz sana ağır bir kelâm vahyedeceğiz.",
         "hayrat_nesriyat": "Çünki biz, senin üzerine (kıymeti pek) ağır bir söz (Kur`ân) bırakacağız(vahyedeceğiz)!",
         "diyanet_vakfi": "Doğrusu biz sana (taşıması) ağır bir söz vahyedeceğiz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/005.mp3"
       }
     },
     {
@@ -70,6 +85,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki, geceleyin kalkış, o daha muvafıktır ve kıraatca da daha sağlamdır.",
         "hayrat_nesriyat": "Şübhesiz ki gece kalkışı, (Kur`ân`ı anlamada kalbe) alabildiğine uygun ve kırâate daha elverişlidir.",
         "diyanet_vakfi": "Şüphesiz gece kalkışı, (kalp ve uzuvlar arasında) tam bir uyuma ve sağlam bir kıraata daha elverişlidir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/006.mp3"
       }
     },
     {
@@ -82,6 +100,9 @@
         "omer_nasuhi_bilmen": "(7-8) Muhakkak ki, senin için gündüzde uzunca bir meşguliyet vardır. Ve Rabbin ismini zikret ve O’na yönel.",
         "hayrat_nesriyat": "Çünki senin için gündüz vaktinde, uzun bir meşgûliyet vardır.",
         "diyanet_vakfi": "Zira gündüz vakti, sana uzun bir meşguliyet var."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/007.mp3"
       }
     },
     {
@@ -94,6 +115,9 @@
         "omer_nasuhi_bilmen": "(7-8) Muhakkak ki, senin için gündüzde uzunca bir meşguliyet vardır. Ve Rabbin ismini zikret ve O’na yönel.",
         "hayrat_nesriyat": "O hâlde Rabbinin ismini zikret ve herşeyden alâka(nı) keserek O`na yönel!",
         "diyanet_vakfi": "Rabbinin adını an. Bütün varlığınla O’na yönel."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/008.mp3"
       }
     },
     {
@@ -106,6 +130,9 @@
         "omer_nasuhi_bilmen": "(O) Maşrikin de, mağribin de Rabbidir, O’ndan başka ilâh yoktur. O halde O’nu vekil ittihaz et.",
         "hayrat_nesriyat": "(O,) doğunun da batının da Rabbidir; O`ndan başka ilâh yoktur; o hâlde (kendine, yalnız) O`nu vekil edin!",
         "diyanet_vakfi": "O, doğunun da batının da Rabbidir. O’ndan başka ilâh yoktur. Öyleyse yalnız O’nun himayesine sığın."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/009.mp3"
       }
     },
     {
@@ -118,6 +145,9 @@
         "omer_nasuhi_bilmen": "Ve diyecekleri şey üzerine sabret ve onları güzelce bir ayrılışla terk eyle!",
         "hayrat_nesriyat": "Hem (o müşriklerin) söylediklerine sabret ve onları güzel bir ayrılışla terket!",
         "diyanet_vakfi": "Onların (müşriklerin) söylediklerine katlan ve onlardan güzellikle ayrıl."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/010.mp3"
       }
     },
     {
@@ -130,6 +160,9 @@
         "omer_nasuhi_bilmen": "Ve o nîmet sahipleri olan mükezzipleri bana bırak ve onlara biraz mühlet ver.",
         "hayrat_nesriyat": "Refah sâhibi (varlıklı) o yalancıları ise, bana bırak ve onlara biraz mühlet ver!",
         "diyanet_vakfi": "Nimet içinde yüzen o yalancıları bana bırak ve onlara biraz mühlet ver."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/011.mp3"
       }
     },
     {
@@ -142,6 +175,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki Bizim yanımızda ağır bukağılar ve bir alevli ateş vardır.",
         "hayrat_nesriyat": "Çünki bizim yanımızda ağır kelepçeler ve yakıcı bir ateş vardır!",
         "diyanet_vakfi": "(12-13) Hiç şüphesiz bizim nezdimizde (onlar için hazırlanmış) boyunduruklar, yakıcı bir ateş, boğazdan geçmez bir yiyecek ve elem verici bir azap vardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/012.mp3"
       }
     },
     {
@@ -154,6 +190,9 @@
         "omer_nasuhi_bilmen": "Ve boğaza tıkanıp duran bir taam ve pek acıklı bir azap vardır.",
         "hayrat_nesriyat": "Bir de boğaza duran bir yiyecek ve (pek) elemli bir azab (vardır)!",
         "diyanet_vakfi": "(12-13) Hiç şüphesiz bizim nezdimizde (onlar için hazırlanmış) boyunduruklar, yakıcı bir ateş, boğazdan geçmez bir yiyecek ve elem verici bir azap vardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/013.mp3"
       }
     },
     {
@@ -166,6 +205,9 @@
         "omer_nasuhi_bilmen": "(14-15) O günde ki, yer ve dağlar sarsılır ve dağlar bir dağılmış kum yığını olmuş olur. Şüphe yok ki Biz size aleyhinize şahit olarak bir peygamber gönderdik. Nasıl ki Fir’avun’a da bir resûl göndermiştik.",
         "hayrat_nesriyat": "O gün (o kıyâmet günü) yer ve dağlar sarsılır ve dağlar akıp giden bir kum yığını hâline gelir!",
         "diyanet_vakfi": "O gün (kıyamet günü) yeryüzü ve dağlar sarsılır; dağlar çöküntü ile akıp giden kum yığınına döner."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/014.mp3"
       }
     },
     {
@@ -178,6 +220,9 @@
         "omer_nasuhi_bilmen": "(14-15) O günde ki, yer ve dağlar sarsılır ve dağlar bir dağılmış kum yığını olmuş olur. Şüphe yok ki Biz size aleyhinize şahit olarak bir peygamber gönderdik. Nasıl ki Fir’avun’a da bir resûl göndermiştik.",
         "hayrat_nesriyat": "Muhakkak ki biz, Fir`avun`a bir peygamber gönderdiğimiz gibi, size de (kıyâmet günü) üzerinize şâhid olmak üzere bir peygamber gönderdik.",
         "diyanet_vakfi": "Nasıl Firavun’a bir elçi göndermiş idiysek doğrusu size de, hakkınızda şahitlik edecek bir peygamber gönderdik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/015.mp3"
       }
     },
     {
@@ -190,6 +235,9 @@
         "omer_nasuhi_bilmen": "(16-17) Fir’avun ise o Resûle isyan etti, artık o Fir’avun’u bir şiddetli yakalamakla yakaladık. Artık siz küfrederseniz kendinizi nasıl koruyabilirsiniz? Bir günden ki, çocukları ak saçlı ihtiyarlara çeviriverir.",
         "hayrat_nesriyat": "Fakat Fir`avun o peygambere isyân etmişti de onu şiddetli bir yakalayışla tutuverdik.",
         "diyanet_vakfi": "Ama Firavun o peygambere karşı gelmiş, biz de onu ağır ve çetin bir şekilde muaheze etmiştik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/016.mp3"
       }
     },
     {
@@ -202,6 +250,9 @@
         "omer_nasuhi_bilmen": "(16-17) Fir’avun ise o Resûle isyan etti, artık o Fir’avun’u bir şiddetli yakalamakla yakaladık. Artık siz küfrederseniz kendinizi nasıl koruyabilirsiniz? Bir günden ki, çocukları ak saçlı ihtiyarlara çeviriverir.",
         "hayrat_nesriyat": "O hâlde (siz de) inkâr ederseniz, çocukları ak saçlı ihtiyarlara çeviren bir günden kendinizi nasıl koruyacaksınız?",
         "diyanet_vakfi": "Peki inkâr ederseniz, çocukları ak saçlı ihtiyarlara çevirecek o günden kendinizi nasıl koruyabileceksiniz?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/017.mp3"
       }
     },
     {
@@ -214,6 +265,9 @@
         "omer_nasuhi_bilmen": "(18-19) Gök bile onunla çatlamıştır. Allah’ın vaadi, fiile çıkarılmıştır. Şüphe yok ki bu bir mev’izadır, artık kim dilerse Rabbine bir yol tutar.",
         "hayrat_nesriyat": "Gök (bile) onunla (o günün şiddetiyle) yarılmış olur! O`nun (Allah`ın) va`di yerine getirilmiş (olacak)tır.",
         "diyanet_vakfi": "Gökyüzü bile onunla (o günün dehşetiyle) yarılacaktır. Allah’ın vâdi mutlaka yerine gelir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/018.mp3"
       }
     },
     {
@@ -226,6 +280,9 @@
         "omer_nasuhi_bilmen": "(18-19) Gök bile onunla çatlamıştır. Allah’ın vaadi, fiile çıkarılmıştır. Şüphe yok ki bu bir mev’izadır, artık kim dilerse Rabbine bir yol tutar.",
         "hayrat_nesriyat": "Şübhesiz ki bu (âyetler), bir nasîhattir. Artık isteyen, Rabbine doğru bir yol tutar.",
         "diyanet_vakfi": "İşte bu (anlatılanlar), şüphesiz bir öğüttür. Artık kim dilerse Rabbine (varan) bir yol tutar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/019.mp3"
       }
     },
     {
@@ -238,6 +295,9 @@
         "omer_nasuhi_bilmen": "Muhakkak senin Rabbin biliyor ki, şüphe yok sen gecenin üçte ikisinden biraz eksik ve yarısı ve üçte biri kadar kalkıyorsun ve seninle beraber olanlardan bir tâife de ve Allah geceyi ve gündüzü takdir eder. Bildiği, siz bunu sayıp başaramıyacaksınız. Artık size ruhsatla irca-ı nazar buyurdu, imdi Kur’an’dan kolay geleni okuyun. Bilmiştir ki sizden hasta olanlar olacaktır, başkaları da Allah’ın fazlından bir kâr aramak için yeryüzünde yol tepeceklerdir ve başkaları da Allah yolunda cihadda bulunacaklardır. Artık ondan kolay olanı okuyunuz ve namazı dosdoğru kılınız ve zekâtı veriniz ve Allah için güzelce ödünç vermekle ödünç veriniz ve nefsiniz için hayırdan ne takdim eder iseniz onu Allah indinde daha hayırlı ve mükâfaatça daha büyük olarak bulursunuz ve Allah’tan mağfiret isteyin, şüphe yok ki Allah gafûrdur, rahîmdir.",
         "hayrat_nesriyat": "(Habîbim, yâ Muhammed!) Şübhesiz Rabbin biliyor ki gerçekten sen, gecenin üçte ikisinden daha azı ve (bazen) yarısı ve (bazen de) üçte biri kadar kalkıyorsun (namaz kılıyorsun); berâberinde bulunanlardan (ashâbından) bir tâife de (böyle yapıyor).Hem geceyi ve gündüzü Allah takdîr eder. (O,) sizin bunu sayamayacağınızı (sürekli gece ibâdetine dayanamayacağınızı) bildi de sizi affetti (yapabildiğiniz kadarına ruhsat verdi); o hâlde Kur`ân`dan kolayınıza geleni okuyun (kolayınıza geldiği kadar gece namazı kılın)!(Hem Allah) bildi ki, içinizden hastalar olacak, bir başkaları yeryüzünde dolaşacaklar, Allah`ın fazlından (rızıklarını) arayacaklar, bir diğerleri de Allah yolunda savaşacaklar(cihâd edecekler)dir. O hâlde ondan kolayınıza geleni okuyun; ve namazı hakkıyla edâ edin, zekâtı verin ve Allah`a karzı hasen (güzel bir borç) ile borç verin!Hem kendiniz için hayır (ve hasenât)dan ne takdîm eder (hazırlar)sanız, Allah katında onu bulursunuz da, o (sizin için) daha hayırlı ve mükâfâtça daha büyüktür! Öyle ise Allah`dan mağfiret dileyin! Şübhesiz ki Allah, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
         "diyanet_vakfi": "(Resûlüm!) Senin, gecenin üçte ikisine yakın kısmını, (bazen) yarısını, (bazen de) üçte birini yatmadan (ibadetle) geçirdiğini ve beraberinde bulunanlardan bir topluluğun da (böyle yaptığını) Rabbin elbette biliyor. Gece ve gündüzü (içinde olup bitenleri iyiden iyiye) ölçüp biçen ancak Allah’tır. O sizin, bunu sayamayacağınızı bildiği için, sizi bağışladı. Artık, Kur’an’dan kolayınıza geleni okuyun. Allah bilmektedir ki, içinizde hastalar bulunacak, bir kısmınız Allah’ın lütfundan (rızık) aramak üzere yeryüzünde yol tepecekler, diğer bir kısmınız da Allah yolunda çarpışacaklardır. O halde Kur’an’dan kolayınıza geleni okuyun. Namazı kılın, zekâtı verin, Allah’a gönül hoşluğuyla ödünç verin. Kendiniz için önden (dünyada iken) ne iyilik hazırlarsanız Allah katında onu bulursunuz; hem de daha üstün ve mükâfatça daha büyük olmak üzere. Allah’tan mağfiret dileyin, şüphesiz Allah çok bağışlayıcı, çok esirgeyicidir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/073/020.mp3"
       }
     }
   ]

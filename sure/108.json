@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki, Biz sana Kevser’i verdik.",
         "hayrat_nesriyat": "(Habîbim, yâ Muhammed!) Şübhesiz ki biz sana Kevser`i verdik.",
         "diyanet_vakfi": "(1-3) (Resûlüm!) Kuşkusuz biz sana Kevser’i verdik. Şimdi sen Rabbine kulluk et ve kurban kes. Asıl sonu kesik olan, şüphesiz sana hınç besleyendir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/108/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "Rabbin için namaz kıl ve kurban kesiver.",
         "hayrat_nesriyat": "Öyleyse Rabbin için namaz kıl ve kurban kes!",
         "diyanet_vakfi": "(1-3) (Resûlüm!) Kuşkusuz biz sana Kevser’i verdik. Şimdi sen Rabbine kulluk et ve kurban kes. Asıl sonu kesik olan, şüphesiz sana hınç besleyendir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/108/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "Muhakkak ki o sana buğz edendir, (asıl) ebter (olan).",
         "hayrat_nesriyat": "Doğrusu asıl ebter (nesli kesik) olan, sana kin besleyendir.",
         "diyanet_vakfi": "(1-3) (Resûlüm!) Kuşkusuz biz sana Kevser’i verdik. Şimdi sen Rabbine kulluk et ve kurban kes. Asıl sonu kesik olan, şüphesiz sana hınç besleyendir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/108/003.mp3"
       }
     }
   ]

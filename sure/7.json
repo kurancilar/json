@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "Elif, Lâm, Mîm, Sâd.",
         "hayrat_nesriyat": "Elif, Lâm, Mîm, Sâd.",
         "diyanet_vakfi": "Elif. Lâm. Mîm. Sâd."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "Bu bir kitaptır ki, bununla korkutasın diye ve mü’minlere bir mev’ize olarak sana indirilmiştir.Bundan dolayı senin kalbinde sakın bir sıkıntı olmasın.",
         "hayrat_nesriyat": "(Bu,) kendisiyle (insanları) sakındırman ve mü`minlere nasîhat (vermen) için sana indirilen bir kitabdır; öyle ise ondan (onu tebliğden) dolayı gönlünde bir sıkıntı (yalanlanma korkusu) olmasın!",
         "diyanet_vakfi": "(Bu), kendisiyle insanları uyarman, inananlara öğüt vermen için sana indirilen bir kitaptır. Artık bu hususta kalbinde bir şüphe olmasın."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "Size Rabbinizden indirilmiş olana tâbi olunuz, ve O’nun gayrı dostlara tâbi olmayınız, siz pek az öğüt tutuyorsunuz.",
         "hayrat_nesriyat": "Rabbinizden size indirilene tâbi` olun ve O`ndan başka birtakım dostlara tâbi` olmayın! (Siz) ne kadar az ibret alıyorsunuz!",
         "diyanet_vakfi": "Rabbinizden size indirilene (Kur’an’a) uyun. O’nu bırakıp da başka dostların peşlerinden gitmeyin. Ne kadar da az öğüt alıyorsunuz!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "Bir nice ülkeyi helâk ettik ki, onlara azabımız gece yatarlarken veya gündüzün ortasında uyurlarken gelip çatmıştır.",
         "hayrat_nesriyat": "Hâlbuki nice şehirler var ki onları helâk ettik de azâbımız kendilerine geceleyin veya onlar (o memleketin halkı) kaylûlede (gündüz uykusunda) olan kimseler iken gelivermiştir.",
         "diyanet_vakfi": "Nice memleketler var ki biz onları helâk ettik. Azabımız onlara geceleyin yahut gündüz istirahat ederlerken geldi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "Onlara azabımız geldiği zaman ise onların sözleri, «Biz hakikaten zalim kimseler olmuş idik» demekten başka olmamıştır.",
         "hayrat_nesriyat": "Azâbımız onlara geldiğinde: `Gerçekten biz zâlimlerdik!` demelerinden başka çağırışları (ve yalvarışları) da olmadı.",
         "diyanet_vakfi": "Azabımız onlara geldiğinde çağırışları, «Biz gerçekten zalim kişilermişiz» demelerinden başka bir şey olmadı."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/005.mp3"
       }
     },
     {
@@ -70,6 +85,9 @@
         "omer_nasuhi_bilmen": "Sonra kendilerine peygamberler gönderilmiş olanlara mutlaka soracağız ve gönderilen peygamberlere de elbette soracağız.",
         "hayrat_nesriyat": "İşte kendilerine (peygamber) gönderilenlere (ne amel işlediklerini) mutlaka soracağız, (gönderilen) peygamberlere de (teblîğ edip etmediklerini) elbette soracağız!",
         "diyanet_vakfi": "Elbette kendilerine peygamber gönderilen kimseleri de, gönderilen peygamberleri de mutlaka sorguya çekeceğiz!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/006.mp3"
       }
     },
     {
@@ -82,6 +100,9 @@
         "omer_nasuhi_bilmen": "Sonra da onlara (yapmış olduklarını) bir bilgi ile elbette anlatacağız ve Biz (onlardan) gaibler olmuş değil idik.",
         "hayrat_nesriyat": "Artık (yaptıklarını) kendilerine bir ilim ile (bütün teferruâtıyla bilerek) mutlaka anlatacağız; çünki (biz, onlardan) gaib (habersiz) değildik.",
         "diyanet_vakfi": "Ve onlara (olup bitenleri) tam bir bilgi ile mutlaka anlatacağız. Biz, onlardan uzak değiliz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/007.mp3"
       }
     },
     {
@@ -94,6 +115,9 @@
         "omer_nasuhi_bilmen": "Vezin de o günde haktır. Artık her kimin terazileri ağır gelirse işte felâha erenler onlardır.",
         "hayrat_nesriyat": "(Amelleriniz için) hak tartı da o gündür. Artık kimlerin tartıları ağır gelirse, işte kurtuluşa erenler ancak onlardır.",
         "diyanet_vakfi": "O gün tartı haktır. Kimin (sevap) tartıları ağır gelirse, işte onlar kurtuluşa erenlerdir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/008.mp3"
       }
     },
     {
@@ -106,6 +130,9 @@
         "omer_nasuhi_bilmen": "Her kimin de terazileri hafif gelirse onlar da âyetlerimize zulüm etmiş olmaları sebebiyle nefislerini hüsrâna bırakmış kimselerdir.",
         "hayrat_nesriyat": "Kimlerin de tartıları hafif gelirse, işte onlar âyetlerimize (onları bilerek inkâr etmekle) zulmetmekte olduklarından dolayı, kendilerini hüsrâna uğratmış kimselerdir.",
         "diyanet_vakfi": "Kimin de tartıları hafif gelirse, işte onlar, âyetlerimize karşı haksızlık ettiklerinden dolayı kendilerini ziyana sokanlardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/009.mp3"
       }
     },
     {
@@ -118,6 +145,9 @@
         "omer_nasuhi_bilmen": "Andolsun ki, sizi yerde yerleştirdik ve size orada birçok maişet vasıtaları vücuda getirdik, siz ise pek az şükredersiniz.",
         "hayrat_nesriyat": "Celâlim hakkı için, size yeryüzünde imkân verdik (orada yerleştirdik) ve orada sizin için geçim vâsıtaları kıldık. (Siz ise) ne kadar az şükrediyorsunuz!",
         "diyanet_vakfi": "Doğrusu biz sizi yeryüzüne yerleştirdik ve orada size geçim vasıtaları verdik. Ne kadar da az şükrediyorsunuz!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/010.mp3"
       }
     },
     {
@@ -130,6 +160,9 @@
         "omer_nasuhi_bilmen": "Andolsun ki, sizi yarattık, sonra size suret verdik. Sonra da, «Âdem’e secde ediniz,» diye meleklere emrettik, derhal secde ettiler. Ancak iblis, o secde edenlerden olmadı.",
         "hayrat_nesriyat": "Ve and olsun ki sizi (babanız Âdem`i) yarattık, sonra size şekil verdik, sonra da meleklere: `Âdem`e secde edin!` buyurduk. Hemen secde ettiler. (Cinlerden olan) İblis hâriç! (O,) secde edenlerden olmadı.",
         "diyanet_vakfi": "Andolsun sizi yarattık, sonra size şekil verdik, sonra da meleklere, Âdem’e secde edin! diye emrettik. İblis’in dışındakiler secde ettiler. O secde edenlerden olmadı."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/011.mp3"
       }
     },
     {
@@ -142,6 +175,9 @@
         "omer_nasuhi_bilmen": "Buyurdu ki: «Sana emrettiğim zaman seni secde etmekten ne men etti?» Dedi ki: «Ben ondan hayırlıyım, beni ateşten yarattın, onu ise çamurdan yarattın.»",
         "hayrat_nesriyat": "(Allah, ona) şöyle buyurdu: `Sana emrettiğimde, secde etmekten seni men` eden nedir?` (İblis) dedi ki: `Ben ondan daha hayırlıyım. Beni ateşten yarattın, onu ise çamurdan yarattın!`",
         "diyanet_vakfi": "Allah buyurdu: Ben sana emretmişken seni secde etmekten alıkoyan nedir? (İblis): Ben ondan daha üstünüm. Çünkü beni ateşten yarattın, onu çamurdan yarattın, dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/012.mp3"
       }
     },
     {
@@ -154,6 +190,9 @@
         "omer_nasuhi_bilmen": "Buyurdu ki: «Artık oradan aşağı in, çünkü orada senin için böbürlenmek selâhiyyeti yoktur. Artık çık, şüphe yok ki, sen alçaklardansın.»",
         "hayrat_nesriyat": "(Allah şöyle) buyurdu: `Haydi hemen in oradan! Orada (Cennette) kibirlenmek haddine düşmez; haydi çık, çünki sen alçaklardansın!`",
         "diyanet_vakfi": "Allah: Öyle ise, «İn oradan!» Orada büyüklük taslamak senin haddin değildir. Çık! çünkü sen aşağılıklardansın! buyurdu."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/013.mp3"
       }
     },
     {
@@ -166,6 +205,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Bana ba’s olunacakları güne kadar mühlet ver.»",
         "hayrat_nesriyat": "(İblis) dedi: `Bana (insanların) diriltilecekleri güne kadar mühlet ver!`",
         "diyanet_vakfi": "İblis: Bana, (insanların) tekrar dirilecekleri güne kadar mühlet ver, dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/014.mp3"
       }
     },
     {
@@ -178,6 +220,9 @@
         "omer_nasuhi_bilmen": "Buyurdu ki: «Sen muhakkak mühlet verilmişlerdensin.»",
         "hayrat_nesriyat": "(Allah da) buyurdu ki: `(Haydi) doğrusu sen (o vakte kadar) mühlet verilenlerdensin!`",
         "diyanet_vakfi": "Allah: Haydi, sen mühlet verilenlerdensin, buyurdu."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/015.mp3"
       }
     },
     {
@@ -190,6 +235,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Sen beni azgınlığa uğrattığından dolayı ben de yemin ederim ki elbette onlar için senin dosdoğru yolun üzerinde oturacağım.»",
         "hayrat_nesriyat": "(İblis) dedi: `Öyle ise beni azdırmandan dolayı (ben de) mutlaka onlar(ı saptırmak) için, senin dosdoğru yoluna oturacağım!`",
         "diyanet_vakfi": "İblis dedi ki: Öyle ise beni azdırmana karşılık, and içerim ki, ben de onları saptırmak için senin doğru yolunun üstüne oturacağım."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/016.mp3"
       }
     },
     {
@@ -202,6 +250,9 @@
         "omer_nasuhi_bilmen": "«Sonra muhakkak ki, onların önlerinden, arkalarından, sağ taraflarından ve sol taraflarından geleceğim ve onların ekserisini şükrediciler bulmayacaksın.»",
         "hayrat_nesriyat": "`Sonra elbette onlara önlerinden ve arkalarından, sağlarından ve sollarından sokulacağım ve (sen) onların çoğunu şükredici kimseler bulmayacaksın!`",
         "diyanet_vakfi": "«Sonra elbette onlara önlerinden, arkalarından, sağlarından, sollarından sokulacağım ve sen, onların çoklarını şükredenlerden bulmayacaksın!» dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/017.mp3"
       }
     },
     {
@@ -214,6 +265,9 @@
         "omer_nasuhi_bilmen": "Buyurdu ki: «Haydi oradan hakir ve koğulmuş olarak çık. Andolsun ki onlardan her kim sana tâbi olursa, elbette cehennemi sizden, hepinizden dolduracağım.»",
         "hayrat_nesriyat": "(Allah, bunun üzerine:) `Yerilmiş ve kovulmuş olarak oradan (Cennetten) çık! And olsun ki onlardan kim sana uyarsa, Cehennemi sizin hepinizle mutlaka dolduracağım!` buyurdu.",
         "diyanet_vakfi": "Allah buyurdu: Haydi, yerilmiş ve kovulmuş olarak oradan çık! Andolsun ki, onlardan kim sana uyarsa, sizin hepinizi cehenneme dolduracağım!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/018.mp3"
       }
     },
     {
@@ -226,6 +280,9 @@
         "omer_nasuhi_bilmen": "«Ve ey Âdem! Sen ve eşin cennette ikamet ediniz, dilediğiniz yerden yiyiniz ve şu ağaca yaklaşmayınız, sonra ikiniz de zalimlerden olursunuz.»",
         "hayrat_nesriyat": "`Sen ise, ey Âdem, eşinle beraber Cennette yerleşin. İkiniz de istediğiniz yerden yiyip için. Ama şu ağaca yaklaşmayın; sonra kendinize yazık edersiniz.`",
         "diyanet_vakfi": "(Allah buyurdu ki): Ey Âdem! Sen ve eşin cennette yerleşip dilediğiniz yerden yeyin. Ancak şu ağaca yaklaşmayın! Sonra zalimlerden olursunuz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/019.mp3"
       }
     },
     {
@@ -238,6 +295,9 @@
         "omer_nasuhi_bilmen": "Sonra şeytan, ikisine de onların kendilerinden örtülmüş olan çirkin yerlerini onlara açıvermesi için vesvese vermeğe başladı. Ve «Rabbiniz sizi bu ağaçtan nehyetmedi, ancak iki melek olacağınız veya ebedî kalacaklardan bulunacağınız için nehyetti,» dedi.",
         "hayrat_nesriyat": "Derken şeytan, (o ikisini, netîcelerinden biri de) onlardan örtülmüş avret yerlerini kendilerine göstermek (olan hatâya sevk etmek) için, onlara vesvese verdi ve: `Rabbiniz, ancak melek olmayasınız veya (Cennette) ebedî kalıcılardan olmayasınız diye sizi bu ağaçtan men` etti` dedi.",
         "diyanet_vakfi": "Derken şeytan, birbirine kapalı ayıp yerlerini kendilerine göstermek için onlara vesvese verdi ve: Rabbiniz size bu ağacı sırf melek olursunuz veya ebedî kalanlardan olursunuz diye yasakladı, dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/020.mp3"
       }
     },
     {
@@ -250,6 +310,9 @@
         "omer_nasuhi_bilmen": "Ve onlara, «Ben muhakkak sizin için elbette hayırhâh olanlardanım.» diye yemin etti.",
         "hayrat_nesriyat": "Ve onlara: `Doğrusu ben size gerçekten (iyiliğiniz için) nasîhat edenlerdenim` diye de yemîn etti.",
         "diyanet_vakfi": "Ve onlara: Ben gerçekten size öğüt verenlerdenim, diye yemin etti."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/021.mp3"
       }
     },
     {
@@ -262,6 +325,9 @@
         "omer_nasuhi_bilmen": "Artık onları bâtıl sözle aldattı. Vaktâ ki, ağaçtan tadıverdiler. O kapalı avret yerleri kendilerine görünmeğe başladı. Onların üzerine cennetin yapraklarından kat kat örtüverdiler. Ve Rableri ise onlara nidâ etti ki: «Sizi bu ağaçtan nehyetmiş değil miydim ve size şüphe yok ki şeytan, size apaçık bir düşmandır dememiş mi idim?»",
         "hayrat_nesriyat": "Böylece o ikisini aldatarak (o ağaçtan yemeye) tenezzül ettirdi. Derken ağacı(n meyvesini) tattıklarında, avret yerleri kendilerine göründü de Cennet yapraklarından üzerlerini örtmeye başladılar. Bunun üzerine Rableri o ikisine: `Size bu ağacı yasaklamadım mı ve şübhesiz şeytan size apaçık bir düşmandır, demedim mi?` diye nidâ etti.",
         "diyanet_vakfi": "Böylece onları hile ile aldattı. Ağacın meyvesini tattıklarında ayıp yerleri kendilerine göründü. Ve cennet yapraklarından üzerlerini örtmeye başladılar. Rableri onlara: Ben size o ağacı yasaklamadım mı ve şeytan size apaçık bir düşmandır, demedim mi? diye nidâ etti."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/022.mp3"
       }
     },
     {
@@ -274,6 +340,9 @@
         "omer_nasuhi_bilmen": "Dediler ki: «Ey Rabbimiz! Biz kendi nefislerimize zulmettik, ve eğer bizi yarlığamaz isen ve merhamet buyurmaz isen elbette biz hüsrâna uğmışlardan oluruz.»",
         "hayrat_nesriyat": "(Âdem ile Havvâ) dediler ki: `Rabbimiz! (Biz) kendimize zulmettik; artık bize mağfiret etmez ve bize merhamet etmezsen, mutlaka hüsrâna uğrayanlardan oluruz.`",
         "diyanet_vakfi": "(Âdem ile eşi) dediler ki: Ey Rabbimiz! Biz kendimize zulmettik. Eğer bizi bağışlamaz ve bize acımazsan mutlaka ziyan edenlerden oluruz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/023.mp3"
       }
     },
     {
@@ -286,6 +355,9 @@
         "omer_nasuhi_bilmen": "Buyurdu ki: «Biriniz birinize düşman olarak (yeryüzüne) ininiz. Sizin için yerde bir zamana kadar bir ikametgâh, bir temettü vardır.»",
         "hayrat_nesriyat": "(Allah, onlara şöyle) buyurdu: `Birbirinize düşman olarak inin! Sizin için yeryüzünde bir zamâna kadar bir yerleşme ve bir faydalanma vardır.`",
         "diyanet_vakfi": "Allah: Birbirinize düşman olarak inin! Sizin için yeryüzünde bir süreye kadar yerleşme ve faydalanma vardır, buyurdu."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/024.mp3"
       }
     },
     {
@@ -298,6 +370,9 @@
         "omer_nasuhi_bilmen": "Buyurdu ki: «Orada yaşayacaksınız, orada öleceksiniz ve yine oradan çıkarılacaksınızdır.»",
         "hayrat_nesriyat": "`Orada yaşayacaksınız, orada öleceksiniz ve oradan (diriltilip) çıkarılacaksınız!` buyurdu.",
         "diyanet_vakfi": "«Orada yaşayacaksınız, orada öleceksiniz ve oradan (diriltilip) çıkarılacaksınız» dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/025.mp3"
       }
     },
     {
@@ -310,6 +385,9 @@
         "omer_nasuhi_bilmen": "Ey ademoğulları! Size çirkin yerlerinizi örtecek bir örtü ve bir de bir ziynet libası indirdik, takvâ libası ise o daha hayırlıdır. Bu, işte Allah Teâlâ’nın âyetlerindendir, umulur ki, bunu düşünürler.",
         "hayrat_nesriyat": "Ey Âdemoğulları! Size avret yerlerinizi örtecek bir elbise ile (giyinip süsleneceğiniz) bir süs elbisesi indirdik. Bir de takvâ elbisesi ki, bu (hepsinden) daha hayırlıdır. Bu (maddî ve ma`nevî elbiseler), Allah`ın âyetlerindendir; tâ ki ibret alsınlar.",
         "diyanet_vakfi": "Ey Âdem oğulları! Size ayıp yerlerinizi örtecek giysi, süslenecek elbise yarattık. Takvâ elbisesi... İşte o daha hayırlıdır. Bunlar Allah’ın âyetlerindendir. Belki düşünüp öğüt alırlar (diye onları indirdi)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/026.mp3"
       }
     },
     {
@@ -322,6 +400,9 @@
         "omer_nasuhi_bilmen": "Ey ademoğulları! Sizi de şeytan bir fitneye dişürmesin, nasıl ki ana ve babanızı, onların çirkin yerlerini göstermek için onların örtülerini çekip atarak kendilerini cennetten çıkardı. Şüphe yok ki, o şeytan ve onun gürûhu sizi, sizin onları göremeyeceğiniz bir taraftan görürler. Muhakkak ki Biz şeytanları, imân etmeyen kimseler için dostlar kılmıştık.",
         "hayrat_nesriyat": "Ey Âdemoğulları! Şeytan, ana-babanızı (kandırarak) avret yerlerini kendilerine göstermek için onlardan elbiselerini soyarak Cennetten çıkarttığı (bu netîceyi verecek hatâya sevk ettiği) gibi, sakın sizi de aldatmasın! Çünki o ve kabîlesi sizi, kendilerini göremeyeceğiniz cihetten görürler. Şübhesiz ki biz, şeytanları îmân etmeyenlere dostlar kıldık.",
         "diyanet_vakfi": "Ey Âdem oğulları! Şeytan, ana-babanızı, ayıp yerlerini kendilerine göstermek için elbiselerini soyarak cennetten çıkardığı gibi sizi de aldatmasın. Çünkü o ve yandaşları, sizin onları göremeyeceğiniz yerden sizi görürler. Şüphesiz biz şeytanları, inanmayanların dostları kıldık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/027.mp3"
       }
     },
     {
@@ -334,6 +415,9 @@
         "omer_nasuhi_bilmen": "Ve onlar bir yaramazlık yaptıkları zaman, «Biz babalarımızı da bunun üzerinde bulduk, ve Allah bununla bize emretmiştir,» derler. De ki: «Şüphe yok Allah Teâlâ fahiş şeyler ile emretmez. Siz bilmediğiniz şeyleri Allah Teâlâ’ya karşı söyler misiniz?»",
         "hayrat_nesriyat": "Hem (o müşrikler) çirkin bir iş yaptıkları zaman: `(Biz) babalarımızı bunun üzerinde bulduk, Allah da bize bunu emretti` derler. De ki: `Şübhesiz Allah, çirkin işleri emretmez! Allah`a karşı (aslâ) bilemeyeceğiniz şeyleri mi söylüyorsunuz?`",
         "diyanet_vakfi": "Onlar bir kötülük yaptıkları zaman: «Babalarımızı bu yolda bulduk. Allah da bize bunu emretti» derler. De ki: Allah kötülüğü emretmez. Allah’a karşı bilmediğiniz şeyleri mi söylüyorsunuz?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/028.mp3"
       }
     },
     {
@@ -346,6 +430,9 @@
         "omer_nasuhi_bilmen": "De ki: «Benim Rabbim adâletle emretmiştir. Ve her secde yerinde yüzlerinizi doğru tutunuz ve O’na dinde muhlis kimseler olarak ibadette bulununuz. Sizi iptidaen yarattığı gibi, yine O’na döneceksinizdir.»",
         "hayrat_nesriyat": "De ki: `Rabbim adâleti emretti!` Hem her namaz vaktinde (ve secde yerlerinde)yüzlerinizi (ibâdete) çevirin ve dinde, (yalnız) O`nun (rızâsı) için, ihlâslı kimseler olarak O`na ibâdet edin! Sizi ilk önce (O) yarattığı gibi, (yine O`na) döneceksiniz.",
         "diyanet_vakfi": "De ki: Rabbim adaleti emretti. Her secde ettiğinizde yüzlerinizi O’na çevirin ve dini yalnız Allah’a has kılarak O’na yalvarın. İlkin sizi yarattığı gibi (yine O’na) döneceksiniz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/029.mp3"
       }
     },
     {
@@ -358,6 +445,9 @@
         "omer_nasuhi_bilmen": "Bir cemaate hidâyet etti, bir cemaatin üzerlerine de dalâlet hak oldu. Çünkü onlar Allah Teâlâ’yı (O’na ubûdiyeti) bırakıp şeytanları dostlar ittihaz ettiler. Ve zannederler ki, onlar hidâyete ermişlerdir.",
         "hayrat_nesriyat": "(İki grup halinde:) bir grubu hidayet buyurmuş, diğer grup ise dalâlete müstahak olmuş olarak. Dalâlette olanlar, Allah`ı bırakıp şeytanları yoldaş, dost ve işlerine vekil edinmişlerdir; bir de kendilerini doğruya yönlendirilmiş zannetmektedirler.",
         "diyanet_vakfi": "O, bir gurubu doğru yola iletti, bir guruba da sapıklık müstehak oldu. Çünkü onlar Allah’ı bırakıp şeytanları kendilerine dost edindiler. Böyle iken kendilerinin doğru yolda olduklarını sanıyorlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/030.mp3"
       }
     },
     {
@@ -370,6 +460,9 @@
         "omer_nasuhi_bilmen": "Ey âdemoğulları! Her mescit yerinde ziynetinizi alıveriniz ve yiyiniz ve içiniz, israf da etmeyiniz. Şüphe yok ki O, israf edenleri sevmez.",
         "hayrat_nesriyat": "Ey Âdemoğulları! Her namaz yerinde (ve vaktinde) ziynetinizi alın(namazlarınızda temiz elbiselerinizi giyinin), yiyin, için, fakat isrâf etmeyin! Çünki O, isrâf edenleri sevmez.",
         "diyanet_vakfi": "Ey Âdem oğulları! Her secde edişinizde güzel elbiselerinizi giyin; yeyin, için, fakat israf etmeyin; çünkü Allah israf edenleri sevmez."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/031.mp3"
       }
     },
     {
@@ -382,6 +475,9 @@
         "omer_nasuhi_bilmen": "De ki: «Allah Teâlâ kulları için çıkarmış olduğu ziyneti ve rızıktan tîyb olanları kim haram kılmıştır?» De ki: «O, dünya hayatında imân edenler içindir, Kıyamet gününde ise yalnız onlara mahsustur.» İşte âyetleri, bilir kişiler olan bir kavim için böyle mufassalan beyan ederiz.",
         "hayrat_nesriyat": "De ki: `Allah`ın, kulları için çıkardığı ziyneti ve temiz rızıkları kim haram kıldı?` De ki: `Onlar, dünya hayâtında îmân edenler içindir (kâfirler de bu vesîle ile yararlanırlar); kıyâmet gününde (ise) hâlis olarak (yalnız mü`minlere mahsustur).` İşte (bunların kıymetini) bilecek bir kavim için âyetleri böyle iyice açıklıyoruz.",
         "diyanet_vakfi": "De ki: Allah’ın kulları için yarattığı süsü ve temiz rızıkları kim haram kıldı? De ki: Onlar, dünya hayatında, özellikle kıyamet gününde müminlerindir. İşte bilen bir topluluk için âyetleri böyle açıklıyoruz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/032.mp3"
       }
     },
     {
@@ -394,6 +490,9 @@
         "omer_nasuhi_bilmen": "De ki: «Rabbim ancak fahiş şeyleri, onlardan zahir olanı da, gizlice yapılanı da ve her türlü günahı ve haksız yere tecavüzü ve şerik koşmaya dair hiçbir bürhan indirmemiş iken Allah Teâlâ’ya şerik ittihaz etmeyi ve bilmediğiniz şeyleri Allah Teâlâ’ya karşı söylemenizi haram kılmıştır.»",
         "hayrat_nesriyat": "De ki: `Rabbim, ancak (zinâ gibi) çirkin işleri, onların açık olanını ve gizli olanını,(her türlü) günâhı, haksız yere haddi aşmayı, hakkında hiçbir delil indirmediği bir şeyi(asılsız olarak) Allah`a şirk koşmanızı ve Allah`a karşı (aslâ) bilemeyeceğiniz şeyleri söylemenizi haram kıldı!`",
         "diyanet_vakfi": "De ki: Rabbim ancak açık ve gizli kötülükleri, günahı ve haksız yere sınırı aşmayı, hakkında hiçbir delil indirmediği bir şeyi, Allah’a ortak koşmanızı ve Allah hakkında bilmediğiniz şeyleri söylemenizi haram kılmıştır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/033.mp3"
       }
     },
     {
@@ -406,6 +505,9 @@
         "omer_nasuhi_bilmen": "Her ümmet için bir ecel vardır. Artık onların ecelleri geldiği zaman ne bir saat geri bırakabilirler, ve ne de öne alabilirler.",
         "hayrat_nesriyat": "Ve her ümmetin (büyük-küçük her topluluğun) bir eceli vardır. Artık ecelleri geldiği zaman, ne bir an geri kalabilirler, ne de öne geçebilirler!",
         "diyanet_vakfi": "Her ümmetin bir eceli vardır. Ecelleri gelince ne bir an geri kalırlar ne de bir an ileri gidebilirler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/034.mp3"
       }
     },
     {
@@ -418,6 +520,9 @@
         "omer_nasuhi_bilmen": "Ey ademoğulları! Size içinizden peygamberler gelir de size karşı benim âyetlerimi beyan edecek olunca kim onlara muhalefetten sakınır ve ıslah-ı halde bulunursa artık onlar için bir korku yoktur ve onlar mahzun da olmayacaklardır.",
         "hayrat_nesriyat": "Ey Âdemoğulları! Kendinize içinizden âyetlerimi anlatan peygamberler size gelir de, kim (onlara karşı gelmekten) sakınıp (hâlini) ıslâh ederse, artık onlara hiçbir korku yoktur ve onlar mahzun (da) olmazlar.",
         "diyanet_vakfi": "Ey Âdem oğulları! Size kendi içinizden âyetlerimi anlatacak peygamberler gelir de kim (onlara karşı gelmekten) sakınır ve kendini ıslah ederse, onlara korku yoktur ve onlar üzülmeyeceklerdir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/035.mp3"
       }
     },
     {
@@ -430,6 +535,9 @@
         "omer_nasuhi_bilmen": "Ve o kimseler ki, Bizim âyetlerimizi tekzîp ettiler ve onlardan kibirlendiler, işte onlar, ateşin sahipleridir. Onlar o ateşte ebedî olarak kalacaklardır.",
         "hayrat_nesriyat": "Âyetlerimizi yalanlayıp onlara karşı büyüklük taslayanlara gelince, işte onlar ateş ehlidirler! Onlar orada ebedî olarak kalıcıdırlar.",
         "diyanet_vakfi": "Âyetlerimizi yalanlayanlar ve büyüklenip onlardan yüz çevirenler var ya, işte onlar ateş ehlidir. Onlar orada ebedî kalacaklardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/036.mp3"
       }
     },
     {
@@ -442,6 +550,9 @@
         "omer_nasuhi_bilmen": "Artık daha zalim kimdir o kimseden ki, yalan yere Allah Teâlâ’ya iftirada bulunmuş veya O’nun âyetlerini tekzîp etmiş olur. Onlar yok mu, onlara kitaptan nâsipler erişecektir. Nihâyet onlara elçi meleklerimiz gelip onların canlarını alırlarken derler ki: «Allah’tan başka kendilerine tapındıklarınız nerede?» Onlar da diyeceklerdir ki: «Taptıklarımız bizi bırakıp kayboldular». Ve onlar kendi nefisleri aleyhine kendilerinin şüphesiz kâfirler bulunmuş olduklarını itiraf ve şehâdette bulunacaklardır.",
         "hayrat_nesriyat": "O hâlde Allah`a bir yalan iftirâ eden veya âyetlerini yalanlayandan daha zâlim kim olabilir? İşte onlar yok mu, kendilerine kitabdan (mukadderâtlarından) olan nasibleri erişecektir. Nihâyet canlarını almak üzere elçilerimiz (ölüm melekleri) onlara geldikleri zaman derler ki: `Allah`ı bırakıp da tapmakta olduğunuz şeyler nerede?` (Onlar ise:)`Bizden kaybolup gittiler!` derler ve gerçekten kendilerinin kâfir kimseler olduklarına dâir kendi aleyhlerine şâhidlik ederler.",
         "diyanet_vakfi": "Allah’a iftira eden ya da O’nun âyetlerini yalanlayandan daha zalim kimdir! Onların kitaptaki nasipleri kendilerine erişecektir. Sonunda elçilerimiz (melekler) gelip canlarını alırken «Allah’ı bırakıp da tapmakta olduğunuz tanrılar nerede?» derler. (Onlar da) «Bizden sıvışıp gittiler» derler. Ve kâfir olduklarına dair kendi aleyhlerine şahitlik ederler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/037.mp3"
       }
     },
     {
@@ -454,6 +565,9 @@
         "omer_nasuhi_bilmen": "Buyurur ki: «Siz de sizden evvel ins ve cinden gelip geçmiş olan ümmetlerin arasında cehenneme giriniz.» Her ne zaman bir ümmet girdikçe hemşiresine (kendi dindaşına) lânet eder. Nihâyet hepsi oraya girip biribirine iltihak edince sonrakileri öndekileri için diyecektir ki: «Ey Rabbimiz! onlar bizi sapıttılar, artık onlara ateşten iki kat azap ver.» (Cenâb-ı Hak da) Buyuracak ki: «Hepinize kat kat azap vardır. Lâkin siz bilmezsiniz.»",
         "hayrat_nesriyat": "(Allah onlara:) `Sizden önce gelip geçmiş cin ve insan ümmetleri arasında (siz de)ateşe girin!` buyurur. Ne zaman (Cehennem`e) bir ümmet girse, kendi (din) kardeşine(yoldaşına) lâ`net eder. Nihâyet hep berâber orada birbiri ardınca toplandıkları zaman, sonrakiler öncekiler için: `Rabbimiz! Bunlar bizi dalâlete düşürdüler; bu yüzden onlara ateşten kat kat azab ver!` derler. (Allah da:) `(Siz de dâhil) herkes için kat kat (azab)vardır; fakat siz (kimin ne azab çekeceğini) bilmezsiniz!` buyurur.",
         "diyanet_vakfi": "Allah buyuracak ki: «Sizden önce geçmiş cin ve insan toplulukları arasında siz de ateşe girin!» Her ümmet girdikçe yoldaşlarına lânet edecekler. Hepsi birbiri ardından orada (cehennemde) toplanınca, sonrakiler öncekiler için, «Ey Rabbimiz! Bizi işte bunlar saptırdılar! Onun için onlara ateşten bir kat daha fazla azap ver!» diyecekler. Allah da: Zaten herkes için bir kat daha fazla azap vardır, fakat siz bilmezsiniz, diyecektir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/038.mp3"
       }
     },
     {
@@ -466,6 +580,9 @@
         "omer_nasuhi_bilmen": "Öndekiler de, sonrakilere diyeceklerdir ki: «Sizin için bizim üzerimize bir fazl (ve rüçhan) yoktur. Binaenaleyh (siz de) kazanır olduğunuz şey sebebiyle azabı tadınız.»",
         "hayrat_nesriyat": "Öncekiler ise sonrakilere: `Hâlbuki (bu mevzu`da) sizin bizim üzerimize hiç bir üstünlüğünüz olmadı, öyle ise kazanageldiğiniz (günahlar) yüzünden azâbı(nızı) tadın!` derler.",
         "diyanet_vakfi": "Öncekiler de sonrakilere derler ki: Sizin bize bir üstünlüğünüz yok. O halde siz de yaptıklarınıza karşılık azabı tadın!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/039.mp3"
       }
     },
     {
@@ -478,6 +595,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok o kimseler ki, âyetlerimizi tekzîp ettiler ve onlara karşı tekebbürde bulundular. Onlar için gök kapıları açılmaz ve deve iğnenin deliğine girinceye kadar cennete giremiyeceklerdir. Ve işte mücrimleri böyle cezalandırırız.",
         "hayrat_nesriyat": "Şübhesiz ki âyetlerimizi yalanlayıp, ona karşı kibirlenenler yok mu, onlara gök kapıları açılmaz ve deve, iğne deliğine girinceye kadar (onlar) Cennete giremezler. İşte suçluları (kâfirleri) ise, böyle cezâlandırırız!",
         "diyanet_vakfi": "Bizim âyetlerimizi yalanlayıp da onlara karşı kibirlenmek isteyenler var ya, işte onlara gök kapıları açılmayacak ve onlar, deve iğne deliğine girinceye kadar cennete giremiyeceklerdir! Suçluları işte böyle cezalandırırız!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/040.mp3"
       }
     },
     {
@@ -490,6 +610,9 @@
         "omer_nasuhi_bilmen": "Onlar için cehennemden bir döşek ve üstlerinden sargılar vardır. Ve işte zalimleri böyle cezalandırırız.",
         "hayrat_nesriyat": "Onlar için Cehennemden bir döşek ve üstlerinden (de yakan ateşten) örtüler vardır! İşte zâlimleri (kâfirleri) böyle cezâlandırırız!",
         "diyanet_vakfi": "Onlar için cehennem ateşinden döşekler, üstlerine de örtüler vardır. İşte zalimleri böyle cezalandırırız!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/041.mp3"
       }
     },
     {
@@ -502,6 +625,9 @@
         "omer_nasuhi_bilmen": "O kimseler ki imân ettiler ve iyi amellerde bulundular. Biz ise hiçbir nefsi, iktidarının fevkinde birşey ile mükellef kılmayız. İşte onlar cennet sahipleridir. Onlar orada ebedî kalıcılardır.",
         "hayrat_nesriyat": "Îmân edip sâlih ameller işleyenler, ki (biz) kimseyi gücünün yetmeyeceği (bir şey)ile mükellef tutmayız, işte onlar Cennet ehlidirler. Onlar orada ebedî olarak kalıcıdırlar.",
         "diyanet_vakfi": "İnanıp da iyi işler yapanlara gelince -ki hiç kimseye gücünün üstünde bir vazife yüklemeyiz- işte onlar, cennet ehlidir. Orada onlar ebedî kalacaklar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/042.mp3"
       }
     },
     {
@@ -514,6 +640,9 @@
         "omer_nasuhi_bilmen": "Ve Biz onların göğüslerinden kinden her ne var ise hepsini söküp atmışızdır. Onların altlarından ırmaklar akar ve derler ki: «O Allah Teâlâ’ya hamdolsun ki bizi hidâyetle buna kavuşturdu. Eğer Allah Teâlâ bize hidâyet etmeseydi biz kendi kendimize hidâyete eremezdik. Muhakkak ki, Rabbimizin peygamberleri hak ile geldiler.» Ve onlara, «İşte bu cennettir ki siz buna (sâlih) amelleriniz sebebiyle varis oldunuz,» diye nidâ olunacaktır.",
         "hayrat_nesriyat": "Hem onların (o mü`minlerin) sînelerinde kin (ve emsâli kötü hisler)den ne varsa(hepsini) çekip çıkarırız; (o Cennetlerde onların) altlarından ır mak lar akar. (Onlar da:)`Böylece bi zi buna (bu mükâ fâ ta vesîle olan amellere) hidâyet eden Allah`a hamd olsun; hâlbuki Allah bizi hidâyete erdirme sey di, doğru yolu bulamazdık. Gerçekten Rabbimi zin peygamberleri (bize) hakkı getirmişler dir!` derler. Derken (onlar:) `İşte size Cennet! İşlemekte olduğunuz (sâlih ameller)den dolayı ona vâris kılındınız!` diye nidâ olunurlar.",
         "diyanet_vakfi": "(Cennette) onların altlarından ırmaklar akarken, kalplerinde kinden ne varsa hepsini çıkarıp atarız. Ve onlar derler ki: «Hidayetiyle bizi (bu nimete) kavuşturan Allah’a hamdolsun! Allah bizi doğru yola iletmeseydi kendiliğimizden doğru yolu bulacak değildik. Hakikaten Rabbimizin elçileri gerçeği getirmişler.» Onlara: İşte size cennet; yapmış olduğunuz iyi amellere karşılık ona vâris kılındınız diye seslenilir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/043.mp3"
       }
     },
     {
@@ -526,6 +655,9 @@
         "omer_nasuhi_bilmen": "Ve Cennet ashâbı, Cehennem ehline nidâ edip: «Rabbimizin bize vaad ettiğini biz şüphe yok ki hak bulduk, siz de Rabbinizin vaad ettiğini hak buldunuz mu?» diye soracaklar. Onlar da, «Evet» diyecekler. Derken aralarında bir münâdi: «Allah Teâlâ’nın lâneti zalimlerin üzerinedir» diye nidâ etmiş olacaktır.",
         "hayrat_nesriyat": "Nihâyet Cennet ehli, Cehennem ehline: `(Biz) gerçekten Rabbimizin bize va`d ettiğini hak olarak bulduk; artık (siz de) Rabbinizin size va`d ettiğini hak olarak buldunuz mu?` diye seslenirler. (Onlar da:) `Evet!` derler. Bunun üzerine bir münâdî aralarında: `Allah`ın lâ`neti zâlimlerin üzerine olsun!` diye nidâ eder.",
         "diyanet_vakfi": "Cennet ehli cehennem ehline: Biz Rabbimizin bize vadettiğini gerçek bulduk, siz de Rabbinizin size vadettiğini gerçek buldunuz mu? diye seslenir. «Evet!» derler. Ve aralarından bir çağrıcı, Allah’ın lâneti zalimlerin üzerine olsun! diye bağırır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/044.mp3"
       }
     },
     {
@@ -538,6 +670,9 @@
         "omer_nasuhi_bilmen": "«Öyle zalimler ki, Allah’ın yolundan men ederlerdi. Ve o yolun eğri büğrü olmasını isterlerdi. Ve onlar ahireti münkir kimseler idi.»",
         "hayrat_nesriyat": "`Onlar ki, (insanları) Allah yolundan men` ederler ve ona (Allah`ın dînine) bir eğrilik ararlardı. Ve onlar âhireti inkâr ediciydiler.`",
         "diyanet_vakfi": "Onlar, Allah yolundan alıkoyan ve onu eğip bükmek isteyen zalimlerdir. Onlar ahireti de inkâr edenlerdir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/045.mp3"
       }
     },
     {
@@ -550,6 +685,9 @@
         "omer_nasuhi_bilmen": "Ve onların arasında bir perde vardır. Ve A’râf üzerinde de birtakım rical vardır ki hepsini de alâmetleriyle tanır. Ashâb-ı cennete, «Selâmün Aleyküm» diye nidâ ederler. Ve bunlar ümitvar oldukları halde henüz cennete girmemiş bulunurlar.",
         "hayrat_nesriyat": "Hem iki taraf (Cennet ve Cehennem ehli) arasında (aslâ aşamayacakları surdan)bir perde vardır. A`râf üzerinde (bu sûrun yüksek yerlerinde) ise, herkesi sîmâlarından tanıyan adamlar vardır ki, Cennet ehline: `Selâmün Aleyküm! (Allah`ın selâmı üzerinize olsun!)` diye nidâ ederler; fakat onlar (Cennete girmeyi) çok arzu ediyor oldukları hâlde(henüz) oraya girmemişlerdir.",
         "diyanet_vakfi": "İki taraf (cennetlikler ve cehennemlikler) arasında bir perde ve A’râf üzerinde de herkesi simalarından tanıyan adamlar vardır ki, bunlar henüz cennete giremedikleri halde (girmeyi) umarak cennet ehline: «Selâm size!» diye seslenirler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/046.mp3"
       }
     },
     {
@@ -562,6 +700,9 @@
         "omer_nasuhi_bilmen": "Ve onların gözleri ateş ehli tarafına çevrildiği zaman da, «Rabbimiz! Bizi zalimler gürûhu ile beraber kılma!» derler.",
         "hayrat_nesriyat": "(O A`râfdaki insanların) gözleri ateş ehli tarafına çevrildiği zaman ise: `Rabbimiz! Bizi zâlimler gürûhuyla berâber kılma!` derler.",
         "diyanet_vakfi": "Gözleri cehennem ehli tarafına döndürülünce de: Ey Rabbimiz! Bizi zalimler topluluğu ile beraber bulundurma! derler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/047.mp3"
       }
     },
     {
@@ -574,6 +715,9 @@
         "omer_nasuhi_bilmen": "Ve ashâb-ı A’râf simalarıyla tanıdıkları birtakım kişilere de nidâ ederek derler ki: «Size ne cemiyetiniz ve ne de yaptığınız tekebbür bir faide vermiş olmadı.»",
         "hayrat_nesriyat": "A`râf ehli, kendilerini sîmâlarından tanıdıkları (Cehennem ehli) birtakım adamlara da seslenerek derler ki: `(Mal ve tarafdar) toplamanız ve büyüklük taslamakta olmanız(bugün) size bir fayda vermedi!`",
         "diyanet_vakfi": "(Yine) A’râf ehli simalarından tanıdıkları birtakım adamlara seslenerek derler ki: «Ne çokluğunuz ne de taslamakta olduğunuz büyüklük size hiçbir yarar sağlamadı."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/048.mp3"
       }
     },
     {
@@ -586,6 +730,9 @@
         "omer_nasuhi_bilmen": "Ya o kimseler mi idi ki, «Allah onları rahmetine nâil etmez,» diye yemin ediyordunuz! Cennete giriniz, size ne bir korku vardır ve ne de siz mahzun olacaksınız.",
         "hayrat_nesriyat": "(Yine A`râf ehli:) `Allah, onları hiçbir rahmete eriştirmeyecek, diye yemînettiğiniz (hor gördüğünüz) kimseler bunlar mı?` (derler). (Sonra A`râf ehline de şöyle denilir:) `Cennete girin! Size hiçbir korku yoktur ve siz mahzûn olmayacaksınız!`",
         "diyanet_vakfi": "Allah’ın, kendilerini hiçbir rahmete erdirmeyeceğine dair yemin ettiğiniz kimseler bunlar mı?» (ve cennet ehline dönerek): «Girin cennete; artık size korku yoktur ve siz üzülecek de değilsiniz» (derler)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/049.mp3"
       }
     },
     {
@@ -598,6 +745,9 @@
         "omer_nasuhi_bilmen": "Ve nâr ehli, ashâb-ı cennete nidâ ederek: «Suyunuzdan veya Allah’ın sizi merzûk ettiği şeylerden bizim üzerimize döküveriniz» diye yalvaracaklar. Onlar da: «Şüphe yok ki, Allah Teâlâ bunları kâfirler üzerine haram kılmıştır,» diyecekler.",
         "hayrat_nesriyat": "Ateş ehli ise Cennet ehline: `Üzerimize biraz su veya Allah`ın sizi rızıklandırdığı şeylerden dökün!` diye bağırırlar. (Onlar da) derler ki: `Şübhesiz ki Allah, (bugün artık)bunları kâfirlere haram kıldı!`",
         "diyanet_vakfi": "Cehennem ehli, cennet ehline: Suyunuzdan veya Allah’ın size verdiği rızıktan biraz da bize verin! diye seslenirler. Onlar da: Allah bunları kâfirlere haram kılmıştır, derler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/050.mp3"
       }
     },
     {
@@ -610,6 +760,9 @@
         "omer_nasuhi_bilmen": "O kimseler ki, dinlerini bir eğlence ve bir oyun ittihaz ettiler ve onları dünya hayatı aldatmış oldu. Artık onlar bu günlere yetişeceklerini unuttukları gibi ve Bizim âyetlerimizi inkar eder oldukları gibi Biz de onları bugün unutacağız.",
         "hayrat_nesriyat": "Onlar ki, dinlerini bir eğlence ve bir oyun edindiler ve dünya hayâtı onları aldattı!(Onlar) bu günleriyle karşılaşmayı unuttukları ve âyetlerimizi bilerek inkâr etmekte oldukları gibi, artık bugün (biz de) onları unutacağız!",
         "diyanet_vakfi": "O kâfirler ki, dinlerini bir eğlence ve oyun edindiler de dünya hayatı onları aldattı. Onlar, bu günleri ile karşılaşacaklarını unuttukları ve âyetlerimizi bile bile inkâr ettikleri gibi biz de bugün onları unuturuz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/051.mp3"
       }
     },
     {
@@ -622,6 +775,9 @@
         "omer_nasuhi_bilmen": "Muhakkak onlara bir kitap getirdik. İşte onu imân edecek bir kavim için bir hüda ve rahmet olmak için tam bir ilim üzere mufassalan irad ettik.",
         "hayrat_nesriyat": "Şübhesiz (biz) onlara bir Kitab da getirdik ki, îmân edecek bir topluluğa, bir hidâyet ve bir rahmet olarak bir ilim üzere onu iyice açıkladık.",
         "diyanet_vakfi": "Gerçekten onlara, inanan bir toplum için yol gösterici ve rahmet olarak, ilim üzere açıkladığımız bir kitap getirdik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/052.mp3"
       }
     },
     {
@@ -634,6 +790,9 @@
         "omer_nasuhi_bilmen": "Onlar onun akibetinden başkasını beklerler mi? Onun akibeti geldiği gün ise onu evvelce unutmuş olanlar diyecektir ki: «Muhakkak Rabbimizin peygamberleri hakkı getirmişlerdir. İmdi bizim için şefaatçilerden kimse var mıdır ki, bize şefaat ediversinler ve yahut geri döndürülür müyüz ki, yapar olduğumuz şeylerin başkasını yapıverelim.» Şüphe yok ki, onlar nefislerini ziyana uğratmışlardır. Ve o iftira eder oldukları şey de onlardan çıkıp gitmiştir.",
         "hayrat_nesriyat": "(Onlar o Kitâb`ın) haberinin (kıyâmetin) ortaya çıkmasından başka bir şey beklemiyorlar. O`nun haberi (o âkıbet) geldiği gün, daha önce onu unutmuş olanlar derler ki: `Gerçekten Rabbimizin peygamberleri (bize) hakkı getirmişler. Şimdi bizim şefâatçilerimiz var mı ki bize şefâat etsinler veya (dünyaya) geri döndürülür müyüz ki yapmakta olduklarımızdan başkasını yapalım?` (Onlar) gerçekten kendilerini hüsrâna uğratmışlardır ve uydurmakta oldukları şeyler de kendilerinden kaybolup gitmiştir.",
         "diyanet_vakfi": "(Fakat onlar), Onun tevilinden başka bir şey beklemiyorlar. Tevili geldiği (haber verdiği şeyler ortaya çıktığı) gün, önceden onu unutmuş olanlar derler ki: Doğrusu Rabbimizin elçileri gerçeği getirmişler. Şimdi bizim şefaatçılarımız var mı ki bize şefaat etsinler veya (dünyaya) geri döndürülmemiz mümkün mü ki, yapmış olduğumuz amellerden başkasını yapalım? Onlar cidden kendilerine yazık ettiler ve uydurdukları şeyler (putlar) da kendilerinden kaybolup gitti."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/053.mp3"
       }
     },
     {
@@ -646,6 +805,9 @@
         "omer_nasuhi_bilmen": "Muhakkak Rabbiniz o Allah’tır ki, gökleri ve yeri altı gün içinde yarattı. Sonra Arş üzerine istiva buyurdu. Geceyi gündüze örtüverir, onu çabuk çabuk arar, takip eder, güneşi de, ayı da, yıldızları da emrine musahhar olarak yaratmıştır. İyi bilmelidir ki, yaratmak da, emir de ona mahsustur. Alemlerin Rabbi olan Allah Teâlâ pek muazzemdir.",
         "hayrat_nesriyat": "Muhakkak ki Rabbiniz, gökleri ve yeri altı günde yaratan, sonra arşa hükmeden, geceyi kendisini sür`atle taleb (ve ta`kib) eden gündüze örten Allah`dır. Hem güneşi, ayı ve yıldızları emrine boyun eğdirilmiş olarak (yaratan da O`dur)! Dikkat edin! Yaratmak da emretmek de O`na mahsustur! Âlemlerin Rabbi olan Allah, ne yücedir!",
         "diyanet_vakfi": "Şüphesiz ki Rabbiniz, gökleri ve yeri altı günde yaratan, sonra Arş’a istivâ eden, geceyi, durmadan kendisini kovalayan gündüze bürüyüp örten; güneşi, ayı ve yıldızları emrine boyun eğmiş durumda yaratan Allah’tır. Bilesiniz ki, yaratmak da emretmek de O’na mahsustur. Âlemlerin Rabbi Allah ne yücedir!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/054.mp3"
       }
     },
     {
@@ -658,6 +820,9 @@
         "omer_nasuhi_bilmen": "Rabbinize yalvara yalvara ve gizlice dua edin. Şüphe yok ki, o haddi tecavüz edenleri sevmez.",
         "hayrat_nesriyat": "Rabbinize yalvara yalvara ve için için duâ edin! Şübhesiz O, haddi aşanları sevmez!",
         "diyanet_vakfi": "Rabbinize yalvara yakara ve gizlice dua edin. Bilesiniz ki O, haddi aşanları sevmez."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/055.mp3"
       }
     },
     {
@@ -670,6 +835,9 @@
         "omer_nasuhi_bilmen": "Ve yeryüzünde ıslahından sonra ifsatta bulunmayın ve O’na korkarak ve umarak dua edin. Şüphe yok ki, Allah Teâlâ’nın rahmeti iyilik edenlere pek yakındır.",
         "hayrat_nesriyat": "Ve ıslâh edilmesinden sonra yeryüzünde fesad çıkarmayın; (azâbından) korkarak ve (rahmetini) ümîd ederek O`na duâ edin! Şübhe yok ki Allah`ın rahmeti, iyilik edenlere(pek) yakındır.",
         "diyanet_vakfi": "Islah edilmesinden sonra yeryüzünde bozgunculuk yapmayın. Allah’a korkarak ve (rahmetini) umarak dua edin. Muhakkak ki iyilik edenlere Allah’ın rahmeti çok yakındır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/056.mp3"
       }
     },
     {
@@ -682,6 +850,9 @@
         "omer_nasuhi_bilmen": "Ve O, bir Hâlık-i Zîşan’dır ki, rüzgârları rahmetinin önünde müjdeci olarak gönderir. Nihâyet rüzgârlar, ağır ağır bulutları yüklenince biz onu bir ölmüş ülkeye sevketmiş oluruz. Derken onunla su indirmiş, sonra da onunla her çeşit meyveleri meydana çıkarmış oluruz. İşte böylece ölüleri de çıkarırız. Gerektir ki, siz düşünüp ibret alasınız.",
         "hayrat_nesriyat": "Hem O, rüzgârları rahmetinin önünde müjdeci olarak gönderendir. Nihâyet (o rüzgarlar,) ağır (yağmur) bulutlar(ını) yüklendiği zaman, onu ölü bir memlekete sevk ederiz; böylece oraya su indiririz de onunla her çeşit meyvelerden çıkarırız. İşte ölüleri (dekabirlerinden) böyle çıkarırız; tâ ki ibret alasınız!",
         "diyanet_vakfi": "Rüzgârları rahmetinin önünde müjde olarak gönderen O’dur. Sonunda onlar (o rüzgârlar), ağır bulutları yüklenince onu ölü bir memlekete sevkederiz. Orada suyu indirir ve onunla türlü türlü meyveler çıkarırız. İşte ölüleri de böyle çıkaracağız. Her halde bundan ibret alırsınız."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/057.mp3"
       }
     },
     {
@@ -694,6 +865,9 @@
         "omer_nasuhi_bilmen": "Ve temiz bir beldenin ekinleri Rabbinin izniyle çıkar (meydana gelir). Kötüsünün ise çıkmaz. Meğer ki külfetle, (meşakkatle) olsun. İşte Biz âyetleri şükreder bir kavim için böylece tekrar tekrar beyan ederiz.",
         "hayrat_nesriyat": "(Toprağı) iyi olan beldeye gelince, onun bitkisi, Rabbinin izniyle, (güzel) çıkar. Kötü olanın ise ancak zor çıkar (çıksa da pek faydası olmaz). Şükredecek bir kavim için âyetleri böyle açıklıyoruz.",
         "diyanet_vakfi": "Rabbinin izniyle güzel memleketin bitkisi (güzel) çıkar; kötü olandan ise faydasız bitkiden başka birşey çıkmaz. İşte biz, şükreden bir kavim için âyetleri böyle açıklıyoruz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/058.mp3"
       }
     },
     {
@@ -706,6 +880,9 @@
         "omer_nasuhi_bilmen": "Andolsun ki, Nûh’u kavmine peygamber olarak gönderdik. Dedi ki: «Ey kavmim! Allah’a kulluk edin, sizin için O’ndan başka bir ilâh yoktur. Muhakkak ki, ben sizin üzerinize büyük bir günün azabından korkuyorum.»",
         "hayrat_nesriyat": "Şânım hakkı için, Nûh`u kavmine (peygamber olarak) gönderdik; bunun üzerine(onlara) dedi ki: `Ey kavmim! Allah`a ibâdet edin; sizin için O`ndan başka hiçbir ilâh yoktur! Şübhesiz ki ben, sizin üzerinize büyük bir günün azâbından korkuyorum!`",
         "diyanet_vakfi": "Andolsun ki Nuh’u elçi olarak kavmine gönderdik. Dedi ki: Ey kavmim! Allah’a kulluk edin, sizin ondan başka tanrınız yoktur. Doğrusu ben, üstünüze gelecek büyük bir günün azabından korkuyorum."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/059.mp3"
       }
     },
     {
@@ -718,6 +895,9 @@
         "omer_nasuhi_bilmen": "Kavminden ileri gelen bir cemaat dedi ki: «Şüphe yok biz seni apaçık bir sapıklık içinde görüyoruz.»",
         "hayrat_nesriyat": "Kavminden ileri gelenler: `Doğrusu biz, gerçekten seni apaçık bir dalâlet içindegörüyoruz` dedi(ler).",
         "diyanet_vakfi": "Kavminden ileri gelenler dediler ki: Biz seni gerçekten apaçık bir sapıklık içinde görüyoruz!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/060.mp3"
       }
     },
     {
@@ -730,6 +910,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Ey kavmim! Bende hiç bir sapıklık yoktur. Fakat ben âlemlerin Rabbi tarafından bir peygamberim.»",
         "hayrat_nesriyat": "(Nûh) dedi ki: `Ey kavmim! Bende hiçbir dalâlet yoktur; fakat ben, âlemlerin Rabbi tarafından (gönderilmiş) bir peygamberim!`",
         "diyanet_vakfi": "Dedi ki: «Ey kavmim! Bende herhangi bir sapıklık yoktur; fakat ben, âlemlerin Rabbi tarafından gönderilmiş bir elçiyim."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/061.mp3"
       }
     },
     {
@@ -742,6 +925,9 @@
         "omer_nasuhi_bilmen": "«Size Rabbimin risâletlerini (dinine ait hükümleri) tebliğ ediyorum ve sizin için hayırhâh bulunuyorum ve ben Allah Teâlâ’dan sizin bilmediklerinizi biliyorum.»",
         "hayrat_nesriyat": "`Size Rabbimin (vahiy olarak) gönderdiklerini teblîğ ediyorum; hem size nasîhat ediyorum ve Allah tarafından (gelen vahiyle), sizin bilemeyeceğiniz şeyleri biliyorum.`",
         "diyanet_vakfi": "Size Rabbimin vahyettiklerini duyuruyorum, size öğüt veriyorum ve ben sizin bilmediklerinizi Allah’tan (gelen vahiy ile) biliyorum."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/062.mp3"
       }
     },
     {
@@ -754,6 +940,9 @@
         "omer_nasuhi_bilmen": "«Yoksa size Rabbiniz tarafından sizden olan bir zât vasıtasiyle (sizi korkutmak için ve sizin de sakınmanız ve rahmete erebilmeniz için) bir mev’izenin gelmesine mi teaccüb ediverdiniz?»",
         "hayrat_nesriyat": "`(Küfür ve günahların âkıbetinden haber vererek) sizi korkutsun da (onlardan)sakınasınız ve tâ ki (böylelikle) merhamet olunasınız diye içinizden bir adam vâsıtasıyla Rabbinizden size bir nasîhat gelmesine hayret mi ettiniz?`",
         "diyanet_vakfi": "(Allah’ın azabından) sakınıp da rahmete nâil olmanız ümidiyle, içinizden sizi uyaracak bir adam vasıtasıyla size bir zikir (kitap) gelmesine şaştınız mı?»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/063.mp3"
       }
     },
     {
@@ -766,6 +955,9 @@
         "omer_nasuhi_bilmen": "Bunun üzerine O’nu tekzîp ettiler. Biz de O’nu ve O’nunla beraber gemide olanları kurtardık. Âyetlerimizi tekzîp edenleri de garkettik. Çünkü onlar bir kör kavim olmuşlardı.",
         "hayrat_nesriyat": "Buna rağmen onu yalanladılar; bunun üzerine (biz de) onu ve onunla berâbergemide bulunanları kurtardık; âyetlerimizi yalanlayanları ise suda boğduk. Çünki onlar(basîret cihetiyle) kör bir kavim idiler.",
         "diyanet_vakfi": "Onu yalanladılar, biz de onu ve onunla beraber gemide bulunanları kurtardık, âyetlerimizi yalanlayanları da suda boğduk! Çünkü onlar kör bir kavim idiler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/064.mp3"
       }
     },
     {
@@ -778,6 +970,9 @@
         "omer_nasuhi_bilmen": "Âd kavmine de kardeşleri Hûd’u (peygamber gönderdik) Dedi ki: «Ey kavmim! Allah’a kulluk edin, sizin için O’ndan başka bir ilâh yoktur. Hâlâ sakınmayacak mısınız?»",
         "hayrat_nesriyat": "Âd (kavmin)e de kardeşleri Hûd`u (gönderdik). Dedi ki: `Ey kavmim! Allah`a ibâdet edin; sizin için O`ndan başka hiçbir ilâh yoktur! Hiç (Allah`dan) sakınmaz mısınız?`",
         "diyanet_vakfi": "Âd kavmine de kardeşleri Hûd’u (gönderdik). O dedi ki: «Ey kavmim! Allah’a kulluk edin; sizin O’ndan başka tanrınız yoktur. Hâla sakınmayacak mısınız?»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/065.mp3"
       }
     },
     {
@@ -790,6 +985,9 @@
         "omer_nasuhi_bilmen": "O’nun kavminden kâfir olan bir cemaat dedi ki: «Muhakkak biz seni sefahat içinde görüyoruz. Ve biz seni herhalde yalancılardan sanıyoruz.»",
         "hayrat_nesriyat": "Kavminden inkâr eden ileri gelenler: `Şübhesiz ki biz, gerçekten seni bir beyinsizlik içinde görüyoruz ve doğrusu biz, gerçekten seni yalancılardan zannediyoruz` dedi(ler).",
         "diyanet_vakfi": "Kavminden ileri gelen kâfirler dediler ki: Biz seni kesinlikle bir beyinsizlik içinde görüyoruz ve gerçekten seni yalancılardan sanıyoruz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/066.mp3"
       }
     },
     {
@@ -802,6 +1000,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Ey kavmim! Bende hiçbir sefahat yoktur. Fakat ben âlemlerin Rabbi tarafından gönderilmiş bir peygamberim.»",
         "hayrat_nesriyat": "(Hûd) dedi ki: `Ey kavmim! Bende hiçbir akıl zayıflığı yoktur; fakat ben âlemlerin Rabbi tarafından (gönderilmiş) bir peygamberim.`",
         "diyanet_vakfi": "«Ey kavmim! dedi, ben beyinsiz değilim; fakat ben âlemlerin Rabbinin gönderdiği bir elçiyim."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/067.mp3"
       }
     },
     {
@@ -814,6 +1015,9 @@
         "omer_nasuhi_bilmen": "«Size Rabbimin risâletlerini tebliğ ediyorum ve ben sizin için bir emin öğüt vericiyim.»",
         "hayrat_nesriyat": "`Size Rabbimin (vahiy olarak) gönderdiklerini teblîğ ediyorum ve ben sizin için güvenilir bir nasîhatçiyim.`",
         "diyanet_vakfi": "Size Rabbimin vahyettiklerini duyuruyorum ve ben sizin için güvenilir bir öğütçüyüm."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/068.mp3"
       }
     },
     {
@@ -826,6 +1030,9 @@
         "omer_nasuhi_bilmen": "«Yoksa sizi korkutmak için size Rabbiniz tarafından bir mev’izenin sizden bir kişi vasıtasıyla gelmesinden teaccüp mü ettiniz? Hatırlayınız ki, sizi Nûh kavminden sonra halifeler kıldı ve sizi hilkatçe fazla bir kuvvete (vüs’ate) erdirdi. Artık Allah Teâlâ’nın nîmetlerini yâd ediniz ki, felâh bulabilesiniz.»",
         "hayrat_nesriyat": "`Sizi (tahammülü pek müşkil bir azâb ile) korkutmak için içinizden bir adam vâsıtasıyla, Rabbinizden size bir nasîhat gelmesine hayret mi ettiniz? Hem hatırlayın o zamanı ki, (Allah) sizi Nûh kavminden sonra (yeryüzünde) halîfeler kılmış ve sizi yaratılışta bir genişlikle (kuvvetçe ve boyca) üstün kılmıştı. Öyle ise Allah`ın ni`metlerini hatırlayın; tâ ki kurtuluşa eresiniz.`",
         "diyanet_vakfi": "Sizi uyarmak için içinizden bir adam vasıtasıyla Rabbinizden size bir zikir (kitap) gelmesine şaştınız mı? Düşünün ki O sizi, Nuh kavminden sonra onların yerine getirdi ve yaratılışta sizi onlardan üstün kıldı. O halde Allah’ın nimetlerini hatırlayın ki kurtuluşa eresiniz.»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/069.mp3"
       }
     },
     {
@@ -838,6 +1045,9 @@
         "omer_nasuhi_bilmen": "Dediler ki: «Sen bize geldin mi ki, yalnız bir tanrıya tapalım ve babalarımızın tapar olduklarını terkeyleyelim! Haydi, eğer sen doğru sözlü kimselerden isen bizi korkutur olduğun şeyi bize getir bakalım.»",
         "hayrat_nesriyat": "Dediler ki: `(Sen) bize, `Bir olan Allah`a ibâdet edelim ve atalarımızın tapageldiklerini bırakalım` diye mi geldin? Eğer (iddiânda) doğru kimselerden isen, haydi bizi (kendisiyle) tehdîd etmekte olduğun (azâb)ı bize getir!`",
         "diyanet_vakfi": "Dediler ki: Sen bize tek Allah’a kulluk etmemiz ve atalarımızın tapmakta olduklarını bırakmamız için mi geldin? Eğer doğrulardan isen, bizi tehdit ettiğini (azabı) bize getir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/070.mp3"
       }
     },
     {
@@ -850,6 +1060,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Üzerinize, şüphe yok ki Rabbiniz tarafından bir ikap ve bir gazab tahakkuk etti. Kendinizin ve babalarınızın takmış olduklarınız birtakım adlar hakkında benimle mücadelede mi bulunuyorsunuz? Allah Teâlâ onlara dair hiçbir hüccet indirmiş değildir. Artık bekleyin, ben de sizinle beraber bekleyenlerdenim.»",
         "hayrat_nesriyat": "(Hud) dedi ki: \"Rabbinizden (bir ceza olarak) üstünüze çökmüş bir (ahlaki) kokuşmuşluğun ve tarifsiz bir gazabın içindesiniz zaten. Şimdi, Allah`ın haklarında hiçbir delil indirmediği, yalnızca sizin ve atalarınızın yücelttiği isimler hakkında mı benimle tartışıyorsunuz? O halde bekleyin, gerçek şu ki ben de sizinle birlikte bekleyeceğim!\"",
         "diyanet_vakfi": "(Hûd) dedi ki: «Üzerinize Rabbinizden bir azap ve bir hışım inmiştir. Haklarında Allah’ın hiçbir delil indirmediği, sadece sizin ve atalarınızın taktığı kuru isimler hususunda benimle tartışıyor musunuz? Bekleyin öyleyse, şüphesiz ben de sizinle beraber bekleyenlerdenim!»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/071.mp3"
       }
     },
     {
@@ -862,6 +1075,9 @@
         "omer_nasuhi_bilmen": "Bunun üzerine O’nu ve kendisiyle beraber olanları Bizden bir rahmet olarak halas ettik. Âyetlerimizi tekzîp edenlerin ve imân etmiş olmayanların ise kökünü kesiverdik.",
         "hayrat_nesriyat": "Bunun üzerine onu (Hûd`u) ve onunla berâber olanları, tarafımızdan bir rahmetle kurtardık ve âyetlerimizi yalanlayanların ve mü`min olmayan kimselerin kökünü kestik.",
         "diyanet_vakfi": "Onu ve onunla beraber olanları rahmetimizle kurtardık ve âyetlerimizi yalanlayıp da iman etmeyenlerin kökünü kestik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/072.mp3"
       }
     },
     {
@@ -874,6 +1090,9 @@
         "omer_nasuhi_bilmen": "Ve Semûd kavmine kardeşleri Sâlih’i gönderdik. Dedi ki: «Ey kavmim Allah’a ibadet ediniz. Sizin için O’ndan başka bir ilâh yoktur. Sizlere muhakkak ki, Rabbiniz tarafından apaçık bir bürhan gelmiştir. İşte Allah’ın şu devesi sizin için bir âyetir. İmdi onu bırakınız, Allah’ın arzında otlasın ve ona bir kötülükle dokunmayınız. Sonra sizi çok şiddetli bir azap yakalar.»",
         "hayrat_nesriyat": "Semûd (kavmin)e de kardeşleri Sâlih`i (gönderdik). Dedi ki: `Ey kavmim! Allah`a ibâdet edin; sizin için O`ndan başka hiçbir ilâh yoktur! Doğrusu size Rabbinizden apaçık bir mu`cize gelmiştir. (İşte) bu, size bir mu`cize olarak, Allah`ın dişi devesidir; o hâlde onu bırakın, Allah`ın arzında yesin (içsin); ve ona bir kötülükle dokunmayın; yoksa sizi (pek)elemli bir azab yakalar!`",
         "diyanet_vakfi": "Semûd kavmine de kardeşleri Salih’i (gönderdik). Dedi ki: Ey kavmim! Allah’a kulluk edin; sizin O’ndan başka tanrınız yoktur. Size Rabbinizden açık bir delil gelmiştir. O da, size bir mucize olarak Allah’ın şu devesidir. Onu bırakın, Allah’ın arzında yesin, (içsin); ona kötülük etmeyin; sonra sizi elem verici bir azap yakalar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/073.mp3"
       }
     },
     {
@@ -886,6 +1105,9 @@
         "omer_nasuhi_bilmen": "Ve o zamanı yâd ediniz ki, sizi Âd’den sonra halifeler kıldı ve sizi yerde yerleştirdi. O’nun ovalarından köşkler ediniyorsunuz ve dağları evler olarak oymakta bulunuyorsunuz. Artık Allah Teâlâ’nın nîmetlerini anın ve yerde müfsidler olarak taşkınlık yapmayın.",
         "hayrat_nesriyat": "`Hem hatırlayın o zamanı ki (Allah), sizi Âd (kavmin)den sonra (yeryüzünde)halîfeler kıldı ve sizi yeryüzünde yerleştirdi; ovalarından saraylar ediniyorsunuz ve dağlardan evler yontuyorsunuz. Öyle ise Allah`ın ni`metlerini hatırlayın ve yeryüzünde fesad çıkarıcılar olarak bozgunculuk yapmayın!`",
         "diyanet_vakfi": "Düşünün ki, (Allah) Âd kavminden sonra yerlerine sizi getirdi. Ve yeryüzünde sizi yerleştirdi: Onun düzlüklerinde saraylar yapıyorsunuz, dağlarında evler yontuyorsunuz. Artık Allah’ın nimetlerini hatırlayın da yeryüzünde fesatçılar olarak karışıklık çıkarmayın."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/074.mp3"
       }
     },
     {
@@ -898,6 +1120,9 @@
         "omer_nasuhi_bilmen": "Kavminden mütekebbir bulunan bir cemaat, onlardan hakîr görülenlere, onlardan imân edenlere dedi ki: «Siz, Sâlih’i hakikaten Rabbi tarafından gönderilmiş mi bilirsiniz?» Onlar da dediler ki: «Biz şüphe yok, O’nunla gönderilmiş olan şeye inanmışlarız».",
         "hayrat_nesriyat": "Kavminden büyüklük taslayan ileri gelenler, o zayıf bırakılmış (horlanmış)olanlara, içlerinden îmân edenlere (alay ederek) dedi ki: `(Siz) gerçekten Sâlih`i Rabbi tarafından gönderilen biri olarak mı biliyorsunuz?` (Onlar da:) `Şübhesiz ki biz, onunla gönderilen (herşey)e îmân eden kimseleriz!` dediler.",
         "diyanet_vakfi": "Kavminin ileri gelenlerinden büyüklük taslayanlar, içlerinden zayıf görülen inananlara dediler ki: Siz Salih’in, Rabbi tarafından gönderildiğini biliyor musunuz? Onlar da Şüphesiz biz onunla ne gönderilmişse ona inananlarız, dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/075.mp3"
       }
     },
     {
@@ -910,6 +1135,9 @@
         "omer_nasuhi_bilmen": "Kendilerini büyük görenler ise dedi ki: «Biz muhakkak sizin o imân ettiğiniz şeye kâfirleriz.»",
         "hayrat_nesriyat": "O büyüklük taslayanlar: `Doğrusu biz (de sizin) kendisine îmân ettiğiniz şeyi inkâr eden kimseleriz!` dedi(ler).",
         "diyanet_vakfi": "Büyüklük taslayanlar dediler ki: «Biz de sizin inandığınızı inkâr edenleriz.»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/076.mp3"
       }
     },
     {
@@ -922,6 +1150,9 @@
         "omer_nasuhi_bilmen": "Sonra o dişi deveyi boğazladılar, ve Rablerinin emrinden tekebbürde bulunup kaçındılar ve «Ey Sâlih! Eğer sen gönderilmiş peygamberlerden isen bizi korkutur olduğun şeyi bize getir» dediler.",
         "hayrat_nesriyat": "Derken o dişi deveyi kesip Rablerinin emrine karşı (haddi aşarak) isyân ettiler ve dediler ki: `Ey Sâlih! Eğer peygamberlerden isen, bizi (kendisiyle) tehdîd etmekte olduğun(azâb)ı bize getir!`",
         "diyanet_vakfi": "Derken o dişi deveyi ayaklarını keserek öldürdüler ve Rablerinin emrinden dışarı çıktılar da: Ey Salih! Eğer sen gerçekten peygamberlerdensen bizi tehdit ettiğin azabı bize getir, dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/077.mp3"
       }
     },
     {
@@ -934,6 +1165,9 @@
         "omer_nasuhi_bilmen": "Bunun üzerine onları şiddetli bir sarsılma tutuverdi. Yurtlarında diz üstü çöküvermiş oldular.",
         "hayrat_nesriyat": "Bunun üzerine onları o sarsıntı yakaladı da yurtlarında diz üstü çöküp kalan kimseler oldular.",
         "diyanet_vakfi": "Bunun üzerine onları o (gürültülü) sarsıntı yakaladı da yurtlarında diz üstü dona kaldılar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/078.mp3"
       }
     },
     {
@@ -946,6 +1180,9 @@
         "omer_nasuhi_bilmen": "Artık onlardan yüz çevirdi ve dedi ki: «Ey kavmim! Ben size Rabbimin risâletini muhakkak ki, tebliğ ettim ve sizin için öğüt verdim. Velâkin siz hayırhâh olanları sevmezsiniz.»",
         "hayrat_nesriyat": "(Sâlih) artık onlardan yüz çevirdi ve dedi ki: `Ey kavmim! Yemîn olsun ki size Rabbimin (vahiy olarak) gönderdiklerini teblîğ ettim ve size nasîhat ettim; fakat (siz)nasîhat edenleri sevmiyorsunuz.`",
         "diyanet_vakfi": "Salih o zaman onlardan yüz çevirdi ve şöyle dedi: Ey kavmim! Andolsun ki ben size Rabbimin vahyettiklerini tebliğ ettim ve size öğüt verdim; fakat siz öğüt verenleri sevmiyorsunuz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/079.mp3"
       }
     },
     {
@@ -958,6 +1195,9 @@
         "omer_nasuhi_bilmen": "Lût’u da (gönderdik) O vakit kavmine dedi ki: «Siz öyle bir hayasızlık mı yaparsınız ki, onu sizden evvel âlemlerden hiçbir şahıs yapmış değildir.»",
         "hayrat_nesriyat": "Lût`u da (hatırla)! Hani kavmine şöyle demişti: `Âlemlerden hiçbirinin, sizi kendisiyle geçmediği (sizden önce yapmadığı) hayâsızlığı mı yapıyorsunuz?`",
         "diyanet_vakfi": "Lût’u da (peygamber gönderdik). Kavmine dedi ki: «Sizden önceki milletlerden hiçbirinin yapmadığı fuhuşu mu yapıyorsunuz?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/080.mp3"
       }
     },
     {
@@ -970,6 +1210,9 @@
         "omer_nasuhi_bilmen": "«Muhakkak ki, siz kadınlarınızı bırakıp şehvet ile erkeklere yanaşıyorsunuz. Belki siz haddi tecavüz eden bir kavimsinizdir.»",
         "hayrat_nesriyat": "`Çünki siz kadınları bırakıp şehvetle erkeklere yaklaşıyorsunuz. Hayır! Siz(haddi aşarak) isrâf eden bir kavimsiniz.`",
         "diyanet_vakfi": "Çünkü siz, şehveti tatmin için kadınları bırakıp da şehvetle erkeklere yanaşıyorsunuz. Doğrusu siz taşkın bir milletsiniz.»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/081.mp3"
       }
     },
     {
@@ -982,6 +1225,9 @@
         "omer_nasuhi_bilmen": "Ve kavminin cevabı, «Onları kasabanızdan çıkarınız, çünkü onlar fazla temizlikte bulunan insanlardır» demekten başka olmadı.",
         "hayrat_nesriyat": "Hâlbuki kavminin cevâbı (alay ederek): `Onları memleketinizden çıkarın! Çünki onlar fazla temizlenen insanlarmış!` demelerinden başka bir şey olmadı.",
         "diyanet_vakfi": "Kavminin cevabı: Onları (Lût’u ve taraftarlarını) memleketinizden çıkarın; çünkü onlar fazla temizlenen insanlarmış! demelerinden başka bir şey olmadı."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/082.mp3"
       }
     },
     {
@@ -994,6 +1240,9 @@
         "omer_nasuhi_bilmen": "Artık Biz O’nu ve ehlini kurtardık, zevcesi müstesna, o geriye kalıp helâk olanlardan oldu.",
         "hayrat_nesriyat": "Bunun üzerine (biz de) onu ve ehlini kurtardık; ancak karısı hâriç; (o,) geride(azabda) kalanlardan oldu.",
         "diyanet_vakfi": "Biz de onu ve karısından başka aile efradını kurtardık; çünkü karısı geride kalanlardan (kâfirlerden) idi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/083.mp3"
       }
     },
     {
@@ -1006,6 +1255,9 @@
         "omer_nasuhi_bilmen": "Ve onların üzerlerine bir (azap) yağmuru yağdırdık. Artık bak günahkârların akibeti nasıl oldu?",
         "hayrat_nesriyat": "Ve üzerlerine (taştan) bir yağmur yağdırdık. İşte bak günahkârların âkıbeti nasıl oldu!",
         "diyanet_vakfi": "Ve üzerlerine (taş) yağmuru yağdırdık. Bak ki günahkârların sonu nasıl oldu!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/084.mp3"
       }
     },
     {
@@ -1018,6 +1270,9 @@
         "omer_nasuhi_bilmen": "Ve Medyen’e de kardeşleri Şuayb’i (peygamber gönderdik). Dedi ki: «Ey kavmim! Allah Teâlâ’ya ibadette bulunun, sizin için O’ndan başka tanrı yoktur. Muhakkak ki, size Rabbinizden apaçık bir bürhan geldi. Artık ölçeği ve teraziyi tam tutun ve nâsa eşyalarını tenkis etmeyin, ve yeryüzünde ıslahından sonra fesad çıkarmayın, bu sizin için hayırlıdır, eğer siz inanır kimseler iseniz.»",
         "hayrat_nesriyat": "Medyen (kavmin)e de kardeşleri Şuayb`ı (gönderdik). Dedi ki: `Ey kavmim! Allah`a ibâdet edin, sizin için O`ndan başka hiçbir ilâh yoktur! Şübhesiz Rabbinizden size apaçık bir mu`cize gelmiştir; artık ölçüyü ve tartıyı tam yapın, insanlara, eşyâlarını(mallarını) eksik vermeyin ve ıslâh edilmesinden sonra yeryüzünde fesad çıkarmayın! Eğer mü`min kimseler iseniz, (bilin ki) bunlar sizin için hayırlıdır.`",
         "diyanet_vakfi": "Medyen’e de kardeşleri Şuayb’ı (gönderdik). Dedi ki: Ey kavmim! Allah’a kulluk edin, sizin ondan başka tanrınız yoktur. Size Rabbinizden açık bir delil gelmiştir; artık ölçüyü, tartıyı tam yapın, insanların eşyalarını eksik vermeyin. Düzeltilmesinden sonra yeryüzünde bozgunculuk yapmayın. Eğer inananlar iseniz bunlar sizin için daha hayırlıdır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/085.mp3"
       }
     },
     {
@@ -1030,6 +1285,9 @@
         "omer_nasuhi_bilmen": "Allah’a imân edenleri korkutarak ve Allah’ın yolundan alıkoyarak ve onun için eğriliği isteyerek her bir caddede oturmayınız. Ve hatırlayınız ki, siz pek az idiniz, sonra sizi çoğalttı ve bakınız ki, müfsidlerin sonu nasıl oldu?",
         "hayrat_nesriyat": "`O hâlde (insanları) tehdîd ederek ve Allah`ın yolundan O`na îmân edenleri men` ederek, hem ona (o yola) bir eğrilik arayarak her yol(un başın)a oturmayın! Hatırlayın ki, bir zamanlar (siz) az idiniz de (O) sizi çoğalttı; ve bakın (sizden önce) fesad çıkaranların âkıbeti nasıl oldu!`",
         "diyanet_vakfi": "Tehdit ederek, inananları Allah yolundan alıkoyarak ve o yolu eğip bükmek isteyerek öyle her yolun başında oturmayın. Düşünün ki siz az idiniz de O sizi çoğalttı. Bakın ki, bozguncuların sonu nasıl olmuştur!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/086.mp3"
       }
     },
     {
@@ -1042,6 +1300,9 @@
         "omer_nasuhi_bilmen": "Ve eğer sizden bir tâife, kendisiyle göndermiş olduğum şeye inanmışlar ve bir tâife de inanmamışlar ise artık Allah Teâlâ aranızda hükmedinceye kadar siz sabrediniz. Ve o hakîmlerin en hayırlısıdır.",
         "hayrat_nesriyat": "`Eğer içinizden bir kısmı kendisiyle gönderildiğim şeye (hakikate) îmân etmiş, bir kısmı da îmân etmemişlerse; artık Allah, aramızda hüküm verinceye kadar sabredin! Çünki O, hüküm verenlerin en hayırlısıdır.`",
         "diyanet_vakfi": "Eğer içinizden bir gurup benimle gönderilene inanır, bir gurup da inanmazsa, Allah aranızda hükmedinceye kadar bekleyin. O hakimlerin en iyisidir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/087.mp3"
       }
     },
     {
@@ -1054,6 +1315,9 @@
         "omer_nasuhi_bilmen": "Onun kavminden tekebbürde bulunmuş olan bir cemaat demişti ki: «Ey Şuayb! Seni ve seninle beraber imân edenleri elbette yurdumuzdan çıkarırız veyahut kat’i sûrette bizim milletimize dönüverirsiniz.» O da demişti ki: «Ya biz onu kerih görenler olduğumuz halde de mi?",
         "hayrat_nesriyat": "Kavminden büyüklük taslayan ileri gelenler dedi ki: `Ey Şuayb! (Ya) mutlaka seni ve berâberindeki îmân edenleri memleketimizden çıkaracağız veya kesinlikle dînimizedönersiniz!` (Şuayb) dedi ki: `(Biz bu teklîfinizi) çirkin bulan kimseler olsak da mı?`",
         "diyanet_vakfi": "Kavminden ileri gelen kibirliler dediler ki: «Ey Şuayb! Seni ve seninle beraber inananları memleketimizden kesinlikle çıkaracağız veya dinimize döneceksiniz» (Şuayb): İstemesek de mi? dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/088.mp3"
       }
     },
     {
@@ -1066,6 +1330,9 @@
         "omer_nasuhi_bilmen": "Eğer Allah Teâlâ bizi ondan kurtardıktan sonra sizin milletinize dönersek muhakkak Allah’a karşı yalan yere iftira etmiş oluruz. Bizim için onda dönmek olamaz. Meğer ki, Rabbim olan Allah Teâlâ dileyecek olsun. Rabbimiz her şeyi ilmen muhîttir. Allah Teâlâa tevekkül etmişizdir. «Ey Rabbimiz! Bizim aramızla kavmimizin arasını hak ile feth et, ve Sen fatih olanların hayırlısısın.»",
         "hayrat_nesriyat": "`Allah bizi ondan kurtardıktan sonra eğer (tekrar) sizin dîninize dönersek, şübhesiz ki Allah`a karşı, yalan iftirâ etmiş oluruz! Hem Rabbimiz olan Allah`ın dilemesi müstesnâ, ona dönmemiz bizim için olacak şey değildir! Rabbimiz, herşeyi ilmen kuşatmıştır (bizim hâlimizi de bilir). Ancak Allah`a tevekkül ettik. Rabbimiz! Bizimle kavmimizin arasını hak ile aç (hüküm ver); çünki sen (en müşkil şeyleri dahi) açanların(hüküm verenlerin) en hayırlısısın!`",
         "diyanet_vakfi": "Doğrusu Allah bizi ondan kurtardıktan sonra tekrar sizin dininize dönersek Allah’a karşı yalan uydurmuş oluruz. Rabbimiz Allah dilemiş başka, yoksa ona geri dönmemiz bizim için olacak şey değildir. Rabbimizin ilmi her şeyi kuşatmıştır. Biz sadece Allah’a dayanırız. Rabbimiz! Bizimle kavmimiz arasında adaletle hükmet! Sen hükmedenlerin en hayırlısısın."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/089.mp3"
       }
     },
     {
@@ -1078,6 +1345,9 @@
         "omer_nasuhi_bilmen": "Ve onun kavminden kâfir olmuş olan ileri gelenleri demişti ki: «Eğer Şuayb’e tebâiyyet ederseniz, şüphesiz siz o zaman en büyük zarara düşmüşler olursunuz.»",
         "hayrat_nesriyat": "Kavminden inkâr eden ileri gelenler ise dedi ki: `Yemîn olsun ki, eğer Şuayb`a tâbi` olursanız, o takdirde doğrusu siz elbette hüsrâna uğramış kimseler olursunuz.`",
         "diyanet_vakfi": "Kavminden ileri gelen kâfirler dediler ki: Eğer Şuayb’e uyarsanız o takdirde siz mutlaka ziyana uğrarsınız."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/090.mp3"
       }
     },
     {
@@ -1090,6 +1360,9 @@
         "omer_nasuhi_bilmen": "Derken onları şiddetli bir zelzele yakaladı da yurtlarında diz üstü çöken kimseler oldular.",
         "hayrat_nesriyat": "Bunun üzerine onları o sarsıntı yakaladı da yurtlarında dizüstü çöküp kalan kimseler oldular.",
         "diyanet_vakfi": "Derken o şiddetli deprem onları yakalayıverdi de yurtlarında diz üstü donakaldılar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/091.mp3"
       }
     },
     {
@@ -1102,6 +1375,9 @@
         "omer_nasuhi_bilmen": "Şuayb’ı tekzîp edenler, sanki orada hiç kalmamışlar gibi oldular. Şuayb’i yalanlayanlardır ki, en büyük zarara uğrayanlar onlar olmuşlardır.",
         "hayrat_nesriyat": "Şuayb`ı yalanlayanlar sanki orada hiç oturmamışlardı! (Evet!) Şuayb`ı yalanlayanlar, kendileri hüsrâna uğrayanlar oldular.",
         "diyanet_vakfi": "Şuayb’ı yalanlayanlar sanki yurtlarında hiç oturmamış gibiydiler. Asıl ziyana uğrayanlar Şuayb’ı yalanlayanların kendileridir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/092.mp3"
       }
     },
     {
@@ -1114,6 +1390,9 @@
         "omer_nasuhi_bilmen": "İmdi, onlardan döndü de dedi ki: «Ey kavmim! Ben Rabbimin risâletlerini muhakkak ki size ulaştırdım ve sizin için nasihatta bulundum. Artık kâfirler olan bir kavme karşı nasıl fazlaca mahzun olurum?»",
         "hayrat_nesriyat": "(Şuayb) artık onlardan yüz çevirdi ve dedi ki: `Ey kavmim! Yemîn olsun ki size Rabbimin (vahiy ile) gönderdiklerini teblîğ ettim ve size nasîhat ettim. Artık (sizin gibi)kâfirler gürûhuna nasıl üzülürüm?`",
         "diyanet_vakfi": "(Şuayb), onlardan yüz çevirdi ve (içinden) dedi ki: «Ey kavmim! Ben size Rabbimin gönderdiği gerçekleri duyurdum ve size öğüt verdim. Artık kâfir bir kavme nasıl acırım!»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/093.mp3"
       }
     },
     {
@@ -1126,6 +1405,9 @@
         "omer_nasuhi_bilmen": "Bir memlekete bir peygamber göndermedik ki, illâ onun ahalisini fakr ile ve hastalık ile yakaladık. Tâ ki yalvarıp yakarsınlar.",
         "hayrat_nesriyat": "İşte (biz) hangi şehre bir peygamber gönderdiysek, mutlaka oranın halkını sıkıntılar ve hastalıklarla yakaladık; tâ ki yalvarsınlar (ve îmâna gelsinler).",
         "diyanet_vakfi": "Biz hangi ülkeye bir peygamber gönderdiysek, ora halkını, (peygambere baş kaldırdıklarından ötürü bize) yalvarıp yakarsınlar diye mutlaka yoksulluk ve darlıkla sıkmışızdır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/094.mp3"
       }
     },
     {
@@ -1138,6 +1420,9 @@
         "omer_nasuhi_bilmen": "Sonra bu fenalık yerini güzelliğe tebdîl ettik. Tâ ki çoğaldılar ve dediler ki: «Muhakkak bizim babalarımıza da sıkıntılı haller, neşveli demler dokunmuştur.» Artık Biz de onları kendileri farkına varmadıkları halde ansızın tutup yakaladık.",
         "hayrat_nesriyat": "Sonra kötülüğün (o darlığın) yerini, iyilik (bolluk)la değiştirdik. Nihâyet (mal ve evlâd cihetiyle) çoğaldılar ve: `Doğrusu atalarımıza (da zaman zaman böyle) darlıklar ve bolluklar dokunmuştu. (Bunun tehdîd edildiğimiz azabla bir alâkası yok!)` dediler de, kendileri hiç farkında değillerken onları ansızın yakalayıverdik.",
         "diyanet_vakfi": "Sonra kötülüğü (darlığı) değiştirip yerine iyilik (bolluk) getirdik. Nihayet çoğaldılar ve: «Atalarımız da böyle sıkıntı ve sevinç yaşamışlardı» dediler. Biz de onları, kendileri farkına varmadan ansızın yakaladık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/095.mp3"
       }
     },
     {
@@ -1150,6 +1435,9 @@
         "omer_nasuhi_bilmen": "Eğer o ülkelerin ahalisi imân etselerdi ve sakınmış olsalar idi, elbette onların üzerine gökten ve yerden bereketler açardık. Fakat tekzîp ettiler. Artık Biz de onları, kazanır oldukları şey sebebiyle tutup yakalayıverdik.",
         "hayrat_nesriyat": "Hem gerçekten o şehirlerin halkı îmân edip (peygamberlerine karşı gelmekten)sakınsalardı, elbette üzerlerine gökten ve yerden nice bereketler açardık; fakat (onlar, peygamberlerini) yalanladılar; bunun üzerine (biz de) onları, kazanmakta oldukları(günahlar) yüzünden (azâbımız ile) yakalayıverdik.",
         "diyanet_vakfi": "O (peygamberlerin gönderildiği) ülkelerin halkı inansalar ve (günahtan) sakınsalardı, elbette onların üstüne gökten ve yerden nice bereket kapıları açardık, fakat yalanladılar, biz de ettikleri yüzünden onları yakalayıverdik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/096.mp3"
       }
     },
     {
@@ -1162,6 +1450,9 @@
         "omer_nasuhi_bilmen": "Ya o beldeler ahalisi, geceleyin uyurlarken azabımın kendilerine gelmesinden emin mi oldular?",
         "hayrat_nesriyat": "Yoksa o şehirlerin halkı, kendileri uyuyan kimseler iken azâbımızın kendilerine geceleyin gelmesinden emin mi oldular?",
         "diyanet_vakfi": "Yoksa o ülkelerin halkı geceleyin uyurlarken kendilerine azabımızın gelmeyeceğinden emin mi oldular?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/097.mp3"
       }
     },
     {
@@ -1174,6 +1465,9 @@
         "omer_nasuhi_bilmen": "Ya o beldeler ahalisi, Bizim azabımızın onlara gündüzün oynar dururlarken geleceğinden emin mi bulundular?",
         "hayrat_nesriyat": "Veya o şehirlerin halkı, kendileri eğlenirlerken, azâbımızın kendilerine kuşluk vakti(güpegündüz) gelmesinden mi emîn oldular?",
         "diyanet_vakfi": "Ya da o ülkelerin halkı kuşluk vakti eğlenirlerken kendilerine azabımızın gelmeyeceğinden emin mi oldular?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/098.mp3"
       }
     },
     {
@@ -1186,6 +1480,9 @@
         "omer_nasuhi_bilmen": "Ya onlar Allah Teâlâ’nın mekrinden emin mi oldular? Fakat Allah Teâlâ’nın mekrinden hasirler olan bir kavimden başkası kendisini emin göremez.",
         "hayrat_nesriyat": "Yoksa Allah`ın tuzağından mı emîn oldular? Fakat hüsrâna uğrayanlar gürûhundan başkası Allah`ın tuzağından emîn olmaz.",
         "diyanet_vakfi": "Allah’ın azabından emin mi oldular? Fakat ziyana uğrayan topluluktan başkası, Allah’ın (böyle) mühlet vermesinden emin olamaz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/099.mp3"
       }
     },
     {
@@ -1198,6 +1495,9 @@
         "omer_nasuhi_bilmen": "Yere kadim ahalisinden sonra varis olacaklar için tebeyyün etmedi mi ki, eğer Biz dilemiş olsak onları da günahları sebebiyle musibetlere uğratırdık ve kalblerini mühürlerdik de artık onlar işitemezlerdi.",
         "hayrat_nesriyat": "(Eski) sâhiblerinden sonra yeryüzüne vâris olanları hâlâ (şu hakikat) yola getirmedi mi ki; eğer dileseydik, kendilerini günahları yüzünden musîbete uğratırdık. Hem(biz) onların kalblerini mühürleriz de onlar (nasîhati) işitmezler!",
         "diyanet_vakfi": "Önceki sahiplerinden sonra yeryüzüne vâris olanlara hâla şu gerçek belli olmadı mı ki: Eğer biz dileseydik onları da günahlarından dolayı musibetlere uğratırdık! Biz onların kalplerini mühürleriz de onlar (gerçekleri) işitmezler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/100.mp3"
       }
     },
     {
@@ -1210,6 +1510,9 @@
         "omer_nasuhi_bilmen": "İşte o ülkeler, sana onların haberlerinden bazılarını hikaye ediyoruz. Muhakkak ki, onlara peygamberlerimiz beyyineler ile geldiler. Evvelce tekzîp etmiş oldukları şeylere yine imân eder olmadılar. İşte Allah Teâlâ kâfirlerin kalblerini böylece mühürler.",
         "hayrat_nesriyat": "İşte o şehirler ki, sana onların haberlerinden bir kısmını anlatıyoruz. Ve Celâlim hakkı için, peygamberleri kendilerine apaçık mu`cizeler getirdiler! Fakat daha önce(mu`cizeler gelmeden evvel) yalanladıkları şeylere, îmân edecek olmadılar. İşte Allah, kâfirlerin kalblerini (küfürlerindeki inadları sebebiyle) böyle mühürler!",
         "diyanet_vakfi": "İşte o ülkeler... Onların haberlerinden bir kısmını sana anlatıyoruz. Andolsun ki, peygamberleri onlara apaçık deliller getirmişlerdi. Fakat önceden yalanladıkları gerçeklere iman edecek değillerdi. İşte kâfirlerin kalplerini Allah böyle mühürler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/101.mp3"
       }
     },
     {
@@ -1222,6 +1525,9 @@
         "omer_nasuhi_bilmen": "Ve Biz onların çokları için ahde vefa görmedik. Ve şüphesiz ki, Biz onların ekserisini fâsık kimseler bulduk.",
         "hayrat_nesriyat": "Hem onların çoğunda ahde vefâ diye bir şey bulmadık. Fakat doğrusu onların çoğunu gerçekten fâsık kimseler bulduk.",
         "diyanet_vakfi": "Onların çoğunda, sözünde durma diye bir şey bulamadık. Gerçek şu ki, onların çoğunu yoldan çıkmış bulduk."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/102.mp3"
       }
     },
     {
@@ -1234,6 +1540,9 @@
         "omer_nasuhi_bilmen": "Sonra onları müteakip, Mûsa’yı âyetlerimizle Fir’avun’a ve onun kavminin büyüklerine peygamber gönderdik. O (âyetlere) zulmettiler. Artık bak ki, o müfsidlerin akibeti nasıl oldu?",
         "hayrat_nesriyat": "Sonra onların ardından Mûsâ`yı mu`cizelerimizle Fir`avun`a ve (kavminin) ileri gelenlerine gönderdik de onlara (o mu`cizelere olan inkârlarıyla nefislerine) zulmettiler. Fakat bak fesad çıkaranların âkıbeti nasıl oldu!",
         "diyanet_vakfi": "Sonra onların ardından Musa’yı mucizelerimizle Firavun ve kavmine gönderdik de o mucizeleri inkâr ettiler; ama, bak ki, fesatçıların sonu ne oldu!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/103.mp3"
       }
     },
     {
@@ -1246,6 +1555,9 @@
         "omer_nasuhi_bilmen": "Ve Mûsa dedi ki: «Ey Fir’avun! Şüphesiz ki ben Âlemlerin Rabbi tarafından gönderilmiş bir peygamberim.»",
         "hayrat_nesriyat": "İşte Mûsâ dedi ki: `Ey Fir`avun! Şübhesiz ki ben, âlemlerin Rabbi tarafından(gönderilmiş) bir peygamberim!`",
         "diyanet_vakfi": "Musa dedi ki: «Ey Firavun! Ben âlemlerin Rabbi tarafından gönderilmiş bir peygamberim."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/104.mp3"
       }
     },
     {
@@ -1258,6 +1570,9 @@
         "omer_nasuhi_bilmen": "«Ben Allah Teâlâ’ya karşı haktan başkasını söylememekte aleddevam sâbitim. Şüphesiz ki, ben size Rabbinizden bir mûcize ile geldim. Artık İsrailoğullarını benimle beraber gönder.»",
         "hayrat_nesriyat": "`Bana düşen, Allah`a karşı haktan başka bir şey söylemememdir! Şübhesiz ki size Rabbinizden apaçık bir delil (bir mu`cize) getirdim; artık İsrâiloğullarını benimle berâber gönder!`",
         "diyanet_vakfi": "Allah hakkında gerçekten başkasını söylememek benim üzerime borçtur. Size Rabbinizden açık bir delil getirdim; artık İsrailoğullarını benimle bırak!»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/105.mp3"
       }
     },
     {
@@ -1270,6 +1585,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Eğer sen bir mûcize ile gelmiş isen onu getir, sen sâdıklardan isen.»",
         "hayrat_nesriyat": "(Fir`avun) dedi ki: `Eğer bir delil getirdiysen (ve) doğru söyleyenlerden isen haydi onu getir!`",
         "diyanet_vakfi": "(Firavun) dedi ki: Eğer bir mucize getirdiysen ve gerçekten doğru söylüyorsan onu göster bakalım."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/106.mp3"
       }
     },
     {
@@ -1282,6 +1600,9 @@
         "omer_nasuhi_bilmen": "Bunun üzerine âsâsını bıraktı. Âsâ hemen apaçık bir ejderha oluverdi.",
         "hayrat_nesriyat": "Bunun üzerine (Mûsâ) asâsını (yere) bıraktı. Bir de baktılar ki, o, apaçık bir ejderhâ!",
         "diyanet_vakfi": "Bunun üzerine Musa asasını yere attı. O hemen apaçık bir ejderha oluverdi!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/107.mp3"
       }
     },
     {
@@ -1294,6 +1615,9 @@
         "omer_nasuhi_bilmen": "Ve elini (cebinden) çıkardı, o hemen bakanlar için bembeyaz (bir nûr) kesildi.",
         "hayrat_nesriyat": "Ve elini (koynundan) çıkardı, bir de ne görsünler, o da bakanlara bembeyaz (nûr saçan bir el)!",
         "diyanet_vakfi": "Ve elini (cebinden) çıkardı. Birdenbire o da seyredenlere bembeyaz görünüverdi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/108.mp3"
       }
     },
     {
@@ -1306,6 +1630,9 @@
         "omer_nasuhi_bilmen": "Fir’avun’un kavminden ileri gelenler, «Şüphe yok ki, bu çok bilen bir sâhirdir» dedi.",
         "hayrat_nesriyat": "Fir`avun`un kavminden ileri gelenler dedi ki: `Hakikaten bu, gayet bilgin bir sihirbazdır!`",
         "diyanet_vakfi": "(109-110) Firavun’un kavminden ileri gelenler dediler ki: Bu çok bilgili bir sihirbazdır. Sizi yurdunuzdan çıkarmak istiyor. Ne buyurursunuz?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/109.mp3"
       }
     },
     {
@@ -1318,6 +1645,9 @@
         "omer_nasuhi_bilmen": "«Sizi yerinizden çıkarmak istiyor, o halde siz ne emredersiniz?»",
         "hayrat_nesriyat": "`Sizi yurdunuzdan çıkarmak istiyor.` (Fir`avun:) `Öyle ise ne buyurursunuz?`(dedi).",
         "diyanet_vakfi": "(109-110) Firavun’un kavminden ileri gelenler dediler ki: Bu çok bilgili bir sihirbazdır. Sizi yurdunuzdan çıkarmak istiyor. Ne buyurursunuz?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/110.mp3"
       }
     },
     {
@@ -1330,6 +1660,9 @@
         "omer_nasuhi_bilmen": "Dediler ki: «Onu ve kardeşini alıkoy, ve şehirlere toplayıcılar yolla.»",
         "hayrat_nesriyat": "(111-112) (Onlar da:) `Onu ve kardeşini (Hârûn`u) beklet ve şehirlere toplayıcılar gönder! Bütün bilgin sihirbazları sana getirsinler!` dediler.",
         "diyanet_vakfi": "(111-112) Dediler ki: Onu da kardeşini de beklet; şehirlere toplayıcılar (memurlar) yolla. Bütün bilgili sihirbazları sana getirsinler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/111.mp3"
       }
     },
     {
@@ -1342,6 +1675,9 @@
         "omer_nasuhi_bilmen": "«Her bilgin büyücüyü sana getirsinler.»",
         "hayrat_nesriyat": "(111-112) (Onlar da:) `Onu ve kardeşini (Hârûn`u) beklet ve şehirlere toplayıcılar gönder! Bütün bilgin sihirbazları sana getirsinler!` dediler.",
         "diyanet_vakfi": "(111-112) Dediler ki: Onu da kardeşini de beklet; şehirlere toplayıcılar (memurlar) yolla. Bütün bilgili sihirbazları sana getirsinler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/112.mp3"
       }
     },
     {
@@ -1354,6 +1690,9 @@
         "omer_nasuhi_bilmen": "Ve büyücüler Fir’avun’a geldiler. «Elbette bize bir mükâfaat olacaktır, eğer biz galipler olur isek (değil mi?)» dediler.",
         "hayrat_nesriyat": "Nihâyet (bütün usta ve mâhir) sihirbazlar Fir`avun`a geldiler: `Eğer galib gelenler biz olursak, doğrusu bize gerçekten bir mükâfât var (değil mi?)` dediler.",
         "diyanet_vakfi": "Sihirbazlar Firavun’a geldi ve: Eğer üstün gelen biz olursak, bize kesin bir mükâfat var mı? dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/113.mp3"
       }
     },
     {
@@ -1366,6 +1705,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Evet. Ve şüphe yok siz (o zaman) en yakınlardansınızdır.»",
         "hayrat_nesriyat": "(Fir`avun:) `Evet, hem elbette siz, kesinlikle (bana) yakın kılınanlardan olacaksınız` dedi.",
         "diyanet_vakfi": "(Firavun): Evet hem de siz mutlaka yakınlarımdan olacaksınız, dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/114.mp3"
       }
     },
     {
@@ -1378,6 +1720,9 @@
         "omer_nasuhi_bilmen": "Dediler ki: «Ya Mûsa!Ya sen (âsânı) atıver, veya (ilk evvel) atıverenler bizler olalım.»",
         "hayrat_nesriyat": "(Sihirbazlar:) `Ey Mûsâ! (Hünerini ortaya) atacak mısın, yoksa (önce) atanlar biz mi olalım?` dediler.",
         "diyanet_vakfi": "(Sihirbazlar), Ey Musa sen mi (önce) atacaksın, yoksa atanlar biz mi olalım? dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/115.mp3"
       }
     },
     {
@@ -1390,6 +1735,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Siz atıveriniz.» Vaktâ ki atıverdiler, nâsın gözlerini büyülediler, ve onları korkutmuş oldular ve büyük bir sihir (meydana) getirmiş oldular.",
         "hayrat_nesriyat": "(Mûsâ:) `Siz atın!` dedi. Artık ne zaman ki (onlar hünerlerini ortaya) attılar, insanların gözlerini büyülediler; onlara korku saldılar ve büyük bir sihir (meydana)getirdiler.",
         "diyanet_vakfi": "«Siz atın» dedi. Onlar atınca, insanların gözlerini büyülediler, onları korkuttular ve büyük bir sihir gösterdiler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/116.mp3"
       }
     },
     {
@@ -1402,6 +1750,9 @@
         "omer_nasuhi_bilmen": "Ve Mûsa’ya vahyettik: «Âsânı atıver.» Hemen o (âsâ) da onların uydurmuş oldukları şeyleri yutuverdi.",
         "hayrat_nesriyat": "Derken (biz de) Mûsâ`ya: `Asânı (yere) bırak!` diye vahyettik. Bir de baktılar ki, o, (onların) uydurmakta oldukları şeyleri yutuyor!",
         "diyanet_vakfi": "Biz de Musa’ya, «Asanı at!» diye vahyettik. Bir de baktılar ki bu, onların uydurduklarını yakalayıp yutuyor."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/117.mp3"
       }
     },
     {
@@ -1414,6 +1765,9 @@
         "omer_nasuhi_bilmen": "Artık hak tezahür etmiş, onların yapar oldukları ise bâtıl olup gitmişti.",
         "hayrat_nesriyat": "Böylece hakikat ortaya çıktı ve yapmakta oldukları şeyler (sihirler) boşa gitti.",
         "diyanet_vakfi": "Böylece gerçek ortaya çıktı ve onların yapmakta oldukları yok olup gitti."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/118.mp3"
       }
     },
     {
@@ -1426,6 +1780,9 @@
         "omer_nasuhi_bilmen": "Artık orada mağlup oldular ve zelil kimseler olarak geri dönüverdiler.",
         "hayrat_nesriyat": "Artık orada mağlûb oldular ve (kendilerini üstün görüyorlar iken) küçük düşen kimselere döndüler.",
         "diyanet_vakfi": "İşte Firavun ve kavmi, orada yenildi ve küçük düşerek geri döndüler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/119.mp3"
       }
     },
     {
@@ -1438,6 +1795,9 @@
         "omer_nasuhi_bilmen": "Ve sahirler secde eder oldukları halde yere kapanmış oldular.",
         "hayrat_nesriyat": "Ve (bu mu`cizenin aslâ bir sihir olmadığını anlayan) sihirbazlar, (hep birden)secde edici kimseler olarak atıl(ıp yere kapan)dılar.",
         "diyanet_vakfi": "Sihirbazlar ise secdeye kapandılar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/120.mp3"
       }
     },
     {
@@ -1450,6 +1810,9 @@
         "omer_nasuhi_bilmen": "Ve dediler ki: «Âlemlerin Rabbine imân ettik.»",
         "hayrat_nesriyat": "(121-122) `Âlemlerin Rabbine, Mûsâ ve Hârûn`un Rabbine îmân ettik!` dediler.",
         "diyanet_vakfi": "(121-122) «Musa ve Harun’un Rabbi olan âlemlerin Rabbine inandık» dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/121.mp3"
       }
     },
     {
@@ -1462,6 +1825,9 @@
         "omer_nasuhi_bilmen": "«Mûsa ile Harun’un Rabbine.»",
         "hayrat_nesriyat": "(121-122) `Âlemlerin Rabbine, Mûsâ ve Hârûn`un Rabbine îmân ettik!` dediler.",
         "diyanet_vakfi": "(121-122) «Musa ve Harun’un Rabbi olan âlemlerin Rabbine inandık» dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/122.mp3"
       }
     },
     {
@@ -1474,6 +1840,9 @@
         "omer_nasuhi_bilmen": "Fir’avun dedi ki: «Ben size izin vermeden evvel O’na imân etmişsiniz. Şüphe yok bu bir hud’adır. Siz bu hud’ayı şehirde yaptınız ki, ahalisini ondan çıkarıveresiniz. Artık yakında bileceksiniz.»",
         "hayrat_nesriyat": "Fir`avun: `(Ben) size izin vermeden önce mi ona îmân ettiniz?` dedi. `Şübhesiz ki bu, (buraya gelmeden önce aranızda kararlaştırarak) ahâlisini oradan çıkarmanız için şehirde kurduğunuz apaçık bir hîledir. Fakat ileride, bileceksiniz!`",
         "diyanet_vakfi": "Firavun dedi ki: «Ben size izin vermeden ona iman mı ettiniz? Bu, hiç şüphesiz şehirde, halkını oradan çıkarmak için kurduğunuz bir tuzaktır. Ama yakında (başınıza gelecekleri) göreceksiniz!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/123.mp3"
       }
     },
     {
@@ -1486,6 +1855,9 @@
         "omer_nasuhi_bilmen": "«Elbette sizin ellerinizi ve ayaklarınızı çaprazvari keseceğim. Sonra da sizi elbette cümleten asacağım.»",
         "hayrat_nesriyat": "`Mutlaka ellerinizi ve ayaklarınızı çaprazlama keseceğim, sonra kesinlikle sizi hep berâber asacağım!`",
         "diyanet_vakfi": "Mutlaka ellerinizi ve ayaklarınızı çaprazlama keseceğim, sonra da hepinizi asacağım!»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/124.mp3"
       }
     },
     {
@@ -1498,6 +1870,9 @@
         "omer_nasuhi_bilmen": "Dediler ki: «Biz şüphe yok Rabbimize dönüvericileriz.»",
         "hayrat_nesriyat": "(Onlar) dediler ki: `Zâten biz, Rabbimize dönücüleriz!`",
         "diyanet_vakfi": "(125-126) Onlar: Biz zaten Rabbimize döneceğiz. Sen sadece Rabbimizin âyetleri bize geldiğinde onlara inandığımız için bizden intikam alıyorsun. Ey Rabbimiz! Bize bol bol sabır ver, müslüman olarak canımızı al, dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/125.mp3"
       }
     },
     {
@@ -1510,6 +1885,9 @@
         "omer_nasuhi_bilmen": "«Ve bizden intikam alman da başka değil, ancak bize Rabbimizin âyetleri geldiği zaman onlara imân ettiğimizden dolayı. Ey Rabbimiz! üzerimize sabır yağdır ve bizleri müslüman olarak öldür.»",
         "hayrat_nesriyat": "`Ve (sen) sâdece, bize (o mû`cizeler) geldiğinde Rabbimizin âyetlerine îmân ettik diye bizden intikam alıyorsun. Rabbimiz! Üzerimize sabır yağdır ve bizi Müslüman kimseler olarak vefât ettir!`",
         "diyanet_vakfi": "(125-126) Onlar: Biz zaten Rabbimize döneceğiz. Sen sadece Rabbimizin âyetleri bize geldiğinde onlara inandığımız için bizden intikam alıyorsun. Ey Rabbimiz! Bize bol bol sabır ver, müslüman olarak canımızı al, dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/126.mp3"
       }
     },
     {
@@ -1522,6 +1900,9 @@
         "omer_nasuhi_bilmen": "Fir’avun’un kavminden ileri gelenler dediler ki: «Mûsa’yı ve kavmini bırakır mısın ki, yerde fesatta bulunsunlar. Ve seni ve tanrılarını terkeylesinler.» O da dedi ki: «Elbette onların oğullarını öldüreceğiz ve kadınlarını diri bırakacağız ve şüphe yok ki, biz onların üstünde kâhir kimseleriz.»",
         "hayrat_nesriyat": "Fir`avun`un kavminden ileri gelenler ise dedi ki: `Mûsâ`yı ve kavmini, yeryüzünde fesad çıkarsınlar, seni ve ilâhlarını terk etsinler diye mi bırakacaksın?`(Fir`avun onlara) dedi ki: `(Biz) onların oğullarını öldüreceğiz, kadınlarını (kız çocuklarını)ise sağ bırakacağız!Çünki gerçekten biz, onların üstünde kahredici üstünlüğe sâhib kimseleriz!`",
         "diyanet_vakfi": "Firavun’un kavminden ileri gelenler dediler ki: Musa’yı ve kavmini, seni ve tanrılarını bırakıp yeryüzünde bozgunculuk çıkarsınlar diye mi bırakacaksın? (Firavun): «Biz onların oğullarını öldürüp, kadınlarını sağ bırakacağız. Elbette biz onları ezecek üstünlükteyiz» dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/127.mp3"
       }
     },
     {
@@ -1534,6 +1915,9 @@
         "omer_nasuhi_bilmen": "Mûsa kavmine dedi ki: «Allah Teâlâ’dan yardım isteyiniz ve sabrediniz. Şüphe yok ki, yer Allah Teâlâ’nındır. Ona kullarından dilediğini varis kılar. Akibet ise muttakîler içindir.»",
         "hayrat_nesriyat": "Mûsâ kavmine şöyle dedi: `Allah`dan yardım isteyin ve sabredin! Şübhesiz ki yeryüzü Allah`ındır; ona kullarından dilediğini vâris kılar. Hem (güzel) âkıbet, takvâ sâhiblerinindir.`",
         "diyanet_vakfi": "Musa kavmine dedi ki: «Allah’tan yardım isteyin ve sabredin. Şüphesiz ki yeryüzü Allah’ındır. Kullarından dilediğini ona vâris kılar. Sonuç (Allah’tan korkup günahtan) sakınanlarındır.»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/128.mp3"
       }
     },
     {
@@ -1546,6 +1930,9 @@
         "omer_nasuhi_bilmen": "Dediler ki: «Biz senin bize gelmenden evvel de ve bize geldiğinden sonra da eza edildik». «Umulur ki,» Dedi, «Rabbiniz düşmanlarınızı helâk eder de sizi yerde onların halefi kılacak olur. Tâ ki nasıl amel edeceğinize nazar buyursun.»",
         "hayrat_nesriyat": "Fakat İsrailoğulları: “Biz, sen gelmeden önce de, geldikten sonra da, çok eziyet çektik” dediler. Musa cevaben: “Belki de Rabbiniz düşmanınızı yok edip, yeryüzüne sizi varis kılacak ve sonra sizin nasıl ve neler yapacağınıza bakacak” dedi.",
         "diyanet_vakfi": "Onlar da, sen bize (peygamber olarak) gelmeden önce de geldikten sonra da bize işkence edildi, dediler. (Musa), «Umulur ki Rabbiniz düşmanınızı helâk eder ve onların yerine sizi yer yüzüne hakim kılar da nasıl hareket edeceğinize bakar» dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/129.mp3"
       }
     },
     {
@@ -1558,6 +1945,9 @@
         "omer_nasuhi_bilmen": "Ve andolsun ki, Fir’avun’un kavmini senelerce kaht ve galaya ve meyvelerin eksikliğine giriftar ettik, düşünüp de mütenessih olsunlar diye.",
         "hayrat_nesriyat": "Muhakkak ki (biz,) Fir`avun ehlini, belki ibret alırlar diye (yıllarca) kıtlıklar ve mahsûllerden bir eksiltme ile yakaladık (cezâlandırdık).",
         "diyanet_vakfi": "Andolsun ki, biz de Firavun’a uyanları ders alsınlar diye yıllarca kuraklık ve mahsül kıtlığı ile cezalandırdık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/130.mp3"
       }
     },
     {
@@ -1570,6 +1960,9 @@
         "omer_nasuhi_bilmen": "Fakat onlara güzellik gelince, «Bu bizim hakkımızdır» dediler. Onlara bir kötülük isabet ederse Mûsa ile ve O’nunla beraber olanlar ile teşe’ümde bulunurlardı. Haberiniz olsun ki, onların şeameti ancak Allah tarafındandır. Fakat onların pek çokları bilmezler.",
         "hayrat_nesriyat": "İşte onlara iyilik geldiği zaman: `Bu bizim (hakkımız)dır` derler. Ama onlara bir kötülük isâbet ederse, Mûsâ ve onunla berâber olanları uğursuz sayarlardı. Dikkat edin! Onların uğursuzluğu (kendi amellerinden olup) ancak Allah katındandır; fakat onların çoğu bilmezler.",
         "diyanet_vakfi": "Onlara bir iyilik (bolluk) gelince, «Bu bizim hakkımızdır» derler; eğer kendilerine bir fenalık gelirse Musa ve onunla beraber olanları uğursuz sayarlardı. Bilesiniz ki, onlara gelen uğursuzluk Allah katındandır, fakat onların çoğu bunu bilmezler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/131.mp3"
       }
     },
     {
@@ -1582,6 +1975,9 @@
         "omer_nasuhi_bilmen": "Ve dediler ki: «Kendisiyle bize sihir etmek için bize her ne mûcize getirirsen getir, biz sana imân edecek değiliz.»",
         "hayrat_nesriyat": "Ve dediler ki: `Bizi kendisiyle sihirlemek için her ne olursa olsun onu bize mu`cize getirsen de biz sana îmân edici kimseler değiliz.`",
         "diyanet_vakfi": "Ve dediler ki: «Bizi sihirlemek için ne mucize getirirsen getir, biz sana inanacak değiliz.»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/132.mp3"
       }
     },
     {
@@ -1594,6 +1990,9 @@
         "omer_nasuhi_bilmen": "Artık biz onların üzerine ayrı ayrı harikalar olmak üzere tufanı, çekirgeleri, böcekleri, kurbağaları, kanı gönderdik. Yine böbürlendiler ve günahkârlar olan bir kavim oldular.",
         "hayrat_nesriyat": "Artık (biz de) onların üzerine ayrı ayrı mu`cizeler olarak; tûfan, çekirge, haşerât, kurbağalar ve (sularına) kan gönderdik, buna rağmen büyüklük tasladılar ve bir günahkârlar topluluğu oldular.",
         "diyanet_vakfi": "Biz de ayrı ayrı mucizeler olarak onların üzerine tufan, çekirge, haşere, kurbağalar ve kan gönderdik; yine de büyüklük tasladılar ve günahkâr bir kavim oldular."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/133.mp3"
       }
     },
     {
@@ -1606,6 +2005,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki onların üzerlerine azap çöktü. Dediler ki: «Ya Mûsa! Bizim için Rabbine dua et, sana olan ahdi hürmetine eğer bizden azabı açarsa, andolsun ki sana elbette imân ederiz ve elbette seninle beraber İsrailoğullarını göndeririz.»",
         "hayrat_nesriyat": "Derken üzerlerine o kötülük (o azab) çökünce: `Ey Mûsâ! Senin yanında olan(sana) verdiği söz hürmetine bizim için Rabbine duâ et; yemîn olsun ki, eğer bizden azâbı kaldırırsan, sana mutlaka îmân edeceğiz ve muhakkak İsrâiloğullarını seninle berâber göndereceğiz!` dediler.",
         "diyanet_vakfi": "Azap üzerlerine çökünce, «Ey Musa! sana verdiği söz hürmetine, bizim için Rabbine dua et; eğer bizden azabı kaldırırsan, mutlaka sana inanacağız ve muhakkak İsrailoğullarını seninle göndereceğiz» dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/134.mp3"
       }
     },
     {
@@ -1618,6 +2020,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki onların erişecekleri bir müddete kadar kendilerinden azabı açıverdik. Onlar derhal yeminlerini bozar oldular.",
         "hayrat_nesriyat": "Nihâyet onların kendisine erişici oldukları bir vakte kadar (biz) kendilerindenazâbı kaldırınca, onlar hemen yeminlerini bozdular.",
         "diyanet_vakfi": "Biz, ulaşacakları bir müddete kadar onlardan azabı kaldırınca hemen sözlerinden dönüverdiler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/135.mp3"
       }
     },
     {
@@ -1630,6 +2035,9 @@
         "omer_nasuhi_bilmen": "Artık Biz de onlardan intikam aldık, onları derin denizde gark ettik, onlar âyetlerimizi tekzîp ettikleri ve onlardan gâfil bulundukları için.",
         "hayrat_nesriyat": "Bunun üzerine (biz de) gerçekten onların âyetlerimizi yalanlamaları ve onlardan gafil kişiler olmaları sebebiyle kendilerinden intikam aldık da onları denizde boğduk.",
         "diyanet_vakfi": "Biz de âyetlerimizi yalanlamaları ve onlardan gafil kalmaları sebebiyle kendilerinden intikam aldık ve onları denizde boğduk."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/136.mp3"
       }
     },
     {
@@ -1642,6 +2050,9 @@
         "omer_nasuhi_bilmen": "Ve zayıf, hakîr görülen o kavmini, kendisinde feyz ve bereket vücuda getirmiş olduğumuz yerin şark cihetlerine ve garp taraflarına varis kıldık. Ve Rabbinin güzel kelimesi İsrailoğulları üzerine sabreder oldukları sebebiyle tamam oldu. Ve Fir’avun ve kavminin yapmakta oldukları şeyleri ve yükseltmekte oldukları binaları tamamen helâk ettik.",
         "hayrat_nesriyat": "(Öteden beri) güçsüz düşürülmekte olan kavmi ise, kendisini bereketli kıldığımız yerin (Şam ve Mısır`ın) doğularına ve batılarına vâris kıldık. Böylece Rabbinin İsrâiloğullarına olan o pek güzel söz, sabretmeleri sebebiyle tamâmen yerine geldi. Fir`avun`un ve kavminin yapmakta olduğu (sarayları)nı ve yükseltmekte oldukları (köşk ve bahçeleri)ni ise, harâb ettik.",
         "diyanet_vakfi": "Hor görülüp ezilmekte olan o kavmi (yahudileri) de, içini bereketle doldurduğumuz yerin doğu taraflarına ve batı taraflarına mirasçı kıldık. Sabırlarına karşılık Rabbinin İsrailoğullarına verdiği güzel söz yerine geldi. Firavun ve kavminin yapmakta olduklarını ve yetiştirdikleri bahçeleri helâk ettik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/137.mp3"
       }
     },
     {
@@ -1654,6 +2065,9 @@
         "omer_nasuhi_bilmen": "Ve İsrailoğullarını denizden geçirdik. Kendilerine ait birtakım putlara ibadette bulunan bir kavme uğradılar. Dediler ki: «Ya Mûsa! Bize de put yap, nasıl ki onların putları vardır.» Dedi ki: «Muhakkak siz cahillik eder bir kavimsiniz.»",
         "hayrat_nesriyat": "Hem İsrâiloğullarını denizden geçirdik; derken kendilerine mahsus birtakım putlara tapan bir kavme rastladılar. Dediler ki: `Ey Mûsâ! Onların nasıl birtakım ilâhları varsa, (sen de) bize (öyle) bir ilâh yap!` (Mûsâ da:) `Hakikaten siz câhillik etmekte olan bir kavimsiniz!` dedi.",
         "diyanet_vakfi": "İsrailoğullarını denizden geçirdik, orada kendilerine mahsus birtakım putlara tapan bir kavme rastladılar. Bunun üzerine: Ey Musa! Onların tanrıları olduğu gibi, sen de bizim için bir tanrı yap! dediler. Musa: Gerçekten siz cahil bir toplumsunuz, dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/138.mp3"
       }
     },
     {
@@ -1666,6 +2080,9 @@
         "omer_nasuhi_bilmen": "«Şüphe yok ki, bunların içinde bulundukları şey helâke maruzdur ve amel eder oldukları şey de bâtıldır.»",
         "hayrat_nesriyat": "`Şübhesiz ki bunlar (yok mu), kendilerinin içinde bulundukları şey (, bâtıl dinleri) helâke mahkûmdur ve yapmakta oldukları şey bâtıldır.`",
         "diyanet_vakfi": "Şüphesiz bunların içinde bulundukları (din) yıkılmıştır, yapmakta oldukları da bâtıldır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/139.mp3"
       }
     },
     {
@@ -1678,6 +2095,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Sizin için Allah Teâlâ’dan başka bir mabut mu taleb ederim? Halbuki o sizi âlemlerin üzerine tafdil etmiştir.»",
         "hayrat_nesriyat": "`O sizi âlemlere üstün kılmış iken, size Allah`dan başka ilâh mı arayacağım?` dedi.",
         "diyanet_vakfi": "Musa dedi ki: Allah sizi âlemlere üstün kılmışken ben size Allah’tan başka bir tanrı mı arayayım?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/140.mp3"
       }
     },
     {
@@ -1690,6 +2110,9 @@
         "omer_nasuhi_bilmen": "Ve (yâd ediniz ki) sizi Fir’avun’un âl’inden kurtarmıştık. Size azabın en şiddetlisini tattırıyorlardı. Oğullarınızı katlediyorlardı, kadınlarınızı da diri bırakıyorlardı. Ve bunda sizin için Rabbiniz tarafından büyük bir imtihan var idi.",
         "hayrat_nesriyat": "Hem bir zaman sizi Fir`avun ehlinden kurtarmıştık; (onlar) sizi azâbın en kötüsüne (evlâd acısına) ma`ruz bırakıyorlardı. (Yeni doğan) oğullarınızı öldürüp, kadınlarınızı (kız çocuklarınızı) ise hayatta bırakıyorlardı. İşte bunda, (size) Rabbinizden büyük bir imtihan vardı.",
         "diyanet_vakfi": "Hatırlayın ki, size işkencenin en kötüsünü yapan Firavun’un adamlarından sizi kurtardık. Onlar oğullarınızı öldürüyorlar, kadınlarınızı sağ bırakıyorlardı. İşte bunda size Rabbiniz tarafından büyük bir imtihan vardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/141.mp3"
       }
     },
     {
@@ -1702,6 +2125,9 @@
         "omer_nasuhi_bilmen": "Ve Mûsa ile otuz geceye vaadleştik ve onu bir on ile tamamladık, artık Rabbinin tayin ettiği vakit tam kırk gece oldu. Ve Mûsa kardeşi Harun’a dedi ki: «Sen kavmimin içinde benim halifem ol ve ıslaha çalış ve müfsidlerin yoluna tâbi olma.»",
         "hayrat_nesriyat": "Ve Mûsâ ile otuz gece için va`dleştik, hem bunu on (gece daha ilâve etmek) ile tamamladık; böylece Rabbisinin ta`yîn ettiği vakit, kırk geceye tamamlandı ve Mûsâ kardeşi Hârûn`a dedi ki: `Kavmimin içinde benim yerime geç, (onları) ıslâh et ve fesad çıkaranların yoluna uyma!`",
         "diyanet_vakfi": "(Bana ibadet etmesi için) Musa’ya otuz gece vade verdik ve ona on gece daha ilâve ettik; böylece Rabbinin tayin ettiği vakit kırk geceyi buldu. Musa, kardeşi Harun’a dedi ki: Kavmimin içinde benim yerime geç, onları ıslah et, bozguncuların yoluna uyma."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/142.mp3"
       }
     },
     {
@@ -1714,6 +2140,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki, Mûsa bizim tayin ettiğimiz vakte geldi ve O’na Rabbi tekellümde bulundu. Dedi ki: «Ya Rab! Bana zâtını göster, Sana bakayım. (Cenâb-ı Hak da) Buyurdu ki: «Sen Beni katiyyen göremezsin. Fakat dağa bir nazar et, eğer yerinde durabilirse sen de Beni görebilirsin.» Hemen Rabbi dağa tecelli edince onu parça parça etti. Mûsa da baygın bir halde düşüp kaldı. Vaktâ ki ayıldı, dedi ki: «Seni tenzih ederim, Sana tövbe ettim ve ben imân edenlerin ilkiyim.»",
         "hayrat_nesriyat": "Mûsâ ta`yîn ettiğimiz vakitte gelip de Rabbi ona hitab buyurunca: `Rabbim! Bana (kendini) göster; sana bakayım!` dedi. (Rabbi) buyurdu ki: `(Sen) beni (bu dünyada) aslâ göremezsin; fakat dağa bak, şayet (o)yerinde durabilirse, o takdirde (sen de) beni görebilirsin!` Derken Rabbi dağa tecellî edince onu paramparça etti; Mûsâ da bayılarak (yere) düştü! Nihâyet ayılınca: `(Rabbim!) Seni her noksanlıktan tenzîh ederim! (Bu talebimden dolayı) sana tevbe ettim ve ben îmân edenlerin ilkiyim!` dedi.",
         "diyanet_vakfi": "Musa tayin ettiğimiz vakitte (Tûr’a) gelip de Rabbi onunla konuşunca «Rabbim! Bana (kendini) göster; seni göreyim!» dedi. (Rabbi): «Sen beni asla göremezsin. Fakat şu dağa bak, eğer o yerinde durabilirse sen de beni göreceksin!» buyurdu. Rabbi o dağa tecelli edince onu paramparça etti, Musa da baygın düştü. Ayılınca dedi ki: Seni noksan sıfatlardan tenzih ederim, sana tevbe ettim. Ben inananların ilkiyim."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/143.mp3"
       }
     },
     {
@@ -1726,6 +2155,9 @@
         "omer_nasuhi_bilmen": "Buyurdu ki: «Ya Mûsa! Muhakkak Ben, seni risâletlerimle ve kelâmım ile nâs üzerine ihtiyar ettim. İmdi sana verdiğimi al ve şükredicilerden ol.»",
         "hayrat_nesriyat": "(Allah) buyurdu ki: `Ey Mûsâ! Şübhesiz ki ben gönderdiklerimle (sana vahyettiklerimle) ve (seninle) konuşmamla seni insanların üzerine seçtim. Artık (lütfumdan)sana verdiğimi al ve şükredenlerden ol!`",
         "diyanet_vakfi": "(Allah) Ey Musa! dedi, ben risaletlerimle (sana verdiğim görevlerle) ve sözlerimle seni insanların başına seçtim. Sana verdiğimi al ve şükredenlerden ol."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/144.mp3"
       }
     },
     {
@@ -1738,6 +2170,9 @@
         "omer_nasuhi_bilmen": "Ve onun için levhâlârda her şeyden bir mev’iza yazdık ve her bir şeyi uzun uzadıya açıkladık. «Artık onu kuvvet ile tut ve kavmine emret, onu en güzeliyle tutsunlar. Elbette sizlere fâsıkların yurdunu göstereceğim.»",
         "hayrat_nesriyat": "Hem (biz,) bir nasîhat ve herşey için bir açıklama olmak üzere, ona (Tevrât`a âid) levhalarda herşeyi yazdık da (dedik ki): `Bunları kuvvetle tut, kavmine de emret, bunların (takvâ cihetiyle) en güzelini tutsunlar! Size, yakında (görüp ibret almanız için)fâsıkların (harâb olmuş) yurdunu göstereceğim.`",
         "diyanet_vakfi": "Nasihat ve her şeyin açıklamasına dair ne varsa hepsini Musa için levhalarda yazdık. (Ve dedik ki): Bunları kuvvetle tut, kavmine de onun en güzelini almalarını emret. Yakında size, yoldan çıkmışların yurdunu göstereceğim."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/145.mp3"
       }
     },
     {
@@ -1750,6 +2185,9 @@
         "omer_nasuhi_bilmen": "«Yerde haksız yere tekebbür edenleri elbette âyetlerimden çevireceğim.» Ve her bir âyeti görecek olsalar ona imân etmezler. Ve eğer hidâyet yolunu görseler onu bir yol edinmezler ve eğer dalâlet yolunu görecek olsalar onu yol tutuverirler. Bu da onların âyetlerimizi yalanlamalarından ve onlardan gâfil bulunduklarından dolayıdır.",
         "hayrat_nesriyat": "Yeryüzünde haksız yere kibirlenenleri (de) âyetlerimden yakında uzaklaştıracağım. (Onlar) her mu`cizeyi görseler de (yine) ona îmân etmezler. Hem hidâyet yolunu görseler, onu yol edinmezler. Fakat azgınlığın yolunu görseler, onu (hemen kendilerine) yol edinirler. Bunun sebebi, şübhesiz onların âyetlerimizi yalanlamaları ve onlardan gafil kimseler olmalarıdır.",
         "diyanet_vakfi": "Yeryüzünde haksız yere böbürlenenleri âyetlerimden uzaklaştıracağım. Onlar bütün mucizeleri görseler de iman etmezler. Doğru yolu görseler onu yol edinmezler. Fakat azgınlık yolunu görürlerse, hemen ona saparlar. Bu durum, onların âyetlerimizi yalanlamalarından ve onlardan gafil olmalarından ileri gelmektedir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/146.mp3"
       }
     },
     {
@@ -1762,6 +2200,9 @@
         "omer_nasuhi_bilmen": "Ve o kimseler ki, âyetlerimizi ve ahirete kavuşmayı tekzîp etmişlerdir. Onların amelleri bâtıl olmuştur. Başkasıyla değil, ancak kendi yaptıkları amelleriyle cezalandırılacaklardır.",
         "hayrat_nesriyat": "Âyetlerimizi ve âhirete kavuşmayı yalanlayanlara gelince, onların amelleri boşa gitmiştir. (Onlar) yapmakta olduklarından başka bir şeyle mi cezâlandırılacaklar(sanıyorlar)?",
         "diyanet_vakfi": "Halbuki âyetlerimizi ve ahirete kavuşmayı yalanlayanların amelleri boşa çıkmıştır. Onlar, yapmakta oldukları amellerden başka bir şey için mi cezalandırılırlar!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/147.mp3"
       }
     },
     {
@@ -1774,6 +2215,9 @@
         "omer_nasuhi_bilmen": "Ve Mûsa’nın kavmi, O’ndan sonra ziynet takımlarından bir buzağı böğürmesi olan bir heykel edindiler. Onlar görmediler mi ki, o kendileriyle konuşamaz ve onlara bir yol gösteremezdi. Onu (ilâh) edindiler ve zalimler oluverdiler.",
         "hayrat_nesriyat": "Ve kendisinin (Tûr dağına gitmesinin) ardından Mûsâ`nın kavmi, ziynet eşyâlarından (yapılmış) böğürmesi olan bir buzağı heykelini (ilâh) edindiler; görmediler mi ki gerçekten o, ne onlarla konuşuyor, ne de onlara bir yol gösteriyor! Onu (ilâh) edindiler ve zâlimler oldular.",
         "diyanet_vakfi": "(Tûr’a giden) Musa’nın arkasından kavmi, zinet takımlarından, böğürebilen bir buzağı heykelini (tanrı) edindiler. Görmediler mi ki o, onlarla ne konuşuyor ne de onlara yol gösteriyor? Onu (tanrı olarak) benimsediler ve zalimler oldular."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/148.mp3"
       }
     },
     {
@@ -1786,6 +2230,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki nedâmete düştüler ve kendilerinin hakikaten doğru yoldan çıkmış olduklarını gördüler. Dediler ki: «Eğer bize Rabbimiz merhamet etmezse ve bizi bağışlamazsa elbette büyük bir ziyana uğramışlardan olacağız.»",
         "hayrat_nesriyat": "Nihâyet (pişmanlık) ellerine düşürüldü (ve üzüntülerinden ellerini ısırır oldular)da, şübhesiz kendilerinin gerçekten saptıklarını görünce: `Yemîn olsun ki, eğer Rabbimiz bize merhamet etmez ve bize mağfiret etmezse, muhakkak hüsrâna uğrayanlardan olacağız!` dediler.",
         "diyanet_vakfi": "Pişman olup da kendilerinin gerçekten sapmış olduklarını görünce dediler ki: Eğer Rabbimiz bize acımaz ve bizi bağışlamazsa mutlaka ziyana uğrayanlardan olacağız!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/149.mp3"
       }
     },
     {
@@ -1798,6 +2245,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki, Mûsa kavmine gazaplı, pek kederli bir halde döndü, dedi ki: «Benden sonra bana ne kötü halef oldunuz! Rabbinizin emrini acele mi ediverdiniz?» Ve levhaları bıraktı ve kardeşinin başından tutarak kendisine doğru çekiverdi. (Kardeşi de) Dedi ki: «Ey anamın oğlu! Bu kavim muhakkak ki beni zayıf saydılar ve az kaldı beni öldürüyorlardı. Artık benimle düşmanları sevindirme ve beni zalimler olan kavim ile beraber kılma.»",
         "hayrat_nesriyat": "Böylece Mûsâ (Tûr dağından, onların yaptıklarından dolayı) kızgın ve üzgün olarak kavmine dönünce: `Bana ardımdan ne kötü halef oldunuz! Rabbinizin emrine(sabretmeden) acele mi ettiniz?` dedi. (Tevrât) levhaları(nı yere) bıraktı ve kardeşinin başından tuttu, onu kendine doğru çekmeye başladı. (Kardeşi de:) `(Ey) anamın oğlu! Doğrusu (bu) kavim beni hırpaladı ve nerede ise beni öldürüyorlardı! Artık düşmanları bana güldürme ve beni (bu) zâlimler gürûhuyla berâber tutma!` dedi.",
         "diyanet_vakfi": "Musa, kızgın ve üzgün bir halde kavmine dönünce: «Benden sonra arkamdan ne kötü işler yapmışsınız! Rabbinizin emrini (beklemeyip) acele mi ettiniz?» dedi. Tevrat levhalarını yere attı ve kardeşinin (Harun’un) başını tutup kendine doğru çekmeye başladı. (Kardeşi): «Anam oğlu! Bu kavim beni cidden zayıf gördüler ve nerede ise beni öldüreceklerdi. Sen de düşmanları bana güldürme ve beni bu zalim kavimle beraber tutma!» dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/150.mp3"
       }
     },
     {
@@ -1810,6 +2260,9 @@
         "omer_nasuhi_bilmen": "Dedi ki: «Yarabbi! Beni de kardeşimi de yarlığa ve bizi rahmetine idhal et. Ve sen merhamet edenlerin en merhametlisisin.»",
         "hayrat_nesriyat": "(Mûsâ:) `Rabbim! Bana ve kardeşime mağfiret eyle ve bizi rahmetine koy! Çünki sen, merhametlilerin en merhametlisisin!` dedi.",
         "diyanet_vakfi": "(Musa da) Ey Rabbim, beni ve kardeşimi bağışla, bizi rahmetine kabul et. Zira sen merhametlilerin en merhametlisisin! dedi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/151.mp3"
       }
     },
     {
@@ -1822,6 +2275,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki, o buzağıyı tanrı edinenlere elbette Rablerinden bir gazap ve dünya hayatında bir zillet erişecektir. Ve işte müfterileri böyle cezalandırırız.",
         "hayrat_nesriyat": "Şübhesiz ki buzağıyı (ilâh) edinenler yok mu, onlara yakında Rablerinden bir gazab ve dünya hayâtında bir zillet erişecektir. İşte iftirâ edenleri ise, böyle cezâlandırırız.",
         "diyanet_vakfi": "Buzağıyı (tanrı) edinenler var ya, işte onlara mutlaka Rablerinden bir gazap ve dünya hayatında bir alçaklık erişecektir. Biz iftiracıları böyle cezalandırırız."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/152.mp3"
       }
     },
     {
@@ -1834,6 +2290,9 @@
         "omer_nasuhi_bilmen": "Ve o kimseler ki, kötülükleri işlemişler, sonra onun arkasından tövbekar olmuş ve imân etmişlerdir. Şüphe yok ki, ondan sonra Rabbin elbette (onları) yarlığayıcıdır, hakkıyla esirgeyicidir.",
         "hayrat_nesriyat": "Kötülükleri yapıp da sonra ardından tevbe edip îmân edenler ise, muhakkak ki Rabbin bunun (bu tevbenin) ardından, elbette Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
         "diyanet_vakfi": "Kötülükler yaptıktan sonra ardından tevbe edip de iman edenlere gelince, şüphesiz ki o tevbe ve imandan sonra, Rabbin elbette bağışlayan ve esirgeyendir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/153.mp3"
       }
     },
     {
@@ -1846,6 +2305,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki, Mûsa’dan o öfke sükûnet buldu. Levhaları alıverdi ve onun nüshasında Rablerinden korkanlar için bir hidâyet ve bir rahmet olduğu yazılmış bulunuyordu.",
         "hayrat_nesriyat": "Nihâyet Mûsâ`nın öfkesi yatışınca, levhaları aldı. Onların (bir) nüshasında ise, o kimseler için bir hidâyet ve bir rahmet vardır ki, onlar Rablerinden korkarlar.",
         "diyanet_vakfi": "Musa’nın öfkesi dinince levhaları aldı. Onlardaki yazıda Rablerinden korkanlar için hidayet ve rahmet (haberi) vardı."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/154.mp3"
       }
     },
     {
@@ -1858,6 +2320,9 @@
         "omer_nasuhi_bilmen": "Ve Mûsa, kavminden yetmiş erkeği tayin ettiğimiz vakit için seçmişti. Vaktâ ki, onları saika yakaladı, dedi ki: «Yarabbi! Eğer dilese idin onları ve beni daha evvel helâk ederdin. Bizden birtakım sefihlerin yaptıkları şey sebebiyle bizi helâk eder misin? Bu ancak Senin bir imtihanındır, bununla dilediğini saptırırsın ve Sen dilediğini hidâyete kavuşturursun. Sen bizim velîmizsin, artık bize mağfiret buyur ve bize rahmet et ve Sen mağfiret edenlerin en hayırlısısın.»",
         "hayrat_nesriyat": "Ve Mûsâ, ta`yîn ettiğimiz vakit(te ta`yîn ettiğimiz yere gelip mağfiret dilemeleri)için kavminden (buzağıya tapmayan) yetmiş adam seçti. Onları da o şiddetli sarsıntı yakalayınca (Mûsâ) dedi ki: `Rabbim! Eğer dileseydin (buzağıya tapanlara engel olmadıkları ve onları terk etmedikleri için) onları da (ve dileseydin) beni de daha önce helâk ederdin. İçimizden bazı beyinsizlerin yaptığı şeyler yüzünden bizi helâk mı edeceksin? (Helâk etme yâ Rabbî!) Bu, senin imtihânından başka bir şey değildir. Onunla kimi dilersen(küfürlerindeki ısrarları sebebiyle) dalâlete atar, kimi de dilersen (hikmetine binâen kendi lütfundan) hidâyete erdirirsin. Sen bizim velîmizsin; artık bize mağfiret eyle; ve bize merhamet buyur; çünki sen bağışlayanların en hayırlısısın!`",
         "diyanet_vakfi": "Musa tayin ettiğimiz vakitte kavminden yetmiş adam seçti. Onları o müthiş deprem yakalayınca Musa dedi ki: «Ey Rabbim! Dileseydin onları da beni de daha önce helâk ederdin. İçimizden birtakım beyinsizlerin işlediği (günah) yüzünden hepimizi helâk edecek misin? Bu iş, senin imtihanından başka bir şey değildir. Onunla dilediğini saptırırsın, dilediğini de doğru yola iletirsin. Sen bizim sahibimizsin, bizi bağışla ve bize acı! Sen bağışlayanların en iyisisin!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/155.mp3"
       }
     },
     {
@@ -1870,6 +2335,9 @@
         "omer_nasuhi_bilmen": "«Ve bizim için bu dünyada da ve ahirette de bir iyilik yaz. Biz muhakkak ki Sana döndük.» Buyurdu ki: «Azabımdır. Bununla dilediğimi mus’ab ederim. Rahmetim ise herşeyi kuşatmıştır. Onu ittikada bulunanlar ve zekâtlarını verenler ve Bizim âyetlerimize imân edenler için elbette yazacağım.»",
         "hayrat_nesriyat": "Ve (Mûsâ:) `Bize bu dünyada da, âhirette de iyilik yaz; şübhesiz ki biz sana yöneldik.` (dedi). (Allah ise) buyurdu ki: `Azâbımı, (kötülük yapanlardan) dilediğime isâbet ettiririm. Rahmetim ise herşeyi kaplamıştır. Fakat (âhirette) onu (günahlardan)sakınanlara, zekâtı verenlere ve âyetlerimize îmân edenlere yazacağım!`",
         "diyanet_vakfi": "Bize, bu dünyada da iyilik yaz ahirette de. Şüphesiz biz sana döndük.» Allah buyurdu ki: Kimi dilersem onu azabıma uğratırım; rahmetim ise her şeyi kuşatır. Onu, sakınanlara, zekâtı verenlere ve âyetlerimize inananlara yazacağım."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/156.mp3"
       }
     },
     {
@@ -1882,6 +2350,9 @@
         "omer_nasuhi_bilmen": "O kimseler ki, Resûle, Nebiyy-i Ümmî olana tâbi olurlar. O nebi ki, O’nu yanlarındaki Tevrat’ta ve İncil’de yazılmış bulurlar. Onlara mâruf ile emreder ve onları münkerden nehy eyler ve onlara temiz olan şeyleri helâl kılar, onların üzerine habis şeyleri de haram kılar. Ve onlardan ağır yüklerini ve üzerlerinde bulunan bağları kaldırır, artık o kimseler ki O’na imân ederler ve O’na tazîmde ve yardımda bulunurlar ve onunla beraber indirilmiş olan Nûr’a tâbi oluverirler, işte felâh bulanlar onlardan ibarettir.",
         "hayrat_nesriyat": "(Onlar, Mûsâ ve Îsâ`ya îmân edip tâbi` oldukları gibi) yanlarındaki Tevrât ve İncîl`de kendisini (ismini ve sıfatlarını) yazılı buldukları o resûle, o ümmî peygambere(Muhammed`e de) tâbi` olanlardır. (O peygamber) onlara iyiliği emreder ve onları kötülükten yasaklar; hem onlara temiz şeyleri helâl, pis şeyleri ise üzerlerine haram kılar; hem onların ağırlıklarını (ağır mükellefiyetlerini) ve üzerlerinde olan zincirleri (tatbîkı zor hükümleri) indirir. Artık ona îmân eden, ona hürmet eden, ona yardım eden ve onunla berâber indirilen nûra(Kur`ân`a) tâbi` olanlar var ya, işte onlar gerçekten kurtuluşa erenlerdir!",
         "diyanet_vakfi": "Yanlarındaki Tevrat ve İncil’de yazılı buldukları o elçiye, o ümmî Peygamber’e uyanlar (var ya), işte o Peygamber onlara iyiliği emreder, onları kötülükten meneder, onlara temiz şeyleri helâl, pis şeyleri haram kılar. Ağırlıklarını ve üzerlerindeki zincirleri indirir. O Peygamber’e inanıp ona saygı gösteren, ona yardım eden ve onunla birlikte gönderilen nûr’a (Kur’an’a) uyanlar var ya, işte kurtuluşa erenler onlardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/157.mp3"
       }
     },
     {
@@ -1894,6 +2365,9 @@
         "omer_nasuhi_bilmen": "De ki: «Ey nâs! Şüphe yok ki ben hepinize Allah Teâlâ’nın bir resûlüyüm. Öyle Allah ki, göklerin ve yerin mülkü O’na mahsustur. O’ndan başka ilâh yoktur. Hem diriltir ve hem öldürür. Artık Allah Teâlâ’ya ve bir Nebiyy-i Ümmî olup Allah’a ve O’nun kelimelerine inanan Resûlüne imân ediniz, ve O’na tâbi olunuz ki, hidâyete erişebilesiniz.»",
         "hayrat_nesriyat": "(Habîbim, yâ Muhammed!) De ki: `Ey insanlar! Muhakkak ki ben, sizin hepinize, göklerin ve yerin mülkü kendisinin olan Allah`ın (gönderdiği) peygamberiyim. O`ndan başka ilâh yoktur; (O) hayat verir ve (O) öldürür. Öyleyse Allah`a ve O`nun ümmî peygamber olan Resûlüne îmân edin; o (peygamber) ki, Allah`a ve O`nun kelimelerine(kitablarına) îmân eder; ona tâbi` olun ki hidâyete eresiniz.`",
         "diyanet_vakfi": "De ki: Ey insanlar! Gerçekten ben sizin hepinize, göklerin ve yerin sahibi olan Allah’ın elçisiyim. Ondan başka tanrı yoktur, O diriltir ve öldürür. Öyle ise Allah’a ve ümmî Peygamber olan Resûlüne -ki o, Allah’a ve onun sözlerine inanır- iman edin ve O’na uyun ki doğru yolu bulasınız."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/158.mp3"
       }
     },
     {
@@ -1906,6 +2380,9 @@
         "omer_nasuhi_bilmen": "Ve Mûsa’nın kavminden bir cemaat de vardır ki, hak ile hidâyete erdirirler ve hak ile adâlette bulunurlar.",
         "hayrat_nesriyat": "Mûsâ`nın kavminden bir cemâat de vardır ki, (insanlara) hak ile doğru yolu gösterirler ve onunla adâleti tatbîk ederler.",
         "diyanet_vakfi": "Musa’nın kavminden hak ile doğru yolu bulan ve onun sayesinde âdil davranan bir topluluk vardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/159.mp3"
       }
     },
     {
@@ -1918,6 +2395,9 @@
         "omer_nasuhi_bilmen": "Ve Biz onları oniki kadar kabilelere; ümmetlere ayırdık ve Mûsa’ya kavmi kendisinden su istedikleri vakit vahyettik ki, «Asan ile taşa vur.» Ondan oniki pınar kaynayıp akmaya başladı. Onlardan her kabile su içeceği yeri bildi. Ve onların üzerine bulutları gölgelik yaptık. Ve onların üzerine kudret helvası ile bıldırcın indirdik. Size rızık olarak verdiğimiz şeylerin temizlerinden yeyiniz (dedik). Ve onlar Bize zulmetmediler velâkin kendi nefislerine zulmeder oldular.",
         "hayrat_nesriyat": "Onları (İsrâiloğullarını) on iki kabîleye, ümmetlere ayırdık. (Tîh çölünde) kavmi kendisinden su isteyince Mûsâ`ya: `Asânla taşa vur!` diye vahyettik. (Taşa vurunca)hemen ondan on iki pınar fışkırdı! Her kabîle (su) içeceği yeri iyice bildi! Hem üzerlerini bulutlarla gölgeledik ve onlara kudret helvası ile bıldırcın indirdik. `Sizi rızıklandırdığımız temiz şeylerden yiyin!` (dedik). Hâlbuki (onlar, nankörlük etmekle) bize zulmetmediler; fakat kendilerine zulmediyorlardı.",
         "diyanet_vakfi": "Biz İsrailoğullarını oymaklar halinde oniki kabileye ayırdık. Kavmi kendisinden su isteyince, Musa’ya, «Asanı taşa vur!» diye vahyettik. Derhal ondan oniki pınar fışkırdı. Her kabile içeceği yeri belledi. Sonra üzerlerine bulutla gölge yaptık, onlara kudret helvası ve bıldırcın eti indirdik. (Onlara dedik ki) «Size verdiğimiz rızıkların temizlerinden yeyin.» Ama onlar (emirlerimizi dinlememekle) bize değil kendilerine zulmediyorlardı."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/160.mp3"
       }
     },
     {
@@ -1930,6 +2410,9 @@
         "omer_nasuhi_bilmen": "Ve o vakti ki onlara denilmişti: «Şu beldede oturunuz. Ve ondan dilediğiniz yerde yeyiniz ve ’Hıtta’ deyiniz ve secde eder olduğunuz halde kapıya giriniz ki, size hatalarınızı bağışlayalım, muhsin olanlara (mükâfaatlarını) elbette arttıracağızdır.»",
         "hayrat_nesriyat": "Bir zaman onlara şöyle denilmişti: `Şu şehre (Kudüs`e) yerleşin; ondan dilediğiniz yerde yiyin; ` حِطَّةٌ (Yâ Rab! Bizi affet!)` deyin ve kapıdan secde eden (hürmetle eğilen)kimseler olarak girin ki sizin hatâlarınızı bağışlayalım. (Bu bağışlamadan sonra) yakında iyilik edenlere (mükâfâtlarını) daha da artıracağız.`",
         "diyanet_vakfi": "Onlara denildi ki: Şu şehirde (Kudüs’te) yerleşin, ondan (nimetlerinden) dilediğiniz gibi yeyin, «bağışlanmak istiyoruz» deyin ve kapıdan eğilerek girin ki hatalarınızı bağışlayalım. İyilik yapanlara ileride ihsanımızı daha da artıracağız."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/161.mp3"
       }
     },
     {
@@ -1942,6 +2425,9 @@
         "omer_nasuhi_bilmen": "Fakat onlardan zulmedenler, kendilerine denilen sözü başka bir söze çevirdiler. Artık onların üzerlerine zulmeder oldukları şey sebebiyle gökten bir azap salıverdik.",
         "hayrat_nesriyat": "Fakat içlerinden zulmedenler, o sözü kendilerine söylenenden başkasıyla değiştirdi; bu sebeble (biz de) zulmetmekte olduklarından dolayı üzerlerine gökten kötü bir azab gönderdik.",
         "diyanet_vakfi": "Fakat onlardan zalim olanlar, sözü, kendilerine söylenenden başkasıyla değiştirdiler. Biz de zulmetmelerinden ötürü üzerlerine gökten bir azap gönderdik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/162.mp3"
       }
     },
     {
@@ -1954,6 +2440,9 @@
         "omer_nasuhi_bilmen": "Ve onlara denizin kenarında bulunan beldeden sual et. O zaman ki onlar cumartesi gününde haddi tecavüz eder olmuşlardı. O vakit onlara cumartesi günlerinde balıklar çokça zahir olarak gelirlerdi. Cumartesinin gayrı günlerinde ise gelmezlerdi. İşte onları yapar oldukları fıskları sebebiyle böylece imtihan ederiz.",
         "hayrat_nesriyat": "(Ey Resûlüm!) Onlara (o yahudilere), deniz kenarındaki o şehir (halkının hâlin)den sor! Bir zaman (onlar) Cumartesi gününde (o günün hürmetini ihlâl ederek)haddi aşıyorlardı; onlara balıkları Cumartesi günlerinde, suyun yüzüne çıkarak geliyordu; Cumartesi ta`tîli yapmıyor oldukları gün ise, onlara gelmiyordu. İsyân etmekte olduklarından dolayı onları böyle imtihân ediyorduk.",
         "diyanet_vakfi": "Onlara, deniz kıyısında bulunan şehir halkının durumunu sor. Hani onlar cumartesi gününe saygısızlık gösterip haddi aşıyorlardı. Çünkü cumartesi tatili yaptıkları gün, balıklar meydana çıkarak akın akın onlara gelirdi, cumartesi tatili yapmadıkları gün de gelmezlerdi. İşte böylece biz, yoldan çıkmalarından dolayı onları imtihan ediyorduk."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/163.mp3"
       }
     },
     {
@@ -1966,6 +2455,9 @@
         "omer_nasuhi_bilmen": "Ve hani onlardan bir cemaat de dedi ki: «Allah Teâlâ’nın kendilerini helâk edeceği ve şiddetli bir azap ile muazzep kılacağı bir gürûha ne için nasihatta bulunuyorsunuz?» Dediler ki: «Rabbinize karşı itizarda bulunmak için.» Ve umulur ki, ittikada bulunurlar.",
         "hayrat_nesriyat": "Hani içlerinden bir cemâatte: `Allah`ın kendilerini helâk edici olduğu veya şiddetli bir azâb ile onları cezâlandırıcı olduğu bir kavme ne diye nasîhat ediyorsunuz?` demişti. (Nasîhat edenler ise:) `Rabbinize bir ma`zeret (beyân etmek) için, bir de umulur ki(günah işlemekten) sakınırlar diye (nasîhat ediyoruz)!` dediler.",
         "diyanet_vakfi": "İçlerinden bir topluluk: «Allah’ın helâk edeceği yahut şiddetli bir şekilde azap edeceği bir kavme ne diye öğüt veriyorsunuz?» dedi. (Öğüt verenler) dediler ki: Rabbinize mazeret beyan edelim diye bir de sakınırlar ümidiyle (öğüt veriyoruz)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/164.mp3"
       }
     },
     {
@@ -1978,6 +2470,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki onlar hatırlandırıldıklarını unuttular, kötülükten nehyedenleri necâta nâil ettik ve zulmedenleri de yapar oldukları fısklar sebebiyle şiddetli bir azap ile yakaladık.",
         "hayrat_nesriyat": "Artık ne zaman ki (onlar) kendilerine yapılan nasîhatleri unuttular, (biz de)kötülükten yasaklayanları kurtardık; zulmedenleri de isyân etmekte olduklarından dolayı şiddetli bir azâb ile yakaladık!",
         "diyanet_vakfi": "Onlar kendilerine yapılan uyarıları unutunca, biz de kötülükten men edenleri kurtardık, zulmedenleri de yapmakta oldukları kötülüklerden ötürü şiddetli bir azap ile yakaladık."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/165.mp3"
       }
     },
     {
@@ -1990,6 +2485,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki, nehyolundukları şeylerden dolayı serkeşlikte bulundular, onlara, «Zelil maymunlar olunuz!» deyiverdik.",
         "hayrat_nesriyat": "Buna rağmen (onlar), kendisinden yasaklandıkları şeylerde (ısrâr ile) isyân ettiklerinde, (biz de) onlara: `Aşağılık kimseler olarak, maymunlar olun!` dedik.",
         "diyanet_vakfi": "Kibirlenip de kendilerine yasak edilen şeylerden vazgeçmeyince onlara: Aşağılık maymunlar olun! dedik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/166.mp3"
       }
     },
     {
@@ -2002,6 +2500,9 @@
         "omer_nasuhi_bilmen": "Ve hatırlat onlara, o vakit Rabbin bildirmiş oldu ki, elbette Kıyamet gününe kadar onların üzerine onlara en kötü azap ile işkencede bulunacak kimseler gönderecek. Şüphe yok ki, Rabbin elbette Seriû’i-İkâb’tır ve şüphe yok ki, O elbette gafûrdur, rahîmdir.",
         "hayrat_nesriyat": "Bir vakit de Rabbin, muhakkak onların üzerine kıyâmet gününe kadar, kendilerini azâbın en kötüsüne ma`ruz bırakacak kimseleri göndereceğini i`lân etmişti. Şübhesiz ki Rabbin, elbette azâbı çabuk verendir. Yine muhakkak ki O, gerçekten Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
         "diyanet_vakfi": "Rabbin, elbette kıyamet gününe kadar onlara en kötü eziyeti yapacak kimseler göndereceğini ilân etti. Şüphesiz Rabbin cezayı çabuk verendir. Ve O çok bağışlayan, pek esirgeyendir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/167.mp3"
       }
     },
     {
@@ -2014,6 +2515,9 @@
         "omer_nasuhi_bilmen": "Ve onları yeryüzünde parça parça ümmetler kıldık. Onlardan sâlih kimseler vardır. Ve onlardan onun dûnunda kimseler de vardır. Ve onları iyiliklerle ve kötülüklerle imtihan ettik, tâ ki (fenalıklarından) dönüversinler.",
         "hayrat_nesriyat": "Onları (o yahudileri) ise yeryüzünde parça parça topluluklar hâlinde böldük. Onlardan bir kısmı sâlih kimselerdir, bir kısmı da bundan aşağıdır. Onları iyiliklerle ve kötülüklerle imtihân ettik; tâ ki (kötülüklerden) dönsünler.",
         "diyanet_vakfi": "Onları (yahudileri) gurup gurup yeryüzüne dağıttık. Onlardan iyi kimseler vardır, yine onlardan bundan aşağıda olanları da vardır. (Kötülüklerinden) belki dönerler diye onları iyilik ve kötülüklerle imtihan ettik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/168.mp3"
       }
     },
     {
@@ -2026,6 +2530,9 @@
         "omer_nasuhi_bilmen": "Onlardan sonra birtakım kimseler halef oldu, kitaba varis oldular, bu den’î varlığın fani meta’ını alır dururlar ve derler ki: «Elbette biz ileride mağfiret olunacağız.» Ve onlara onun misli bir meta’ gelecek olsa onu da alıverirler. Onlardan Allah Teâlâ’ya karşı haktan başkasını söylemeyeceklerine dair o kitabın misakı (onun hükmü veçhile bir ahd) alınmamış mı idi? Halbuki, onlar o kitaptakini okumuşlardı. Ahiret evi ise muttakîler için hayırlıdır. Hâlâ (buna) akıl erdiremiyecek misiniz?",
         "hayrat_nesriyat": "Buna rağmen onların ardından yerlerine, Kitâb`a vâris olan birtakım (kötü) kimseler geldi; şu değersiz dünyanın geçici menfaatini alıyorlar ve: `(Nasıl olsa) bize mağfiret edilecek!` diyorlar. Fakat kendilerine, ona benzer bir menfaat daha gelse onu da alırlar.Allah`a karşı haktan başka bir şey söylemeyecek lerine dâir Kitab`da ken dilerinden sağlam söz alınma mış mıydı? Ve onun içindekini okumamışlar mıy dı? Hâlbuki âhiret yurdu,(günahlardan) sakınanlar için daha hayırlıdır. Hiç akıl erdirmez misiniz?",
         "diyanet_vakfi": "Onların ardından da (âyetleri tahrif karşılığında) şu değersiz dünya malını alıp, nasıl olsa bağışlanacağız, diyerek Kitab’a vâris olan birtakım kötü kimseler geldi. Onlara, ona benzer bir menfaat daha gelse onu da alırlar. Peki, Kitap’ta Allah hakkında gerçekten başka bir şey söylemeyeceklerine dair onlardan söz alınmamış mıydı ve onlar Kitap’takini okumamışlar mıydı? Âhiret yurdu sakınanlar için daha hayırlıdır. Hâla aklınız ermiyor mu?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/169.mp3"
       }
     },
     {
@@ -2038,6 +2545,9 @@
         "omer_nasuhi_bilmen": "Ve o kimseler ki kitaba sarılırlar ve namazı dosdoğru kılmış bulunurlar. Şüphe yok ki, Biz (öyle) muslih kimselerin mükâfaatını zâyi etmeyiz.",
         "hayrat_nesriyat": "Kitâb`a sımsıkı tutunup namazı hakkıyla edâ edenler ise (bilsinler ki), şübhesiz biz, iyilik için çalışanların mükâfâtını zâyi` etmeyiz.",
         "diyanet_vakfi": "Kitab’a sımsıkı sarılıp namazı dosdoğru kılanlar var ya, işte biz böyle iyiliğe çalışanların ecrini zayi etmeyiz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/170.mp3"
       }
     },
     {
@@ -2050,6 +2560,9 @@
         "omer_nasuhi_bilmen": "Ve bir vakit, dağı sanki o bir gölgelik imiş gibi onların üstlerine koparıp kaldırmıştı. Ve sandılar ki, o hakikaten üstlerine düşecek. (Onlara dedik ki:) «Size verdiğimizi kuvvetle tutun, ve onda olanı zikrediniz, ihtimal ki, sakınırsınız.»",
         "hayrat_nesriyat": "Bir zaman (Tûr) dağı(nı), bir gölgelikmiş gibi üzerlerine kaldırmıştık da, gerçekten onu (üstlerine düştü düşecek) olan bir şey zannetmişlerdi. (Onlara:) `Size verdiğimizi(Kitâb`ı) kuvvetle tutun ve içinde olanları hatırlayın, tâ ki (ona muhâlefetten) sakınasınız!`(diye emretmiştik).",
         "diyanet_vakfi": "Bir zamanlar dağı İsrailoğullarının üzerine gölge gibi kaldırdık da üstlerine düşecek sandılar. «Size verdiğimi (Kitab’ı) kuvvetle tutun ve içinde olanı hatırlayın ki korunasınız» dedik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/171.mp3"
       }
     },
     {
@@ -2062,6 +2575,9 @@
         "omer_nasuhi_bilmen": "Ve o zaman ki, Rabbin ademoğullarından, onların sırtlarından zürriyetlerini aldı. Ve onları kendi nefisleri üzerine şahit tuttu. «Ben sizin Rabbiniz değil miyim?» dedi, (onlar da) «Evet. Şahidiz» dediler. (Bu da) Kıyamet günü, «Biz bundan muhakkak ki gâfiller idik,» demeyesiniz içindir.",
         "hayrat_nesriyat": "Hani Rabbin, Âdemoğullarının bellerinden zür riyetlerini çıkarıp da onları kendilerine karşı şâhid tutmuştu (ve buyurmuştu ki:) `(Ben) sizin Rabbiniz değil miyim?` (Bütün ruhlar) قاَلُو بَلٰي (dediler ki:) `(Evet! Sen bizimRabbimizsin!) Şâhid olduk!` Tâ ki kıyâmet günü: `Doğrusu biz bundan habersiz kimselerdik!` demeyesiniz.",
         "diyanet_vakfi": "Kıyamet gününde, biz bundan habersizdik demeyesiniz diye Rabbin Âdem oğullarından, onların bellerinden zürriyetlerini çıkardı, onları kendilerine şahit tuttu ve dedi ki: Ben sizin Rabbiniz değil miyim? (Onlar da), Evet (buna) şâhit olduk, dediler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/172.mp3"
       }
     },
     {
@@ -2074,6 +2590,9 @@
         "omer_nasuhi_bilmen": "Veya demeyesiniz ki, «Muhakkak babalarımız daha evvel şerik koşmuşlardı. Ve biz ise onlardan sonra bir zürriyet olduk. Bizi mubtıl olanların yaptıkları ile helâk mı edeceksin?»",
         "hayrat_nesriyat": "Veya: `Daha önce ancak atalarımız şirk koşmuştu; (biz ise) onlardan sonra gelen bir nesil idik. Artık bâtılı (şirki, yeryüzüne) yerleştirenlerin yaptıkları yüzünden bizi helâk mı edeceksin?` demeyesiniz diye (böyle yaptık).",
         "diyanet_vakfi": "Yahut «Daha önce babalarımız Allah’a ortak koştu, biz de onlardan sonra gelen bir nesildik (onların izinden gittik). Bâtıl işleyenlerin yüzünden bizi helâk edecek misin?» dememeniz için (böyle yaptık)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/173.mp3"
       }
     },
     {
@@ -2086,6 +2605,9 @@
         "omer_nasuhi_bilmen": "Ve Biz işte âyetleri böyle mufassalan beyan ederiz ve gerektir ki (küfürlerinden) dönüversinler",
         "hayrat_nesriyat": "Olur ki (küfürlerinden) dönerler diye âyetleri böyle açıklarız.",
         "diyanet_vakfi": "Belki inkârdan dönerler diye âyetleri böyle ayrıntılı bir şekilde açıklıyoruz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/174.mp3"
       }
     },
     {
@@ -2098,6 +2620,9 @@
         "omer_nasuhi_bilmen": "Onlara o kimsenin haberini de oku ki, o kimseye âyetlerimizi vermiştik, onlardan sıyrılıp ayrıldı. Şeytan da onu kendisine tâbi kıldı. Artık sapıklardan olmuş oldu.",
         "hayrat_nesriyat": "(Ey Resûlüm!) Onlara (o yahudilere) şu kimsenin haberini de oku ki, kendisine âyetlerimizi verdik de (o inkâr ederek) onlardan sıyrılıp çıktı; bunun üzerine şeytan onu peşine taktı; böylece azgınlardan oldu.",
         "diyanet_vakfi": "Onlara (yahudilere), kendisine âyetlerimizden verdiğimiz ve fakat onlardan sıyrılıp çıkan, o yüzden de şeytanın takibine uğrayan ve sonunda azgınlardan olan kimsenin haberini oku."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/175.mp3"
       }
     },
     {
@@ -2110,6 +2635,9 @@
         "omer_nasuhi_bilmen": "Ve eğer Biz dileseydik onu o âyetler ile yükseltirdik. Fakat o dünyaya meyletti ve hevâsına tâbi oldu. Artık onun meseli, o köpeğin meseli gibidir ki, üstüne varırsan dilini çıkarır solur veya terketsen yine dilini uzatır solur. İşte bu, âyetlerimizi tekzîp eden kavmin meselidir. Artık sen kıssaları hikaye et, belki onlar düşünüverirler.",
         "hayrat_nesriyat": "Hâlbuki dileseydik onu onlarla (verdiğimiz âyetlerle) elbette yükseltirdik; fakat o, dünyaya meyletti ve nefsinin arzusuna uydu. İşte onun misâli, köpeğin misâli gibidir! Üzerine varsan da dilini çıkarıp solur, onu bıraksan da dilini çıkarıp solur! İşte âyetlerimizi yalanlayan kavmin misâli budur! Artık bu kıssayı (onlara) anlat; tâ ki düşünsünler.",
         "diyanet_vakfi": "Dileseydik elbette onu bu âyetler sayesinde yükseltirdik. Fakat o, dünyaya saplandı ve hevesinin peşine düştü. Onun durumu tıpkı köpeğin durumuna benzer: Üstüne varsan da dilini çıkarıp solur, bıraksan da dilini sarkıtıp solur. İşte âyetlerimizi yalanlayan kavmin durumu böyledir. Kıssayı anlat; belki düşünürler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/176.mp3"
       }
     },
     {
@@ -2122,6 +2650,9 @@
         "omer_nasuhi_bilmen": "O kavmin meseli ne çirkindir ki, Bizim âyetlerimizi tekzîp ettiler ve kendi nefislerine de zulmeder oldular.",
         "hayrat_nesriyat": "Âyetlerimizi yalanlayan ve kendilerine de zulmetmekte olan kavmin misâli ne kötüdür!",
         "diyanet_vakfi": "Âyetlerimizi yalanlayan ve kendilerine zulmetmiş olan kavmin durumu ne kötüdür!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/177.mp3"
       }
     },
     {
@@ -2134,6 +2665,9 @@
         "omer_nasuhi_bilmen": "Allah Teâlâ kime hidâyet ederse işte hidâyete eren odur. Kimleri de dalâlete düşürürse işte felakete uğrayanlar da onlardır.",
         "hayrat_nesriyat": "Allah kimi (hikmetine binâen kendi lütfundan) hidâyete erdirirse, işte hidâyete eren odur. Kimi de (küfrü sebebiyle) dalâlete atarsa, işte onlar gerçekten hüsrâna uğrayanlardır.",
         "diyanet_vakfi": "Allah kimi hidayete erdirirse, doğru yolu bulan odur. Kimi de şaşırtırsa, işte asıl ziyana uğrayanlar onlardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/178.mp3"
       }
     },
     {
@@ -2146,6 +2680,9 @@
         "omer_nasuhi_bilmen": "Andolsun ki, cinden ve insten çoklarını cehennem için yarattık, onların kalbleri vardır ki, onlar ile anlayamazlar ve onların gözleri vardır ki, onlar ile göremezler ve onların kulakları vardır ki, onlar ile işitemezler. Onlar hayvanlar gibidirler, belki onlar daha sapıktırlar. İşte gâfil olanlar onlardır.",
         "hayrat_nesriyat": "Celâlim hakkı için, cinlerden ve insanlardan birçoğunu (kendi irâdeleriyle hak edecekleri üzere) Cehennem için yarattık. Onların kalbleri vardır, (ancak kendi küfürleri sebebiyle artık) onlarla (hakkı zevk edip) anlamazlar; onların gözleri vardır (ama) onlarla(Allah`ın delîllerini) görmezler; onların kulakları da vardır, (ama) onlarla (İlâhî nasîhatleri)işitmezler! İşte onlar hayvanlar gibidir; hattâ daha da aşağıdırlar. İşte onlar, gafillerin ta kendileridir.",
         "diyanet_vakfi": "Andolsun, biz cinler ve insanlardan birçoğunu cehennem için yaratmışızdır. Onların kalpleri vardır, onlarla kavramazlar; gözleri vardır, onlarla görmezler; kulakları vardır, onlarla işitmezler. İşte onlar hayvanlar gibidir; hatta daha da şaşkındırlar. İşte asıl gafiller onlardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/179.mp3"
       }
     },
     {
@@ -2158,6 +2695,9 @@
         "omer_nasuhi_bilmen": "En güzel isimler Allah Teâlâ’ya mahsustur. O’na o isimler ile duada bulunun ve O’nun isimlerinde haktan ayrılan kimseleri terkediniz. Onlar işler oldukları şeylere göre cezaya uğrayacaklardır.",
         "hayrat_nesriyat": "Esmâü`l-Hüsnâ (en güzel isimler) ise Allah`ındır! Öyleyse O`na onlarla duâedin; ve O`nun isimleri hakkında haktan (meyledip) sapanları bırakın! (Onlar,) yakında yapmakta olduklarının karşılığını göreceklerdir.",
         "diyanet_vakfi": "En güzel isimler (el-esmâü’l-hüsnâ) Allah’ındır. O halde O’na o güzel isimlerle dua edin. Onun isimleri hakkında eğri yola gidenleri bırakın. Onlar yapmakta olduklarının cezasına çarptırılacaklardır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/180.mp3"
       }
     },
     {
@@ -2170,6 +2710,9 @@
         "omer_nasuhi_bilmen": "Ve yarattıklarımızdan bir ümmet de vardır ki, onlar hak ile rehberlik ederler ve hak ile adâlette bulunurlar.",
         "hayrat_nesriyat": "Yarattıklarımızdan bir ümmet de vardır ki, (insanlara) hak ile doğru yolu gösterirler ve onunla adâleti tatbîk ederler.",
         "diyanet_vakfi": "Yarattıklarımızdan, daima hakka ileten ve adaleti hak ile yerine getiren bir millet bulunur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/181.mp3"
       }
     },
     {
@@ -2182,6 +2725,9 @@
         "omer_nasuhi_bilmen": "Ve o kimseler ki, Bizim âyetlerimizi tekzîp ettiler, işte onları bilmez oldukları cihetten yavaş yavaş helâke yaklaştıracağız.",
         "hayrat_nesriyat": "Âyetlerimizi yalanlayanları ise, bilmedikleri yerden yavaş yavaş (helâke)yaklaştırırız.",
         "diyanet_vakfi": "Âyetlerimizi yalanlayanları, hiç bilmeyecekleri yerden yavaş yavaş helâke götüreceğiz."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/182.mp3"
       }
     },
     {
@@ -2194,6 +2740,9 @@
         "omer_nasuhi_bilmen": "Ve ben onlara mühlet veririm. Şüphe yok ki, benim yakalamam pek şedittir.",
         "hayrat_nesriyat": "Hem onlara mühlet veriyorum. Doğrusu benim tuzağım (onları âniden yakalamam) pek çetindir!",
         "diyanet_vakfi": "Onlara mühlet veririm; (ama) benim cezam çetindir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/183.mp3"
       }
     },
     {
@@ -2206,6 +2755,9 @@
         "omer_nasuhi_bilmen": "Onlar düşünmediler mi ki, onların sahiplerinde bir cinnet eseri yoktur. O ancak âşikâr bir sûrette bir nezîrden başka değildir.",
         "hayrat_nesriyat": "Düşünmediler mi ki arkadaşlarında (Muhammed`de) hiçbir delilik yoktur. O ancak (Allah`ın azâbı ile) apaçık bir korkutucudur.",
         "diyanet_vakfi": "Düşünmediler mi ki, arkadaşlarında (Muhammed’de) delilik yoktur? O, ancak apaçık bir uyarıcıdır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/184.mp3"
       }
     },
     {
@@ -2218,6 +2770,9 @@
         "omer_nasuhi_bilmen": "Onlar göklerin ve yerin muazzam mülkiyetine ve Allah Teâlâ’nın yarattığı herhangi bir şeye ve ecellerinin yaklaşmış olabildiğine bakmazlar mı? Artık bundan sonra hangi bir söze inanacaklardır?",
         "hayrat_nesriyat": "Göklerin ve yerin melekûtuna (İlâhî tasarrufâtın açıkça göründüğü cihetine), Allah`ın yarattığı herhangi bir şeye ve ecellerinin gerçekten yaklaşmış olabileceğine bakmadılar mı? Artık ondan (Kur`ân`dan) sonra hangi söze îmân edecekler.",
         "diyanet_vakfi": "Göklerin ve yerin hükümranlığına, Allah’ın yarattığı her şeye ve ecellerinin yaklaşmış olabileceğine bakmadılar mı? O halde Kur’an’dan sonra hangi söze inanacaklar?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/185.mp3"
       }
     },
     {
@@ -2230,6 +2785,9 @@
         "omer_nasuhi_bilmen": "Allah Teâlâ kimi dalâlete düşürürse artık ona hidâyet edecek bulunamaz ve onları kendi dalâletlerinde mütereddit bir halde bırakır.",
         "hayrat_nesriyat": "Allah kimi (küfrü sebebiyle) dalâlete atarsa, o takdirde onu hidâyete erdirecek kimse yoktur ve (Allah) onları azgınlıkları içinde bırakır da bocalayıp dururlar!",
         "diyanet_vakfi": "Allah kimi şaşırtırsa, artık onun için yol gösteren yoktur. Ve onları azgınlıkları içinde şaşkın olarak bırakır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/186.mp3"
       }
     },
     {
@@ -2242,6 +2800,9 @@
         "omer_nasuhi_bilmen": "Senden Kıyametin ne zaman sübut bulacağını sual ederler. De ki: «Ona ait bilgi ancak Rabbimin indindedir. Onun vaktini ondan başkası açıklayamaz. (Bu) Göklerde ve yerde ağır, muazzam bir keyfiyettir. O sizlere ansızın geliverir.» Senden sorarlar, sanki sen ondan bihakkın haberdar imişsin gibi. De ki: «Ona ait bilgi ancak Allah Teâlâ’nın nezdindedir. Fakat insanların çoğu bilmezler.»",
         "hayrat_nesriyat": "(Ey Habîbim!) Sana, `Onun gelip dayanması ne zaman?` diye kıyâmetten soruyorlar. De ki: `Onun ilmi ancak Rabbimin katındadır. Onu vakti (geldiği)nde ortaya çıkaracak ancak O`dur!` (O kıyâmet) göklerde ve yerde (olan bütün mahlûkata) ağır gelmiştir! Size ancak ansızın gelecektir! Sanki sen ondan haberdarmışsın gibi, sana soruyorlar. De ki: `Onun ilmi ancak Allah katındadır; fakat insanların çoğu (bu ilmin Allah`a âid olduğunu) bilmezler!`",
         "diyanet_vakfi": "Sana kıyameti, ne zaman gelip çatacağını soruyorlar. De ki: Onun ilmi ancak Rabbimin katındadır. Onun vaktini O’ndan başkası açıklayamaz. O göklere de yere de ağır gelmiştir. O size ansızın gelecektir. Sanki sen onu biliyormuşsun gibi sana soruyorlar. De ki: Onun bilgisi ancak Allah’ın katındadır; ama insanların çoğu bilmezler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/187.mp3"
       }
     },
     {
@@ -2254,6 +2815,9 @@
         "omer_nasuhi_bilmen": "De ki: «Allah Teâlâ’nın dilediğinden başka nefsim için ne bir faideye ve ne de bir zarara mâlik değilim. Ve eğer ben gaybı bilir olsa idim, elbette hayırdan daha çok şeyler yapardım, ve bana kötülük de dokunmazdı. Ben imân eden bir kavim için korkutucu ve müjdeleyiciden başka değilim.»",
         "hayrat_nesriyat": "De ki: `Benim kendim için, Allah`ın dilemesi dışında, ne bir faydaya, ne de bir zarara mâlik değilim! Çünki gaybı biliyor olsaydım, daha çok hayır elde ederdim ve bana hiçbir kötülük dokunmazdı! Ben ancak, îmân edecek bir kavim için bir korkutucu ve bir müjdeleyiciyim.`",
         "diyanet_vakfi": "De ki: «Ben, Allah’ın dilediğinden başka kendime herhangi bir fayda veya zarar verecek güce sahip değilim. Eğer ben gaybı bilseydim elbette daha çok hayır yapmak isterdim ve bana hiçbir fenalık dokunmazdı. Ben sadece inanan bir kavim için bir uyarıcı ve müjdeleyiciyim.»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/188.mp3"
       }
     },
     {
@@ -2266,6 +2830,9 @@
         "omer_nasuhi_bilmen": "O, o (Zât-ı Ecell-i Âlâ)dır ki, sizi bir nefisten yaratmıştır ve eşini ondan yapmıştır ki onunla ünsiyette buluna. Vaktâ ki ona mukarenette bulundu, hafif bir yük yüklendi. Bir müddet bununla gidip geldi. O zaman ki, ağırlaştı. Allah Teâlâ’ya, Rablerine dua ettiler ki eğer bize bir sâlih çocuk verir isen andolsunki, biz elbette şakirlerden oluruz.",
         "hayrat_nesriyat": "Sizi tek bir nefisten (Âdem`den) yaratan ve ondan da gönlü ona ısınsın diyeeşini (Havvâ`yı) yaratan O`dur. İşte ne zaman ki (o) onu örtüp bürüdü, (eşi) hafif bir yük yüklendi de onu (bir müddet) gezdirdi. Nihâyet (yükü) ağırlaşınca Rablerine şöyle duâ ettiler: `Yemîn olsun ki, eğer bize kusursuz bir çocuk verirsen, elbette (bu ni`metine de)şükredenlerden oluruz!`",
         "diyanet_vakfi": "Sizi bir tek candan (Âdem’den) yaratan, ondan da yanında huzur bulsun diye eşini (Havva’yı) yaratan O’dur. Eşi ile (birleşince) eşi hafif bir yük yüklendi (hamile kaldı). Onu bir müddet taşıdı. Hamileliği ağırlaşınca, Rableri Allah’a: Andolsun bize kusursuz bir çocuk verirsen muhakkak şükredenlerden olacağız, diye dua ettiler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/189.mp3"
       }
     },
     {
@@ -2278,6 +2845,9 @@
         "omer_nasuhi_bilmen": "Vaktâ ki onlara sâlih evlat verdi. Bunlar kendilerine verdiği şeyde O’na (O Hâlık-i Kerîm’e) şerikler koşmaya başladılar. Allah Teâlâ ise bunların şerik koştukları şeylerden müteâlidir.",
         "hayrat_nesriyat": "Fakat (onların neslinden öyle insanlar da var ki, Allah) onlara kusursuz bir çocuk verince, kendilerine verdiği (bu çocuk) hakkında O`na (Allah`a) birtakım ortaklar koşmağa başladılar. Hâlbuki Allah, onların ortak koşmakta oldukları şeylerden pek yücedir.",
         "diyanet_vakfi": "Fakat (Allah) onlara kusursuz bir çocuk verince, kendilerine verdiği bu çocuk hakkında (sonradan insanlar) Allah’a ortak koştular. Allah ise onların ortak koştuğu şeyden yücedir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/190.mp3"
       }
     },
     {
@@ -2290,6 +2860,9 @@
         "omer_nasuhi_bilmen": "Birşey yaratamayanları mı şerik koşuyorsunuz? Halbuki, onlar yaratılmaktadırlar.",
         "hayrat_nesriyat": "Kendileri de yaratılıyor oldukları hâlde, hiçbir şey yaratamayacak şeyleri(Allah`a) şirk mi koşuyorlar?",
         "diyanet_vakfi": "Kendileri yaratıldığı halde hiçbir şeyi yaratamayan varlıkları (Allah’a) ortak mı koşuyorlar?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/191.mp3"
       }
     },
     {
@@ -2302,6 +2875,9 @@
         "omer_nasuhi_bilmen": "Halbuki bunlar için yardımda bulunmaya muktedir olamazlar. Ve ne de kendi nefislerine yardım edebilirler.",
         "hayrat_nesriyat": "Hâlbuki (bu putlar) ne onlara bir yardımda bulunabilirler, ne de kendi nefislerine yardım edebilirler.",
         "diyanet_vakfi": "Halbuki (putlar) ne onlara bir yardım edebilirler ne de kendilerine bir yardımları olur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/192.mp3"
       }
     },
     {
@@ -2314,6 +2890,9 @@
         "omer_nasuhi_bilmen": "Ve eğer onları doğru yola davet etseniz size tâbi olmazlar. Siz onları davet etseniz de veya sükut eder olsanız da, sizin üzerinize müsavîdir.",
         "hayrat_nesriyat": "Eğer onları hidâyete de da`vet etseniz, size tâbi` olmazlar. Siz onları çağırsanız da suskun kimseler olsanız da sizin için birdir.",
         "diyanet_vakfi": "Onları doğru yola çağırırsanız size uymazlar; onları çağırsanız da, sukût etseniz de sizin için birdir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/193.mp3"
       }
     },
     {
@@ -2326,6 +2905,9 @@
         "omer_nasuhi_bilmen": "Allah Teâlâ’dan başka taptığınız şeylerde şüphe yok ki, sizler gibi kullardır. Haydi onları çağırınız da size icabet etsinler, eğer siz sâdık kimseler iseniz.",
         "hayrat_nesriyat": "Allah`dan başka tapmakta olduklarınız da sizin gibi kullardır; eğer (iddiânızda)doğru kimseler iseniz, haydi onları çağırın da size cevab versinler!",
         "diyanet_vakfi": "(Ey kâfirler!) Allah’ı bırakıp da taptıklarınız sizler gibi kullardır. (Onların tanrılığı hakkında iddianızda) doğru iseniz, onları çağırın da size cevap versinler!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/194.mp3"
       }
     },
     {
@@ -2338,6 +2920,9 @@
         "omer_nasuhi_bilmen": "Onlar için kendileriyle yürüyecekleri ayakları mı, veya onlar için tutacakları elleri mi veya onlar için kendileriyle görecekleri gözleri mi veyahut onlar için kendisiyle işitecekleri kulakları mı var? De ki, haydi çağırınız şeriklerinizi, sonra bana yapacağınız hileyi yapınız, bana hiç mühlet vermeyiniz.",
         "hayrat_nesriyat": "Onların yürüyecekleri ayakları mı var; yoksa tutacakları elleri mi var; yoksa görecekleri gözleri mi var; yoksa işitecekleri kulakları mı var? (Ey Resûlüm!) De ki: `(Allah`a şirk koştuğunuz) ortaklarınızı çağırın; sonra bana (hep berâber) tuzak kurun da bana bir an bile mühlet vermeyin!`",
         "diyanet_vakfi": "Onların yürüyecekleri ayakları mı var, yoksa tutacakları elleri mi var veya görecekleri gözleri mi var yahut işitecekleri kulakları mı var (neleri var)? De ki: «Ortaklarınızı çağırın, sonra bana (istediğiniz) tuzağı kurun ve bana göz bile açtırmayın!»"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/195.mp3"
       }
     },
     {
@@ -2350,6 +2935,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki, benim velîm, o kitabı indirmiş olan Allah Teâlâ’dır ve O, bütün sâlihlere velîlik eder.",
         "hayrat_nesriyat": "`Şübhesiz ki benim velîm (dost ve yardımcım), Kitâb`ı (Kur`ân`ı) indiren Allah`dır ve O, bütün sâlih kimselere velîlik eder.`",
         "diyanet_vakfi": "Şüphesiz ki, benim koruyanım Kitab’ı indiren Allah’tır. Ve O bütün salih kullarını görüp gözetir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/196.mp3"
       }
     },
     {
@@ -2362,6 +2950,9 @@
         "omer_nasuhi_bilmen": "Ve O’ndan başka taptıklarınız, size yardım etmeye muktedir olamazlar ve ne de kendi nefislerine yardım edebilirler.",
         "hayrat_nesriyat": "O`ndan başka tapmakta olduklarınız ise, ne size yardımda bulunabilirler, ne de kendilerine yardım edebilirler.",
         "diyanet_vakfi": "Allah’ın dışında taptıklarınızın ne size yardıma güçleri yeter ne de kendilerine yardım edebilirler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/197.mp3"
       }
     },
     {
@@ -2374,6 +2965,9 @@
         "omer_nasuhi_bilmen": "Ve onları doğru yolu göstermeğe çağıracak olsanız duymazlar. Ve onları sana bakar görürsün, halbuki onlar göremezler.",
         "hayrat_nesriyat": "Hâlbuki onları (o putları) hidâyete da`vet etseniz, işitmezler! Çünki onların sana baktıklarını görürsün, hâlbuki onlar görmezler!",
         "diyanet_vakfi": "Onları doğru yola çağırmış olsanız işitmezler. Ve onları sana bakar görürsün, oysa onlar görmezler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/198.mp3"
       }
     },
     {
@@ -2386,6 +2980,9 @@
         "omer_nasuhi_bilmen": "Affı iltizam et, ma’ruf ile emirde bulun ve cahillerden yüz çevir.",
         "hayrat_nesriyat": "(Ey Habîbim!) Af (ve kolaylık) yolunu tut; iyiliği emret ve câhillerden yüz çevir!",
         "diyanet_vakfi": "(Resûlüm!) Sen af yolunu tut, iyiliği emret ve cahillerden yüz çevir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/199.mp3"
       }
     },
     {
@@ -2398,6 +2995,9 @@
         "omer_nasuhi_bilmen": "Ve eğer seni şeytan tarafından bir vesvese gıdıklayacak olursa hemen Allah Teâlâ’ya sığın. Şüphe yok ki, O (Allah) bihakkın işiticidir, tamamıyla bilicidir.",
         "hayrat_nesriyat": "Eğer şeytandan (gelen) bir vesvese seni dürtecek olursa, hemen Allah`a sığın!Çünki O, Semî` (herşeyi işiten)dir, Alîm (herşeyi hakkıyla bilen)dir.",
         "diyanet_vakfi": "Eğer şeytanın fitlemesi seni dürterse hemen Allah’a sığın. Çünkü O, işitendir, bilendir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/200.mp3"
       }
     },
     {
@@ -2410,6 +3010,9 @@
         "omer_nasuhi_bilmen": "Muhakkak o kimseler ki, muttakî bulunmuşlardır. Onlar kendilerine şeytan tarafindan bir arıza iliştiği zaman güzelce düşünürler. Derhal görücü kimseler olurlar.",
         "hayrat_nesriyat": "(Allah`dan) gerçekten sakınanlar, kendilerine şeytandan (gelen) bir vesvese dokunduğu zaman, (Allah`ın emir ve yasaklarını) hatırlayıp derhâl (hakikati) gören kimselerdir.",
         "diyanet_vakfi": "Takvâya erenler var ya, onlara şeytan tarafından bir vesvese dokunduğunda (Allah’ın emir ve yasaklarını) hatırlayıp hemen gerçeği görürler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/201.mp3"
       }
     },
     {
@@ -2422,6 +3025,9 @@
         "omer_nasuhi_bilmen": "Ve kardeşleri onları dalâlete sürükler dururlar. Sonra (o dalâleti) terketmezler.",
         "hayrat_nesriyat": "(Şeytanların) kardeşlerine (kâfirlere) gelince, (şeytanlar) onları azgınlığa sürüklerler; sonra da yakalarını bırakmazlar.",
         "diyanet_vakfi": "(Şeytanların) dostlarına gelince, şeytanlar onları azgınlığa sürüklerler. Sonra da yakalarını bırakmazlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/202.mp3"
       }
     },
     {
@@ -2434,6 +3040,9 @@
         "omer_nasuhi_bilmen": "Ve onlara bir âyet getirmediğin zaman, «Onu kendi tarafından uydurmalı değil miydin?» derler. De ki: Ben ancak Rabbimden bana vahy olunana tâbi olurum. Bu Rabbiniz tarafından basiretlerdir ve inanan bir kavim için hidâyettir ve rahmettir.",
         "hayrat_nesriyat": "Ve onlara (arzularına göre) bir âyet getirmediğin zaman: `Bunu da uydursaydın ya!` derler. De ki: `(Ben) ancak Rabbimden bana vahyolunana tâbi` olurum!` Bu (Kur`ân), îmân edecek bir topluluk için Rabbinizden (gelen) basîretler (deliller)dir ve bir hidâyet ve bir rahmettir.",
         "diyanet_vakfi": "Onlara bir mucize getirmediğin zaman, (ötekiler gibi) onu da derleyip getirseydin ya! derler. De ki: Ben ancak Rabbimden bana vahyolunana uyarım. Bu (Kur’an), Rabbinizden gelen basîretlerdir (kalp gözlerini açan beyanlardır); inanan bir kavim için hidayet ve rahmettir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/203.mp3"
       }
     },
     {
@@ -2446,6 +3055,9 @@
         "omer_nasuhi_bilmen": "Ve Kur’an okunduğu zaman O’nu hemen dinleyin ve sükut edin, tâ ki rahmete nâil olasınız.",
         "hayrat_nesriyat": "Hem Kur`ân okunduğu zaman, hemen onu dinleyin ve susun ki merhamet olunasınız!",
         "diyanet_vakfi": "Kur’an okunduğu zaman onu dinleyin ve susun ki size merhamet edilsin."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/204.mp3"
       }
     },
     {
@@ -2458,6 +3070,9 @@
         "omer_nasuhi_bilmen": "Ve Rabbini içinden yalvararak ve korkarak ve cehren kıraatın dûnunda olarak sabahları ve akşamları zikret ve gâfillerden olma.",
         "hayrat_nesriyat": "Hem Rabbini, içinden yalvararak ve korkarak, yüksek olmayan bir sesle sabahakşam zikret; ve sakın gafillerden olma!",
         "diyanet_vakfi": "Kendi kendine, yalvararak ve ürpererek, yüksek olmayan bir sesle sabah akşam Rabbini an. Gafillerden olma."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/205.mp3"
       }
     },
     {
@@ -2470,6 +3085,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok ki, Rabbin indinde bulunanlar, O’nun ibadetinden tekebbürde bulunmazlar. Ve O’nu tesbih ederler ve ancak O’nun için secdeye kapanırlar.",
         "hayrat_nesriyat": "Muhakkak ki Rabbinin katındakiler (melekler), O`na ibâdet etmektenkibirlenmezler. O`nu tesbîh ederler ve yalnız O`na secde ederler!",
         "diyanet_vakfi": "Kuşkusuz Rabbin katındakiler O’na kulluk etmekten kibirlenmezler, O’nu tesbih eder ve yalnız O’na secde ederler."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/007/206.mp3"
       }
     }
   ]

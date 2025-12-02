@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "Asr’a kasem olsun ki,",
         "hayrat_nesriyat": "Asr`a yemîn olsun!",
         "diyanet_vakfi": "(1-3) Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/103/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "Şüphe yok insan, elbette bir ziyandadır.",
         "hayrat_nesriyat": "Şübhesiz ki insan, gerçekten hüsrandadır!",
         "diyanet_vakfi": "(1-3) Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/103/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "Ancak o kimseler ki imân ettiler ve sâlih sâlih amellerde bulundular ve birbirlerine hakkı tavsiyede ve sabrı tavsiyede bulundular, onlar müstesna.",
         "hayrat_nesriyat": "Ancak îmân edip sâlih ameller işleyenler, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler müstesnâdır.",
         "diyanet_vakfi": "(1-3) Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/103/003.mp3"
       }
     }
   ]

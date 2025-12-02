@@ -10,6 +10,8 @@
         "omer_nasuhi_bilmen": "Rahmân ve Rahîm olan Allah Teâlâ’nın ismiyle (tilâvete başlarım).",
         "hayrat_nesriyat": "Rahmân, Rahîm olan Allah`ın ismiyle.",
         "diyanet_vakfi": "Rahmân ve rahîm olan Allah’ın adıyla."
+      },
+      "audio": {
       }
     },
     {
@@ -22,6 +24,9 @@
         "omer_nasuhi_bilmen": "(2-4) Hamd, âlemlerin Rabbi, Rahmân ve Rahîm olup, ceza gününün mâliki olan Allah Teâlâ’ya mahsustur.",
         "hayrat_nesriyat": "Hamd, âlemlerin Rabbi olan Allah`a mahsustur.",
         "diyanet_vakfi": "Hamd (övme ve övülme), âlemlerin Rabbi Allah’a mahsustur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/001/002.mp3"
       }
     },
     {
@@ -34,6 +39,9 @@
         "omer_nasuhi_bilmen": "(2-4) Hamd, âlemlerin Rabbi, Rahmân ve Rahîm olup, ceza gününün mâliki olan Allah Teâlâ’ya mahsustur.",
         "hayrat_nesriyat": "(O,) Rahmândır, Rahîmdir.",
         "diyanet_vakfi": "O, rahmândır ve rahîmdir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/001/003.mp3"
       }
     },
     {
@@ -46,6 +54,9 @@
         "omer_nasuhi_bilmen": "(2-4) Hamd, âlemlerin Rabbi, Rahmân ve Rahîm olup, ceza gününün mâliki olan Allah Teâlâ’ya mahsustur.",
         "hayrat_nesriyat": "Dîn (hesab) gününün mâlikidir.",
         "diyanet_vakfi": "Ceza gününün mâlikidir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/001/004.mp3"
       }
     },
     {
@@ -58,6 +69,9 @@
         "omer_nasuhi_bilmen": "Ya Rabbi! Yalnız Sana ibadet ederiz, ancak Sen’den yardım dileriz.",
         "hayrat_nesriyat": "(Rabbimiz!) Ancak sana ibâdet ederiz ve ancak senden yardım dileriz.",
         "diyanet_vakfi": "(Rabbimiz!) Ancak sana kulluk ederiz ve yalnız senden medet umarız."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/001/005.mp3"
       }
     },
     {
@@ -70,6 +84,9 @@
         "omer_nasuhi_bilmen": "(6-7) Bizleri doğru yola hidâyet et, o kendilerine in’am etmiş olduğun zâtların yoluna ilet, gazaba uğramışların ve sapık bulunmuşların yoluna değil.",
         "hayrat_nesriyat": "Bizi doğru olan yola ilet.",
         "diyanet_vakfi": "Bize doğru yolu göster."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/001/006.mp3"
       }
     },
     {
@@ -82,6 +99,9 @@
         "omer_nasuhi_bilmen": "(6-7) Bizleri doğru yola hidâyet et, o kendilerine in’am etmiş olduğun zâtların yoluna ilet, gazaba uğramışların ve sapık bulunmuşların yoluna değil.",
         "hayrat_nesriyat": "Kendilerine ni`met verdiğin kimselerin yoluna; gazab edilmiş olanların ve dalâlete düşenlerin (yoluna) değil! (Âmîn!)",
         "diyanet_vakfi": "Kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu; gazaba uğramışların ve sapmışların yolunu değil!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/001/007.mp3"
       }
     }
   ]

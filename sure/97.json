@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "Muhakkak ki Biz onu Kâdir gecesinde indirdik.",
         "hayrat_nesriyat": "Şübhe yok ki biz onu (o Kur`ân`ı), Kadir Gecesinde indirdik.",
         "diyanet_vakfi": "Biz onu (Kur’an’ı) Kadir gecesinde indirdik."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "Kâdir gecesinin ne olduğunu sana ne şey bildirdi?",
         "hayrat_nesriyat": "Kadir Gecesinin ne olduğunu (onun kıymetini) sana ne bildirdi?",
         "diyanet_vakfi": "Kadir gecesinin ne olduğunu sen bilir misin?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "Kâdir gecesi, bin aydan daha hayırlıdır.",
         "hayrat_nesriyat": "Kadir Gecesi, bin aydan daha hayırlıdır.",
         "diyanet_vakfi": "Kadir gecesi, bin aydan hayırlıdır."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "Onda melekler ve Ruh, Rabbilerinin izni ile her bir emirden iniverir.",
         "hayrat_nesriyat": "Melekler ve Ruh (Cebrâîl), onda (o gecede) Rablerinin izniyle her bir iş için peyderpey iner(ler).",
         "diyanet_vakfi": "O gecede, Rablerinin izniyle melekler ve Ruh (Cebrail), her iş için iner dururlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "O (gece) tan yeri ağarıncaya değin bir selâmettir.",
         "hayrat_nesriyat": "O (gece), fecrin doğuşuna (gün ağarana) kadar selâmettir.",
         "diyanet_vakfi": "O gece, esenlik doludur. Ta fecrin doğuşuna kadar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/005.mp3"
       }
     }
   ]

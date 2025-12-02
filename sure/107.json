@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "Gördün mü o kimseyi ki, dini tekzîp eder.",
         "hayrat_nesriyat": "Dîni (hesab gününü) yalanlayanı gördün mü?",
         "diyanet_vakfi": "Dini yalanlayanı gördün mü?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/107/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "İmdi o kimsedir ki yetimi itiverir.",
         "hayrat_nesriyat": "İşte o, yetîmi itip kakandır.",
         "diyanet_vakfi": "İşte o, yetimi itip kakar;"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/107/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "Ve yoksula yemek yedirilmesi için teşvikte bulunmaz.",
         "hayrat_nesriyat": "Yoksulu doyurmağa da teşvîk etmez.",
         "diyanet_vakfi": "Yoksulu doyurmaya teşvik etmez;"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/107/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "Artık vay haline o namaz kılanların ki,",
         "hayrat_nesriyat": "Artık vay o namaz kılanların hâline!",
         "diyanet_vakfi": "(4-5) Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/107/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "O kimseler ki, onlar namazlarında yanılanlardır.",
         "hayrat_nesriyat": "Ki onlar, namazlarından gaflet edenlerdir (ona ehemmiyet vermezler)!",
         "diyanet_vakfi": "(4-5) Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/107/005.mp3"
       }
     },
     {
@@ -70,6 +85,9 @@
         "omer_nasuhi_bilmen": "O kimseler ki, onlar riyâkardırlar.",
         "hayrat_nesriyat": "Onlar ki, riyâkârlık (gösteriş için ibâdet) ederler!",
         "diyanet_vakfi": "(6-7) Onlar gösteriş yapanlardır; hayra da mâni olurlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/107/006.mp3"
       }
     },
     {
@@ -82,6 +100,9 @@
         "omer_nasuhi_bilmen": "Ve men edilmesi mutad olmayan bir şeyi bile men ediverirler.",
         "hayrat_nesriyat": "Ve mâûn`u (zekâtı) men` ederler!",
         "diyanet_vakfi": "(6-7) Onlar gösteriş yapanlardır; hayra da mâni olurlar."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/107/007.mp3"
       }
     }
   ]

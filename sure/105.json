@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "Görmedin mi, Rabbin fil sahiplerine nasıl etti?",
         "hayrat_nesriyat": "(Habîbim, yâ Muhammed!) Rabbinin, fil sâhiblerine nasıl yaptığını görmedin mi?",
         "diyanet_vakfi": "Rabbin fil sahiplerine neler etti, görmedin mi?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "Onların kurdukları tuzağı bozgunluk içinde kılmadı mı?",
         "hayrat_nesriyat": "Onların tuzaklarını boşa çıkarmadı mı?",
         "diyanet_vakfi": "Onların kötü planlarını boşa çıkarmadı mı?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "Ve onların üzerlerine bölük bölük kuşlar gönderdi.",
         "hayrat_nesriyat": "Hem üzerlerine sürü sürü kuşlar gönderdi.",
         "diyanet_vakfi": "Onların üstüne sürü sürü kuşlar gönderdi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "Onlara (o kuşlar) siccîlden (katı, sert çamurlardan) taşlar atıyorlardı.",
         "hayrat_nesriyat": "(Bu kuşlar,) onlara pişmiş çamurdan taşlar atıyorlardı.",
         "diyanet_vakfi": "O kuşlar, onların üzerlerine pişkin tuğladan yapılmış taşlar atıyordu."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "Artık onları yenilmiş ekin yaprağı gibi kıldı.",
         "hayrat_nesriyat": "Nihâyet onları yenmiş ekin yaprağı gibi yapıverdi!",
         "diyanet_vakfi": "Böylece Allah onları yenilip çiğnenmiş ekine çevirdi."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/005.mp3"
       }
     }
   ]

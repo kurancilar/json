@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "De ki: «Felâkın (yaratılıp vücuda getirilmiş olan şeylerin) Rabbine sığınırım.»",
         "hayrat_nesriyat": "De ki: `Felak`ın (sabahın) Rabbine sığınırım!`",
         "diyanet_vakfi": "(1-5) De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/113/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "(2-3) «Yaratmış olduğu şeylerin şerrinden. Ve gecenin şerrinden, zulmeti çöküp ortalığı kapladığı zaman.»",
         "hayrat_nesriyat": "`Yarattığı şeylerin şerrinden!`",
         "diyanet_vakfi": "(1-5) De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/113/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "(2-3) «Yaratmış olduğu şeylerin şerrinden. Ve gecenin şerrinden, zulmeti çöküp ortalığı kapladığı zaman.»",
         "hayrat_nesriyat": "`Ve karanlığı bastığı zaman, gecenin şerrinden!`",
         "diyanet_vakfi": "(1-5) De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/113/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "«Ve düğümlere üfleyen (büyücü)lerin şerrinden.»",
         "hayrat_nesriyat": "`Ve düğümlere üfleyen (büyücü)lerin şerrinden!`",
         "diyanet_vakfi": "(1-5) De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/113/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "«Ve hased ettigi zaman haset edenin şerrinden (Hâlık-ı Rahîm’e) sığınırım.»",
         "hayrat_nesriyat": "`Ve hased ettiğinde, hased edenin şerrinden!`",
         "diyanet_vakfi": "(1-5) De ki: Yarattığı şeylerin şerrinden, karanlığı çöktüğü zaman gecenin şerrinden, düğümlere üfürüp büyü yapan üfürükçülerin şerrinden ve kıskandığı vakit kıskanç kişinin şerrinden sabahın Rabbine sığınırım!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/113/005.mp3"
       }
     }
   ]

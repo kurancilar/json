@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "O çarpacak olan felaket.",
         "hayrat_nesriyat": "el-Karia! (O dehşetiyle çarpıcı felâket! Kıyâmet!)",
         "diyanet_vakfi": "(1-3) Kapı çalan! Nedir o kapı çalan? O kapı çalanın ne olduğunu bilir misin?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "O çarpacak olan felaket, nedir?",
         "hayrat_nesriyat": "Nedir o çarpıcı felâket!",
         "diyanet_vakfi": "(1-3) Kapı çalan! Nedir o kapı çalan? O kapı çalanın ne olduğunu bilir misin?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "O çarpacak olan felaketin ne olduğunu sana ne bildirdi?",
         "hayrat_nesriyat": "O çarpacak olan felâketin ne olduğunu sana ne bildirdi?",
         "diyanet_vakfi": "(1-3) Kapı çalan! Nedir o kapı çalan? O kapı çalanın ne olduğunu bilir misin?"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "Bir günde ki nâs çırpınıp dağılacak pervaneler gibi olacaktır.",
         "hayrat_nesriyat": "O gün insanlar, çırpınıp yayılan kelebekler gibi olacak!",
         "diyanet_vakfi": "(4-5) İnsanların, ateşin etrafını sarmış pervaneler gibi olduğu, dağların da atılmış renkli yüne döğnüştüğü gündür (o Kâria!)"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "Dağlar da atılmış renkli yünler gibi olacaktır.",
         "hayrat_nesriyat": "Dağlar da atılmış renkli yün gibi olur!",
         "diyanet_vakfi": "(4-5) İnsanların, ateşin etrafını sarmış pervaneler gibi olduğu, dağların da atılmış renkli yüne döğnüştüğü gündür (o Kâria!)"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/005.mp3"
       }
     },
     {
@@ -70,6 +85,9 @@
         "omer_nasuhi_bilmen": "Kimin tartıları ağır gelirse.",
         "hayrat_nesriyat": "(6-7) Artık kimin tartıları (sevabları) ağır gelirse, işte o, hoşnûd (olacağı) bir yaşayış içindedir!",
         "diyanet_vakfi": "(6-7) O gün kimin tartılan ameli ağır gelirse işte o, hoşnut edici bir yaşayış içinde olur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/006.mp3"
       }
     },
     {
@@ -82,6 +100,9 @@
         "omer_nasuhi_bilmen": "İşte o, hoşnut (olacağı) bir yaşayıştadır.",
         "hayrat_nesriyat": "(6-7) Artık kimin tartıları (sevabları) ağır gelirse, işte o, hoşnûd (olacağı) bir yaşayış içindedir!",
         "diyanet_vakfi": "(6-7) O gün kimin tartılan ameli ağır gelirse işte o, hoşnut edici bir yaşayış içinde olur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/007.mp3"
       }
     },
     {
@@ -94,6 +115,9 @@
         "omer_nasuhi_bilmen": "Fakat kimin tartıları hafif olursa.",
         "hayrat_nesriyat": "(8-9) Fakat kimin de tartıları hafif gelirse, artık onun anası (sığınacağı yer) Hâviye`dir.(Onun kucağına düşecek!)",
         "diyanet_vakfi": "(8-9) Ameli yeğni olana gelince, işte onun anası (yeri, yurdu) Hâviye’dir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/008.mp3"
       }
     },
     {
@@ -106,6 +130,9 @@
         "omer_nasuhi_bilmen": "Onun anası (sığınacağı yer) Hâviye’dir.",
         "hayrat_nesriyat": "(8-9) Fakat kimin de tartıları hafif gelirse, artık onun anası (sığınacağı yer) Hâviye`dir.(Onun kucağına düşecek!)",
         "diyanet_vakfi": "(8-9) Ameli yeğni olana gelince, işte onun anası (yeri, yurdu) Hâviye’dir."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/009.mp3"
       }
     },
     {
@@ -118,6 +145,9 @@
         "omer_nasuhi_bilmen": "Haviye’nin ne olduğunu sana ne şey bildirdi?",
         "hayrat_nesriyat": "(Ey Resûlüm!) Onun (o Hâviye`nin) ne olduğunu sana ne bildirdi?",
         "diyanet_vakfi": "(10-11) Nedir o (Hâviye) bilir misin? Kızgın ateş!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/010.mp3"
       }
     },
     {
@@ -130,6 +160,9 @@
         "omer_nasuhi_bilmen": "(O) Çok kızgın bir ateştir.",
         "hayrat_nesriyat": "(O,) pek kızışmış bir ateştir!",
         "diyanet_vakfi": "(10-11) Nedir o (Hâviye) bilir misin? Kızgın ateş!"
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/101/011.mp3"
       }
     }
   ]

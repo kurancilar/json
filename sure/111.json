@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "Ebû Leheb’in iki eli helâk oldu, kendisi de hüsrâna uğradı.",
         "hayrat_nesriyat": "Ebû Leheb`in iki eli kurusun; kurudu da!",
         "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/111/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "Ona ne malı bir zenginlik verdi ve ne de kazandığı şey.",
         "hayrat_nesriyat": "Ona, ne malı fayda verdi ne de kazandığı!",
         "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/111/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "Bir alevli ateşe girecektir.",
         "hayrat_nesriyat": "(O,) alevli bir ateşe girecektir!",
         "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/111/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "Odun yüklenmiş olan karısı da.",
         "hayrat_nesriyat": "Karısı da! Odun hamalı olarak!",
         "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/111/004.mp3"
       }
     },
     {
@@ -58,6 +70,9 @@
         "omer_nasuhi_bilmen": "Boynunda bükülmüş bir ip olduğu halde (ateşe atılacaktır).",
         "hayrat_nesriyat": "Boynunda bükülmüş bir ip olduğu hâlde!",
         "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/111/005.mp3"
       }
     }
   ]

@@ -10,6 +10,9 @@
         "omer_nasuhi_bilmen": "De ki: «O Allah birdir.»",
         "hayrat_nesriyat": "De ki: `O Allah, Ehad`dir (birdir)!`",
         "diyanet_vakfi": "(1-4) De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/112/001.mp3"
       }
     },
     {
@@ -22,6 +25,9 @@
         "omer_nasuhi_bilmen": "«Allah, bütün mahlukatın kendisine teveccüh ve iltica edeceği zât-ı ehâdiyyettir.»",
         "hayrat_nesriyat": "`Allah, Sameddir (herşey her cihetle O`na muhtaç olduğu hâlde, O hiçbir şeye muhtaç olmayandır)!`",
         "diyanet_vakfi": "(1-4) De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/112/002.mp3"
       }
     },
     {
@@ -34,6 +40,9 @@
         "omer_nasuhi_bilmen": "«(O) Doğurmadı ve doğurulmamıştır.»",
         "hayrat_nesriyat": "`Doğurmamıştır ve doğurulmamıştır!`",
         "diyanet_vakfi": "(1-4) De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/112/003.mp3"
       }
     },
     {
@@ -46,6 +55,9 @@
         "omer_nasuhi_bilmen": "«Ve O’na hiçbir şey denk (mümasil) olmamıştır.»",
         "hayrat_nesriyat": "`Ve O`na hiçbir şey denk olmamıştır!`",
         "diyanet_vakfi": "(1-4) De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur."
+      },
+      "audio": {
+        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/112/004.mp3"
       }
     }
   ]
