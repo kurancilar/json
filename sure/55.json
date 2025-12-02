@@ -1,0 +1,940 @@
+{
+  "verses": [
+    {
+      "id": 4902,
+      "verseNumber": 1,
+      "verseKey": "55:1",
+      "arabic": " ٱلرَّحْمَـٰنُ",
+      "english": "The Most Compassionate",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O Rahmân olan Mabûd-i Zîşân.",
+        "hayrat_nesriyat": "(1-2) O Rahmân (olan Allah), Kur`ân`ı öğretti.",
+        "diyanet_vakfi": "(1-4) Rahmân Kur’an’ı öğretti. İnsanı yarattı. Ona açıklamayı öğretti."
+      }
+    },
+    {
+      "id": 4903,
+      "verseNumber": 2,
+      "verseKey": "55:2",
+      "arabic": "عَلَّمَ ٱلْقُرْءَانَ",
+      "english": "taught the Quran,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(2-3) Kur’an’ı (Peygamberine) talim buyurdu. İnsanı yarattı.",
+        "hayrat_nesriyat": "(1-2) O Rahmân (olan Allah), Kur`ân`ı öğretti.",
+        "diyanet_vakfi": "(1-4) Rahmân Kur’an’ı öğretti. İnsanı yarattı. Ona açıklamayı öğretti."
+      }
+    },
+    {
+      "id": 4904,
+      "verseNumber": 3,
+      "verseKey": "55:3",
+      "arabic": "خَلَقَ ٱلْإِنسَـٰنَ",
+      "english": "created humanity,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(2-3) Kur’an’ı (Peygamberine) talim buyurdu. İnsanı yarattı.",
+        "hayrat_nesriyat": "İnsanı yarattı.",
+        "diyanet_vakfi": "(1-4) Rahmân Kur’an’ı öğretti. İnsanı yarattı. Ona açıklamayı öğretti."
+      }
+    },
+    {
+      "id": 4905,
+      "verseNumber": 4,
+      "verseKey": "55:4",
+      "arabic": "عَلَّمَهُ ٱلْبَيَانَ",
+      "english": "˹and˺ taught them speech.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ona beyanı (ifade-i meramı) öğretti.",
+        "hayrat_nesriyat": "Ona beyânı (açıkça anlatmayı) öğretti.",
+        "diyanet_vakfi": "(1-4) Rahmân Kur’an’ı öğretti. İnsanı yarattı. Ona açıklamayı öğretti."
+      }
+    },
+    {
+      "id": 4906,
+      "verseNumber": 5,
+      "verseKey": "55:5",
+      "arabic": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "english": "The sun and the moon ˹travel˺ with precision.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Güneş ve ay, (muntazam) bir hesab ile cereyan etmektedir.",
+        "hayrat_nesriyat": "Güneş ve ay, bir hesâba göre (hareket etmekte)dir.",
+        "diyanet_vakfi": "Güneş ve ay bir hesaba göre (hareket etmekte)dir."
+      }
+    },
+    {
+      "id": 4907,
+      "verseNumber": 6,
+      "verseKey": "55:6",
+      "arabic": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "english": "The stars and the trees bow down ˹in submission˺.<sup foot_note=77469>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve çimen ve ağaç secde ederler.",
+        "hayrat_nesriyat": "(Gövdesiz olarak yerde biten) bitkiler de ağaçlar da (Allah`a) secde ederler.",
+        "diyanet_vakfi": "Bitkiler ve ağaçlar secde ederler."
+      }
+    },
+    {
+      "id": 4908,
+      "verseNumber": 7,
+      "verseKey": "55:7",
+      "arabic": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "english": "As for the sky, He raised it ˹high˺, and set the balance ˹of justice˺",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(7-8) Semayı yükseltti ve mizanı vaz’etti. Tâ ki, hadd-i tecavüz etmeyesiniz.",
+        "hayrat_nesriyat": "Göğe gelince, onu yükseltti ve mîzânı (umum kâinâtta adâlet ve dengeyi) koydu.",
+        "diyanet_vakfi": "Göğü Allah yükseltti ve mîzanı (dengeyi) O koydu."
+      }
+    },
+    {
+      "id": 4909,
+      "verseNumber": 8,
+      "verseKey": "55:8",
+      "arabic": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "english": "so that you do not defraud the scales.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(7-8) Semayı yükseltti ve mizanı vaz’etti. Tâ ki, hadd-i tecavüz etmeyesiniz.",
+        "hayrat_nesriyat": "Tâ ki tartıda haddi aşmayın!",
+        "diyanet_vakfi": "Sakın dengeyi bozmayın."
+      }
+    },
+    {
+      "id": 4910,
+      "verseNumber": 9,
+      "verseKey": "55:9",
+      "arabic": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "english": "Weigh with justice, and do not give short measure.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve mizanı adâletle yerine getiriniz ve tartıyı noksan etmeyiniz",
+        "hayrat_nesriyat": "Ve tartmayı adâletle dosdoğru yapın, hem tartıda eksiklik etmeyin!",
+        "diyanet_vakfi": "Ölçüyü adaletle tutun ve eksik tartmayın."
+      }
+    },
+    {
+      "id": 4911,
+      "verseNumber": 10,
+      "verseKey": "55:10",
+      "arabic": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "english": "He laid out the earth for all beings.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yeryüzünü de her zîhayat için döşedi.",
+        "hayrat_nesriyat": "Yere gelince, onu mahlûkat için alçalttı (yaşamaya elverişli bir şekilde döşedi).",
+        "diyanet_vakfi": "Allah, yeri canlılar için yaratmıştır."
+      }
+    },
+    {
+      "id": 4912,
+      "verseNumber": 11,
+      "verseKey": "55:11",
+      "arabic": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "english": "In it are fruit, palm trees with date stalks,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Orada mütenevvi meyveler ve tomurcuklar sahibi olan hurma ağaçları vardır.",
+        "hayrat_nesriyat": "Orada meyveler ve tomurcuklu hurma ağaçları vardır.",
+        "diyanet_vakfi": "Orada meyveler ve salkımlı hurma ağaçları vardır."
+      }
+    },
+    {
+      "id": 4913,
+      "verseNumber": 12,
+      "verseKey": "55:12",
+      "arabic": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "english": "and grain with husks, and aromatic plants.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yaprak sahibi daneler ve iyi kokulu nebat (vardır).",
+        "hayrat_nesriyat": "Yapraklı hubûbât ve hoş kokulu bitkiler (vardır).",
+        "diyanet_vakfi": "Yapraklı daneler ve hoş kokulu bitkiler vardır."
+      }
+    },
+    {
+      "id": 4914,
+      "verseNumber": 13,
+      "verseKey": "55:13",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you ˹humans and jinn˺ both deny?<sup foot_note=77470>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "(Ey insanlar ve cinler!) O hâlde Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4915,
+      "verseNumber": 14,
+      "verseKey": "55:14",
+      "arabic": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+      "english": "He created humankind from ˹sounding˺ clay like pottery,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İnsanı pişmiş çamurdan yapılmış çanak gibi bir kurumuş ses verir balçıktan yarattı.",
+        "hayrat_nesriyat": "(O,) insanı pişmiş çamur gibi kuru bir balçıktan yarattı.",
+        "diyanet_vakfi": "Allah insanı, pişmiş çamura benzeyen bir balçıktan yarattı."
+      }
+    },
+    {
+      "id": 4916,
+      "verseNumber": 15,
+      "verseKey": "55:15",
+      "arabic": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+      "english": "and created jinn from a ˹smokeless˺ flame of fire.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Cinleri de dumanı olmayan halis bir ateş alevinden yarattı.",
+        "hayrat_nesriyat": "Cânnı (cinlerin babasını) ise, ateşin dumansız alevinden yarattı.",
+        "diyanet_vakfi": "Cinleri öz ateşten yarattı."
+      }
+    },
+    {
+      "id": 4917,
+      "verseNumber": 16,
+      "verseKey": "55:16",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "O halde, Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4918,
+      "verseNumber": 17,
+      "verseKey": "55:17",
+      "arabic": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "english": "˹He is˺ Lord of the two easts and the two wests.<sup foot_note=77471>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İki maşrıkın Rabbi ve iki mağribin Rabbidir.",
+        "hayrat_nesriyat": "(O, yaz ve kış için farklı farklı olan) iki doğunun Rabbi ve iki batının Rabbidir!",
+        "diyanet_vakfi": "(O,) iki doğunun ve iki batının Rabbidir."
+      }
+    },
+    {
+      "id": 4919,
+      "verseNumber": 18,
+      "verseKey": "55:18",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4920,
+      "verseNumber": 19,
+      "verseKey": "55:19",
+      "arabic": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "english": "He merges the two bodies of ˹fresh and salt˺ water,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(O) İki denizi salıvermiştir, birbirine kavuşurlar.",
+        "hayrat_nesriyat": "İki denizi birbirine kavuşmak üzere salıvermiştir.",
+        "diyanet_vakfi": "İki denizi birbirine kavuşmak üzere salıvermiştir."
+      }
+    },
+    {
+      "id": 4921,
+      "verseNumber": 20,
+      "verseKey": "55:20",
+      "arabic": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "english": "yet between them is a barrier they never cross.<sup foot_note=77472>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Aralarında bir engel vardır, birbirine tecavüz etmezler.",
+        "hayrat_nesriyat": "(Ama) aralarında bir engel vardır; birbirine tecâvüz etmezler (karışmazlar)!",
+        "diyanet_vakfi": "Aralarında bir engel vardır, birbirine geçip karışmazlar."
+      }
+    },
+    {
+      "id": 4922,
+      "verseNumber": 21,
+      "verseKey": "55:21",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4923,
+      "verseNumber": 22,
+      "verseKey": "55:22",
+      "arabic": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "english": "Out of both ˹waters˺ come forth pearls and coral.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(22-23) O ikisinden inci ile mercan çıkar. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "O ikisinden inci ve mercan çıkar!",
+        "diyanet_vakfi": "İkisinden de inci ve mercan çıkar."
+      }
+    },
+    {
+      "id": 4924,
+      "verseNumber": 23,
+      "verseKey": "55:23",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(22-23) O ikisinden inci ile mercan çıkar. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Şimdi Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4925,
+      "verseNumber": 24,
+      "verseKey": "55:24",
+      "arabic": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+      "english": "To Him belong the ships with raised sails, sailing through the seas like mountains.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Denizde dağlar gibi yapılmış olan büyük gemiler de O’nun içindir.",
+        "hayrat_nesriyat": "Denizde koca dağlar gibi yükseltilmiş (akıp giden) gemiler, O`nundur!",
+        "diyanet_vakfi": "Denizde yüce dağlar gibi yükselen gemiler de O’nundur."
+      }
+    },
+    {
+      "id": 4926,
+      "verseNumber": 25,
+      "verseKey": "55:25",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4927,
+      "verseNumber": 26,
+      "verseKey": "55:26",
+      "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "english": "Every being on earth is bound to perish.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onun üzerinde bulunan herkes fânidir.",
+        "hayrat_nesriyat": "Onun (o yerin) üzerindeki herkes (ve herşey) fânîdir.",
+        "diyanet_vakfi": "Yeryüzünde bulunan her canlı yok olacak."
+      }
+    },
+    {
+      "id": 4928,
+      "verseNumber": 27,
+      "verseKey": "55:27",
+      "arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "english": "Only your Lord Himself,<sup foot_note=77473>1</sup> full of Majesty and Honour, will remain ˹forever˺.<sup foot_note=77474>2</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Celâl ve ikram sahibi olan Rabbinin zâtı ise bâki kalacaktır.",
+        "hayrat_nesriyat": "(Ancak) celâl (azamet ve kahır) ve ikram sâhibi Rabbinin vechi (Zât`ı ve O`nun rızâsı için olan şeyler) bâki kalır.",
+        "diyanet_vakfi": "Ancak azamet ve ikram sahibi Rabbinin zâtı bâki kalacak."
+      }
+    },
+    {
+      "id": 4929,
+      "verseNumber": 28,
+      "verseKey": "55:28",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4930,
+      "verseNumber": 29,
+      "verseKey": "55:29",
+      "arabic": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+      "english": "All those in the heavens and the earth are dependent on Him. Day in and day out He has something to bring about.<sup foot_note=77475>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Göklerde ve yerde her kim var ise O’ndan dilerler. O, her gün bir işle (meşgul)dür.",
+        "hayrat_nesriyat": "Göklerde ve yerde kim varsa, (ihtiyaçlarını) O`ndan ister. O, her gün (her an) bir iştedir!",
+        "diyanet_vakfi": "Göklerde ve yerde bulunan herkes, O’ndan ister. O, her an yaratma halindedir."
+      }
+    },
+    {
+      "id": 4931,
+      "verseNumber": 30,
+      "verseKey": "55:30",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nimetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "O halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4932,
+      "verseNumber": 31,
+      "verseKey": "55:31",
+      "arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "english": "We will soon attend to you ˹for judgment˺, O  two multitudes ˹of jinn and humans˺!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey ins ve cin! Yakında sizin için teveccüh edeceğiz.",
+        "hayrat_nesriyat": "Ey insanlar ve cinler! Yakında size (hesâbınızı görmek için) yöneleceğiz!",
+        "diyanet_vakfi": "Ey insan ve cin! Sizin de hesabınızı ele alacağız."
+      }
+    },
+    {
+      "id": 4933,
+      "verseNumber": 32,
+      "verseKey": "55:32",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Hal bu iken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4934,
+      "verseNumber": 33,
+      "verseKey": "55:33",
+      "arabic": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+      "english": "O  assembly of jinn and humans! If you can penetrate beyond the realms of the heavens and the earth, then do so. ˹But˺ you cannot do that without ˹Our˺ authority.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey cin ve ins cemaatı! Eğer göklerin ve yerin çevrelerinden çıkıp gitmeğe gücünüz yeterse hemen çıkıp gidiniz. Halbuki, bir kuvvet olmadıkça siz çıkıp gidemezsiniz.",
+        "hayrat_nesriyat": "Ey cin ve insan topluluğu! Göklerin ve yerin sınırlarından geçip gitmeye gücünüz yetiyorsa, haydi geçin gidin! (Hâlbuki) bir kuvvet olmadıkça, çıkıp gidemezsiniz!",
+        "diyanet_vakfi": "Ey cin ve insan toplulukları! Göklerin ve yerin çerçevesinden çıkıp gitmeye gücünüz yetiyorsa geçin. Ancak büyük bir güçle çıkıp gidebilirsiniz."
+      }
+    },
+    {
+      "id": 4935,
+      "verseNumber": 34,
+      "verseKey": "55:34",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4936,
+      "verseNumber": 35,
+      "verseKey": "55:35",
+      "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+      "english": "Flames of fire and ˹molten˺ copper will be sent against you, and you will not be able to defend one another.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(35-36) Sizin üzerinize ateşten dumansız bir alev ve alevsiz bir duman gönderilir, artık yardımlaşamıyacaksınızdır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Üzerinize ateşten (dumansız) bir alev ve alevsiz bir duman gönderilir dekurtulamazsınız.",
+        "diyanet_vakfi": "Üzerinize ateşten alev ve duman gönderilir de birbirinizi kurtaramaz ve yardımlaşamazsınız."
+      }
+    },
+    {
+      "id": 4937,
+      "verseNumber": 36,
+      "verseKey": "55:36",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(35-36) Sizin üzerinize ateşten dumansız bir alev ve alevsiz bir duman gönderilir, artık yardımlaşamıyacaksınızdır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4938,
+      "verseNumber": 37,
+      "verseKey": "55:37",
+      "arabic": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+      "english": "˹How horrible will it be˺ when the heavens will split apart, becoming rose-red like ˹burnt˺ oil!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İşte o zaman ki, gök parçalanır da hemen kızıl deri gibi bir gül olmuş olur.",
+        "hayrat_nesriyat": "Artık o zaman gök yarılıp da erimiş yağ gibi (kıpkırmızı) bir gül hâline gelir!",
+        "diyanet_vakfi": "Gök yarılıp da kızarmış yağ renginde gül gibi olduğu zaman,"
+      }
+    },
+    {
+      "id": 4939,
+      "verseNumber": 38,
+      "verseKey": "55:38",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nimetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4940,
+      "verseNumber": 39,
+      "verseKey": "55:39",
+      "arabic": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+      "english": "On that Day there will be no need for any human or jinn to be asked about their sins.<sup foot_note=77476>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İşte o gün ne bir insan ve ne de bir cin günahından sorulmayacaktır.",
+        "hayrat_nesriyat": "Artık o gün (günahkârlar hemen tanındıklarından) ne insan, ne de cin günâhından(öğrenmek için) sorulmaz!",
+        "diyanet_vakfi": "İşte o gün insana da cine de günahı sorulmaz."
+      }
+    },
+    {
+      "id": 4941,
+      "verseNumber": 40,
+      "verseKey": "55:40",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4942,
+      "verseNumber": 41,
+      "verseKey": "55:41",
+      "arabic": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "english": "The wicked will be recognized by their appearance, then will be seized by ˹their˺ forelocks and feet.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Günahkarlar sîmalarıyla tanınırlar. Artık alınlarıyla ve ayaklarıyla yakalanırlar.",
+        "hayrat_nesriyat": "Günahkârlar sîmâlarıyla (yüzlerinin karalığıyla) tanınır, derhâl perçemlerinden ve ayaklarından yakalanır (da Cehenneme atılıverirler)!",
+        "diyanet_vakfi": "Suçlular, simalarından tanınır, perçemlerinden ve ayaklarından yakalanırlar."
+      }
+    },
+    {
+      "id": 4943,
+      "verseNumber": 42,
+      "verseKey": "55:42",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4944,
+      "verseNumber": 43,
+      "verseKey": "55:43",
+      "arabic": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "english": "˹They will be told,˺ “This is the Hell which the wicked denied.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İşte bu, o cehennemdir ki, bunu o gün günahkârlar tekzîb ederler.",
+        "hayrat_nesriyat": "(43-44) Bu o Cehennemdir ki, günahkârlar onu yalanlar! (O gün) onunla (o Cehennemile) kaynar su arasında dolaşır dururlar!",
+        "diyanet_vakfi": "İşte bu, suçluların yalanladıkları cehennemdir."
+      }
+    },
+    {
+      "id": 4945,
+      "verseNumber": 44,
+      "verseKey": "55:44",
+      "arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+      "english": "They will alternate between its flames and scalding water.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O cehennemin arasıyla son derece sıcak bir su arasında dolaşacaklardır.",
+        "hayrat_nesriyat": "(43-44) Bu o Cehennemdir ki, günahkârlar onu yalanlar! (O gün) onunla (o Cehennemile) kaynar su arasında dolaşır dururlar!",
+        "diyanet_vakfi": "Onlar, cehennemle kaynar su arasında dolaşır dururlar."
+      }
+    },
+    {
+      "id": 4946,
+      "verseNumber": 45,
+      "verseKey": "55:45",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?<sup foot_note=77477>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Şimdi Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4947,
+      "verseNumber": 46,
+      "verseKey": "55:46",
+      "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "english": "And whoever is in awe of standing before their Lord will have two Gardens.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(46-47) Ve Rabbinin makamından korkan kimse için iki cennet vardır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "(Hesab vermek üzere) Rabbinin huzûrunda (durmaktan) korkan kimse için (Allah`a yakın kılınmış kullar olan sâbikun için Adn ve Naîm olarak) iki Cennet vardır!",
+        "diyanet_vakfi": "Rabbinin huzurunda durmaktan korkan kimselere iki cennet vardır."
+      }
+    },
+    {
+      "id": 4948,
+      "verseNumber": 47,
+      "verseKey": "55:47",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(46-47) Ve Rabbinin makamından korkan kimse için iki cennet vardır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4949,
+      "verseNumber": 48,
+      "verseKey": "55:48",
+      "arabic": "ذَوَاتَآ أَفْنَانٍ",
+      "english": "˹Both will be˺ with lush branches.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(O iki cennet) Mütenevvi ağaçlara, meyvelere sahiptirler.",
+        "hayrat_nesriyat": "(O her iki Cennet de) dallar (çeşit çeşit meyveli ağaçlar) sâhibidirler!",
+        "diyanet_vakfi": "İki cennet de çeşit çeşit ağaçlarla doludur."
+      }
+    },
+    {
+      "id": 4950,
+      "verseNumber": 49,
+      "verseKey": "55:49",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4951,
+      "verseNumber": 50,
+      "verseKey": "55:50",
+      "arabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "english": "In each ˹Garden˺ will be two flowing springs.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(50-51) İkisinde iki pınar vardır ki, cereyan ederler. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "O çifte cennetlerden iki çağlayan akacak:",
+        "diyanet_vakfi": "İkisinde de akıp giden iki kaynak vardır."
+      }
+    },
+    {
+      "id": 4952,
+      "verseNumber": 51,
+      "verseKey": "55:51",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(50-51) İkisinde iki pınar vardır ki, cereyan ederler. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4953,
+      "verseNumber": 52,
+      "verseKey": "55:52",
+      "arabic": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+      "english": "In each will be two types of every fruit.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İkisinde de her türlü yemişten iki çift vardır.",
+        "hayrat_nesriyat": "İkisinde de her meyveden çifter çifter (çeşitler) vardır.",
+        "diyanet_vakfi": "İkisinde de her türlü meyveden çift çift vardır."
+      }
+    },
+    {
+      "id": 4954,
+      "verseNumber": 53,
+      "verseKey": "55:53",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4955,
+      "verseNumber": 54,
+      "verseKey": "55:54",
+      "arabic": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+      "english": "Those ˹believers˺ will recline on furnishings lined with rich brocade. And the fruit of both Gardens will hang within reach.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(Onlar) Astarları kalın ipek kumaştan olan döşekler üzerine dayanmış bir halde olacaklardır ve o iki cennetin meyvelerinin toplanışı da yakındır.",
+        "hayrat_nesriyat": "Onlar çizgisi ve atkısı (dahil) ipekten mamul atlas halılara uzanacak; o çifte cennetlerin (muhteşem) ürünleri (kendilerine) çok yakın olacak:",
+        "diyanet_vakfi": "Hepsi de örtüleri atlastan minderlere yaslanırlar. İki cennetin de meyvesinin devşirilmesi yakındır."
+      }
+    },
+    {
+      "id": 4956,
+      "verseNumber": 55,
+      "verseKey": "55:55",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4957,
+      "verseNumber": 56,
+      "verseKey": "55:56",
+      "arabic": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "english": "In both ˹Gardens˺ will be maidens of modest gaze, who no human or jinn has ever touched before.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(56-57) O cennetlerde nazarlarını (yalnız kendi kocalarına) hasretmiş kadınlar vardır ki, kendilerine onlardan önce ne bir insan ve ne de bir cin dokunmamıştır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Onlarda (kocalarından) başkasına bakmayan kadınlar vardır ki, bunlardan önce kendilerine ne bir insan, ne de bir cin dokunmuştur!",
+        "diyanet_vakfi": "Oralarda gözlerini yalnız eşlerine çevirmiş güzeller var ki, bunlardan önce onlara ne insan ne de cin dokunmuştur."
+      }
+    },
+    {
+      "id": 4958,
+      "verseNumber": 57,
+      "verseKey": "55:57",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(56-57) O cennetlerde nazarlarını (yalnız kendi kocalarına) hasretmiş kadınlar vardır ki, kendilerine onlardan önce ne bir insan ve ne de bir cin dokunmamıştır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4959,
+      "verseNumber": 58,
+      "verseKey": "55:58",
+      "arabic": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "english": "Those ˹maidens˺ will be ˹as elegant˺ as rubies and coral.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(58-60) Sanki onlar, yakut ve mercandır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz? İyiliğin mükâfaatı, iyilikten başka mıdır? (elbette değildir)",
+        "hayrat_nesriyat": "Sanki onlar yâkut ve mercan gibidirler!",
+        "diyanet_vakfi": "Sanki onlar yakut ve mercandırlar."
+      }
+    },
+    {
+      "id": 4960,
+      "verseNumber": 59,
+      "verseKey": "55:59",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(58-60) Sanki onlar, yakut ve mercandır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz? İyiliğin mükâfaatı, iyilikten başka mıdır? (elbette değildir)",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4961,
+      "verseNumber": 60,
+      "verseKey": "55:60",
+      "arabic": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "english": "Is there any reward for goodness except goodness?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(58-60) Sanki onlar, yakut ve mercandır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz? İyiliğin mükâfaatı, iyilikten başka mıdır? (elbette değildir)",
+        "hayrat_nesriyat": "İyiliğin karşılığı ancak iyilik değil midir?",
+        "diyanet_vakfi": "İyiliğin karşılığı iyilikten başka bir şey midir?"
+      }
+    },
+    {
+      "id": 4962,
+      "verseNumber": 61,
+      "verseKey": "55:61",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4963,
+      "verseNumber": 62,
+      "verseKey": "55:62",
+      "arabic": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "english": "And below these two ˹Gardens˺ will be two others.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(62-63) O iki cennetin ötelerinde de iki cennet vardır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Bu ikisinden başka (amel defterleri sağ eline verilen Ashâb-ı Yemîn için Firdevs ve Me`vâ olarak) iki Cennet daha vardır!",
+        "diyanet_vakfi": "Bu ikisinden başka iki cennet daha vardır."
+      }
+    },
+    {
+      "id": 4964,
+      "verseNumber": 63,
+      "verseKey": "55:63",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(62-63) O iki cennetin ötelerinde de iki cennet vardır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4965,
+      "verseNumber": 64,
+      "verseKey": "55:64",
+      "arabic": "مُدْهَآمَّتَانِ",
+      "english": "Both will be dark green.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(64-65) (O iki cennet) Koyu yeşil renktedirler. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "(Onun her ikisi de) yemyeşildirler!",
+        "diyanet_vakfi": "Bu cennetler koyu yeşildirler."
+      }
+    },
+    {
+      "id": 4966,
+      "verseNumber": 65,
+      "verseKey": "55:65",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(64-65) (O iki cennet) Koyu yeşil renktedirler. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4967,
+      "verseNumber": 66,
+      "verseKey": "55:66",
+      "arabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "english": "In each will be two gushing springs.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(66-67) O ikisinde de iki fışkıran pınar vardır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "İkisinde de fışkıran iki pınar vardır!",
+        "diyanet_vakfi": "İkisinde de durmadan fışkıran iki kaynak vardır."
+      }
+    },
+    {
+      "id": 4968,
+      "verseNumber": 67,
+      "verseKey": "55:67",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(66-67) O ikisinde de iki fışkıran pınar vardır. Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz?",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4969,
+      "verseNumber": 68,
+      "verseKey": "55:68",
+      "arabic": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "english": "In both will be fruit, palm trees, and pomegranates.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O ikisinde her nevi meyve ve hurma ve nar (ağaçları) vardır.",
+        "hayrat_nesriyat": "İkisinde de (her nevi` emsâli görülmemiş) meyve, hurma ve nar vardır!",
+        "diyanet_vakfi": "İkisinde de her türlü meyveler, hurma ve nar vardır."
+      }
+    },
+    {
+      "id": 4970,
+      "verseNumber": 69,
+      "verseKey": "55:69",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz.",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4971,
+      "verseNumber": 70,
+      "verseKey": "55:70",
+      "arabic": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+      "english": "In all Gardens will be noble, pleasant mates.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O cennetlerde hayırlı huylu, güzel yüzlü kadınlar vardır.",
+        "hayrat_nesriyat": "Onlarda (o Cennetlerde), hayırlı (iyi huylu) güzel hanımlar vardır!",
+        "diyanet_vakfi": "İçlerinde huyu güzel yüzü güzel kadınlar vardır."
+      }
+    },
+    {
+      "id": 4972,
+      "verseNumber": 71,
+      "verseKey": "55:71",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz.",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4973,
+      "verseNumber": 72,
+      "verseKey": "55:72",
+      "arabic": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+      "english": "˹They will be˺ maidens with gorgeous eyes, reserved in pavilions.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(Onlar) Çadırlarda ikamete müdavim hurilerdir.",
+        "hayrat_nesriyat": "(İnciden) çadırlar (cibinlikler) içinde perdelenmiş hûriler!",
+        "diyanet_vakfi": "Otağlar içinde sahiplerine tahsis edilmiş hûriler vardır."
+      }
+    },
+    {
+      "id": 4974,
+      "verseNumber": 73,
+      "verseKey": "55:73",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz.",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4975,
+      "verseNumber": 74,
+      "verseKey": "55:74",
+      "arabic": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "english": "No human or jinn has ever touched these ˹maidens˺ before.<sup foot_note=77478>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onlara kocalarından evvel ne bir insan ve ne de bir cin dokunmamıştır.",
+        "hayrat_nesriyat": "Onlardan (kocalarından) önce kendilerine ne bir insan, ne de bir cin dokunmuştur!",
+        "diyanet_vakfi": "Bunlara onlardan önce ne bir insan ne bir cin dokunmuştur."
+      }
+    },
+    {
+      "id": 4976,
+      "verseNumber": 75,
+      "verseKey": "55:75",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz.",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4977,
+      "verseNumber": 76,
+      "verseKey": "55:76",
+      "arabic": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+      "english": "All ˹believers˺ will be reclining on green cushions and splendid carpets.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(O cennet ehli) Yeşil yastıklara ve pek güzel, nâdir döşemelere yaslanmış (bir halde bulunacak)lardır.",
+        "hayrat_nesriyat": "(Onlar) yeşil yastıklara ve (hârikulâde) güzel döşeklere yaslanmış kimselerdir.",
+        "diyanet_vakfi": "Yeşil yastıklara ve hârikulâde güzel döşemelere yaslanırlar."
+      }
+    },
+    {
+      "id": 4978,
+      "verseNumber": 77,
+      "verseKey": "55:77",
+      "arabic": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "english": "Then which of your Lord’s favours will you both deny?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbinizin hangi nîmetlerini tekzîp edersiniz.",
+        "hayrat_nesriyat": "Şimdi Rabbinizin ni`metlerinden hangisini yalanlarsınız?",
+        "diyanet_vakfi": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      }
+    },
+    {
+      "id": 4979,
+      "verseNumber": 78,
+      "verseKey": "55:78",
+      "arabic": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "english": "Blessed is the Name of your Lord, full of Majesty and Honour.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Celâl ve ikram sahibi olan Rabbinin ismi, mübarek (â’li, mukaddes) olmuştur.",
+        "hayrat_nesriyat": "Celâl (azamet ve kahır) ve ikram sâhibi Rabbinin ismi ne yücedir!",
+        "diyanet_vakfi": "Büyüklük ve ikram sahibi Rabbinin adı yücelerden yücedir."
+      }
+    }
+  ]
+}

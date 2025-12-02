@@ -1,0 +1,64 @@
+{
+  "verses": [
+    {
+      "id": 6189,
+      "verseNumber": 1,
+      "verseKey": "105:1",
+      "arabic": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "english": "Have you not seen ˹O Prophet˺ how your Lord dealt with the Army of the Elephant?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Görmedin mi, Rabbin fil sahiplerine nasıl etti?",
+        "hayrat_nesriyat": "(Habîbim, yâ Muhammed!) Rabbinin, fil sâhiblerine nasıl yaptığını görmedin mi?",
+        "diyanet_vakfi": "Rabbin fil sahiplerine neler etti, görmedin mi?"
+      }
+    },
+    {
+      "id": 6190,
+      "verseNumber": 2,
+      "verseKey": "105:2",
+      "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "english": "Did He not frustrate their scheme?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onların kurdukları tuzağı bozgunluk içinde kılmadı mı?",
+        "hayrat_nesriyat": "Onların tuzaklarını boşa çıkarmadı mı?",
+        "diyanet_vakfi": "Onların kötü planlarını boşa çıkarmadı mı?"
+      }
+    },
+    {
+      "id": 6191,
+      "verseNumber": 3,
+      "verseKey": "105:3",
+      "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "english": "For He sent against them flocks of birds,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve onların üzerlerine bölük bölük kuşlar gönderdi.",
+        "hayrat_nesriyat": "Hem üzerlerine sürü sürü kuşlar gönderdi.",
+        "diyanet_vakfi": "Onların üstüne sürü sürü kuşlar gönderdi."
+      }
+    },
+    {
+      "id": 6192,
+      "verseNumber": 4,
+      "verseKey": "105:4",
+      "arabic": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "english": "that pelted them with stones of baked clay,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onlara (o kuşlar) siccîlden (katı, sert çamurlardan) taşlar atıyorlardı.",
+        "hayrat_nesriyat": "(Bu kuşlar,) onlara pişmiş çamurdan taşlar atıyorlardı.",
+        "diyanet_vakfi": "O kuşlar, onların üzerlerine pişkin tuğladan yapılmış taşlar atıyordu."
+      }
+    },
+    {
+      "id": 6193,
+      "verseNumber": 5,
+      "verseKey": "105:5",
+      "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "english": "leaving them like chewed up straw.<sup foot_note=77639>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık onları yenilmiş ekin yaprağı gibi kıldı.",
+        "hayrat_nesriyat": "Nihâyet onları yenmiş ekin yaprağı gibi yapıverdi!",
+        "diyanet_vakfi": "Böylece Allah onları yenilip çiğnenmiş ekine çevirdi."
+      }
+    }
+  ]
+}

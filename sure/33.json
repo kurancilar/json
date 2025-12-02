@@ -1,0 +1,880 @@
+{
+  "verses": [
+    {
+      "id": 3534,
+      "verseNumber": 1,
+      "verseKey": "33:1",
+      "arabic": " يَـٰٓأَيُّهَا ٱلنَّبِىُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ ۗ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمًا",
+      "english": "O Prophet! ˹Always˺ be mindful of Allah, and do not yield to the disbelievers and the hypocrites. Indeed, Allah is All-Knowing, All-Wise.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey Peygamber! Allah’tan korkmaya devam et ve kâfirlere ve münafıklara itaat etme. Şüphe yok ki Allah alîm, hakîm bulunuyor.",
+        "hayrat_nesriyat": "Ey Peygamber! Allah`dan sakın; kâfirlere ve münâfıklara itâat etme! Şübhe yok ki Allah, Alîm (herşeyi hakkıyla bilen)dir, Hakîm (her işi hikmetli olan)dır.",
+        "diyanet_vakfi": "Ey Peygamber! Allah’tan kork, kâfirlere ve münafıklara boyun eğme. Elbette Allah her şeyi bilmekte ve yerli yerince yapmaktadır."
+      }
+    },
+    {
+      "id": 3535,
+      "verseNumber": 2,
+      "verseKey": "33:2",
+      "arabic": "وَٱتَّبِعْ مَا يُوحَىٰٓ إِلَيْكَ مِن رَّبِّكَ ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
+      "english": "Follow what is revealed to you from your Lord. Surely Allah is All-Aware of what you ˹all˺ do.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve sana Rabbinden vahyolunana tâbi ol! Muhakkak ki Allah ne yapar olduğunuzdan haberdardır.",
+        "hayrat_nesriyat": "Ve Rabbinden sana vahyedilene tâbi` ol! Şübhesiz ki Allah, ne yaparsanız hakkıyla haberdardır.",
+        "diyanet_vakfi": "Rabbinden sana vahyedilene uy. Şüphesiz Allah, bütün yaptıklarınızdan haberdardır."
+      }
+    },
+    {
+      "id": 3536,
+      "verseNumber": 3,
+      "verseKey": "33:3",
+      "arabic": "وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "english": "And put your trust in Allah, for Allah is sufficient as a Trustee of Affairs.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve Allah’a tevekkülde bulun. Vekil olmaya Allah kâfidir.",
+        "hayrat_nesriyat": "O hâlde Allah`a tevekkül et! Çünki vekîl olarak Allah yeter!",
+        "diyanet_vakfi": "Allah’a güven. Vekîl olarak Allah yeter."
+      }
+    },
+    {
+      "id": 3537,
+      "verseNumber": 4,
+      "verseKey": "33:4",
+      "arabic": "مَّا جَعَلَ ٱللَّهُ لِرَجُلٍ مِّن قَلْبَيْنِ فِى جَوْفِهِۦ ۚ وَمَا جَعَلَ أَزْوَٰجَكُمُ ٱلَّـٰٓـِٔى تُظَـٰهِرُونَ مِنْهُنَّ أُمَّهَـٰتِكُمْ ۚ وَمَا جَعَلَ أَدْعِيَآءَكُمْ أَبْنَآءَكُمْ ۚ ذَٰلِكُمْ قَوْلُكُم بِأَفْوَٰهِكُمْ ۖ وَٱللَّهُ يَقُولُ ٱلْحَقَّ وَهُوَ يَهْدِى ٱلسَّبِيلَ",
+      "english": "Allah does not place two hearts in any person’s chest. Nor does He regard your wives as ˹unlawful for you like˺ your real mothers, ˹even˺ if you say they are.<sup foot_note=77175>1</sup> Nor does He regard your adopted children as your real children.<sup foot_note=77176>2</sup> These are only your baseless assertions. But Allah declares the truth, and He ˹alone˺ guides to the ˹Right˺ Way.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Allah bir kişi için içerisinde iki kalp yaratmamıştır. Ve kendilerinden müzaherede bulunduğunuz zevcelerinizi sizin valideleriniz kılmamıştır ve evlatlıklarınızı da sizin oğullarınız kılmış değildir. O sizin ağızlarınızdaki bir lâkırdınızdır. Ve Allah hakkı söyler ve O, doğru yola irşad buyurur.",
+        "hayrat_nesriyat": "Allah, bir adamın içinde iki kalb kılmadı. Ve kendilerine zıhâr yaptığınız zevcelerinizi, analarınız saymadı. Evlâdlıklarınızı da öz oğullarınız (gibi) kılmadı. Bunlar sizin ağızlarınızdaki sözünüzdür. Hâlbuki Allah, hakkı söyler ve doğru yola O hidâyet eder.",
+        "diyanet_vakfi": "Allah, bir adamın içinde iki kalp yaratmadığı gibi, «zıhâr» yaptığınız eşlerinizi de analarınız yerinde tutmadı ve evlâtlıklarınızı da öz oğullarınız olarak tanımadı. Bunlar sizin ağızlarınıza geliveren sözlerden ibarettir. Allah ise gerçeği söyler ve doğru yola O eriştirir."
+      }
+    },
+    {
+      "id": 3538,
+      "verseNumber": 5,
+      "verseKey": "33:5",
+      "arabic": "ٱدْعُوهُمْ لِـَٔابَآئِهِمْ هُوَ أَقْسَطُ عِندَ ٱللَّهِ ۚ فَإِن لَّمْ تَعْلَمُوٓا۟ ءَابَآءَهُمْ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ وَمَوَٰلِيكُمْ ۚ وَلَيْسَ عَلَيْكُمْ جُنَاحٌ فِيمَآ أَخْطَأْتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتْ قُلُوبُكُمْ ۚ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "english": "Let your adopted children keep their family names. That is more just in the sight of Allah. But if you do not know their fathers, then they are ˹simply˺ your fellow believers and close associates. There is no blame on you for what you do by mistake, but ˹only˺ for what you do intentionally. And Allah is All-Forgiving, Most Merciful.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onları babaları namına çağırınız. Bu, Allah katında adâlete daha yakındır. Eğer onların babalarını bilmiyorsanız artık onlar sizin dinde kardeşlerinizdir ve dostlarınızdır. Ve sizin için kendisinde hata ettiğiniz şeyden dolayı bir günah yoktur. Fakat kalplerinizin kastettiği şeyden (dolayı günah vardır) ve Allah Teâlâ çok yarlığayıcı, çok esirgeyicidir.",
+        "hayrat_nesriyat": "Onları (evlâdlıklarınızı kendi) babalarına nisbet ederek çağırın! Bu, Allah katında daha doğrudur. Şâyet babalarını bilmiyorsanız, o takdirde (bilin ki onlar) sizin din kardeşleriniz ve dostlarınızdır. Bununla berâber, hakkında hatâ ettiğiniz şey husûsunda size bir günah yoktur. Fakat kalblerinizin kasdettiğinde (günah) vardır. Çünki Allah, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
+        "diyanet_vakfi": "Onları (evlât edindiklerinizi) babalarına nisbet ederek çağırın. Allah yanında en doğrusu budur. Eğer babalarının kim olduğunu bilmiyorsanız, bu takdirde onları din kardeşleriniz ve görüp gözettiğiniz kimseler olarak kabul edin. Yanılarak yaptıklarınızda size vebal yok; fakat kalplerinizin bile bile yöneldiğinde günah vardır. Allah bağışlayandır, esirgeyendir."
+      }
+    },
+    {
+      "id": 3539,
+      "verseNumber": 6,
+      "verseKey": "33:6",
+      "arabic": "ٱلنَّبِىُّ أَوْلَىٰ بِٱلْمُؤْمِنِينَ مِنْ أَنفُسِهِمْ ۖ وَأَزْوَٰجُهُۥٓ أُمَّهَـٰتُهُمْ ۗ وَأُو۟لُوا۟ ٱلْأَرْحَامِ بَعْضُهُمْ أَوْلَىٰ بِبَعْضٍ فِى كِتَـٰبِ ٱللَّهِ مِنَ ٱلْمُؤْمِنِينَ وَٱلْمُهَـٰجِرِينَ إِلَّآ أَن تَفْعَلُوٓا۟ إِلَىٰٓ أَوْلِيَآئِكُم مَّعْرُوفًا ۚ كَانَ ذَٰلِكَ فِى ٱلْكِتَـٰبِ مَسْطُورًا",
+      "english": "The Prophet has a stronger affinity to the believers than they do themselves. And his wives are their mothers. As ordained by Allah, blood relatives are more entitled ˹to inheritance˺ than ˹other˺ believers and immigrants, unless you ˹want to˺ show kindness to your ˹close˺ associates ˹through bequest˺.<sup foot_note=77177>1</sup> This is decreed in the Record.<sup foot_note=77178>2</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Peygamber, mü’minlere kendi nefslerinden daha mukaddemdir. Ve onun refikaları da mü’minlerin valideleridir. Karabet sahipleri de Allah’ın kitabında birbirlerine diğer mü’minlerden ve muhacirlerden daha yakındır. Ancak dostlarınıza bir iyilik yapacak olmanız müstesna. Bu, kitapta yazılmış bulunmaktadır.",
+        "hayrat_nesriyat": "Peygamber, mü`minlere kendi nefislerinden daha evlâdır; zevceleri de onların analarıdır. Akrabâlar ise, Allah`ın Kitâbı`nda birbirlerine (mîras husûsunda, diğer)mü`minlerden ve Muhâcirlerden daha lâyıktırlar; ancak dostlarınıza bir iyilik (vasiyet)yapmanız müstesnâ. Bunlar kitabda yazılmıştır.",
+        "diyanet_vakfi": "Peygamber, müminlere kendi canlarından daha yakındır. Eşleri, onların analarıdır. Akraba olanlar, Allah’ın Kitabına göre, (mirasçılık bakımından) birbirlerine diğer müminlerden ve muhacirlerden daha yakındırlar; ancak, dostlarınıza uygun bir vasiyet yapmanız müstesnadır. Bunlar Kitap’ta yazılı bulunmaktadır."
+      }
+    },
+    {
+      "id": 3540,
+      "verseNumber": 7,
+      "verseKey": "33:7",
+      "arabic": "وَإِذْ أَخَذْنَا مِنَ ٱلنَّبِيِّـۧنَ مِيثَـٰقَهُمْ وَمِنكَ وَمِن نُّوحٍ وَإِبْرَٰهِيمَ وَمُوسَىٰ وَعِيسَى ٱبْنِ مَرْيَمَ ۖ وَأَخَذْنَا مِنْهُم مِّيثَـٰقًا غَلِيظًا",
+      "english": "And ˹remember˺ when We took a covenant from the prophets, as well as from you ˹O Prophet˺, and from Noah, Abraham, Moses, and Jesus, son of Mary. We did take a solemn covenant from ˹all of˺ them",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve yâd et ki, Biz peygamberlerden misâklarını almıştık ve senden ve Nûh’tan ve İbrahim’den ve Mûsa ile Meryem’in oğlu İsâ’dan da (misâk almıştık) ve onlardan pek mühim bir misâk (ahd ü peyman) almış olduk.",
+        "hayrat_nesriyat": "Hani (tebliğ vazîfelerini yerine getirmeleri için) o peygamberlerden de sağlam sözlerini almıştık; senden de ve Nûh, İbrâhîm, Mûsâ ve Meryemoğlu Îsâ`dan da. Ve onlardan pek sağlam bir söz aldık.",
+        "diyanet_vakfi": "Hani biz peygamberlerden söz almıştık; senden, Nuh’tan, İbrahim’den, Musa’dan ve Meryem oğlu İsa’dan da. (Evet) biz onlardan pek sağlam bir söz aldık."
+      }
+    },
+    {
+      "id": 3541,
+      "verseNumber": 8,
+      "verseKey": "33:8",
+      "arabic": "لِّيَسْـَٔلَ ٱلصَّـٰدِقِينَ عَن صِدْقِهِمْ ۚ وَأَعَدَّ لِلْكَـٰفِرِينَ عَذَابًا أَلِيمًا",
+      "english": "so that He may question these men of truth about their ˹delivery of the˺ truth. And He has prepared a painful punishment for the disbelievers.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Tâ ki, o sâdıklara sadâkatlarından sual etsin ve kâfirler için de pek acıklı bir azap hazırlamıştır.",
+        "hayrat_nesriyat": "Tâ ki (Rabbin) o doğru kimselere (peygamberlere) doğruluklarından (yaptıkları tebliğ hakkında) sorsun! Kâfirler için ise (pek) elemli bir azab hazırladı.",
+        "diyanet_vakfi": "Allah bu sözü doğruları doğruluklarıyla sorumlu kılmak için aldı. Kâfirler için de çok acıklı bir azap hazırladı."
+      }
+    },
+    {
+      "id": 3542,
+      "verseNumber": 9,
+      "verseKey": "33:9",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ نِعْمَةَ ٱللَّهِ عَلَيْكُمْ إِذْ جَآءَتْكُمْ جُنُودٌ فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا وَجُنُودًا لَّمْ تَرَوْهَا ۚ وَكَانَ ٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرًا",
+      "english": "O believers! Remember Allah’s favour upon you when ˹enemy˺ forces came to ˹besiege˺ you ˹in Medina˺,<sup foot_note=77179>1</sup> so We sent against them a ˹bitter˺ wind and forces you could not see.<sup foot_note=77180>2</sup> And Allah is All-Seeing of what you do.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey imân edenler! Allah’ın üzerinize olan nîmetini yâd ediniz. O vakit ki, size (düşmanlarınız tarafından) ordular gelmişti. Biz de onların üzerlerine hemen bir rüzgar ve sizin görmediğiniz ordular göndermiştik. Ve Allah ne yapar olduğunuzu görüyordu.",
+        "hayrat_nesriyat": "Ey îmân edenler! Allah`ın size olan ni`metini hatırlayın; o vakit (Hendek Harbinde)size ordular gelmişti de, onların üzerine bir rüzgâr ve kendilerini görmediğiniz ordular göndermiştik. Allah ise, ne yaparsanız hakkıyla görendir.",
+        "diyanet_vakfi": "Ey iman edenler! Allah’ın size olan nimetini hatırlayın; hani size ordular saldırmıştı da, biz onlara karşı bir rüzgâr ve sizin görmediğiniz ordular göndermiştik. Allah ne yaptığınızı çok iyi görmekteydi."
+      }
+    },
+    {
+      "id": 3543,
+      "verseNumber": 10,
+      "verseKey": "33:10",
+      "arabic": "إِذْ جَآءُوكُم مِّن فَوْقِكُمْ وَمِنْ أَسْفَلَ مِنكُمْ وَإِذْ زَاغَتِ ٱلْأَبْصَـٰرُ وَبَلَغَتِ ٱلْقُلُوبُ ٱلْحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+      "english": "˹Remember˺ when they came at you from east and west,<sup foot_note=77181>1</sup> when your eyes grew wild ˹in horror˺ and your hearts jumped into your throats, and you entertained ˹conflicting˺ thoughts about Allah.<sup foot_note=77182>2</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O vakit ki, size hem üstünüzden gelmişlerdi hem de aşağı tarafınızdan ve o vakit ki, gözler kaymış ve yürekler gırtlaklara kavuşmuştu ve Allah’a türlü türlü zanlar ile zanda bulunuyordunuz.",
+        "hayrat_nesriyat": "Hani (onlar) size, üstünüzden ve alt tarafınızdan gelmişlerdi ve o vakit, gözler kaymış, yürekler gırtlaklara dayanmıştı ve Allah hakkında türlü türlü zanlarda bulunuyordunuz.",
+        "diyanet_vakfi": "Onlar hem yukarınızdan hem aşağı tarafınızdan (vâdinin üstünden ve alt yanından) üzerinize yürüdükleri zaman; gözler yıldığı, yürekler gırtlağa geldiği ve siz Allah hakkında türlü türlü şeyler düşündüğünüz zaman;"
+      }
+    },
+    {
+      "id": 3544,
+      "verseNumber": 11,
+      "verseKey": "33:11",
+      "arabic": "هُنَالِكَ ٱبْتُلِىَ ٱلْمُؤْمِنُونَ وَزُلْزِلُوا۟ زِلْزَالًا شَدِيدًا",
+      "english": "Then and there the believers were put to the test, and were violently shaken.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İşte orada mü’minler imtihana tutulmuşlardı ve şiddetli bir sarsıntı ile sarsılmışlardı.",
+        "hayrat_nesriyat": "İşte orada mü`minler imtihân edilmiş ve şiddetli bir sarsıntı ile sarsılmışlardı.",
+        "diyanet_vakfi": "İşte orada iman sahipleri imtihandan geçirilmiş ve şiddetli bir sarsıntıya uğratılmışlardı."
+      }
+    },
+    {
+      "id": 3545,
+      "verseNumber": 12,
+      "verseKey": "33:12",
+      "arabic": "وَإِذْ يَقُولُ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ مَّا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥٓ إِلَّا غُرُورًا",
+      "english": "And ˹remember˺ when the hypocrites and those with sickness in their hearts said, “Allah and His Messenger have promised us nothing but delusion!”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve o vakit münafıklar ve kalplerinde bir hastalık bulunanlar diyordu ki, «Allah ve Resûlü bize bir aldatıştan başka vaadetmiş olmadı».",
+        "hayrat_nesriyat": "O zaman münâfıklarla kalblerinde bir hastalık (i`tikad zayıflığı) bulunanlar ise: `Allah ve Resûlü bize sâdece boş bir va`dde bulunmuş!` diyorlardı.",
+        "diyanet_vakfi": "Ve o zaman, münafıklar ile kalplerinde hastalık (iman zayıflığı) bulunanlar: Meğer Allah ve Resûlü bize sadece kuru vaadlerde bulunmuşlar! diyorlardı."
+      }
+    },
+    {
+      "id": 3546,
+      "verseNumber": 13,
+      "verseKey": "33:13",
+      "arabic": "وَإِذْ قَالَت طَّآئِفَةٌ مِّنْهُمْ يَـٰٓأَهْلَ يَثْرِبَ لَا مُقَامَ لَكُمْ فَٱرْجِعُوا۟ ۚ وَيَسْتَـْٔذِنُ فَرِيقٌ مِّنْهُمُ ٱلنَّبِىَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوْرَةٌ وَمَا هِىَ بِعَوْرَةٍ ۖ إِن يُرِيدُونَ إِلَّا فِرَارًا",
+      "english": "And ˹remember˺ when a group of them said, “O people of Yathrib!<sup foot_note=77183>1</sup> There is no point in you staying ˹here˺, so retreat!” Another group of them asked the Prophet’s permission ˹to leave˺, saying, “Our homes are vulnerable,” while ˹in fact˺ they were not vulnerable. They only wished to flee.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve o vakit onlardan bir tâife demişti ki: «Ey Yesrib ahalisi! Sizin için bir duracak yer yok. Artık geri dönünüz». Ve onlardan bir zümre de Peygamberden izin isteyerek diyorlardı ki: «Muhakkak evlerimiz açıktır.» Halbuki, onlar açık değildi. Onlar firar etmekten başka bir şey dilemiş olmuyorlardı.",
+        "hayrat_nesriyat": "Yine o vakit onlardan (o münâfıklardan) bir tâife: `Ey Yesrib (Medîne) halkı!(Burada) sizin için duracak yer yok, hemen dönün!` demişti. Onlardan bir fırka da: `Gerçekten evlerimiz açık (korunmaya muhtaç)tır` diyerek peygamberden izin istiyordu. Hâlbuki o (evleri) açık değildi. Sâdece kaçmak istiyorlardı.",
+        "diyanet_vakfi": "Onlardan bir gurup da demişti ki: Ey Yesribliler (Medineliler)! Artık sizin için durmanın sırası değil, haydi dönün! İçlerinden bir kısmı ise: Gerçekten evlerimiz emniyette değil, diyerek Peygamber’den izin istiyordu; oysa evleri tehlikede değildi, sadece kaçmayı arzuluyorlardı."
+      }
+    },
+    {
+      "id": 3547,
+      "verseNumber": 14,
+      "verseKey": "33:14",
+      "arabic": "وَلَوْ دُخِلَتْ عَلَيْهِم مِّنْ أَقْطَارِهَا ثُمَّ سُئِلُوا۟ ٱلْفِتْنَةَ لَـَٔاتَوْهَا وَمَا تَلَبَّثُوا۟ بِهَآ إِلَّا يَسِيرًا",
+      "english": "Had their city been sacked from all sides and they had been asked to abandon faith, they would have done so with little hesitation.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Eğer onların üzerlerine her taraflarından girilse, sonra da kendilerinden fitne istenilecek olsa idi elbette onu (meydana) getirirlerdi ve bu hususta ancak pek az tevakkuf ederlerdi.",
+        "hayrat_nesriyat": "Hem (Medîne`nin) etrâfından üzerlerine girilseydi de sonra kendilerinden (o münâfıklardan) fitne (çıkarmaları, dinden çıkmaları) istenseydi, mutlaka bunu yaparlardı ve bunda fazla gecikmezlerdi.",
+        "diyanet_vakfi": "Medine’nin her yanından üzerlerine saldırılsaydı da, o zaman savaşmaları istenseydi, şüphesiz hemen savaşa katılırlar ve evlerinde pek eğlenmezlerdi."
+      }
+    },
+    {
+      "id": 3548,
+      "verseNumber": 15,
+      "verseKey": "33:15",
+      "arabic": "وَلَقَدْ كَانُوا۟ عَـٰهَدُوا۟ ٱللَّهَ مِن قَبْلُ لَا يُوَلُّونَ ٱلْأَدْبَـٰرَ ۚ وَكَانَ عَهْدُ ٱللَّهِ مَسْـُٔولًا",
+      "english": "They had already pledged to Allah earlier never to turn their backs ˹in retreat˺. And a pledge to Allah must be answered for.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Halbuki, onlar geriye dönmeyeceklerine dair evvelce Allah’a kat’iyyen taahütte bulunmuşlardı. Allah için yapılan bir taahhüt ise sorulmuş olacaktır.",
+        "hayrat_nesriyat": "Hâlbuki daha önce onlar, arkalarına dönüp kaçmayacaklarına dâir Allah`a söz vermişlerdi. Allah`a verilen söz ise mes`ûliyetlidir.",
+        "diyanet_vakfi": "Andolsun ki daha önce onlar, sırt çevirip kaçmayacaklarına dair Allah’a söz vermişlerdi. Allah’a verilen söz mesuliyeti gerektirir!"
+      }
+    },
+    {
+      "id": 3549,
+      "verseNumber": 16,
+      "verseKey": "33:16",
+      "arabic": "قُل لَّن يَنفَعَكُمُ ٱلْفِرَارُ إِن فَرَرْتُم مِّنَ ٱلْمَوْتِ أَوِ ٱلْقَتْلِ وَإِذًا لَّا تُمَتَّعُونَ إِلَّا قَلِيلًا",
+      "english": "Say, ˹O Prophet,˺ “Fleeing will not benefit you if you ˹try to˺ escape a natural or violent death. ˹If it is not your time,˺ you will only be allowed enjoyment for a little while.”<sup foot_note=77184>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «Eğer ölümden veya öldürülmekten firar ederseniz, o firar size asla fâide vermez. Ve o vakit pek azdan başka istifade ettirilmezsiniz.»",
+        "hayrat_nesriyat": "(Ey Resûlüm!) De ki: `Eğer ölümden veya öldürülmekten kaçıyorsanız, kaçmak size aslâ fayda vermez. Şâyet (kaçarsanız), o takdirde (dünyada) ancak pek az faydalandırılırsınız!`",
+        "diyanet_vakfi": "(Resûlüm!) De ki: Eğer ölümden veya öldürülmekten kaçıyorsanız, kaçmanın size asla faydası olmaz! (Eceliniz gelmemiş ise) o takdirde de, yaşatılacağınız süre çok değildir."
+      }
+    },
+    {
+      "id": 3550,
+      "verseNumber": 17,
+      "verseKey": "33:17",
+      "arabic": "قُلْ مَن ذَا ٱلَّذِى يَعْصِمُكُم مِّنَ ٱللَّهِ إِنْ أَرَادَ بِكُمْ سُوٓءًا أَوْ أَرَادَ بِكُمْ رَحْمَةً ۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيًّا وَلَا نَصِيرًا",
+      "english": "Ask ˹them, O  Prophet˺, “Who can put you out of Allah’s reach if He intends to harm you or show you mercy?” They can never find any protector or helper besides Allah.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «Sizin için bir fenalık dilerse veya sizin için bir rahmet dilerse sizi Allah’tan saklayacak olan kimdir? Ve onlar kendileri için Allah’tan başka bir velî ve bir yardımcı bulamaz.»",
+        "hayrat_nesriyat": "De ki: `Eğer size bir kötülük istese veya size bir rahmet dilese, sizi Allah`dan koruyacak kim olabilir?` Hâlbuki (onlar) kendilerine Allah`dan başka ne bir dost, ne de bir yardımcı bulabilirler.",
+        "diyanet_vakfi": "De ki: Allah size bir kötülük dilerse, O’na karşı sizi kim korur; ya da size rahmet dilerse (size kim zarar verebilir)? Onlar, kendilerine Allah’tan başka ne bir dost bulurlar ne de bir yardımcı."
+      }
+    },
+    {
+      "id": 3551,
+      "verseNumber": 18,
+      "verseKey": "33:18",
+      "arabic": "۞ قَدْ يَعْلَمُ ٱللَّهُ ٱلْمُعَوِّقِينَ مِنكُمْ وَٱلْقَآئِلِينَ لِإِخْوَٰنِهِمْ هَلُمَّ إِلَيْنَا ۖ وَلَا يَأْتُونَ ٱلْبَأْسَ إِلَّا قَلِيلًا",
+      "english": "Allah knows well those among you who discourage ˹others from fighting˺, saying ˹secretly˺ to their brothers, “Stay with us,” and who themselves hardly take part in fighting.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhakkak ki, Allah içinizden (sizi) geri bırakanları ve kardeşlerine, «Bize gelin,» diyenleri bilir. Halbuki onlar savaşa gelmezler; birazı müstesna!",
+        "hayrat_nesriyat": "Allah, içinizden (savaştan) alıkoyanları ve kardeşlerine: `Bize gelin!` diyenleri şübhesiz ki biliyor. Zâten (onlar) savaşa ancak pek az gelirler.",
+        "diyanet_vakfi": "Allah, içinizden (savaştan) alıkoyanları ve yandaşlarına: «Bize katılın» diyenleri gerçekten biliyor. Zaten bunların pek azı savaşa gelir."
+      }
+    },
+    {
+      "id": 3552,
+      "verseNumber": 19,
+      "verseKey": "33:19",
+      "arabic": "أَشِحَّةً عَلَيْكُمْ ۖ فَإِذَا جَآءَ ٱلْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَٱلَّذِى يُغْشَىٰ عَلَيْهِ مِنَ ٱلْمَوْتِ ۖ فَإِذَا ذَهَبَ ٱلْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى ٱلْخَيْرِ ۚ أُو۟لَـٰٓئِكَ لَمْ يُؤْمِنُوا۟ فَأَحْبَطَ ٱللَّهُ أَعْمَـٰلَهُمْ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "english": "˹They are˺ totally unwilling to assist you. When danger comes, you see them staring at you with their eyes rolling like someone in the throes of death. But once the danger is over, they slash you with razor-sharp tongues, ravenous for ˹worldly˺ gains. Such people have not ˹truly˺ believed, so Allah has rendered their deeds void. And that is easy for Allah.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Size karşı pek cimridirler. Sonra korku gelince onları görecek olursun ki, sana bakıveriyorlar, ölümden üstüne baygınlık çökmüş kimse gibi gözleri döner bir halde bulunur. Vaktâ ki, korku gitmiş olur, hayra karşı cimriler olarak keskin keskin dilleriyle size şiddetli sözler söylerler. İşte onlar imân etmediler. Artık Allah da onların amellerini mahvetmiştir ve bu, Allah’a göre kolay olmuştur.",
+        "hayrat_nesriyat": "(Hem gelseler dahi) size karşı pek cimri olarak (gelirler). Fakat korku(lu bir hâl)geldiği zaman, onları, üzerine ölüm (baygınlığı) çökmüş kimse gibi, gözleri dönerek sana baktıklarını görürsün! Korku (hâli) geçtiği zaman ise, hayra (o ganîmete) karşı hırslı kimseler olarak keskin dilleriyle sizi incitirler. İşte onlar (gerçekte) îmân etmemişlerdir; bunun üzerine Allah, amellerini boşa çıkarmıştır. Bu ise, Allah`a göre pek kolaydır.",
+        "diyanet_vakfi": "(Gelseler de) size karşı pek hasistirler. Hele korku gelip çattı mı, üzerine ölüm baygınlığı çökmüş gibi gözleri dönerek sana baktıklarını görürsün. Korku gidince ise, mala düşkünlük göstererek sizi sivri dilleri ile incitirler. Onlar iman etmiş değillerdir; bunun için Allah onların yaptıklarını boşa çıkarmıştır. Bu, Allah’a göre kolaydır."
+      }
+    },
+    {
+      "id": 3553,
+      "verseNumber": 20,
+      "verseKey": "33:20",
+      "arabic": "يَحْسَبُونَ ٱلْأَحْزَابَ لَمْ يَذْهَبُوا۟ ۖ وَإِن يَأْتِ ٱلْأَحْزَابُ يَوَدُّوا۟ لَوْ أَنَّهُم بَادُونَ فِى ٱلْأَعْرَابِ يَسْـَٔلُونَ عَنْ أَنۢبَآئِكُمْ ۖ وَلَوْ كَانُوا۟ فِيكُم مَّا قَـٰتَلُوٓا۟ إِلَّا قَلِيلًا",
+      "english": "They ˹still˺ think that the enemy alliance has not ˹yet˺ withdrawn. And if the allies were to come ˹again˺, the hypocrites would wish to be away in the desert among nomadic Arabs, ˹only˺ asking for news about you ˹believers˺. And if the hypocrites were in your midst, they would hardly take part in the fight.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sanırlar ki, (düşman) orduları gitmemiştir. Ve eğer ordular gelecek olsa arzu ederlerdi ki çölde bedeviler içinde bulunup size ait haberleri soruversinler. Ve eğer sizin aranızda bulunacak olsalar, pek azdan başka mukatelede bulunmazlar.",
+        "hayrat_nesriyat": "(Onlar korkaklıklarından dolayı düşman) toplulukların (Medîne`den) gitmediklerini sanıyorlar. Ve eğer o ahzâb (o topluluklar, tekrar) gelecek olsalar, arzû ederler ki, doğrusu kendileri keşke çölde yaşayan kimseler olarak bedevî Arablar içinde bulunsalar da sizin haberlerinizi (Medîne tarafından gelenlere) sorsalar! Zâten içinizde (kalacak) olsalardı, ancak pek az savaşırlardı.",
+        "diyanet_vakfi": "Bunlar, düşman birliklerinin bozulup gitmedikleri evhamı içindedirler. Müttefikler ordusu yine gelecek olsa, isterler ki, çölde göçebe Araplar içinde bulunsunlar da, sizin haberlerinizi (uzaktan) sorsunlar. Zaten içinizde bulunsalardı dahi pek savaşacak değillerdi."
+      }
+    },
+    {
+      "id": 3554,
+      "verseNumber": 21,
+      "verseKey": "33:21",
+      "arabic": "لَّقَدْ كَانَ لَكُمْ فِى رَسُولِ ٱللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ وَذَكَرَ ٱللَّهَ كَثِيرًا",
+      "english": "Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Andolsun ki, sizin için Resûlullah’da bir güzel nûmune-i imtisal vardır, Allah’ı ve ahiret gününü uman ve Allah’ı çokça zikreden zât için.",
+        "hayrat_nesriyat": "And olsun ki sizin için, Allah`a ve âhiret gününe kavuşmayı uman ve Allah`ı çok zikreden kimseler için Allah`ın Resûlünde güzel bir örnek vardır.",
+        "diyanet_vakfi": "Andolsun ki, Resûlullah, sizin için, Allah’a ve ahiret gününe kavuşmayı umanlar ve Allah’ı çok zikredenler için güzel bir örnektir."
+      }
+    },
+    {
+      "id": 3555,
+      "verseNumber": 22,
+      "verseKey": "33:22",
+      "arabic": "وَلَمَّا رَءَا ٱلْمُؤْمِنُونَ ٱلْأَحْزَابَ قَالُوا۟ هَـٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥ ۚ وَمَا زَادَهُمْ إِلَّآ إِيمَـٰنًا وَتَسْلِيمًا",
+      "english": "When the believers saw the enemy alliance, they said, “This is what Allah and His Messenger had promised us. The promise of Allah and His Messenger has come true.” And this only increased them in faith and submission.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Vaktâ ki mü’minler orduları gördüler, dediler ki: «Bu, bize Allah’ın ve O’nun Resûlünün vaadettiğidir ve Allah ve Resûlü doğru buyurmuştur.» Ve onlar için başka değil, imânı ve teslimiyeti arttırmış olur.",
+        "hayrat_nesriyat": "Mü`minler ise (düşman) topluluklarını görünce: `Bu Allah`ın ve Resûlünün bize va`d ettiği şeydir; Allah ve Resûlü doğru söylemiştir!` dediler. Ve (bu vâ`d olundukları şeyi görmeleri) onları ancak îmanca ve teslîmiyetçe artırdı.",
+        "diyanet_vakfi": "Müminler ise, düşman birliklerini gördüklerinde: İşte Allah ve Resûlü’nün bize vâdettiği! Allah ve Resûlü doğru söylemiştir, dediler. Bu (orduların gelişi), onların ancak imanlarını ve Allah’a bağlılıklarını arttırdı."
+      }
+    },
+    {
+      "id": 3556,
+      "verseNumber": 23,
+      "verseKey": "33:23",
+      "arabic": "مِّنَ ٱلْمُؤْمِنِينَ رِجَالٌ صَدَقُوا۟ مَا عَـٰهَدُوا۟ ٱللَّهَ عَلَيْهِ ۖ فَمِنْهُم مَّن قَضَىٰ نَحْبَهُۥ وَمِنْهُم مَّن يَنتَظِرُ ۖ وَمَا بَدَّلُوا۟ تَبْدِيلًا",
+      "english": "Among the believers are men who have proven true to what they pledged to Allah.<sup foot_note=77185>1</sup> Some of them have fulfilled their pledge ˹with their lives˺, others are waiting ˹their turn˺. They have never changed ˹their commitment˺ in the least.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Mü’minlerden bir kısım erler vardır ki, Allah’a karşı üzerine muâhedede bulundukları şeyde sâdık oldular. Artık onlardan öylesi vardır ki, nezrini ödedi ve onlardan öylesi de vardır ki, gözetiyor. Hiçbir tebdîl ile tebdîlde bulunmadılar.",
+        "hayrat_nesriyat": "Mü`minlerden öyle erler vardır ki, (o gün) Allah`a verdikleri sözde durdular. Öyle ki onlardan kimi adağını yerine getirdi (şehîd oldu), kimi de (şehîd olmayı) bekliyor! Fakat(onlar) hiçbir şekilde (verdikleri sözü) değiştirmediler.",
+        "diyanet_vakfi": "Müminler içinde Allah’a verdikleri sözde duran nice erler var. İşte onlardan kimi, sözünü yerine getirip o yolda canını vermiştir; kimi de (şehitliği) beklemektedir. Onlar hiçbir şekilde (sözlerini) değiştirmemişlerdir."
+      }
+    },
+    {
+      "id": 3557,
+      "verseNumber": 24,
+      "verseKey": "33:24",
+      "arabic": "لِّيَجْزِىَ ٱللَّهُ ٱلصَّـٰدِقِينَ بِصِدْقِهِمْ وَيُعَذِّبَ ٱلْمُنَـٰفِقِينَ إِن شَآءَ أَوْ يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+      "english": "˹It all happened˺ so Allah may reward the faithful for their faithfulness, and punish the hypocrites if He wills or turn to them ˹in mercy˺. Surely Allah is All-Forgiving, Most Merciful.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Tâ ki, Allah sâdıkları sadâkatları sebebiyle mükâfaatlandırsın. Münafıkları da dilerse muazzep kılsın veya onlara tevbe nâsib etsin. Şüphe yok ki, Allah çok yarlığayıcıdır, çok merhametlidir.",
+        "hayrat_nesriyat": "Tâ ki Allah, doğru kimseleri sadâkatleriyle mükâfâtlandırsın, münâfıklara da dilerse azâb etsin, yâhut (tevbe ederlerse) tevbelerini kabûl etsin! Şübhesiz ki Allah, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
+        "diyanet_vakfi": "Çünkü Allah sadâkat gösterenleri sadâkatları sebebiyle mükâfatlandıracak, münafıklara -dilerse- azap edecek yahut da (tevbe ederlerse) tevbelerini kabul edecektir. Şüphesiz Allah, bağışlayandır, esirgeyendir."
+      }
+    },
+    {
+      "id": 3558,
+      "verseNumber": 25,
+      "verseKey": "33:25",
+      "arabic": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُوا۟ بِغَيْظِهِمْ لَمْ يَنَالُوا۟ خَيْرًا ۚ وَكَفَى ٱللَّهُ ٱلْمُؤْمِنِينَ ٱلْقِتَالَ ۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزًا",
+      "english": "And Allah drove back the disbelievers in their rage, totally empty-handed. And Allah spared the believers from fighting. For Allah is All-Powerful, Almighty.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve Allah, kâfir olan kimseleri pürgazap oldukları halde geri çevirdi, bir hayra kavuşmadılar. Ve Allah, mü’minlere savaşta muvaffak olmaları için kafî oldu. Ve Allah Teâlâ pek kuvvetlidir, pek galiptir.",
+        "hayrat_nesriyat": "Hâlbuki Allah, inkâr edenleri (kendi) öfkeleriyle geri çevirdi; hiçbir hayra (zafere)eremediler. Allah ise, savaşta (galip gelmeleri için) mü`minlere yetti. Çünki Allah, Kavî (pek kuvvetli)dir, Azîz (kudreti dâimâ üstün gelen)dir.",
+        "diyanet_vakfi": "Allah, o inkâr edenleri hiçbir fayda elde edemeden öfkeleri ile geri çevirdi. Allah(ın yardımı) savaşta müminlere yetti. Allah güçlüdür, mutlak galiptir."
+      }
+    },
+    {
+      "id": 3559,
+      "verseNumber": 26,
+      "verseKey": "33:26",
+      "arabic": "وَأَنزَلَ ٱلَّذِينَ ظَـٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَـٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
+      "english": "And He brought down those from the People of the Book<sup foot_note=77186>1</sup> who supported the enemy alliance from their own strongholds, and cast horror into their hearts. You ˹believers˺ killed some, and took others captive.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve ehl-i kitaptan olup da onlara müzaherette bulunanları kal’alarından indirdi ve kalplerine korku düşürdü. Bir tâifeyi öldürüyordunuz, bir tâifeyi de esir alıyordunuz.",
+        "hayrat_nesriyat": "Ve (Allah), ehl-i kitabdan, onlara (o müşrik ordularına) yardım edenleri (Kureyza yahudilerini), kalelerinden indirdi ve kalblerine korku düşürdü; bir tâifeyi öldürüyordunuz, bir tâifeyi de esir alıyordunuz.",
+        "diyanet_vakfi": "Allah, ehl-i kitaptan, onlara (müşrik ordularına) yardım edenleri kalelerinden indirdi ve kalplerine korku düşürdü; bir kısmını öldürüyor, bir kısmını da esir alıyordunuz."
+      }
+    },
+    {
+      "id": 3560,
+      "verseNumber": 27,
+      "verseKey": "33:27",
+      "arabic": "وَأَوْرَثَكُمْ أَرْضَهُمْ وَدِيَـٰرَهُمْ وَأَمْوَٰلَهُمْ وَأَرْضًا لَّمْ تَطَـُٔوهَا ۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرًا",
+      "english": "He has also caused you to take over their lands, homes, and wealth, as well as lands you have not yet set foot on. And Allah is Most Capable of everything.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve sizi onların yerlerine ve yurtlarına ve mallarına ve daha kendisine ayak basmadığınız bir yere varis kıldı ve Allah Teâlâ her şey üzerine tamamıyla kâdir bulunmaktadır.",
+        "hayrat_nesriyat": "Ve (Allah) onların yerlerine, yurtlarına, mallarına ve henüz ayak basmadığınız biryere (Hayber`e) sizi vâris kıldı. Çünki Allah, herşeye hakkıyla gücü yetendir.",
+        "diyanet_vakfi": "Allah, onların yerlerine, yurtlarına, mallarına ve ayak basmadığınız topraklara sizi mirasçı yaptı. Allah’ın her şeye gücü yeter."
+      }
+    },
+    {
+      "id": 3561,
+      "verseNumber": 28,
+      "verseKey": "33:28",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ إِن كُنتُنَّ تُرِدْنَ ٱلْحَيَوٰةَ ٱلدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا جَمِيلًا",
+      "english": "O Prophet! Say to your wives, “If you desire the life of this world and its luxury, then come, I will give you a ˹suitable˺ compensation ˹for divorce˺ and let you go graciously.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey Peygamber! Zevcelerine de ki: «Eğer siz dünya hayatını ve ziynetini diliyorsanız haydi geliniz, size müt’anızı vereyim ve sizi bir güzelce salıvermekle salıvereyim.»",
+        "hayrat_nesriyat": "Ey Peygamber! Zevcelerine, de ki: `Eğer dünya hayâtını ve süsünü istiyorsanız, öyleyse gelin size boşama bedeli vereyim ve sizi güzelce bir bırakmayla salıvereyim.`",
+        "diyanet_vakfi": "Ey Peygamber! Eşlerine şöyle söyle: Eğer dünya dirliğini ve süsünü (refahını) istiyorsanız, gelin size boşanma bedellerinizi vereyim de, sizi güzellikle salıvereyim."
+      }
+    },
+    {
+      "id": 3562,
+      "verseNumber": 29,
+      "verseKey": "33:29",
+      "arabic": "وَإِن كُنتُنَّ تُرِدْنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلْـَٔاخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلْمُحْسِنَـٰتِ مِنكُنَّ أَجْرًا عَظِيمًا",
+      "english": "But if you desire Allah and His Messenger and the ˹everlasting˺ Home of the Hereafter, then Surely Allah has prepared a great reward for those of you who do good.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Ve eğer siz, Allah’ı ve Resülünü ve ahiret yurdunu diliyor iseniz, elbette ki Allah sizlerden güzel amellerde bulunanlar için büyük bir mükâfaat hazırlamıştır.»",
+        "hayrat_nesriyat": "`Yok eğer (siz), Allah`ı, Resûlünü ve âhiret yurdunu istiyorsanız, hiç şübhesiz ki Allah, içinizden iyilik edenlere (pek) büyük bir mükâfât hazırlamıştır.`",
+        "diyanet_vakfi": "Eğer Allah’ı, Peygamberini ve ahiret yurdunu diliyorsanız, bilin ki, Allah, içinizden güzel davrananlar için büyük bir mükâfat hazırlamıştır."
+      }
+    },
+    {
+      "id": 3563,
+      "verseNumber": 30,
+      "verseKey": "33:30",
+      "arabic": "يَـٰنِسَآءَ ٱلنَّبِىِّ مَن يَأْتِ مِنكُنَّ بِفَـٰحِشَةٍ مُّبَيِّنَةٍ يُضَـٰعَفْ لَهَا ٱلْعَذَابُ ضِعْفَيْنِ ۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+      "english": "O wives of the Prophet! If any of you were to commit a blatant misconduct, the punishment would be doubled for her. And that is easy for Allah.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey Peygamberin refikaları! Sizden hangi biri haddizatında zahir bir kötülüğü vücuda getirirse onun için azap, iki katlanır. Ve bu, Allah’a kolay olmuştur.",
+        "hayrat_nesriyat": "Ey Peygamber hanımları! İçinizden kim apaçık bir çirkinlik yaparsa, ona azab iki kat artırılır. Bu ise, Allah`a göre pek kolaydır.",
+        "diyanet_vakfi": "Ey peygamber hanımları! Sizden kim açık bir hayâsızlık yaparsa, onun azabı iki katına çıkarılır. Bu, Allah’a göre kolaydır."
+      }
+    },
+    {
+      "id": 3564,
+      "verseNumber": 31,
+      "verseKey": "33:31",
+      "arabic": "۞ وَمَن يَقْنُتْ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعْمَلْ صَـٰلِحًا نُّؤْتِهَآ أَجْرَهَا مَرَّتَيْنِ وَأَعْتَدْنَا لَهَا رِزْقًا كَرِيمًا",
+      "english": "And whoever of you devoutly obeys Allah and His Messenger and does good, We will grant her double the reward, and We have prepared for her an honourable provision.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve kim ki, sizden Allah için ve Peygamberi için itaat ederse ve sâlih amelde bulunursa ona mükâfaatını iki defa veririz ve onun için bir kerîm rızk hazırlamışızdır.",
+        "hayrat_nesriyat": "Fakat içinizden kim, Allah`a ve Resûlüne itâat eder ve sâlih bir amel işlerse, ona mükâfâtını iki kat veririz ve (Cennette) onun için (çok) hoş bir rızık hazırlamışızdır.",
+        "diyanet_vakfi": "Sizden kim, Allah’a ve Resûlüne itaat eder ve yararlı iş yaparsa ona mükâfatını iki kat veririz. Ve ona (cennette) bol rızık hazırlamışızdır."
+      }
+    },
+    {
+      "id": 3565,
+      "verseNumber": 32,
+      "verseKey": "33:32",
+      "arabic": "يَـٰنِسَآءَ ٱلنَّبِىِّ لَسْتُنَّ كَأَحَدٍ مِّنَ ٱلنِّسَآءِ ۚ إِنِ ٱتَّقَيْتُنَّ فَلَا تَخْضَعْنَ بِٱلْقَوْلِ فَيَطْمَعَ ٱلَّذِى فِى قَلْبِهِۦ مَرَضٌ وَقُلْنَ قَوْلًا مَّعْرُوفًا",
+      "english": "O wives of the Prophet! You are not like any other women: if you are mindful ˹of Allah˺, then do not be overly effeminate in speech ˹with men˺ or those with sickness in their hearts may be tempted, but speak in a moderate tone.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey Peygamberin zevceleri! Siz kadınlardan herhangi biri gibi değilsinizdir, eğer muttakî bulunuyor iseniz. Lâkırdıyı yumuşakça yapmayınız, sonra kalbinde bir fesat bulunan tamaha düşer. Ve maruf söz söyleyin.",
+        "hayrat_nesriyat": "Ey Peygamber hanımları! (Siz,) kadınlardan herhangi biri gibi değilsiniz; eğer(Allah`dan) sakınıyorsanız, o hâlde (yabancı erkeklerle konuşurken) konuşmayı yumuşak(bir edâ ile) yapmayın ki kalbinde bir hastalık bulunan kimse tamah etmesin; ve (bir şey söyleyeceğinizde ciddiyetle) güzel bir söz söyleyin!",
+        "diyanet_vakfi": "Ey Peygamber hanımları! Siz, kadınlardan herhangi biri gibi değilsiniz. Eğer (Allah’tan) korkuyorsanız, (yabancı erkeklere karşı) çekici bir eda ile konuşmayın; sonra kalbinde hastalık bulunan kimse ümide kapılır. Güzel söz söyleyin."
+      }
+    },
+    {
+      "id": 3566,
+      "verseNumber": 33,
+      "verseKey": "33:33",
+      "arabic": "وَقَرْنَ فِى بُيُوتِكُنَّ وَلَا تَبَرَّجْنَ تَبَرُّجَ ٱلْجَـٰهِلِيَّةِ ٱلْأُولَىٰ ۖ وَأَقِمْنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعْنَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذْهِبَ عَنكُمُ ٱلرِّجْسَ أَهْلَ ٱلْبَيْتِ وَيُطَهِّرَكُمْ تَطْهِيرًا",
+      "english": "Settle in your homes, and do not display yourselves as women did in the days of ˹pre-Islamic˺ ignorance. Establish prayer, pay alms-tax, and obey Allah and His Messenger. Allah only intends to keep ˹the causes of˺ evil away from you and purify you completely, O  members of the ˹Prophet’s˺ family!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve hanelerinizde karar ediniz ve evvelce câhiliye zamanındaki açılış gibi açılıvermeyiniz ve namazı dosdoğru kılınız ve zekâtı veriniz ve Allah’a ve Peygamberine itaat ediniz. Ve ey Ehl-i beyt, Allah sizden ancak kiri götürmek ve sizi tertemiz kılmak dilemektedir.",
+        "hayrat_nesriyat": "Hem evlerinizde (vakarınızla) oturun ve evvelki câhiliye devri (kadınlarının) açılıp saçılması gibi, ziynetlerinizi ızhâr etmeyin; namazı hakkıyla edâ edin; zekâtı verin; Allah`a ve Resûlüne itâat edin! Ey Ehl-i Beyt! Allah (bu emirleriyle), sizden ancak kiri (günâhı)gidermek ve sizi tertemiz yapmak istiyor.",
+        "diyanet_vakfi": "Evlerinizde oturun, eski cahiliye âdetinde olduğu gibi açılıp saçılmayın. Namazı kılın, zekâtı verin, Allah’a ve Resûlüne itaat edin. Ey Ehl-i Beyt! Allah sizden, sadece günahı gidermek ve sizi tertemiz yapmak istiyor."
+      }
+    },
+    {
+      "id": 3567,
+      "verseNumber": 34,
+      "verseKey": "33:34",
+      "arabic": "وَٱذْكُرْنَ مَا يُتْلَىٰ فِى بُيُوتِكُنَّ مِنْ ءَايَـٰتِ ٱللَّهِ وَٱلْحِكْمَةِ ۚ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا",
+      "english": "˹Always˺ remember what is recited in your homes of Allah’s revelations and ˹prophetic˺ wisdom.<sup foot_note=77187>1</sup> Surely Allah is Most Subtle, All-Aware.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve hanelerinizde Allah’ın âyetlerinden ve hikmetten tilâvet olunanları hatırlayınız. Şüphe yok ki, Allah latîf, habîr bulunmaktadır.",
+        "hayrat_nesriyat": "Hem evlerinizde Allah`ın âyetlerinden ve hikmetten (size) okunanları düşünün! Şübhesiz Allah, Latîf (bütün incelikleri bilen)dir, Habîr (her hâlinizden haberdâr olan)dır.",
+        "diyanet_vakfi": "Evlerinizde okunan Allah’ın âyetlerini ve hikmeti hatırlayın. Şüphesiz Allah, her şeyin iç yüzünü bilendir ve her şeyden haberi olandır."
+      }
+    },
+    {
+      "id": 3568,
+      "verseNumber": 35,
+      "verseKey": "33:35",
+      "arabic": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَـٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ وَٱلْقَـٰنِتِينَ وَٱلْقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِينَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِينَ وَٱلصَّـٰبِرَٰتِ وَٱلْخَـٰشِعِينَ وَٱلْخَـٰشِعَـٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَـٰتِ وَٱلصَّـٰٓئِمِينَ وَٱلصَّـٰٓئِمَـٰتِ وَٱلْحَـٰفِظِينَ فُرُوجَهُمْ وَٱلْحَـٰفِظَـٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+      "english": "Surely ˹for˺ Muslim men and women, believing men and women,<sup foot_note=77188>1</sup> devout men and women, truthful men and women, patient men and women, humble men and women, charitable men and women, fasting men and women, men and women who guard their chastity, and men and women who remember Allah often—for ˹all of˺ them Allah has prepared forgiveness and a great reward.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki, İslâmiyet’i kabul eden erkekler ve İslâmiyet’i kabul eden kadınlar ve imân eden erkekler ve imân eden kadınlar ve taate müdavim erkekler ve taate devam eden kadınlar ve sadâkatli erkekler ve sadâkatli kadınlar ve sabırlı erkekler ve sabırlı kadınlar ve hak için mütevazi erkekler ve tevazuda bulunan kadınlar ve sadaka veren erkekler ve tasaddukta bulunan kadınlar ve oruç tutan erkekler ve oruçlu kadınlar ve namuslarını muhafaza eden erkekler ile kadınlar ve Allah Teâlâ’yı çokça zikreden erkekler ve zikreyleyen kadınlar (var ya). Onlar için Allah Teâlâ bir mağfiret ve pek büyük bir mükâfaat hazırlamıştır.",
+        "hayrat_nesriyat": "Muhakkak ki Müslüman erkekler ve Müslüman kadınlar, mü`min erkekler ve mü`min kadınlar, itâatkâr erkekler ve itâatkâr kadınlar, sâdık erkekler ve sâdık kadınlar, sabreden erkekler ve sabreden kadınlar, (Allah`a) gönülden bağlı (mütevâzi) olan erkekler ve(Allah`a) gönülden bağlı (mütevâzi) olan kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, ırzlarını koruyan erkekler ve (ırzlarını)koruyan kadınlar, Allah`ı çok zikreden erkekler ve zikreden kadınlar var ya; (işte) Allah bunlar için bir mağfiret ve büyük bir mükâfât hazırlamıştır.",
+        "diyanet_vakfi": "Müslüman erkekler ve müslüman kadınlar, mümin erkekler ve mümin kadınlar, taata devam eden erkekler ve taata devam eden kadınlar, doğru erkekler ve doğru kadınlar, sabreden erkekler ve sabreden kadınlar, mütevazi erkekler ve mütevazi kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, ırzlarını koruyan erkekler ve (ırzlarını) koruyan kadınlar, Allah’ı çok zikreden erkekler ve zikreden kadınlar var ya; işte Allah, bunlar için bir mağfiret ve büyük bir mükâfat hazırlamıştır."
+      }
+    },
+    {
+      "id": 3569,
+      "verseNumber": 36,
+      "verseKey": "33:36",
+      "arabic": "وَمَا كَانَ لِمُؤْمِنٍ وَلَا مُؤْمِنَةٍ إِذَا قَضَى ٱللَّهُ وَرَسُولُهُۥٓ أَمْرًا أَن يَكُونَ لَهُمُ ٱلْخِيَرَةُ مِنْ أَمْرِهِمْ ۗ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ ضَلَّ ضَلَـٰلًا مُّبِينًا",
+      "english": "It is not for a believing man or woman—when Allah and His Messenger decree a matter—to have any other choice in that matter.<sup foot_note=77189>1</sup> Indeed, whoever disobeys Allah and His Messenger has clearly gone ˹far˺ astray.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve bir mü’min ve bir mü’mine için sahih değildir ki, Allah ve Resûlü bir işe hükmettiği vakit onlar için kendi işlerinden dolayı (o hükm-ü ilâhîye karşı) bir muhayyerlik olsun. Ve her kim Allah’a ve Peygamberine isyan ederse artık apaçık bir sapıklık ile sapıtmış olur.",
+        "hayrat_nesriyat": "Hem Allah ve Resûlü bir işe hüküm verdiği zaman, artık ne mü`min bir erkek, ne de mü`min bir kadın için (o hükme muhâlif) işlerinde kendilerine (başka bir yolu) seçme hakkı yoktur! Ve her kim Allah`a ve Resûlüne isyân ederse, artık muhakkak ki apaçık bir sapıklık ile dalâlete düşmüş olur.",
+        "diyanet_vakfi": "Allah ve Resûlü bir işe hüküm verdiği zaman, inanmış bir erkek ve kadına o işi kendi isteklerine göre seçme hakkı yoktur. Her kim Allah ve Resûlüne karşı gelirse, apaçık bir sapıklığa düşmüş olur."
+      }
+    },
+    {
+      "id": 3570,
+      "verseNumber": 37,
+      "verseKey": "33:37",
+      "arabic": "وَإِذْ تَقُولُ لِلَّذِىٓ أَنْعَمَ ٱللَّهُ عَلَيْهِ وَأَنْعَمْتَ عَلَيْهِ أَمْسِكْ عَلَيْكَ زَوْجَكَ وَٱتَّقِ ٱللَّهَ وَتُخْفِى فِى نَفْسِكَ مَا ٱللَّهُ مُبْدِيهِ وَتَخْشَى ٱلنَّاسَ وَٱللَّهُ أَحَقُّ أَن تَخْشَىٰهُ ۖ فَلَمَّا قَضَىٰ زَيْدٌ مِّنْهَا وَطَرًا زَوَّجْنَـٰكَهَا لِكَىْ لَا يَكُونَ عَلَى ٱلْمُؤْمِنِينَ حَرَجٌ فِىٓ أَزْوَٰجِ أَدْعِيَآئِهِمْ إِذَا قَضَوْا۟ مِنْهُنَّ وَطَرًا ۚ وَكَانَ أَمْرُ ٱللَّهِ مَفْعُولًا",
+      "english": "And ˹remember, O  Prophet,˺ when you said to the one<sup foot_note=77190>1</sup> for whom Allah has done a favour and you ˹too˺ have done a favour,<sup foot_note=77191>2</sup> “Keep your wife and fear Allah,” while concealing within yourself what Allah was going to reveal. And ˹so˺ you were considering the people, whereas Allah was more worthy of your consideration. So when Zaid totally lost interest in ˹keeping˺ his wife, We gave her to you in marriage, so that there would be no blame on the believers for marrying the ex-wives of their adopted sons after their divorce. And Allah’s command is totally binding.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve hatırla o zaman ki, O kendisine Allah’ın in’am ettiği ve senin de kendisine in’am ettiğin kimseye, «Zevceni kendin için tut ve Allah’tan kork,» diyordun ve kendi içerinde Allah’ın açığa çıkaracağı şeyi gizliyordun ve nâstan korkuyordun. Halbuki, korkmaya en ziyâde layık olan Allah’tır. Sonra Zeyd, o kadından alakasını nihâyete erdirince onu seninle evlendirdik. Tâ ki oğulluklarının alakalarını zevcelerinden kestikleri zaman o zevcelerde mü’minler üzerine bir darlık (bir günah) olmasın. Ve Allah’ın emri yerine getirilmiş oldu.",
+        "hayrat_nesriyat": "Hani (sen), kendisine hem Allah`ın ni`met verdiği, hem de senin ni`met verdiğin kimseye (Zeyd`e): `Zevceni üzerinde (nikâhında) tut ve Allah`dan sakın!` diyordun; Allah`ın, kendisini ortaya çıkarıcı olduğu şeyi ise, içinde gizliyordun ve insanlardan çekiniyordun.Hâlbuki Allah, kendisinden çekinmene daha lâyıktır. Buna rağmen Zeyd (kendisini fazîlet cihetiyle ona koca olarak denk görmediğinden) ondan ihtiyâcı (olan boşamasını) yerine getirince, onu sana (biz) nikâhladık; tâ ki, kendi(zevce)lerinden alâka(larını) kestikleri zaman evlâdlıklarının zevceleri (ile evlenmeleri husûsu)nda mü`minlere bir zorluk olmasın! Ve Allah`ın emri, (böylece) yerine getirilmiş oldu.",
+        "diyanet_vakfi": "(Resûlüm!) Hani Allah’ın nimet verdiği, senin de kendisine iyilik ettiğin kimseye: Eşini yanında tut, Allah’tan kork! diyordun. Allah’ın açığa vuracağı şeyi, insanlardan çekinerek içinde gizliyordun. Oysa asıl korkmana lâyık olan Allah’tır. Zeyd, o kadından ilişiğini kesince biz onu sana nikâhladık ki evlâtlıkları, karılarıyla ilişkilerini kestiklerinde (o kadınlarla evlenmek isterlerse) müminlere bir güçlük olmasın. Allah’ın emri yerine getirilmiştir."
+      }
+    },
+    {
+      "id": 3571,
+      "verseNumber": 38,
+      "verseKey": "33:38",
+      "arabic": "مَّا كَانَ عَلَى ٱلنَّبِىِّ مِنْ حَرَجٍ فِيمَا فَرَضَ ٱللَّهُ لَهُۥ ۖ سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۚ وَكَانَ أَمْرُ ٱللَّهِ قَدَرًا مَّقْدُورًا",
+      "english": "There is no blame on the Prophet for doing what Allah has ordained for him. That has been the way of Allah with those ˹prophets˺ who had gone before. And Allah’s command has been firmly decreed.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Allah’ın kendisi için mukadder kıldığı bir şeyde peygamber üzerine bir güçlük yoktur. Evvelce gelip geçmiş olanların haklarındaki sünnet-i ilâhiye gibi . Ve Allah’ın emri yerine getirilmiş bir kader bulunmaktadır.",
+        "hayrat_nesriyat": "Allah`ın, kendisi için takdîr ettiği bir şey(i yerine getirmek)te Peygambere herhangi bir zorluk yoktur. Bundan önce gelip geçen (peygamber)ler içinde Allah`ın kanûnu (böyle)dir. Allah`ın emri ise, mutlaka yerini bulan bir kaderdir.",
+        "diyanet_vakfi": "Allah’ın, kendisine helâl kıldığı şeyde Peygamber’e herhangi bir vebâl yoktur. Önce gelip geçenler arasında da Allah’ın âdeti böyle idi. Allah’ın emri mutlaka yerine gelecek, yazılmış bir kaderdir."
+      }
+    },
+    {
+      "id": 3572,
+      "verseNumber": 39,
+      "verseKey": "33:39",
+      "arabic": "ٱلَّذِينَ يُبَلِّغُونَ رِسَـٰلَـٰتِ ٱللَّهِ وَيَخْشَوْنَهُۥ وَلَا يَخْشَوْنَ أَحَدًا إِلَّا ٱللَّهَ ۗ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+      "english": "˹That is His way with˺ those ˹prophets˺ who deliver the messages of Allah, and consider Him, and none but Allah. And sufficient is Allah as a ˹vigilant˺ Reckoner.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onlar ki, Allah’ın gönderdiklerini tebliğ ederler ve O’ndan korkarlar ve Allah’tan başka bir kimseden korkmazlar ve hesap görücü olmaya da Allah kâfidir.",
+        "hayrat_nesriyat": "Onlar (o peygamberlerdir) ki, Allah`ın (vahyen) gönderdiklerini teblîğ ederler ve O`ndan korkarlar; hem Allah`dan başka, kimseden korkmazlar. Hesab görücü olarak da Allah yeter!",
+        "diyanet_vakfi": "O peygamberler ki Allah’ın gönderdiği emirleri duyururlar, Allah’tan korkarlar ve O’ndan başka kimseden korkmazlar. Hesap görücü olarak Allah (herkese) yeter."
+      }
+    },
+    {
+      "id": 3573,
+      "verseNumber": 40,
+      "verseKey": "33:40",
+      "arabic": "مَّا كَانَ مُحَمَّدٌ أَبَآ أَحَدٍ مِّن رِّجَالِكُمْ وَلَـٰكِن رَّسُولَ ٱللَّهِ وَخَاتَمَ ٱلنَّبِيِّـۧنَ ۗ وَكَانَ ٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "english": "Muḥammad is not the father of any of your men,<sup foot_note=77192>1</sup> but is the Messenger of Allah and the seal of the prophets. And Allah has ˹perfect˺ knowledge of all things.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhammed (aleyhisselâm) sizin erkeklerinizden hiçbirinin babası değildir, velâkin Allah’ın resûlüdür ve peygamberlerin hatemidir ve Allah her şeyi tamamen bilendir.",
+        "hayrat_nesriyat": "Muhammed, sizin erkeklerinizden hiçbirisinin babası değildir; fakat Allah`ın Resûlü ve peygamberlerin sonuncusudur. Allah ise, herşeyi hakkıyla bilendir.",
+        "diyanet_vakfi": "Muhammed, sizin erkeklerinizden hiçbirinin babası değildir. Fakat o, Allah’ın Resûlü ve peygamberlerin sonuncusudur. Allah her şeyi hakkıyla bilendir."
+      }
+    },
+    {
+      "id": 3574,
+      "verseNumber": 41,
+      "verseKey": "33:41",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱذْكُرُوا۟ ٱللَّهَ ذِكْرًا كَثِيرًا",
+      "english": "O believers! Always remember Allah often,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey imân etmiş olanlar! Allah’ı çokça zikr ile zikrediniz.",
+        "hayrat_nesriyat": "Ey îmân edenler! Allah`ı çokça zikredin!",
+        "diyanet_vakfi": "Ey inananlar! Allah’ı çokça zikredin."
+      }
+    },
+    {
+      "id": 3575,
+      "verseNumber": 42,
+      "verseKey": "33:42",
+      "arabic": "وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+      "english": "and glorify Him morning and evening.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve O’na sabah ve akşam tesbihte bulunun.",
+        "hayrat_nesriyat": "Ve O`nu sabah-akşam (beş vakit namazda) tesbîh edin!",
+        "diyanet_vakfi": "Ve O’nu sabah akşam tesbih edin."
+      }
+    },
+    {
+      "id": 3576,
+      "verseNumber": 43,
+      "verseKey": "33:43",
+      "arabic": "هُوَ ٱلَّذِى يُصَلِّى عَلَيْكُمْ وَمَلَـٰٓئِكَتُهُۥ لِيُخْرِجَكُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِ ۚ وَكَانَ بِٱلْمُؤْمِنِينَ رَحِيمًا",
+      "english": "He is the One Who showers His blessings upon you—and His angels pray for you—so that He may bring you out of darkness and into light. For He is ever Merciful to the believers.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O, o (Hâlık-ı kerîm)dir ki, sizi zulmetlerden nûra çıkarmak için size merhamet buyurur, melekleri de. Ve O, mü’minler için pek merhametli bulunmaktadır.",
+        "hayrat_nesriyat": "O, sizi karanlıklardan nûra çıkarmak için üzerinize rahmet edendir; melekleri de(sizin için mağfiret diler)! Çünki (O,) mü`minlere karşı çok merhametlidir.",
+        "diyanet_vakfi": "Sizi karanlıklardan aydınlığa çıkarmak için üzerinize rahmetini gönderen O’dur. Melekleri de size istiğfar eder. Allah, müminlere karşı çok merhametlidir."
+      }
+    },
+    {
+      "id": 3577,
+      "verseNumber": 44,
+      "verseKey": "33:44",
+      "arabic": "تَحِيَّتُهُمْ يَوْمَ يَلْقَوْنَهُۥ سَلَـٰمٌ ۚ وَأَعَدَّ لَهُمْ أَجْرًا كَرِيمًا",
+      "english": "Their greeting on the Day they meet Him will be, “Peace!” And He has prepared for them an honourable reward.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ona kavuşacakları gün duaları selâmdır ve onlar için pek şerefli bir mükâfaat hazırlamıştır.",
+        "hayrat_nesriyat": "O`na kavuşacakları gün (Allah`ın) onlara tahiyyesi (iltifâtı) `selâm`dır. Ve onlar için (çok) güzel bir mükâfât (Cennet) hazırlamıştır.",
+        "diyanet_vakfi": "Kendisine kavuştukları gün, Allah’ın onlara iltifatı, «selâm» dır. Allah onlara çok değerli mükâfat hazırlamıştır."
+      }
+    },
+    {
+      "id": 3578,
+      "verseNumber": 45,
+      "verseKey": "33:45",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَرْسَلْنَـٰكَ شَـٰهِدًا وَمُبَشِّرًا وَنَذِيرًا",
+      "english": "O Prophet! We have sent you as a witness, and a deliverer of good news, and a warner,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey Peygamber! Şüphe yok ki, Biz seni bir şahit ve bir müjdeci ve bir korkutucu olarak gönderdik.",
+        "hayrat_nesriyat": "Ey Peygamber! Şübhesiz ki biz seni (insanların hâllerine) bir şâhid, bir müjdeci ve(aynı zamanda) bir korkutucu olarak gönderdik.",
+        "diyanet_vakfi": "Ey Peygamber! Biz seni hakikaten bir şahit, bir müjdeleyici ve bir uyarıcı olarak gönderdik."
+      }
+    },
+    {
+      "id": 3579,
+      "verseNumber": 46,
+      "verseKey": "33:46",
+      "arabic": "وَدَاعِيًا إِلَى ٱللَّهِ بِإِذْنِهِۦ وَسِرَاجًا مُّنِيرًا",
+      "english": "and a caller to ˹the Way of˺ Allah by His command, and a beacon of light.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve Allah’ın izni ile bir dâvet edici ve nûrlandıncı bir kandil olarak (gönderdik).",
+        "hayrat_nesriyat": "Ve Allah`a (yine) O`nun izni ile (çağıran) bir da`vetçi ve (umum kâinâtı)nûrlandıran bir kandil olarak (gönderdik).",
+        "diyanet_vakfi": "Allah’ın izniyle, bir davetçi ve nûr saçan bir kandil olarak (gönderdik)."
+      }
+    },
+    {
+      "id": 3580,
+      "verseNumber": 47,
+      "verseKey": "33:47",
+      "arabic": "وَبَشِّرِ ٱلْمُؤْمِنِينَ بِأَنَّ لَهُم مِّنَ ٱللَّهِ فَضْلًا كَبِيرًا",
+      "english": "Give good news to the believers that they will have a great bounty from Allah.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve mü’minleri müjdele. Muhakkak ki onlar için elbette Allah tarafından pek büyük bir ihsan vardır.",
+        "hayrat_nesriyat": "Ve Allah`dan kendileri için gerçekten (pek) büyük bir lütuf olduğunu mü`minlere müjdele!",
+        "diyanet_vakfi": "Allah’tan büyük bir lütfa ereceklerini müminlere müjdele."
+      }
+    },
+    {
+      "id": 3581,
+      "verseNumber": 48,
+      "verseKey": "33:48",
+      "arabic": "وَلَا تُطِعِ ٱلْكَـٰفِرِينَ وَٱلْمُنَـٰفِقِينَ وَدَعْ أَذَىٰهُمْ وَتَوَكَّلْ عَلَى ٱللَّهِ ۚ وَكَفَىٰ بِٱللَّهِ وَكِيلًا",
+      "english": "Do not yield to the disbelievers and the hypocrites. Overlook their annoyances, and put your trust in Allah. For Allah is sufficient as a Trustee of Affairs.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve kâfirlere ve münafıklara itaat etme ve onların ezalarını bırak ve Allah’a tevekkülde bulun ve Allah (seni) muhafaza edici olmaya kâfidir.",
+        "hayrat_nesriyat": "Kâfirlere ve münâfıklara ise itâat etme; ve onların eziyetlerini bırak (aldırma)! Allah`a tevekkül et! Çünki Allah, (sana) vekîl olarak yeter!",
+        "diyanet_vakfi": "Kâfirlere ve münafıklara boyun eğme. Onların eziyetlerine aldırma. Allah’a güvenip dayan, vekîl ve destek olarak Allah yeter."
+      }
+    },
+    {
+      "id": 3582,
+      "verseNumber": 49,
+      "verseKey": "33:49",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نَكَحْتُمُ ٱلْمُؤْمِنَـٰتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا ۖ فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا",
+      "english": "O believers! If you marry believing women and then divorce them before you touch them,<sup foot_note=77193>1</sup> they will have no waiting period for you to count,<sup foot_note=77194>2</sup> so give them a ˹suitable˺ compensation, and let them go graciously.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey imân etmiş olanlar! İmân sahibesi olan kadınları nikâh ettiğiniz, sonra da onları daha kendilerine temas etmeden evvel boşadığınız vakit, artık sizin için onların üzerlerine sayacağınız bir iddet yoktur. O halde onları fâidelendiriniz ve onları güzelce bir sûrette salıveriniz.",
+        "hayrat_nesriyat": "Ey îmân edenler! Mü`min kadınları nikâh eder de sonra kendilerine dokunmanızdan önce onları boşarsanız, bu durumda sizin için onların üzerinde sayacağınız bir iddet (süresi bekletme hakkınız) yoktur. Hemen onları (mehirlerinin yarısıyla) faydalandırın ve onları güzelce bir bırakmayla (incitmeden) güzellikle salıverin!",
+        "diyanet_vakfi": "Ey iman edenler! Mümin kadınları nikâhlayıp da, henüz zifafa girmeden onları boşarsanız, onları sayacağınız bir iddet süresince bekletme hakkınız yoktur. O halde onları (bir bağışla) memnun edin ve onları güzel bir şekilde serbest bırakın."
+      }
+    },
+    {
+      "id": 3583,
+      "verseNumber": 50,
+      "verseKey": "33:50",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِنَّآ أَحْلَلْنَا لَكَ أَزْوَٰجَكَ ٱلَّـٰتِىٓ ءَاتَيْتَ أُجُورَهُنَّ وَمَا مَلَكَتْ يَمِينُكَ مِمَّآ أَفَآءَ ٱللَّهُ عَلَيْكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّـٰتِكَ وَبَنَاتِ خَالِكَ وَبَنَاتِ خَـٰلَـٰتِكَ ٱلَّـٰتِى هَاجَرْنَ مَعَكَ وَٱمْرَأَةً مُّؤْمِنَةً إِن وَهَبَتْ نَفْسَهَا لِلنَّبِىِّ إِنْ أَرَادَ ٱلنَّبِىُّ أَن يَسْتَنكِحَهَا خَالِصَةً لَّكَ مِن دُونِ ٱلْمُؤْمِنِينَ ۗ قَدْ عَلِمْنَا مَا فَرَضْنَا عَلَيْهِمْ فِىٓ أَزْوَٰجِهِمْ وَمَا مَلَكَتْ أَيْمَـٰنُهُمْ لِكَيْلَا يَكُونَ عَلَيْكَ حَرَجٌ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "english": "O Prophet! We have made lawful for you your wives to whom you have paid their ˹full˺ dowries as well as those ˹bondwomen˺ in your possession, whom Allah has granted you.<sup foot_note=77195>1</sup> And ˹you are allowed to marry˺ the daughters of your paternal uncles and aunts, and the daughters of your maternal uncles and aunts, who have emigrated like you. Also ˹allowed for marriage is˺ a believing woman who offers herself to the Prophet ˹without dowry˺ if he is interested in marrying her—˹this is˺ exclusively for you, not for the rest of the believers.<sup foot_note=77196>2</sup> We know well what ˹rulings˺ We have ordained for the believers in relation to their wives and those ˹bondwomen˺ in their possession. As such, there would be no blame on you. And Allah is All-Forgiving, Most Merciful.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey Peygamber! Şüphe yok ki, Biz sana helâl kıldık, mehirlerini verdiğin zevcelerini ve Allah’ın sana ganîmet olarak verdiğinden mülk-i yeminin olan cariyeleri ve seninle beraber hicret etmiş bir amcan kızlarını ve hâlan kızlarını ve dayın kızlarını ve teyzen kızlarını ve bir de imân etmiş bir kadın, eğer nefsini peygambere bağışlarsa peygamber de onu taht-ı nikâhına almak isterse o da sâir mü’minlere değil (ey Peygamber) sana mahsus olmak üzere helâl kılınmıştır. Onların (diğer mü’minlerin) üzerine zevceleri ve sağ ellerinin malik olduğu (cariyeleri) hakkında ne farzetmiş olduğumuzu elbette bilmişizdir. Sana bu böyle bir âile teşkilini helâl kıldık, tâ ki senin üzerine bir darlık olmasın. Ve Allah yarlığayıcı, bağışlayıcıdır.",
+        "hayrat_nesriyat": "Ey Peygamber! Şübhesiz ki biz, mehirlerini verdi ğin zevcelerini ve Allah`ın sana ganîmet olarak verdiklerinden sâhib olduğun câriyeleri, hem se ninle berâber hicret eden amca nın kızlarını, halalarının kızlarını, dayının kızlarını ve teyze lerinin kızlarını (istersen nikâhlamayı)sana helâl kıldık. Bir de mü`min bir kadın kendini peygambere (meh rini istemeden) hîbe ederse, eğer peygamber (de) onu nikâhlamak isterse, diğer mü`minlere değil, sâde ce sana mahsus olmak üzere (onu mehirsiz olarak helâl kıldık)!(Biz,) zevceleri ve sâhib oldukları câriyeleri hakkında on lara (o mü`min lere) neyi farz kıldığımızı muhakkak ki bilmişizdir. Tâ ki sana bir zorluk olma sın! Çünki Allah, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
+        "diyanet_vakfi": "Ey Peygamber! Mehirlerini verdiğin hanımlarını, Allah’ın sana ganimet olarak verdiği ve elinin altında bulunan cariyeleri, amcanın, halanın, dayının ve teyzenin seninle beraber göç eden kızlarını sana helâl kıldık. Bir de Peygamber kendisiyle evlenmek istediği takdirde, kendisini peygambere hibe eden mümin kadını, diğer müminlere değil, sırf sana mahsus olmak üzere (helâl kıldık). Kuşkusuz biz, hanımları ve ellerinin altında bulunan cariyeleri hakkında müminlere neyi farz kıldığımızı biliriz. (Bu hususta ne yapmaları lâzım geldiğini onlara açıkladık) ki, sana bir zorluk olmasın. Allah bağışlayandır, merhamet edendir."
+      }
+    },
+    {
+      "id": 3584,
+      "verseNumber": 51,
+      "verseKey": "33:51",
+      "arabic": "۞ تُرْجِى مَن تَشَآءُ مِنْهُنَّ وَتُـْٔوِىٓ إِلَيْكَ مَن تَشَآءُ ۖ وَمَنِ ٱبْتَغَيْتَ مِمَّنْ عَزَلْتَ فَلَا جُنَاحَ عَلَيْكَ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ وَلَا يَحْزَنَّ وَيَرْضَيْنَ بِمَآ ءَاتَيْتَهُنَّ كُلُّهُنَّ ۚ وَٱللَّهُ يَعْلَمُ مَا فِى قُلُوبِكُمْ ۚ وَكَانَ ٱللَّهُ عَلِيمًا حَلِيمًا",
+      "english": "It is up to you ˹O Prophet˺ to delay or receive whoever you please of your wives. There is no blame on you if you call back any of those you have set aside.<sup foot_note=77197>1</sup> That is more likely that they will be content, not grieved, and satisfied with what you offer them all. Allah ˹fully˺ knows what is in your hearts. And Allah is All-Knowing, Most Forbearing.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onlardan dilediğini geri bırakırsın ve dilediğini kendi yanına alabilirsin. Geri bıraktığından da kimi istersen yanına alabilirsin, (bunda) sana bir günah yoktur. (Böyle senin reyine bırakılması) gözlerinin aydın olmasına ve mahzun olmamalarına ve kendilerine verdiğinden razı olmalarına en yakın olandır. Ve Allah, kalplerinizde olanı bilir. Ve Allah alîm, halîm bulunmaktadır.",
+        "hayrat_nesriyat": "Onlardan (zevcelerinden) dilediğini (sırasından) geri bırakır, dilediğini de yanına alırsın. Ayrıldıklarından arzu ettiğine dönmekte de sana bir günah yoktur. Bu (kendi irâdenle onları taltîf etmen), onların gözleri aydın olmasına, üzülmemelerine ve hepsinin, kendilerine verdiklerin ile hoşnûd olmalarına daha elverişlidir. Allah ise, sizin kalblerinizde olanı bilir. Çünki Allah, Alîm (herşeyi hakkıyla bilen)dir, Halîm (cezâlandırmakta acele etmeyen)dir.",
+        "diyanet_vakfi": "Onlardan dilediğini geriye bırakır, dilediğini de yanına alırsın. Bıraktığın hanımlarından arzu ettiğini tekrar yanına almanda, senin üzerine bir günah yoktur. Böyle yapman onların mutlu olmalarına, üzülmemelerine ve hepsinin, senin verdiklerine razı olmalarına daha uygundur. Allah, kalplerinizde olanı bilir. Allah hakkıyle bilendir, halîmdir."
+      }
+    },
+    {
+      "id": 3585,
+      "verseNumber": 52,
+      "verseKey": "33:52",
+      "arabic": "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعْدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنْ أَزْوَٰجٍ وَلَوْ أَعْجَبَكَ حُسْنُهُنَّ إِلَّا مَا مَلَكَتْ يَمِينُكَ ۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ رَّقِيبًا",
+      "english": "It is not lawful for you ˹O Prophet˺ to marry more women after this, nor can you replace any of your present wives with another, even if her beauty may attract you—except those ˹bondwomen˺ in your possession. And Allah is ever Watchful over all things.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bundan sonra sana (başka) kadınlar helâl olmaz ve bunları başka zevceler ile değiştirmek de helâl olmaz, velev ki, güzelilkleri pek hoşuna gidecek olsun. Ancak sağ elinin malik olduğu müstesna. Ve Allah her şey üzerine nazir olmuştur.",
+        "hayrat_nesriyat": "Bundan sonra güzellikleri hoşuna bile gitse; (artık başka) kadınlar ve bunları başka zevcelerle değiştirmek sana helâl olmaz; ancak sâhib olduğun câriyeler müstesnâ. Ve Allah, herşeyi hakkıyla gözetendir.",
+        "diyanet_vakfi": "Bundan sonra artık başka kadınlarla evlenmen, elinin altında bulunan cariyeler hariç, güzellikleri hoşuna gitse bile, bunların yerine başka hanımlar alman sana helâl değildir. Allah her şeyi gözetler."
+      }
+    },
+    {
+      "id": 3586,
+      "verseNumber": 53,
+      "verseKey": "33:53",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَدْخُلُوا۟ بُيُوتَ ٱلنَّبِىِّ إِلَّآ أَن يُؤْذَنَ لَكُمْ إِلَىٰ طَعَامٍ غَيْرَ نَـٰظِرِينَ إِنَىٰهُ وَلَـٰكِنْ إِذَا دُعِيتُمْ فَٱدْخُلُوا۟ فَإِذَا طَعِمْتُمْ فَٱنتَشِرُوا۟ وَلَا مُسْتَـْٔنِسِينَ لِحَدِيثٍ ۚ إِنَّ ذَٰلِكُمْ كَانَ يُؤْذِى ٱلنَّبِىَّ فَيَسْتَحْىِۦ مِنكُمْ ۖ وَٱللَّهُ لَا يَسْتَحْىِۦ مِنَ ٱلْحَقِّ ۚ وَإِذَا سَأَلْتُمُوهُنَّ مَتَـٰعًا فَسْـَٔلُوهُنَّ مِن وَرَآءِ حِجَابٍ ۚ ذَٰلِكُمْ أَطْهَرُ لِقُلُوبِكُمْ وَقُلُوبِهِنَّ ۚ وَمَا كَانَ لَكُمْ أَن تُؤْذُوا۟ رَسُولَ ٱللَّهِ وَلَآ أَن تَنكِحُوٓا۟ أَزْوَٰجَهُۥ مِنۢ بَعْدِهِۦٓ أَبَدًا ۚ إِنَّ ذَٰلِكُمْ كَانَ عِندَ ٱللَّهِ عَظِيمًا",
+      "english": "O believers! Do not enter the homes of the Prophet without permission ˹and if invited˺ for a meal, do not ˹come too early and˺ linger until the meal is ready. But if you are invited, then enter ˹on time˺. Once you have eaten, then go on your way, and do not stay for casual talk. Such behaviour is truly annoying to the Prophet, yet he is too shy to ask you to leave. But Allah is never shy of the truth. And when you ˹believers˺ ask his wives for something, ask them from behind a barrier. This is purer for your hearts and theirs. And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey imân etmiş olanlar! Peygamberin hanelerine bir yemeğe davet olunmadan girip yemek pişmesini beklemeyin. Meğer ki, size izin verilmiş olsun. Fakat (öyle) davet olunduğunuz vakit giriniz. Yemeği yedikten sonra lâfa dalmaksızın dağılınız. Çünkü o, şüphe yok ki peygambere eziyet verir, o da sizden utanır. Fakat Allah hakkı bildirmekten çekinmez. Ve onlardan bir lüzumlu şey soracağınız vakit de onlardan bir perde ardından (sorunuz). Bu sizin kalpleriniz için ve onların kalpleri için daha temizdir ve Allah’ın Resûlüne sizin eziyet vermeniz doğru değildir ve ondan sonra zevcelerini nikah etmeniz de ebedîyyen (caiz değildir). Şüphe yok ki o, Allah indinde çok büyük (bir günah) bulunmaktadır.",
+        "hayrat_nesriyat": "Ey îmân edenler! Vaktini gözetleyici kimseler olmadan, yemeğe sizin için da`vet yapılmadıkça peygamberin evlerine girmeyin! Fakat çağrıldı ğınız zaman, artık girin; yemeği yiyince de dağılın; sohbete dalıcı kimseler de olmayın!Çünki bu hâliniz, pey gambere eziyet veriyor, fakat (o) sizden utanıyor. Allah ise hak(kı söylemek)ten çekinmez. Hem on lardan (peygamberin zevcelerinden) bir şey iste diğiniz zaman, artık kendilerinden bir perde ar kasından isteyin! Bu, hem sizin kalbleriniz için, hem de onların kalbleri için daha temizdir. Çünki sizin için, Allah`ın Resûlünü incitme niz ve kendisinden sonra onun zevcelerini ni kâhlamanız ebediyen (câiz) olmaz. Çünki bu, Al lah katında (pek) büyük(bir günah)tır.",
+        "diyanet_vakfi": "Ey iman edenler! Siz, bir yemeğe çağırılmadıkça, zamanını gözetmeksizin, Peygamber’in evlerine girmeyin. Ancak davet edildiğiniz vakit girin. Yemeği yediğinizde hemen dağılın, sohbete dalmayın. Çünkü bu hareketiniz Peygamber’i üzmekte, fakat o (size bunu söylemekten) utanmaktadır. Ama Allah, hakkı söylemekten çekinmez. Peygamber’in hanımlarından bir şey istediğiniz zaman perde arkasından isteyin. Bu, hem sizin kalpleriniz, hem de onların kalpleri için daha temiz bir davranıştır. Sizin Allah’ın Resûlünü üzmeniz ve kendisinden sonra onun hanımlarını nikâhlamanız asla caiz olamaz. Çünkü bu, Allah katında büyük (bir günah)tır."
+      }
+    },
+    {
+      "id": 3587,
+      "verseNumber": 54,
+      "verseKey": "33:54",
+      "arabic": "إِن تُبْدُوا۟ شَيْـًٔا أَوْ تُخْفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَىْءٍ عَلِيمًا",
+      "english": "Whether you reveal something or conceal it, surely Allah has ˹perfect˺ knowledge of all things.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Eğer birşeyi açıklar veya onu saklar iseniz, şüphe yok ki Allah, herşeyi bihakkın bilici bulunmaktadır.",
+        "hayrat_nesriyat": "Eğer bir şeyi açıklasanız da o nu gizleseniz de (fark etmez); hiç şüb hesiz ki Allah, herşeyi hak kıyla bilendir.",
+        "diyanet_vakfi": "Bir şeyi açığa vursanız da, gizleseniz de şüphe yok ki Allah, her şeyi gayet iyi bilmektedir."
+      }
+    },
+    {
+      "id": 3588,
+      "verseNumber": 55,
+      "verseKey": "33:55",
+      "arabic": "لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَـٰنُهُنَّ ۗ وَٱتَّقِينَ ٱللَّهَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا",
+      "english": "There is no blame on the Prophet’s wives ˹if they appear unveiled˺ before their fathers,<sup foot_note=77198>1</sup> their sons, their brothers, their brothers’ sons, their sisters’ sons, their fellow ˹Muslim˺ women, and those ˹bondspeople˺ in their possession. And be mindful of Allah ˹O wives of the Prophet!˺ Surely Allah is a Witness over all things.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onların üzerlerine bir vebal yoktur, ne babalarında ve ne oğullarında ve ne kardeşlerinde ve ne kardeşlerinin oğullarında ve ne kız kardeşlerinin oğullarında ve ne kendi kadınlarında ve ne de ellerinin mâlik olduklarında. (Bunlar ile görüşebilirler.) Allah’tan korkun. Şüphe yok ki, Allah her şey üzerine bir şahittir.",
+        "hayrat_nesriyat": "Onlara (peygamberin zevcelerine), ne babaları, ne oğulları, ne erkek kardeşleri, ne erkek kardeşlerinin oğulları, ne kız kardeşlerinin oğulları, ne kendi kadınları (Müslüman kadınlar) ve ne de sâhib oldukları köleleri hakkında bir günah yoktur (bunlarla perdesiz görüşüp konuşabilirler). (Ey peygamber zevceleri!) Bununla berâber Allah`dan sakının! Şübhesiz Allah, herşeye hakkıyla şâhiddir.",
+        "diyanet_vakfi": "Onlara (Peygamber’in hanımlarına) babaları, oğulları, kardeşleri, kardeşlerinin oğulları, kız kardeşlerinin oğulları, kadınları (mümin kadınlar) ve ellerinin altında bulunan câriyelerinden dolayı bir günah yoktur. (Ey Peygamber hanımları!) Allah’tan korkun; şüphesiz Allah, her şeye şahittir."
+      }
+    },
+    {
+      "id": 3589,
+      "verseNumber": 56,
+      "verseKey": "33:56",
+      "arabic": "إِنَّ ٱللَّهَ وَمَلَـٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِىِّ ۚ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ صَلُّوا۟ عَلَيْهِ وَسَلِّمُوا۟ تَسْلِيمًا",
+      "english": "Indeed, Allah showers His blessings upon the Prophet, and His angels pray for him. O  believers! Invoke Allah’s blessings upon him, and salute him with worthy greetings of peace.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhakkak ki, Allah Teâlâ ve melekleri peygamber üzerine salatta bulunurlar. Ey imân etmiş kimseler! O’nun üzerine salatta, teslimiyetle selâmda bulunun.",
+        "hayrat_nesriyat": "Allah ve melekleri peygambere destek oluyorlar. Ey iman edenler! Siz de peygambere destek olunuz, ona yürekten bağlılığınızı ifade ediniz.",
+        "diyanet_vakfi": "Allah ve melekleri, Peygamber’e çok salevât getirirler. Ey müminler! Siz de ona salevât getirin ve tam bir teslimiyetle selam verin."
+      }
+    },
+    {
+      "id": 3590,
+      "verseNumber": 57,
+      "verseKey": "33:57",
+      "arabic": "إِنَّ ٱلَّذِينَ يُؤْذُونَ ٱللَّهَ وَرَسُولَهُۥ لَعَنَهُمُ ٱللَّهُ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ وَأَعَدَّ لَهُمْ عَذَابًا مُّهِينًا",
+      "english": "Surely those who offend Allah<sup foot_note=77199>1</sup> and His Messenger<sup foot_note=77200>2</sup> are condemned by Allah in this world and the Hereafter. And He has prepared for them a humiliating punishment.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki o kimseler ki, Allah’a ve peygamberine ezada bulunurlar. Onlara Allah Teâlâ dünyada ve ahirette lânet etmiştir ve onlar için pek hakaretli bir azap hazırlamıştır.",
+        "hayrat_nesriyat": "Şübhesiz ki Allah ve Resûlüne o eziyet edenler yok mu, Allah onlara hem dünyada hem âhirette lâ`net etmiş ve onlar için (pek) aşağılayıcı bir azab hazırlamıştır.",
+        "diyanet_vakfi": "Allah ve Resûlünü incitenlere Allah, dünyada ve ahirette lânet etmiş ve onlar için horlayıcı bir azap hazırlamıştır."
+      }
+    },
+    {
+      "id": 3591,
+      "verseNumber": 58,
+      "verseKey": "33:58",
+      "arabic": "وَٱلَّذِينَ يُؤْذُونَ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ بِغَيْرِ مَا ٱكْتَسَبُوا۟ فَقَدِ ٱحْتَمَلُوا۟ بُهْتَـٰنًا وَإِثْمًا مُّبِينًا",
+      "english": "As for those who abuse believing men and women<sup foot_note=77201>1</sup> unjustifiably, they will definitely bear the guilt of slander and blatant sin.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve o kimseler ki, mü’minlere ve mü’minelere yapmamış oldukları bir şey sebebiyle ezada bulunurlar, artık muhakkak ki, pek mühim bir iftirayı ve bir açık günahı yüklenmiş olurlar.",
+        "hayrat_nesriyat": "Mü`min erkeklere ve mü`min kadınlara, yapmadıkları bir şeyden dolayı eziyet edenler ise, bu takdirde gerçekten bir iftirâ ve apaçık bir günah yüklenmişlerdir.",
+        "diyanet_vakfi": "Mümin erkeklere ve mümin kadınlara, yapmadıkları bir şeyden dolayı eziyet edenler, şüphesiz bir iftira ve apaçık bir günah yüklenmişlerdir."
+      }
+    },
+    {
+      "id": 3592,
+      "verseNumber": 59,
+      "verseKey": "33:59",
+      "arabic": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ قُل لِّأَزْوَٰجِكَ وَبَنَاتِكَ وَنِسَآءِ ٱلْمُؤْمِنِينَ يُدْنِينَ عَلَيْهِنَّ مِن جَلَـٰبِيبِهِنَّ ۚ ذَٰلِكَ أَدْنَىٰٓ أَن يُعْرَفْنَ فَلَا يُؤْذَيْنَ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًا",
+      "english": "O Prophet! Ask your wives, daughters, and believing women to draw their cloaks over their bodies. In this way it is more likely that they will be recognized ˹as virtuous˺ and not be harassed. And Allah is All-Forgiving, Most Merciful.<sup foot_note=77202>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey Peygamber! Zevcelerine ve kızlarına ve mü’minlerin kadınlarına de ki, üzerlerine feracelerini sıkı örtsünler. Bu, onların tanınmalarına ve eza edilmemelerine en yakın (en muvafık) bir sebebdir. Ve Allah en çok mağfiret edendir, çok merhametli olandır.",
+        "hayrat_nesriyat": "Ey Peygamber! Zevcelerine, kızlarına ve mü`minlerin kadınlarına söyle, (başlarını ve yüzlerini kapatacak şekilde) dış örtülerinden (çarşaflarından bir kısmıyla) üzerlerini örtsünler! Bu, onların (iffetli olarak) tanınıp da rahatsız edilmemeleri için daha yakındır(daha elverişlidir). Allah ise, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
+        "diyanet_vakfi": "Ey Peygamber! Hanımlarına, kızlarına ve müminlerin kadınlarına (bir ihtiyaç için dışarı çıktıkları zaman) dış örtülerini üstlerine almalarını söyle. Onların tanınması ve incitilmemesi için en elverişli olan budur. Allah bağışlayandır, esirgeyendir."
+      }
+    },
+    {
+      "id": 3593,
+      "verseNumber": 60,
+      "verseKey": "33:60",
+      "arabic": "۞ لَّئِن لَّمْ يَنتَهِ ٱلْمُنَـٰفِقُونَ وَٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْمُرْجِفُونَ فِى ٱلْمَدِينَةِ لَنُغْرِيَنَّكَ بِهِمْ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلًا",
+      "english": "If the hypocrites, and those with sickness in their hearts, and rumour-mongers in Medina do not desist, We will certainly incite you ˹O Prophet˺ against them, and then they will not be your neighbours there any longer.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Andolsun ki, eğer münafıklar ve kalplerinde bir maraz bulunan kimseler ve şehirde fena haberler yayanlar, (bu hallerine) nihâyet vermezlerse elbette seni onların üzerlerine musallat ederiz. Sonra sana orada ancak pek az komşu olabilirler.",
+        "hayrat_nesriyat": "Celâlim hakkı için, eğer münâfıklar ve kalblerinde bir hastalık bulunanlar ve Medîne`de yalan haber yayanlar (yahudiler, bu yaptıklarından) vazgeçmezlerse, seni onlara mutlaka musallat ederiz; sonra orada (Medîne`de) ancak pek az (bir süre) sana komşu kalabilirler!",
+        "diyanet_vakfi": "Andolsun, iki yüzlüler, kalplerinde hastalık bulunanlar (fuhuş düşüncesi taşıyanlar), şehirde kötü haber yayanlar (bu hallerinden) vazgeçmezlerse, seni onlara musallat ederiz (onlarla savaşmanı ve onları şehirden sürüp çıkarmanı sana emrederiz); sonra orada, senin yanında ancak az bir zaman kalabilirler."
+      }
+    },
+    {
+      "id": 3594,
+      "verseNumber": 61,
+      "verseKey": "33:61",
+      "arabic": "مَّلْعُونِينَ ۖ أَيْنَمَا ثُقِفُوٓا۟ أُخِذُوا۟ وَقُتِّلُوا۟ تَقْتِيلًا",
+      "english": "˹They deserve to be˺ condemned. ˹If they were to persist,˺ they would get themselves seized and killed relentlessly wherever they are found!<sup foot_note=77203>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Nerede bulunurlarsa mel’unlar olarak tutulurlar ve öldürülmekle öldürülürler.",
+        "hayrat_nesriyat": "Bu tip kimseler Allah`ın rahmetinden yoksun olduklarından, görüldükleri yerde yakalanacaklar ve mutlak bir ölümle öldürüleceklerdir.",
+        "diyanet_vakfi": "Hepsi de lânetlenmiş olarak nerede ele geçirilirlerse, yakalanır ve mutlaka öldürülürler."
+      }
+    },
+    {
+      "id": 3595,
+      "verseNumber": 62,
+      "verseKey": "33:62",
+      "arabic": "سُنَّةَ ٱللَّهِ فِى ٱلَّذِينَ خَلَوْا۟ مِن قَبْلُ ۖ وَلَن تَجِدَ لِسُنَّةِ ٱللَّهِ تَبْدِيلًا",
+      "english": "That was Allah’s way with those ˹hypocrites˺ who have gone before. And you will find no change in Allah’s way.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bu Allah’ın daha evvel gelip geçenler hakkındaki kanunudur ve elbette ki, sen Allah’ın kanunu için bir tebdîl bulamazsın.",
+        "hayrat_nesriyat": "Bundan önce gelip geçen (ümmet)ler hakkında Allah`ın kanûnu (böyle)dir. Ve Allah`ın kanûnunda aslâ bir değişme bulamazsın!",
+        "diyanet_vakfi": "Allah’ın önceden geçenler hakkındaki kanunu budur. Allah’ın kanununda asla bir değişiklik bulamazsın."
+      }
+    },
+    {
+      "id": 3596,
+      "verseNumber": 63,
+      "verseKey": "33:63",
+      "arabic": "يَسْـَٔلُكَ ٱلنَّاسُ عَنِ ٱلسَّاعَةِ ۖ قُلْ إِنَّمَا عِلْمُهَا عِندَ ٱللَّهِ ۚ وَمَا يُدْرِيكَ لَعَلَّ ٱلسَّاعَةَ تَكُونُ قَرِيبًا",
+      "english": "People ask you ˹O Prophet˺ about the Hour. Say, “That knowledge is only with Allah. You never know, perhaps the Hour is near.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Nâs, sana Kıyametten sorarlar. De ki: «Ona ait bilgi, Allah indindedir.» Sana (onu) ne şey bildirir? Umulur ki, Kıyamet yakınlaşmış olacaktır.",
+        "hayrat_nesriyat": "İnsanlar, sana kıyametin saatini soruyorlar. De ki: Onun bilgisi Allah katındadır. Ne bilirsin, belki de kıyamet pek yakında kopacak.",
+        "diyanet_vakfi": "İnsanlar sana kıyametin zamanını soruyorlar. De ki: Onun bilgisi Allah katındadır. Ne bilirsin, belki de zamanı yakındır."
+      }
+    },
+    {
+      "id": 3597,
+      "verseNumber": 64,
+      "verseKey": "33:64",
+      "arabic": "إِنَّ ٱللَّهَ لَعَنَ ٱلْكَـٰفِرِينَ وَأَعَدَّ لَهُمْ سَعِيرًا",
+      "english": "Surely Allah condemns the disbelievers, and has prepared for them a blazing Fire,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki, Allah kâfirlere lânet etmiştir ve onlar için bir şiddetli ateş hazırlamıştır.",
+        "hayrat_nesriyat": "Şübhesiz ki Allah kâfirlere lâ`net etmiş ve onlar için alevli bir ateş hazırlamıştır.",
+        "diyanet_vakfi": "Şu muhakkak ki, Allah kâfirleri rahmetinden kovmuş ve onlara çılgın bir ateş hazırlamıştır."
+      }
+    },
+    {
+      "id": 3598,
+      "verseNumber": 65,
+      "verseKey": "33:65",
+      "arabic": "خَـٰلِدِينَ فِيهَآ أَبَدًا ۖ لَّا يَجِدُونَ وَلِيًّا وَلَا نَصِيرًا",
+      "english": "to stay there for ever and ever—never will they find any protector or helper.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Orada ebedîyyen kalmaları mukadderdir, ne bir dost ve ne de bir yardımcı bulamayacaklardır.",
+        "hayrat_nesriyat": "(Onlar) orada ebedî olarak kalıcıdırlar. (O gün kendilerine) ne bir dost, ne de bir yardımcı bulacaklardır.",
+        "diyanet_vakfi": "(Onlar) orada ebedî olarak kalacaklar, (kendilerini koruyacak) ne bir dost ne de bir yardımcı bulacaklardır."
+      }
+    },
+    {
+      "id": 3599,
+      "verseNumber": 66,
+      "verseKey": "33:66",
+      "arabic": "يَوْمَ تُقَلَّبُ وُجُوهُهُمْ فِى ٱلنَّارِ يَقُولُونَ يَـٰلَيْتَنَآ أَطَعْنَا ٱللَّهَ وَأَطَعْنَا ٱلرَّسُولَا۠",
+      "english": "On the Day their faces are ˹constantly˺ flipped in the Fire, they will cry, “Oh! If only we had obeyed Allah and obeyed the Messenger!”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O günde yüzleri ateş içinde çevrilir durur. Derler ki: «Keşke biz Allah’a itaat etse idik ve Peygambere itaat etse idik.»",
+        "hayrat_nesriyat": "O gün, yüzleri ateş içinde çevrilirken: `Eyvah bize! Keşke Allah`a itâat etseydik, peygambere de itâat etseydik!` diyeceklerdir.",
+        "diyanet_vakfi": "Yüzleri ateşte evrilip çevrildiği gün: Eyvah bize! Keşke Allah’a itaat etseydik, Peygamber’e de itaat etseydik! derler."
+      }
+    },
+    {
+      "id": 3600,
+      "verseNumber": 67,
+      "verseKey": "33:67",
+      "arabic": "وَقَالُوا۟ رَبَّنَآ إِنَّآ أَطَعْنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
+      "english": "And they will say, “Our Lord! We obeyed our leaders and elite, but they led us astray from the ˹Right˺ Way.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve demiş olacaklardır ki: «Yarabbi! Muhakkak biz reislerimize ve büyüklerimize itaat ettik. Artık onlar da bizi doğru yoldan sapıttılar.»",
+        "hayrat_nesriyat": "Ve: `Rabbimiz! Gerçekten biz, reislerimize ve büyüklerimize uyduk da (onlar) bizi(hak) yoldan saptırdılar` diyeceklerdir.",
+        "diyanet_vakfi": "Ey Rabbimiz! Biz reislerimize ve büyüklerimize uyduk da onlar bizi yoldan saptırdılar, derler."
+      }
+    },
+    {
+      "id": 3601,
+      "verseNumber": 68,
+      "verseKey": "33:68",
+      "arabic": "رَبَّنَآ ءَاتِهِمْ ضِعْفَيْنِ مِنَ ٱلْعَذَابِ وَٱلْعَنْهُمْ لَعْنًا كَبِيرًا",
+      "english": "Our Lord! Give them double ˹our˺ punishment, and condemn them tremendously.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Ey Rabbimiz! Onlara azaptan iki katını ver ve onları pek büyük bir lânet ile lânete uğrat.»",
+        "hayrat_nesriyat": "`Rabbimiz! Onlara azabdan iki kat ver ve onlara büyük bir lâ`netle lâ`net et!`",
+        "diyanet_vakfi": "Rabbimiz! Onlara iki kat azap ver ve onları büyük bir lânetle rahmetinden kov."
+      }
+    },
+    {
+      "id": 3602,
+      "verseNumber": 69,
+      "verseKey": "33:69",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِينَ ءَاذَوْا۟ مُوسَىٰ فَبَرَّأَهُ ٱللَّهُ مِمَّا قَالُوا۟ ۚ وَكَانَ عِندَ ٱللَّهِ وَجِيهًا",
+      "english": "O believers! Do not be like those who slandered Moses, but Allah cleared him of what they said. And he was honourable in the sight of Allah.<sup foot_note=77204>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey imân eden zâtlar! Siz Mûsa’ya ezâda bulunan kimseler gibi olmayınız. Allah O’nu onların dediklerinden tebri’e buyurdu ve Allah’ın nezdinde yüksek bir kadr sahibi oldu.",
+        "hayrat_nesriyat": "Ey îmân edenler! (Siz de vaktiyle) Mûsâ`ya eziyet eden kimseler gibi olmayın; nihâyet Allah onu, söyledikleri şeyden temize çıkarmıştı. Çünki (o,) Allah katında şerefli (bir kul) idi.",
+        "diyanet_vakfi": "Ey iman edenler! Siz de Musa’ya eziyet edenler gibi olmayın. Nihayet Allah onu, dedikleri şeyden temize çıkardı. O, Allah yanında şerefli idi."
+      }
+    },
+    {
+      "id": 3603,
+      "verseNumber": 70,
+      "verseKey": "33:70",
+      "arabic": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَقُولُوا۟ قَوْلًا سَدِيدًا",
+      "english": "O  believers! Be mindful of Allah, and say what is right.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey mü’minler zümresi! Allah’tan korkun ve doğru söz söyleyin.",
+        "hayrat_nesriyat": "Ey îmân edenler! Allah`dan sakının ve doğru söz söyleyin!",
+        "diyanet_vakfi": "Ey iman edenler! Allah’tan korkun ve doğru söz söyleyin."
+      }
+    },
+    {
+      "id": 3604,
+      "verseNumber": 71,
+      "verseKey": "33:71",
+      "arabic": "يُصْلِحْ لَكُمْ أَعْمَـٰلَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ ۗ وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ فَقَدْ فَازَ فَوْزًا عَظِيمًا",
+      "english": "He will bless your deeds for you, and forgive your sins. And whoever obeys Allah and His Messenger, has truly achieved a great triumph.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Tâ ki, sizin için amellerinizi ıslah etsin ve sizin için günahlarınızı yarlığasın ve her kim Allah’a ve resûlüne itaat ederse muhakkak ki, pek büyük bir zafere ermiş olur.",
+        "hayrat_nesriyat": "Ki (Allah), size işlerinizi düzeltsin ve sizin için günahlarınızı bağışlasın! Ve kim Allah`a ve Resûlüne itâat ederse, o takdirde gerçekten büyük bir kurtuluşa ermiş olur.",
+        "diyanet_vakfi": "(Böyle davranırsanız) Allah işlerinizi düzeltir ve günahlarınızı bağışlar. Kim Allah ve Resûlüne itaat ederse büyük bir kurtuluşa ermiş olur."
+      }
+    },
+    {
+      "id": 3605,
+      "verseNumber": 72,
+      "verseKey": "33:72",
+      "arabic": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَـٰنُ ۖ إِنَّهُۥ كَانَ ظَلُومًا جَهُولًا",
+      "english": "Indeed, We offered the trust to the heavens and the earth and the mountains, but they ˹all˺ declined to bear it, being fearful of it. But humanity assumed it, ˹for˺ they are truly wrongful ˹to themselves˺ and ignorant ˹of the consequences˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Biz emaneti göklere ve yere ve dağlara teklif ettik, onlar onu yüklenmeden hemen çekindiler ve ondan korkuya düştüler ve onu insan yüklendi. Şüphe yok ki o, çok zalim, çok bilgisiz oldu.",
+        "hayrat_nesriyat": "Muhakkak ki biz emâneti göklere, yere ve dağlara arz ettik de (onlar) onu yüklenmekten çekindiler ve ondan korktular; insan ise onu yükleniverdi. Doğrusu o çok zâlim, çok câhildir.",
+        "diyanet_vakfi": "Biz emaneti, göklere, yere ve dağlara teklif ettik de onlar bunu yüklenmekten çekindiler, (sorumluluğundan) korktular. Onu insan yüklendi. Doğrusu o çok zalim, çok cahildir."
+      }
+    },
+    {
+      "id": 3606,
+      "verseNumber": 73,
+      "verseKey": "33:73",
+      "arabic": "لِّيُعَذِّبَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْمُشْرِكِينَ وَٱلْمُشْرِكَـٰتِ وَيَتُوبَ ٱللَّهُ عَلَى ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ۗ وَكَانَ ٱللَّهُ غَفُورًا رَّحِيمًۢا",
+      "english": "so that Allah will punish hypocrite men and women and polytheistic men and women, and Allah will turn in mercy to believing men and women. For Allah is All-Forgiving, Most Merciful.<sup foot_note=77205>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Allah, nifaka düşmüş erkekler ile nifaka düşmüş kadınları ve şirke düşmüş erkek ile şirke düşmüş kadınları muazzep kılmak için ve Allah, imân sahibi olan erkekler ile imân sahibesi olan kadınların da tevbelerini kabul buyursun için (öyle bir teklifte bulunmuştur) ve Allah Teâlâ çok yarlığayıcı, çok esirgeyicidir.",
+        "hayrat_nesriyat": "(Bu emâneti insana verdi) ki Allah, münâfık erkekler ve münâfık kadınlara, müşrik erkekler ve müşrik kadınlara (o emânete hâinlik etmeleri sebebiyle) azâb etsin; ve Allah, mü`min erkeklerin ve mü`min kadınların tevbelerini kabûl etsin! Çünki Allah, Gafûr (çok bağışlayan)dır, Rahîm (çok merhamet eden)dir.",
+        "diyanet_vakfi": "(Allah bu emaneti insana vermek sûretiyle), münafık erkeklere ve münafık kadınlara, müşrik erkeklere ve müşrik kadınlara azap edecek, inanan erkeklerin ve inanan kadınların da tevbesini kabul buyuracaktır. Allah bağışlayandır, merhamet edendir."
+      }
+    }
+  ]
+}

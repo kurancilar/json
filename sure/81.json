@@ -1,0 +1,352 @@
+{
+  "verses": [
+    {
+      "id": 5801,
+      "verseNumber": 1,
+      "verseKey": "81:1",
+      "arabic": " إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+      "english": "When the sun is put out,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Güneş, dürüldüğü zaman.",
+        "hayrat_nesriyat": "Güneş, tekvîr edildiği (dürüldüğü, nûru nârından ayrıldığı, ışığı giderildiği) zaman!",
+        "diyanet_vakfi": "Güneş katlanıp dürüldüğünde,"
+      }
+    },
+    {
+      "id": 5802,
+      "verseNumber": 2,
+      "verseKey": "81:2",
+      "arabic": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+      "english": "and when the stars fall down,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve yıldızlar döküldüğü zaman.",
+        "hayrat_nesriyat": "Ve yıldızlar, (karartılarak) döküldüğü zaman!",
+        "diyanet_vakfi": "Yıldızlar (kararıp) döküldüğünde,"
+      }
+    },
+    {
+      "id": 5803,
+      "verseNumber": 3,
+      "verseKey": "81:3",
+      "arabic": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+      "english": "and when the mountains are blown away,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve dağlar yürütüldüğü zaman.",
+        "hayrat_nesriyat": "Ve dağlar, yürütüldüğü zaman!",
+        "diyanet_vakfi": "Dağlar (sallanıp) yürütüldüğünde,"
+      }
+    },
+    {
+      "id": 5804,
+      "verseNumber": 4,
+      "verseKey": "81:4",
+      "arabic": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+      "english": "and when pregnant camels are left untended,<sup foot_note=77595>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(4-6) Ve yüklü develer salıverildiği zaman. Vahşi hayvanlar toplanıldığı zaman. Ve denizler ateş ile dolduğu zaman.",
+        "hayrat_nesriyat": "Ve yüklü develer, başıboş bırakıldığı zaman!",
+        "diyanet_vakfi": "Gebe develer salıverildiğinde,"
+      }
+    },
+    {
+      "id": 5805,
+      "verseNumber": 5,
+      "verseKey": "81:5",
+      "arabic": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+      "english": "and when wild beasts are gathered together,<sup foot_note=77596>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(4-6) Ve yüklü develer salıverildiği zaman. Vahşi hayvanlar toplanıldığı zaman. Ve denizler ateş ile dolduğu zaman.",
+        "hayrat_nesriyat": "Vahşi hayvanlar, bir araya toplandığı zaman!",
+        "diyanet_vakfi": "Vahşî hayvanlar toplanıp bir araya getirildiğinde,"
+      }
+    },
+    {
+      "id": 5806,
+      "verseNumber": 6,
+      "verseKey": "81:6",
+      "arabic": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+      "english": "and when the seas are set on fire,<sup foot_note=77597>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(4-6) Ve yüklü develer salıverildiği zaman. Vahşi hayvanlar toplanıldığı zaman. Ve denizler ateş ile dolduğu zaman.",
+        "hayrat_nesriyat": "Denizler, tutuşturulduğu zaman!",
+        "diyanet_vakfi": "Denizler kaynatıldığında,"
+      }
+    },
+    {
+      "id": 5807,
+      "verseNumber": 7,
+      "verseKey": "81:7",
+      "arabic": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "english": "and when the souls ˹and their bodies˺ are paired ˹once more˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve ruhlar çiftleştirildiği zaman.",
+        "hayrat_nesriyat": "Nefisler, birleştirildiği (ruhlar, bedenlerle bir araya getirildiği) zaman!",
+        "diyanet_vakfi": "Ruhlar (bedenlerle) birleştirildiğinde,"
+      }
+    },
+    {
+      "id": 5808,
+      "verseNumber": 8,
+      "verseKey": "81:8",
+      "arabic": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "english": "and when baby girls, buried alive, are asked",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve diri olarak gömülen kız çocuğuna sorulduğu zaman.",
+        "hayrat_nesriyat": "(8-9) Diri diri toprağa gömülen kıza, hangi günahtan dolayı öldürüldüğü sorulduğu zaman!",
+        "diyanet_vakfi": "(8-9) Diri diri toprağa gömülen kıza, hangi günah sebebiyle öldürüldüğü sorulduğunda,"
+      }
+    },
+    {
+      "id": 5809,
+      "verseNumber": 9,
+      "verseKey": "81:9",
+      "arabic": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+      "english": "for what crime they were put to death,<sup foot_note=77598>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Hangi günahından dolayı öldürüldü?» diye.",
+        "hayrat_nesriyat": "(8-9) Diri diri toprağa gömülen kıza, hangi günahtan dolayı öldürüldüğü sorulduğu zaman!",
+        "diyanet_vakfi": "(8-9) Diri diri toprağa gömülen kıza, hangi günah sebebiyle öldürüldüğü sorulduğunda,"
+      }
+    },
+    {
+      "id": 5810,
+      "verseNumber": 10,
+      "verseKey": "81:10",
+      "arabic": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+      "english": "and when the records ˹of deeds˺ are laid open,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve defterler açıldığı zaman.",
+        "hayrat_nesriyat": "Sayfalar (amel defterleri), açıldığı zaman!",
+        "diyanet_vakfi": "(Amellerin yazılı olduğu) defterler açıldığında,"
+      }
+    },
+    {
+      "id": 5811,
+      "verseNumber": 11,
+      "verseKey": "81:11",
+      "arabic": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+      "english": "and when the sky is stripped away,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve gök giderildiği zaman.",
+        "hayrat_nesriyat": "Gökyüzü, (yerinden sökülüp) koparıldığı zaman!",
+        "diyanet_vakfi": "Gökyüzü sıyrılıp alındığında,"
+      }
+    },
+    {
+      "id": 5812,
+      "verseNumber": 12,
+      "verseKey": "81:12",
+      "arabic": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+      "english": "and when the Hellfire is fiercely flared up,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(12-13) Ve cehennem, şiddetle alevlendirildiği zaman. Ve cennet yaklaştırıldığı zaman.",
+        "hayrat_nesriyat": "Cehennem, iyice alevlendirildiği zaman!",
+        "diyanet_vakfi": "(12-13) Cehennem tutuşturulduğunda ve cennet yaklaştırıldığında,"
+      }
+    },
+    {
+      "id": 5813,
+      "verseNumber": 13,
+      "verseKey": "81:13",
+      "arabic": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+      "english": "and when Paradise is brought near—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(12-13) Ve cehennem, şiddetle alevlendirildiği zaman. Ve cennet yaklaştırıldığı zaman.",
+        "hayrat_nesriyat": "Cennet, yaklaştırıldığı zaman!",
+        "diyanet_vakfi": "(12-13) Cehennem tutuşturulduğunda ve cennet yaklaştırıldığında,"
+      }
+    },
+    {
+      "id": 5814,
+      "verseNumber": 14,
+      "verseKey": "81:14",
+      "arabic": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+      "english": "˹on that Day˺ each soul will know what ˹deeds˺ it has brought along.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Her şahıs, ne hazırlamış olduğunu bilmiş olur.",
+        "hayrat_nesriyat": "Her nefis, (hayır ve şer) ne hazırlamış olduğunu bilecektir!",
+        "diyanet_vakfi": "Kişi neler getirdiğini öğrenmiş olacaktır."
+      }
+    },
+    {
+      "id": 5815,
+      "verseNumber": 15,
+      "verseKey": "81:15",
+      "arabic": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+      "english": "I do swear by the receding stars",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık andolsun geri dönen yıldızlara.",
+        "hayrat_nesriyat": "(15-16) Artık yemîn ederim, (yörüngesini tamamlayıp) geri dönen o yıldızlara; o akıp akıp (gün ışıdığında) gizlenenlere!",
+        "diyanet_vakfi": "(15-16) Hayır! Akıp giden, bir kaybolup bir etrafı aydınlatan yıldızlara andolsun,"
+      }
+    },
+    {
+      "id": 5816,
+      "verseNumber": 16,
+      "verseKey": "81:16",
+      "arabic": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+      "english": "which travel and hide,<sup foot_note=77599>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Akıp saklanıveren (seyyare)lere.",
+        "hayrat_nesriyat": "(15-16) Artık yemîn ederim, (yörüngesini tamamlayıp) geri dönen o yıldızlara; o akıp akıp (gün ışıdığında) gizlenenlere!",
+        "diyanet_vakfi": "(15-16) Hayır! Akıp giden, bir kaybolup bir etrafı aydınlatan yıldızlara andolsun,"
+      }
+    },
+    {
+      "id": 5817,
+      "verseNumber": 17,
+      "verseKey": "81:17",
+      "arabic": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+      "english": "and the night as it falls",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve yöneldiği zaman geceye.",
+        "hayrat_nesriyat": "Kararmaya başladığı zaman, geceye!",
+        "diyanet_vakfi": "Kararmaya yüz tuttuğunda geceye andolsun,"
+      }
+    },
+    {
+      "id": 5818,
+      "verseNumber": 18,
+      "verseKey": "81:18",
+      "arabic": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+      "english": "and the day as it breaks!<sup foot_note=77600>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve açılmaya başladığı zaman gündüze.",
+        "hayrat_nesriyat": "Nefes aldığı (ağarmaya yüz tuttuğu) vakit, sabaha!",
+        "diyanet_vakfi": "Ağarmaya başladığında sabaha andolsun ki,"
+      }
+    },
+    {
+      "id": 5819,
+      "verseNumber": 19,
+      "verseKey": "81:19",
+      "arabic": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "english": "Indeed, this ˹Quran˺ is the Word of ˹Allah delivered by Gabriel,˺ a noble messenger-angel,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki O, muhakkak bir kerîm elçinin (getirdiği) kelâmdır.",
+        "hayrat_nesriyat": "Şübhesiz o (Kur`ân), elbette çok şerefli bir elçinin (Cebrâîl`in, vahiyden ibâret)sözüdür!",
+        "diyanet_vakfi": "(19-20) O (Kur’an), şüphesiz değerli, güçlü ve Arş’ın sahibi (Allah’ın) katında itibarlı bir elçinin (Cebrail’in) getirdiği sözdür."
+      }
+    },
+    {
+      "id": 5820,
+      "verseNumber": 20,
+      "verseKey": "81:20",
+      "arabic": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+      "english": "full of power, held in honour by the Lord of the Throne,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Büyük bir kuvvet sahibidir, arş’ın sahibi nezdinde âlî bir makama nâildir.",
+        "hayrat_nesriyat": "(O elçi) pek kuvvetlidir; arşın sâhibi (Allah`ın) katında çok i`tibarlıdır.",
+        "diyanet_vakfi": "(19-20) O (Kur’an), şüphesiz değerli, güçlü ve Arş’ın sahibi (Allah’ın) katında itibarlı bir elçinin (Cebrail’in) getirdiği sözdür."
+      }
+    },
+    {
+      "id": 5821,
+      "verseNumber": 21,
+      "verseKey": "81:21",
+      "arabic": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+      "english": "obeyed there ˹in heaven˺, and trustworthy.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(21-22) Orada kendisine itaat olunmuş bir emîndir. Ve sizin sahibiniz bir mecnûn değildir.",
+        "hayrat_nesriyat": "(O Cibrîl,) orada (melekler tarafından kendisine) itâat edilendir; (vahiy husûsunda)çok güvenilendir!",
+        "diyanet_vakfi": "O orada sayılan, güvenilen (bir elçi)dir."
+      }
+    },
+    {
+      "id": 5822,
+      "verseNumber": 22,
+      "verseKey": "81:22",
+      "arabic": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+      "english": "And your fellow man<sup foot_note=77601>1</sup> is not insane.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(21-22) Orada kendisine itaat olunmuş bir emîndir. Ve sizin sahibiniz bir mecnûn değildir.",
+        "hayrat_nesriyat": "Arkadaşınız (Muhammed) ise mecnun değildir!",
+        "diyanet_vakfi": "Arkadaşınız (Muhammed) de mecnun değildir."
+      }
+    },
+    {
+      "id": 5823,
+      "verseNumber": 23,
+      "verseKey": "81:23",
+      "arabic": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+      "english": "And he did see that ˹angel˺ on the clear horizon,<sup foot_note=77602>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(23-25) Andolsun ki, onu apaçık ufukta gördü. Ve o, (peygamber) gaybe ait hususta behil değildir. Ve o, tardedilen bir şeytanın sözü değildir.",
+        "hayrat_nesriyat": "And olsun ki, onu (Cebrâîl`i) apaçık, ufukta gördü.",
+        "diyanet_vakfi": "Andolsun ki, onu (Cebrail’i) apaçık ufukta görmüştür."
+      }
+    },
+    {
+      "id": 5824,
+      "verseNumber": 24,
+      "verseKey": "81:24",
+      "arabic": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+      "english": "and he does not withhold ˹what is revealed to him of˺ the unseen.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(23-25) Andolsun ki, onu apaçık ufukta gördü. Ve o, (peygamber) gaybe ait hususta behil değildir. Ve o, tardedilen bir şeytanın sözü değildir.",
+        "hayrat_nesriyat": "Ve o, gayb hakkında cimri değildir (aldığı vahyi aynen teblîğ eder)!",
+        "diyanet_vakfi": "O, gaybın bilgilerini (sizden) esirgemez."
+      }
+    },
+    {
+      "id": 5825,
+      "verseNumber": 25,
+      "verseKey": "81:25",
+      "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ",
+      "english": "And this ˹Quran˺ is not the word of an outcast devil.<sup foot_note=77603>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(23-25) Andolsun ki, onu apaçık ufukta gördü. Ve o, (peygamber) gaybe ait hususta behil değildir. Ve o, tardedilen bir şeytanın sözü değildir.",
+        "hayrat_nesriyat": "O (Kur`ân) da, kovulmuş şeytanın sözü değildir!",
+        "diyanet_vakfi": "O lânetlenmiş şeytanın sözü de değildir."
+      }
+    },
+    {
+      "id": 5826,
+      "verseNumber": 26,
+      "verseKey": "81:26",
+      "arabic": "فَأَيْنَ تَذْهَبُونَ",
+      "english": "So what ˹other˺ path would you take?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık nereye gidiyorsunuz?",
+        "hayrat_nesriyat": "O hâlde (ondan yüz çevirip) nereye gidiyorsunuz?",
+        "diyanet_vakfi": "Hal böyle iken nereye gidiyorsunuz?"
+      }
+    },
+    {
+      "id": 5827,
+      "verseNumber": 27,
+      "verseKey": "81:27",
+      "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "english": "Surely this ˹Quran˺ is only a reminder to the whole world—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(27-28) O, başka değil âlemler için bir öğüttür. Sizden müstakimâne yaşamak dileyen kimse için (bir mev’izadır).",
+        "hayrat_nesriyat": "(27-28) O, ancak âlemler için, (ve) içinizden dosdoğru olmak isteyenler için bir nasîhattir!",
+        "diyanet_vakfi": "(27-28) O, herkes için, sizden doğru yolda gitmek isteyenler için bir öğüttür."
+      }
+    },
+    {
+      "id": 5828,
+      "verseNumber": 28,
+      "verseKey": "81:28",
+      "arabic": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+      "english": "to whoever of you wills to take the Straight Way.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(27-28) O, başka değil âlemler için bir öğüttür. Sizden müstakimâne yaşamak dileyen kimse için (bir mev’izadır).",
+        "hayrat_nesriyat": "(27-28) O, ancak âlemler için, (ve) içinizden dosdoğru olmak isteyenler için bir nasîhattir!",
+        "diyanet_vakfi": "(27-28) O, herkes için, sizden doğru yolda gitmek isteyenler için bir öğüttür."
+      }
+    },
+    {
+      "id": 5829,
+      "verseNumber": 29,
+      "verseKey": "81:29",
+      "arabic": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+      "english": "But you cannot will ˹to do so˺, except by the Will of Allah, the Lord of all worlds.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve âlemlerin Rabbi olan Allah dilemeyince siz dileyemezsiniz.",
+        "hayrat_nesriyat": "Fakat, âlemlerin Rabbi olan Allah (size dileme kabiliyetini vermeyi) dilemedikçe, siz dileyemezsiniz!",
+        "diyanet_vakfi": "Âlemlerin Rabbi Allah dilemedikçe siz dileyemezsiniz."
+      }
+    }
+  ]
+}

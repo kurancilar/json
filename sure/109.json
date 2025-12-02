@@ -1,0 +1,76 @@
+{
+  "verses": [
+    {
+      "id": 6208,
+      "verseNumber": 1,
+      "verseKey": "109:1",
+      "arabic": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "english": "Say, ˹O Prophet,˺ “O you disbelievers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «Ey kâfirler!»",
+        "hayrat_nesriyat": "De ki: `Ey kâfirûn (kâfirler)!`",
+        "diyanet_vakfi": "(1-2) (Resûlüm!) De ki: Ey kâfirler! Ben sizin tapmakta olduklarınıza tapmam."
+      }
+    },
+    {
+      "id": 6209,
+      "verseNumber": 2,
+      "verseKey": "109:2",
+      "arabic": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "english": "I do not worship what you worship,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Ben sizin ibadet ettiğinize ibadet etmem.»",
+        "hayrat_nesriyat": "`(Sizin) tapmakta olduğunuz şeylere (ben) tapmam!`",
+        "diyanet_vakfi": "(1-2) (Resûlüm!) De ki: Ey kâfirler! Ben sizin tapmakta olduklarınıza tapmam."
+      }
+    },
+    {
+      "id": 6210,
+      "verseNumber": 3,
+      "verseKey": "109:3",
+      "arabic": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "english": "nor do you worship what I worship.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Siz de benim ibadet ettiğime ibadet ediciler değilsiniz.»",
+        "hayrat_nesriyat": "`Siz de (benim) ibâdet etmekte olduğum (Allah)`a ibâdet ediciler değilsiniz!`",
+        "diyanet_vakfi": "Siz de benim taptığıma tapmıyorsunuz."
+      }
+    },
+    {
+      "id": 6211,
+      "verseNumber": 4,
+      "verseKey": "109:4",
+      "arabic": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "english": "I will never worship what you worship,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Ve ben sizin taptığınıza tapıcı değilim.»",
+        "hayrat_nesriyat": "`Ben de (sizin) taptıklarınıza ibâdet edici değilim!`",
+        "diyanet_vakfi": "Ben de sizin taptıklarınıza asla tapacak değilim."
+      }
+    },
+    {
+      "id": 6212,
+      "verseNumber": 5,
+      "verseKey": "109:5",
+      "arabic": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "english": "nor will you ever worship what I worship.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Siz de benim taptığıma tapıcılar değilsiniz.»",
+        "hayrat_nesriyat": "`Siz de (benim) ibâdet etmekte olduğuma ibâdet ediciler değilsiniz!`",
+        "diyanet_vakfi": "Evet, siz de benim taptığıma tapıyor değilsiniz."
+      }
+    },
+    {
+      "id": 6213,
+      "verseNumber": 6,
+      "verseKey": "109:6",
+      "arabic": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "english": "You have your way, and I have my Way.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Sizin dininiz sizin içindir, benim dinim de benim içindir.»",
+        "hayrat_nesriyat": "`Sizin dîniniz size, benim dînim banadır!`",
+        "diyanet_vakfi": "Sizin dininiz size, benim dinim de banadır."
+      }
+    }
+  ]
+}

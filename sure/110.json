@@ -1,0 +1,40 @@
+{
+  "verses": [
+    {
+      "id": 6214,
+      "verseNumber": 1,
+      "verseKey": "110:1",
+      "arabic": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "english": "When Allah’s ˹ultimate˺ help comes and the victory ˹over Mecca is achieved˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Allah’ın nusreti ve fethi geldiği zaman.",
+        "hayrat_nesriyat": "Allah`ın nasr`ı (yardımı) ve fetih geldiği zaman!",
+        "diyanet_vakfi": "(1-3) Allah’ın yardımı ve zaferi gelip de insanların bölük bölük Allah’ın dinine girmekte olduklarını gördüğün vakit Rabbine hamdederek O’nu tesbih et ve O’ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir."
+      }
+    },
+    {
+      "id": 6215,
+      "verseNumber": 2,
+      "verseKey": "110:2",
+      "arabic": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "english": "and you ˹O Prophet˺ see the people embracing Allah’s Way in crowds,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve Allah’ın dinine nâsın fevc fevc girer olduğunu göreceğin vakit.",
+        "hayrat_nesriyat": "Ve insanları bölük bölük Allah`ın dînine girerken gördüğün (zaman)!",
+        "diyanet_vakfi": "(1-3) Allah’ın yardımı ve zaferi gelip de insanların bölük bölük Allah’ın dinine girmekte olduklarını gördüğün vakit Rabbine hamdederek O’nu tesbih et ve O’ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir."
+      }
+    },
+    {
+      "id": 6216,
+      "verseNumber": 3,
+      "verseKey": "110:3",
+      "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "english": "then glorify the praises of your Lord and seek His forgiveness, for certainly He is ever Accepting of Repentance.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık Rabbine hamdederek tesbihte bulun ve O’ndan mağfiret dile. Şüphe yok ki O, tevbeleri çok kabul edici olmuştur.",
+        "hayrat_nesriyat": "Artık Rabbine hamd ile tesbîh et ve O`ndan mağfiret dile! Çünki O, Tevvâb(tevbeleri çok kabûl eden)dir.",
+        "diyanet_vakfi": "(1-3) Allah’ın yardımı ve zaferi gelip de insanların bölük bölük Allah’ın dinine girmekte olduklarını gördüğün vakit Rabbine hamdederek O’nu tesbih et ve O’ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir."
+      }
+    }
+  ]
+}

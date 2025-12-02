@@ -1,0 +1,484 @@
+{
+  "verses": [
+    {
+      "id": 5552,
+      "verseNumber": 1,
+      "verseKey": "75:1",
+      "arabic": " لَآ أُقْسِمُ بِيَوْمِ ٱلْقِيَـٰمَةِ",
+      "english": "I do swear by the Day of Judgment!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Yok; Kıyamet gününe yemin ederim. Yok; melâmet duyan nefse de yemin ederim.",
+        "hayrat_nesriyat": "Kıyâmet gününe yemîn ederim!",
+        "diyanet_vakfi": "Kıyamet gününe yemin ederim."
+      }
+    },
+    {
+      "id": 5553,
+      "verseNumber": 2,
+      "verseKey": "75:2",
+      "arabic": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+      "english": "And I do swear by the self-reproaching soul!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Yok; Kıyamet gününe yemin ederim. Yok; melâmet duyan nefse de yemin ederim.",
+        "hayrat_nesriyat": "(Pişmanlık duyup) dâimâ kendini kınayan nefse de yemîn ederim (ki öldükten sonradiriltileceksiniz)!",
+        "diyanet_vakfi": "Kendini kınayan (pişmanlık duyan) nefse yemin ederim (diriltilip hesaba çekileceksiniz)."
+      }
+    },
+    {
+      "id": 5554,
+      "verseNumber": 3,
+      "verseKey": "75:3",
+      "arabic": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+      "english": "Do people think We cannot reassemble their bones?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İnsan, sanır mı ki onun kemiklerini her halde bir araya toplamayacağız?",
+        "hayrat_nesriyat": "İnsan, kendisinin kemiklerini aslâ bir araya getiremeyeceğimizi mi sanıyor?",
+        "diyanet_vakfi": "İnsan, kendisinin kemiklerini biraraya toplayamayacağımızı mı sanır?"
+      }
+    },
+    {
+      "id": 5555,
+      "verseNumber": 4,
+      "verseKey": "75:4",
+      "arabic": "بَلَىٰ قَـٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+      "english": "Yes ˹indeed˺! We are ˹most˺ capable of restoring ˹even˺ their very fingertips.<sup foot_note=77569>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Evet... Parmaklarının uçlarını da düzeltmeye kâdirleriz.",
+        "hayrat_nesriyat": "Evet! (Bir araya getiririz!) (Biz) onun parmak uçlarını (parmak izlerine varıncaya kadar) düzenlemeye (eski hâline getirmeye) gücü yetenleriz.",
+        "diyanet_vakfi": "Evet, bizim, onun parmak uçlarını bile aynen eski haline getirmeye gücümüz yeter."
+      }
+    },
+    {
+      "id": 5556,
+      "verseNumber": 5,
+      "verseKey": "75:5",
+      "arabic": "بَلْ يُرِيدُ ٱلْإِنسَـٰنُ لِيَفْجُرَ أَمَامَهُۥ",
+      "english": "Still people want to deny what is yet to come,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Fakat insan diler ki ilerisinde de isyana devam etsin.",
+        "hayrat_nesriyat": "Fakat insan önünde(ki gelecekte) de günâh işlemek ister.",
+        "diyanet_vakfi": "Fakat insan önündekini (kıyameti) yalanlamak ister."
+      }
+    },
+    {
+      "id": 5557,
+      "verseNumber": 6,
+      "verseKey": "75:6",
+      "arabic": "يَسْـَٔلُ أَيَّانَ يَوْمُ ٱلْقِيَـٰمَةِ",
+      "english": "asking ˹mockingly˺, “When is this Day of Judgment?”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(6-7) Sorar ki Kıyamet günü ne zamandır? Artık o zaman ki, göz kamaşmış bir halde bulunur.",
+        "hayrat_nesriyat": "`O kıyâmet günü ne zaman?` diye (alay ederek) sorar.",
+        "diyanet_vakfi": "«Kıyamet günü ne zamanmış?» diye sorar."
+      }
+    },
+    {
+      "id": 5558,
+      "verseNumber": 7,
+      "verseKey": "75:7",
+      "arabic": "فَإِذَا بَرِقَ ٱلْبَصَرُ",
+      "english": "But when the sight is stunned,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(6-7) Sorar ki Kıyamet günü ne zamandır? Artık o zaman ki, göz kamaşmış bir halde bulunur.",
+        "hayrat_nesriyat": "(7-9) Fakat; göz kamaştığı, ay tutulduğu (ışığı giderildiği) ve güneşle ay bir araya getirildiği zaman!",
+        "diyanet_vakfi": "(7-9) İşte, göz kamaştığı, ay tutulduğu, güneşle ay biraraya getirildiği zaman!"
+      }
+    },
+    {
+      "id": 5559,
+      "verseNumber": 8,
+      "verseKey": "75:8",
+      "arabic": "وَخَسَفَ ٱلْقَمَرُ",
+      "english": "and the moon is dimmed,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Ve ay tutulmuş olur. Ve güneş ile ay toplatılmış bulunur.",
+        "hayrat_nesriyat": "(7-9) Fakat; göz kamaştığı, ay tutulduğu (ışığı giderildiği) ve güneşle ay bir araya getirildiği zaman!",
+        "diyanet_vakfi": "(7-9) İşte, göz kamaştığı, ay tutulduğu, güneşle ay biraraya getirildiği zaman!"
+      }
+    },
+    {
+      "id": 5560,
+      "verseNumber": 9,
+      "verseKey": "75:9",
+      "arabic": "وَجُمِعَ ٱلشَّمْسُ وَٱلْقَمَرُ",
+      "english": "and the sun and the moon are brought together,<sup foot_note=77570>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Ve ay tutulmuş olur. Ve güneş ile ay toplatılmış bulunur.",
+        "hayrat_nesriyat": "(7-9) Fakat; göz kamaştığı, ay tutulduğu (ışığı giderildiği) ve güneşle ay bir araya getirildiği zaman!",
+        "diyanet_vakfi": "(7-9) İşte, göz kamaştığı, ay tutulduğu, güneşle ay biraraya getirildiği zaman!"
+      }
+    },
+    {
+      "id": 5561,
+      "verseNumber": 10,
+      "verseKey": "75:10",
+      "arabic": "يَقُولُ ٱلْإِنسَـٰنُ يَوْمَئِذٍ أَيْنَ ٱلْمَفَرُّ",
+      "english": "on that Day one will cry, “Where is the escape?”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-11) O gün insan der ki: «Kaçacak yer nerede?» Hayır. Hiçbir sığınacak yer yoktur.",
+        "hayrat_nesriyat": "O gün insan: `Kaçacak yer nerede?` der!",
+        "diyanet_vakfi": "O gün insan, «Kaçacak yer neresi!» diyecektir."
+      }
+    },
+    {
+      "id": 5562,
+      "verseNumber": 11,
+      "verseKey": "75:11",
+      "arabic": "كَلَّا لَا وَزَرَ",
+      "english": "But no! There will be no refuge.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-11) O gün insan der ki: «Kaçacak yer nerede?» Hayır. Hiçbir sığınacak yer yoktur.",
+        "hayrat_nesriyat": "Hayır! Sığınacak bir yer yoktur!",
+        "diyanet_vakfi": "Hayır, hayır! (Kaçıp) sığınacak yer yoktur!"
+      }
+    },
+    {
+      "id": 5563,
+      "verseNumber": 12,
+      "verseKey": "75:12",
+      "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+      "english": "On that Day all will end up before your Lord.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O günde durulacak makam, Rabbin tarafından tayin edilecektir.",
+        "hayrat_nesriyat": "O gün varıp durulacak yer, ancak Rabbinin huzûrudur.",
+        "diyanet_vakfi": "O gün varıp durulacak yer, sadece Rabbinin huzurudur."
+      }
+    },
+    {
+      "id": 5564,
+      "verseNumber": 13,
+      "verseKey": "75:13",
+      "arabic": "يُنَبَّؤُا۟ ٱلْإِنسَـٰنُ يَوْمَئِذٍۭ بِمَا قَدَّمَ وَأَخَّرَ",
+      "english": "All will then be informed of what they have sent forth and left behind.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(13-14) O gün insana ileri götürmüş olduğu şeyler ile geriye bırakmış olduğu şeyler haber verilecektir. Doğrusu insan kendi şahsı aleyhine bir hüccetir.",
+        "hayrat_nesriyat": "O gün insan, (yapıp) öne sürdüğü ve (yapmayıp) geri bıraktığı (herşeyi)nden haberdâr edilir.",
+        "diyanet_vakfi": "O gün insana, ileri götürdüğü ve geri bıraktığı ne varsa bildirilir."
+      }
+    },
+    {
+      "id": 5565,
+      "verseNumber": 14,
+      "verseKey": "75:14",
+      "arabic": "بَلِ ٱلْإِنسَـٰنُ عَلَىٰ نَفْسِهِۦ بَصِيرَةٌ",
+      "english": "In fact, people will testify against their own souls,<sup foot_note=77571>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(13-14) O gün insana ileri götürmüş olduğu şeyler ile geriye bırakmış olduğu şeyler haber verilecektir. Doğrusu insan kendi şahsı aleyhine bir hüccetir.",
+        "hayrat_nesriyat": "(14-15) Daha doğrusu insan, (kurtulmak için, bütün) ma`zeretlerini ortaya atsa da, kendi nefsine (bizzat kendisi) şâhiddir!",
+        "diyanet_vakfi": "Artık insan, kendi kendinin şahididir."
+      }
+    },
+    {
+      "id": 5566,
+      "verseNumber": 15,
+      "verseKey": "75:15",
+      "arabic": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+      "english": "despite the excuses they come up with.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Velev ki, mazeretlerini ortaya atmış bulunsun.",
+        "hayrat_nesriyat": "(14-15) Daha doğrusu insan, (kurtulmak için, bütün) ma`zeretlerini ortaya atsa da, kendi nefsine (bizzat kendisi) şâhiddir!",
+        "diyanet_vakfi": "İsterse özürlerini sayıp döksün."
+      }
+    },
+    {
+      "id": 5567,
+      "verseNumber": 16,
+      "verseKey": "75:16",
+      "arabic": "لَا تُحَرِّكْ بِهِۦ لِسَانَكَ لِتَعْجَلَ بِهِۦٓ",
+      "english": "Do not rush your tongue trying to memorize ˹a revelation of˺ the Quran.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(16-17) Onu (Kur’an’ı) acele ahzedesin diye onunla dilini kımıldatma. Şüphe yok ki, onu toplamak da, onu okutmak da Bize aittir.",
+        "hayrat_nesriyat": "(Habîbim, yâ Muhammed! Cebrâîl sana vahyi bitirmeden) onu (Kur`ân`ı) acele(ezber) etmek için, dilini onunla kımıldatma!",
+        "diyanet_vakfi": "(Resûlüm!) onu (vahyi) çarçabuk almak için dilini kımıldatma."
+      }
+    },
+    {
+      "id": 5568,
+      "verseNumber": 17,
+      "verseKey": "75:17",
+      "arabic": "إِنَّ عَلَيْنَا جَمْعَهُۥ وَقُرْءَانَهُۥ",
+      "english": "It is certainly upon Us to ˹make you˺ memorize and recite it.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(16-17) Onu (Kur’an’ı) acele ahzedesin diye onunla dilini kımıldatma. Şüphe yok ki, onu toplamak da, onu okutmak da Bize aittir.",
+        "hayrat_nesriyat": "Şübhesiz ki onu (senin kalbinde) toplamak ve onu (sana) okutmak bize âiddir.",
+        "diyanet_vakfi": "Şüphesiz onu, toplamak (senin kalbine yerleştirmek) ve onu okutmak bize aittir."
+      }
+    },
+    {
+      "id": 5569,
+      "verseNumber": 18,
+      "verseKey": "75:18",
+      "arabic": "فَإِذَا قَرَأْنَـٰهُ فَٱتَّبِعْ قُرْءَانَهُۥ",
+      "english": "So once We have recited a revelation ˹through Gabriel˺, follow its recitation ˹closely˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İmdi onu Biz okuyunca artık sen onun kıraatine tâbi ol!",
+        "hayrat_nesriyat": "O hâlde onu (sana) okuduğumuz zaman, artık (sen) onun okunuşunu ta`kib et!",
+        "diyanet_vakfi": "O halde, biz onu okuduğumuz zaman, sen onun okunuşunu takip et."
+      }
+    },
+    {
+      "id": 5570,
+      "verseNumber": 19,
+      "verseKey": "75:19",
+      "arabic": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُۥ",
+      "english": "Then it is surely upon Us to make it clear ˹to you˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sonra şüphe yok ki onun açıklanması da Bize aittir.",
+        "hayrat_nesriyat": "Sonra şübhesiz onu açıklamak da bize âiddir.",
+        "diyanet_vakfi": "Sonra şüphen olmasın ki, onu açıklamak da bize aittir."
+      }
+    },
+    {
+      "id": 5571,
+      "verseNumber": 20,
+      "verseKey": "75:20",
+      "arabic": "كَلَّا بَلْ تُحِبُّونَ ٱلْعَاجِلَةَ",
+      "english": "But no! In fact, you love this fleeting world,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(20-21) Yok, yok. Siz acele olanı seversiniz. Ve ahireti bırakıverirsiniz.",
+        "hayrat_nesriyat": "Hayır! Doğrusu (siz) âcil olanı (dünya hayâtını) seviyorsunuz.",
+        "diyanet_vakfi": "(20-21) Hayır! Doğrusu siz, çarçabuk geçeni (dünya hayatını ve nimetlerini) seviyor, ahireti bırakıyorsunuz."
+      }
+    },
+    {
+      "id": 5572,
+      "verseNumber": 21,
+      "verseKey": "75:21",
+      "arabic": "وَتَذَرُونَ ٱلْـَٔاخِرَةَ",
+      "english": "and neglect the Hereafter.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(20-21) Yok, yok. Siz acele olanı seversiniz. Ve ahireti bırakıverirsiniz.",
+        "hayrat_nesriyat": "Ve âhireti bırakıyorsunuz.",
+        "diyanet_vakfi": "(20-21) Hayır! Doğrusu siz, çarçabuk geçeni (dünya hayatını ve nimetlerini) seviyor, ahireti bırakıyorsunuz."
+      }
+    },
+    {
+      "id": 5573,
+      "verseNumber": 22,
+      "verseKey": "75:22",
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+      "english": "On that Day ˹some˺ faces will be bright,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(22-23) O günde birtakım yüzler parıldanıcıdır. Rablerine nazar edicidir.",
+        "hayrat_nesriyat": "Nice yüzler vardır ki, o gün (âhirette) parlaktırlar!",
+        "diyanet_vakfi": "Yüzler vardır ki, o gün ışıl ışıl parıldayacaktır."
+      }
+    },
+    {
+      "id": 5574,
+      "verseNumber": 23,
+      "verseKey": "75:23",
+      "arabic": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "english": "looking at their Lord.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(22-23) O günde birtakım yüzler parıldanıcıdır. Rablerine nazar edicidir.",
+        "hayrat_nesriyat": "Rablerine nazar edicidirler! (Allah`ın cemâlini görmeye mazhar olurlar!)",
+        "diyanet_vakfi": "Rablerine bakacaklardır (O’nu göreceklerdir)."
+      }
+    },
+    {
+      "id": 5575,
+      "verseNumber": 24,
+      "verseKey": "75:24",
+      "arabic": "وَوُجُوهٌ يَوْمَئِذٍۭ بَاسِرَةٌ",
+      "english": "And ˹other˺ faces will be gloomy,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bir kısım yüzler de o gün pek ekşi bir haldedir.",
+        "hayrat_nesriyat": "Nice yüzler de vardır ki, o gün buruşuktur!",
+        "diyanet_vakfi": "Yüzler de vardır ki, o gün buruşacaktır;"
+      }
+    },
+    {
+      "id": 5576,
+      "verseNumber": 25,
+      "verseKey": "75:25",
+      "arabic": "تَظُنُّ أَن يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "english": "anticipating something devastating to befall them.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(25-26) Sanır ki, ona arka kemiklerini kıracak bir muamele yapılacaktır. Hayır hayır... Vaktâ ki (can) boyun halkasının kemiklerine kavuşur.",
+        "hayrat_nesriyat": "(Çünki) kendilerinin bel kıran bir belâya uğratılacaklarını sezerler (iyice anlarlar)!",
+        "diyanet_vakfi": "Kendilerinin, bel kemiklerini kıran bir felâkete uğratılacağını sezeceklerdir."
+      }
+    },
+    {
+      "id": 5577,
+      "verseNumber": 26,
+      "verseKey": "75:26",
+      "arabic": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِىَ",
+      "english": "But no! ˹Beware of the day˺ when the soul reaches the collar bone ˹as it leaves˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(25-26) Sanır ki, ona arka kemiklerini kıracak bir muamele yapılacaktır. Hayır hayır... Vaktâ ki (can) boyun halkasının kemiklerine kavuşur.",
+        "hayrat_nesriyat": "(26-27) Hayır! (Can) köprücük kemiklerine dayandığı zaman: `Var mı (bu hastaya) bir okuyacak (tedâvi edecek) kişi?` denilir.",
+        "diyanet_vakfi": "Artık gözünüzü açın! Ne zaman ki can köprücük kemiğine dayanır,"
+      }
+    },
+    {
+      "id": 5578,
+      "verseNumber": 27,
+      "verseKey": "75:27",
+      "arabic": "وَقِيلَ مَنْ ۜ رَاقٍ",
+      "english": "and it will be said, “Is there any healer ˹who can save this life˺?”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve denilmiş olur ki: «Tedavi edebilecek kim var?»",
+        "hayrat_nesriyat": "(26-27) Hayır! (Can) köprücük kemiklerine dayandığı zaman: `Var mı (bu hastaya) bir okuyacak (tedâvi edecek) kişi?` denilir.",
+        "diyanet_vakfi": "«Tedavi edebilecek kimdir?» denir."
+      }
+    },
+    {
+      "id": 5579,
+      "verseNumber": 28,
+      "verseKey": "75:28",
+      "arabic": "وَظَنَّ أَنَّهُ ٱلْفِرَاقُ",
+      "english": "And the dying person realizes it is ˹their˺ time to depart,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve onun şüphesiz bir ayrılış olduğunu sanmış bulunacaktır.",
+        "hayrat_nesriyat": "Ve (o can çekişen kimse ise,) şübhesiz bunun (artık dünyadan) ayrılış olduğunu sezer.",
+        "diyanet_vakfi": "(Can çekişen) bunun gerçek bir ayrılış olduğunu anlar."
+      }
+    },
+    {
+      "id": 5580,
+      "verseNumber": 29,
+      "verseKey": "75:29",
+      "arabic": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+      "english": "and ˹then˺ their feet are tied together ˹in a shroud˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(29-30) Ve bacak da bacağa dolaşmış olacaktır. O günde sevk olunmak yalnız Rabbinedir.",
+        "hayrat_nesriyat": "Ve bacak bacağa dolaşır!",
+        "diyanet_vakfi": "Ve bacak bacağa dolaşır."
+      }
+    },
+    {
+      "id": 5581,
+      "verseNumber": 30,
+      "verseKey": "75:30",
+      "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمَسَاقُ",
+      "english": "On that day they will be driven to your Lord ˹alone˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(29-30) Ve bacak da bacağa dolaşmış olacaktır. O günde sevk olunmak yalnız Rabbinedir.",
+        "hayrat_nesriyat": "O gün sevk olunacak yer, ancak Rabbinin huzûrudur.",
+        "diyanet_vakfi": "İşte o gün sevkedilecek yer, sadece Rabbinin huzurudur."
+      }
+    },
+    {
+      "id": 5582,
+      "verseNumber": 31,
+      "verseKey": "75:31",
+      "arabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "english": "This denier neither believed nor prayed,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(31-32) Fakat ne tasdik etti ve ne de namaz kıldı. Velâkin tekzîp etti ve yüz çevirdi.",
+        "hayrat_nesriyat": "Çünki (o insan) ne (peygamberi ve Kur`ân`ı) tasdîk etti, ne de namaz kıldı.",
+        "diyanet_vakfi": "İşte o, (Peygamber’in getirdiğini) doğru kabul etmemiş, namaz da kılmamıştı."
+      }
+    },
+    {
+      "id": 5583,
+      "verseNumber": 32,
+      "verseKey": "75:32",
+      "arabic": "وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ",
+      "english": "but persisted in denial and turned away,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(31-32) Fakat ne tasdik etti ve ne de namaz kıldı. Velâkin tekzîp etti ve yüz çevirdi.",
+        "hayrat_nesriyat": "Fakat yalanladı ve yüz çevirdi.",
+        "diyanet_vakfi": "Aksine yalan saymış ve yüz çevirmişti."
+      }
+    },
+    {
+      "id": 5584,
+      "verseNumber": 33,
+      "verseKey": "75:33",
+      "arabic": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهْلِهِۦ يَتَمَطَّىٰٓ",
+      "english": "then went to their own people, walking boastfully.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sonra da ailesinin yanına böbürlene böbürlene gitti.",
+        "hayrat_nesriyat": "Sonra da çalımlana çalımlana âilesine gitti.",
+        "diyanet_vakfi": "Sonra da çalım sata sata yürüyerek kendi ehline (taraftarlarına) gitmişti."
+      }
+    },
+    {
+      "id": 5585,
+      "verseNumber": 34,
+      "verseKey": "75:34",
+      "arabic": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "english": "Woe to you, and more woe!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Vay sana! Vay sana!",
+        "hayrat_nesriyat": "Sana daha lâyıktır (bu azab), daha lâyık!",
+        "diyanet_vakfi": "Lâyıktır (o azap) sana, lâyık!"
+      }
+    },
+    {
+      "id": 5586,
+      "verseNumber": 35,
+      "verseKey": "75:35",
+      "arabic": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰٓ",
+      "english": "Again, woe to you, and even more woe!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(35-36) Sonra yine vay sana! Vay sana. İnsan sanır mı ki, başıboş bırakılacaktır?",
+        "hayrat_nesriyat": "Sonra (tekrar tekrar) sana daha lâyıktır (bu azab), daha lâyık!",
+        "diyanet_vakfi": "Evet, lâyıktır sana (o azap) lâyık!"
+      }
+    },
+    {
+      "id": 5587,
+      "verseNumber": 36,
+      "verseKey": "75:36",
+      "arabic": "أَيَحْسَبُ ٱلْإِنسَـٰنُ أَن يُتْرَكَ سُدًى",
+      "english": "Do people think they will be left without purpose?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(35-36) Sonra yine vay sana! Vay sana. İnsan sanır mı ki, başıboş bırakılacaktır?",
+        "hayrat_nesriyat": "İnsan, başıboş bırakılacağını mı sanıyor?",
+        "diyanet_vakfi": "İnsan, kendisinin başıboş bırakılacağını mı sanır!"
+      }
+    },
+    {
+      "id": 5588,
+      "verseNumber": 37,
+      "verseKey": "75:37",
+      "arabic": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ",
+      "english": "Were they not ˹once˺ a sperm-drop emitted?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(37-38) O dökülen meniden bir damla su değil mi idi? Sonra bir kan pıhtısı oldu, artık (Allah onu) yarattı, sonra da (azasını) düzeltti.",
+        "hayrat_nesriyat": "(O,) akıtılan bir menîden bir nutfe (hakir bir damla sudan süzülmüş hulâsa) değil miydi?",
+        "diyanet_vakfi": "O, (döl yatağına) akıtılan meninin içinden bir nutfe (sperm) değil miydi?"
+      }
+    },
+    {
+      "id": 5589,
+      "verseNumber": 38,
+      "verseKey": "75:38",
+      "arabic": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "english": "Then they became a clinging clot ˹of blood˺,<sup foot_note=77572>1</sup> then He developed and perfected their form,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(37-38) O dökülen meniden bir damla su değil mi idi? Sonra bir kan pıhtısı oldu, artık (Allah onu) yarattı, sonra da (azasını) düzeltti.",
+        "hayrat_nesriyat": "Sonra bir alaka oldu da, (Allah onu insan şeklinde) yarattı ve (a`zâlarını)düzenledi.",
+        "diyanet_vakfi": "Sonra bu, alaka (aşılanmış yumurta) olmuş, derken Allah onu (insan biçiminde) yaratıp şekillendirmişti."
+      }
+    },
+    {
+      "id": 5590,
+      "verseNumber": 39,
+      "verseKey": "75:39",
+      "arabic": "فَجَعَلَ مِنْهُ ٱلزَّوْجَيْنِ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "english": "producing from it both sexes, male and female.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(39-40) Sonra ondan erkek ve dişi iki sınıf (var) kıldı. Artık o (Hâlık-ı Azîm) ölüleri diriltmeye kâdir değil midir? (Elbette kâdirdir)",
+        "hayrat_nesriyat": "Derken ondan erkek ve dişi, iki eş kıldı.",
+        "diyanet_vakfi": "Ondan da iki eşi, yani erkek ve dişiyi var etmişti."
+      }
+    },
+    {
+      "id": 5591,
+      "verseNumber": 40,
+      "verseKey": "75:40",
+      "arabic": "أَلَيْسَ ذَٰلِكَ بِقَـٰدِرٍ عَلَىٰٓ أَن يُحْـِۧىَ ٱلْمَوْتَىٰ",
+      "english": "Is such ˹a Creator˺ unable to bring the dead back to life?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(39-40) Sonra ondan erkek ve dişi iki sınıf (var) kıldı. Artık o (Hâlık-ı Azîm) ölüleri diriltmeye kâdir değil midir? (Elbette kâdirdir)",
+        "hayrat_nesriyat": "Bu(nları yapan), ölüleri diriltmeye kadir değil midir?",
+        "diyanet_vakfi": "Peki (bunları yapan) Allah’ın, ölüleri tekrar diriltmeye gücü yetmez mi?"
+      }
+    }
+  ]
+}

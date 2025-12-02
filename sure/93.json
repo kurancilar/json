@@ -1,0 +1,136 @@
+{
+  "verses": [
+    {
+      "id": 6080,
+      "verseNumber": 1,
+      "verseKey": "93:1",
+      "arabic": " وَٱلضُّحَىٰ",
+      "english": "By the morning sunlight,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Kasem olsun kuşluk vaktine. Ve sâkin olduğu zaman geceye ki,",
+        "hayrat_nesriyat": "Yemîn olsun duhâ`ya (kuşluk vaktine)!",
+        "diyanet_vakfi": "(1-3) Kuşluk vaktine ve sükûna erdiğinde geceye yemin ederim ki Rabbin seni bırakmadı ve sana darılmadı."
+      }
+    },
+    {
+      "id": 6081,
+      "verseNumber": 2,
+      "verseKey": "93:2",
+      "arabic": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "english": "and the night when it falls still!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Kasem olsun kuşluk vaktine. Ve sâkin olduğu zaman geceye ki,",
+        "hayrat_nesriyat": "Ve sükûna erdiği zaman, geceye!",
+        "diyanet_vakfi": "(1-3) Kuşluk vaktine ve sükûna erdiğinde geceye yemin ederim ki Rabbin seni bırakmadı ve sana darılmadı."
+      }
+    },
+    {
+      "id": 6082,
+      "verseNumber": 3,
+      "verseKey": "93:3",
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "english": "Your Lord ˹O Prophet˺ has not abandoned you, nor has He become hateful ˹of you˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Rabbin seni ne terketti ve ne de (sana) darıldı.",
+        "hayrat_nesriyat": "(Habîbim, yâ Muhammed! Vahiy bir müddet gecikmekle) Rabbin seni ne terk etti, ne de (sana) darıldı!",
+        "diyanet_vakfi": "(1-3) Kuşluk vaktine ve sükûna erdiğinde geceye yemin ederim ki Rabbin seni bırakmadı ve sana darılmadı."
+      }
+    },
+    {
+      "id": 6083,
+      "verseNumber": 4,
+      "verseKey": "93:4",
+      "arabic": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "english": "And the next life is certainly far better for you than this one.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve elbette ki, senin için ilerisi evvelinden daha hayırlıdır.",
+        "hayrat_nesriyat": "Gerçekten sonraki (âhiret) ise, senin için evvelkinden (dünyadan) daha hayırlıdır.",
+        "diyanet_vakfi": "Gerçekten senin için ahiret dünyadan daha hayırlıdır."
+      }
+    },
+    {
+      "id": 6084,
+      "verseNumber": 5,
+      "verseKey": "93:5",
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "english": "And ˹surely˺ your Lord will give so much to you that you will be pleased.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve muhakkak ki, sana Rabbin ihsan buyuracak, sen de hoşnut olacaksın.",
+        "hayrat_nesriyat": "Ve Rabbin, elbette ileride (âhiret gününde) sana (ümmetinden dilediğine şefâat etme hakkı) verecek (sen) de hoşnûd olacaksın!",
+        "diyanet_vakfi": "Pek yakında Rabbin sana verecek de hoşnut olacaksın."
+      }
+    },
+    {
+      "id": 6085,
+      "verseNumber": 6,
+      "verseKey": "93:6",
+      "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "english": "Did He not find you as an orphan then sheltered you?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Seni bir yetim bulup da barındırmadı mı?",
+        "hayrat_nesriyat": "(O,) seni bir yetim iken bulup (seni seçip, amcan Ebû Tâlib`in yanında) barındırmadı mı?",
+        "diyanet_vakfi": "O, seni yetim bulup barındırmadı mı?"
+      }
+    },
+    {
+      "id": 6086,
+      "verseNumber": 7,
+      "verseKey": "93:7",
+      "arabic": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "english": "Did He not find you unguided then guided you?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve seni bir şaşırmış halde buldu da doğru yolu göstermedi mi?",
+        "hayrat_nesriyat": "Hem (sen henüz peygamberlik ve şer`î hükümlerden) habersiz iken seni bulup, yol göstermedi mi?",
+        "diyanet_vakfi": "Şaşırmış bulup da yol göstermedi mi?"
+      }
+    },
+    {
+      "id": 6087,
+      "verseNumber": 8,
+      "verseKey": "93:8",
+      "arabic": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "english": "And did He not find you needy then satisfied your needs?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve seni bir yoksul buldu da zengin kılmadı mı?",
+        "hayrat_nesriyat": "Hem seni fakir iken bulup da zengin etmedi mi?",
+        "diyanet_vakfi": "Seni fakir bulup zengin etmedi mi?"
+      }
+    },
+    {
+      "id": 6088,
+      "verseNumber": 9,
+      "verseKey": "93:9",
+      "arabic": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "english": "So do not oppress the orphan,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık yetime sakın kötü bir muamelede bulunma.",
+        "hayrat_nesriyat": "O hâlde yetîme gelince, sakın (onu) ezme!",
+        "diyanet_vakfi": "Öyleyse yetimi sakın ezme."
+      }
+    },
+    {
+      "id": 6089,
+      "verseNumber": 10,
+      "verseKey": "93:10",
+      "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "english": "nor repulse the beggar.<sup foot_note=77625>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-11) Ve bir şey dileneni de sakın kovma. Fakat Rabbin nîmetini de yâd et.",
+        "hayrat_nesriyat": "Ve dilenciye gelince, sakın (onu) azarlama!",
+        "diyanet_vakfi": "El açıp isteyeni de sakın azarlama."
+      }
+    },
+    {
+      "id": 6090,
+      "verseNumber": 11,
+      "verseKey": "93:11",
+      "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "english": "And proclaim the blessings of your Lord.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-11) Ve bir şey dileneni de sakın kovma. Fakat Rabbin nîmetini de yâd et.",
+        "hayrat_nesriyat": "Ve Rabbinin ni`metine gelince, artık (onu şükranla) anlat!",
+        "diyanet_vakfi": "Ve Rabbinin nimetini minnet ve şükranla an."
+      }
+    }
+  ]
+}

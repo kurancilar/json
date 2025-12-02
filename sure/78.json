@@ -1,0 +1,484 @@
+{
+  "verses": [
+    {
+      "id": 5673,
+      "verseNumber": 1,
+      "verseKey": "78:1",
+      "arabic": " عَمَّ يَتَسَآءَلُونَ",
+      "english": "What are they asking one another about?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Ne şeyden soruşturuyorlar? O pek büyük haberden.",
+        "hayrat_nesriyat": "Birbirlerine neyden (hangi şeyden) soruyorlar?",
+        "diyanet_vakfi": "Birbirlerine neyi soruyorlar?"
+      }
+    },
+    {
+      "id": 5674,
+      "verseNumber": 2,
+      "verseKey": "78:2",
+      "arabic": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+      "english": "About the momentous news,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Ne şeyden soruşturuyorlar? O pek büyük haberden.",
+        "hayrat_nesriyat": "O (pek) büyük nebe`den (haberden, öldükten sonra dirilmeden)!",
+        "diyanet_vakfi": "(2-3) (İnanıp inanmamakta) ayrılığa düştükleri büyük haberi mi?"
+      }
+    },
+    {
+      "id": 5675,
+      "verseNumber": 3,
+      "verseKey": "78:3",
+      "arabic": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+      "english": "over which they disagree.<sup foot_note=77581>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O haber ki, onlar onda ihtilafa düşmüşlerdir.",
+        "hayrat_nesriyat": "Ki, onlar (o müşrikler) onda ihtilâfa düşen kimselerdir.",
+        "diyanet_vakfi": "(2-3) (İnanıp inanmamakta) ayrılığa düştükleri büyük haberi mi?"
+      }
+    },
+    {
+      "id": 5676,
+      "verseNumber": 4,
+      "verseKey": "78:4",
+      "arabic": "كَلَّا سَيَعْلَمُونَ",
+      "english": "But no! They will come to know.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(4-5) Hayır. Yakında bileceklerdir. Sonra hayır. Yakında bileceklerdir.",
+        "hayrat_nesriyat": "Hayır! Yakında bilecekler!",
+        "diyanet_vakfi": "Hayır! Anlayacaklar!"
+      }
+    },
+    {
+      "id": 5677,
+      "verseNumber": 5,
+      "verseKey": "78:5",
+      "arabic": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+      "english": "Again, no! They will come to know.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(4-5) Hayır. Yakında bileceklerdir. Sonra hayır. Yakında bileceklerdir.",
+        "hayrat_nesriyat": "Sonra (yine) hayır! Yakında bilecekler!",
+        "diyanet_vakfi": "Yine hayır! Onlar anlayacaklar!"
+      }
+    },
+    {
+      "id": 5678,
+      "verseNumber": 6,
+      "verseKey": "78:6",
+      "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
+      "english": "Have We not smoothed out the earth ˹like a bed˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(6-7) Yeri bir döşek yapmadık mı? Dağları da birer kazık yapmadık mı?",
+        "hayrat_nesriyat": "(6-7) (Biz,) yeri bir beşik, dağları da birer kazık yapmadık mı?",
+        "diyanet_vakfi": "(6-7) Biz yeryüzünü bir döşek, dağları da birer kazık yapmadık mı?"
+      }
+    },
+    {
+      "id": 5679,
+      "verseNumber": 7,
+      "verseKey": "78:7",
+      "arabic": "وَٱلْجِبَالَ أَوْتَادًا",
+      "english": "and ˹made˺ the mountains as ˹its˺ pegs,<sup foot_note=77582>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(6-7) Yeri bir döşek yapmadık mı? Dağları da birer kazık yapmadık mı?",
+        "hayrat_nesriyat": "(6-7) (Biz,) yeri bir beşik, dağları da birer kazık yapmadık mı?",
+        "diyanet_vakfi": "(6-7) Biz yeryüzünü bir döşek, dağları da birer kazık yapmadık mı?"
+      }
+    },
+    {
+      "id": 5680,
+      "verseNumber": 8,
+      "verseKey": "78:8",
+      "arabic": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًا",
+      "english": "and created you in pairs,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Ve sizleri çiftler olarak yarattık. Uykunuzu da bir dinleniş kıldık.",
+        "hayrat_nesriyat": "Ve sizi çift çift yarattık!",
+        "diyanet_vakfi": "Sizi çifter çifter yarattık."
+      }
+    },
+    {
+      "id": 5681,
+      "verseNumber": 9,
+      "verseKey": "78:9",
+      "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "english": "and made your sleep for rest,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Ve sizleri çiftler olarak yarattık. Uykunuzu da bir dinleniş kıldık.",
+        "hayrat_nesriyat": "Uykunuzu da bir dinlenme kıldık!",
+        "diyanet_vakfi": "Uykunuzu bir dinlenme kıldık."
+      }
+    },
+    {
+      "id": 5682,
+      "verseNumber": 10,
+      "verseKey": "78:10",
+      "arabic": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+      "english": "and made the night as a cover,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-11) Geceyi de bir örtü kılmış olduk. Gündüzü de bir geçim vakti yaptık.",
+        "hayrat_nesriyat": "Ve geceyi bir örtü yaptık!",
+        "diyanet_vakfi": "Geceyi bir örtü yaptık."
+      }
+    },
+    {
+      "id": 5683,
+      "verseNumber": 11,
+      "verseKey": "78:11",
+      "arabic": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+      "english": "and made the day for livelihood,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-11) Geceyi de bir örtü kılmış olduk. Gündüzü de bir geçim vakti yaptık.",
+        "hayrat_nesriyat": "Gündüzü ise, geçim vakti kıldık!",
+        "diyanet_vakfi": "Gündüzü de çalışıp kazanma zamanı kıldık."
+      }
+    },
+    {
+      "id": 5684,
+      "verseNumber": 12,
+      "verseKey": "78:12",
+      "arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "english": "and built above you seven mighty ˹heavens˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(12-13) Ve üzerinize sağlam sağlam yedi gök bina ettik. Ve çok parıldayan kandil kıldık.",
+        "hayrat_nesriyat": "Hem üstünüzde yedi sağlam (gök) binâ ettik!",
+        "diyanet_vakfi": "Üstünüzde yedi kat sağlam göğü bina ettik."
+      }
+    },
+    {
+      "id": 5685,
+      "verseNumber": 13,
+      "verseKey": "78:13",
+      "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+      "english": "and placed ˹in them˺ a shining lamp,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(12-13) Ve üzerinize sağlam sağlam yedi gök bina ettik. Ve çok parıldayan kandil kıldık.",
+        "hayrat_nesriyat": "Ve (orada) çok parlayan bir kandil (bir güneş) kıldık!",
+        "diyanet_vakfi": "(Orada) alev alev yanan bir kandil yarattık."
+      }
+    },
+    {
+      "id": 5686,
+      "verseNumber": 14,
+      "verseKey": "78:14",
+      "arabic": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+      "english": "and sent down from rainclouds pouring water,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve o sıkıştıranlardan şarıl şarıl bir su indirdik.",
+        "hayrat_nesriyat": "Sık(ıp üzerinize yağmur yağdır)ıcı olan (bulut)lardan da şırıl şırıl (akan) bir su indirdik!",
+        "diyanet_vakfi": "(14-16) Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+      }
+    },
+    {
+      "id": 5687,
+      "verseNumber": 15,
+      "verseKey": "78:15",
+      "arabic": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+      "english": "producing by it grain and ˹various˺ plants,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(15-16) Onunla daneler ve otlar çıkaralım (diye). Ve sarmaşık bahçeler yetiştirelim diye.",
+        "hayrat_nesriyat": "(15-16) Tâ ki onunla dâneler, bitkiler ve sarmaş dolaş olmuş bahçeler çıkaralım.",
+        "diyanet_vakfi": "(14-16) Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+      }
+    },
+    {
+      "id": 5688,
+      "verseNumber": 16,
+      "verseKey": "78:16",
+      "arabic": "وَجَنَّـٰتٍ أَلْفَافًا",
+      "english": "and dense orchards?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(15-16) Onunla daneler ve otlar çıkaralım (diye). Ve sarmaşık bahçeler yetiştirelim diye.",
+        "hayrat_nesriyat": "(15-16) Tâ ki onunla dâneler, bitkiler ve sarmaş dolaş olmuş bahçeler çıkaralım.",
+        "diyanet_vakfi": "(14-16) Size tohumlar, bitkiler, (ağaçları) sarmaş dolaş olmuş bağlar bahçeler yetiştirmek için üstüste yığılıp sıkışan bulutlardan şarıl şarıl akan sular indirdik."
+      }
+    },
+    {
+      "id": 5689,
+      "verseNumber": 17,
+      "verseKey": "78:17",
+      "arabic": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
+      "english": "Indeed, the Day of ˹Final˺ Decision is an appointed time—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki, O ayırdetme günü, tayin edilmiş bir vakittir.",
+        "hayrat_nesriyat": "Şübhesiz ki o ayırma (hüküm verme) günü, (sevab ve cezâ için) belirlenmiş bir vakittir.",
+        "diyanet_vakfi": "Şüphesiz hüküm günü vakit olarak belirlenmiştir."
+      }
+    },
+    {
+      "id": 5690,
+      "verseNumber": 18,
+      "verseKey": "78:18",
+      "arabic": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+      "english": "˹it is˺ the Day the Trumpet will be blown, and you will ˹all˺ come forth in crowds.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O gün ki, Sûr’a üfürülür, artık bölük bölük geliverirsiniz.",
+        "hayrat_nesriyat": "O gün Sûr`a (ikinci def`a) üflenir de bölük bölük (hesab yerine) gelirsiniz!",
+        "diyanet_vakfi": "Sûr’a üflendiği gün, bölük bölük Allah’a gelirsiniz;"
+      }
+    },
+    {
+      "id": 5691,
+      "verseNumber": 19,
+      "verseKey": "78:19",
+      "arabic": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+      "english": "The sky will be ˹split˺ open, becoming ˹many˺ gates,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(19-20) Gök de açılmış artık kapı kapı oluvermiştir. Dağlar da yürütülmüş de, su gibi görülen bir hayâl olmuştur.",
+        "hayrat_nesriyat": "Ve (o gün) gök açılmış da, kapı kapı olmuştur!",
+        "diyanet_vakfi": "Gökyüzü açılır ve orada pek çok kapılar oluşur;"
+      }
+    },
+    {
+      "id": 5692,
+      "verseNumber": 20,
+      "verseKey": "78:20",
+      "arabic": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+      "english": "and the mountains will be blown away, becoming ˹like˺ a mirage.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(19-20) Gök de açılmış artık kapı kapı oluvermiştir. Dağlar da yürütülmüş de, su gibi görülen bir hayâl olmuştur.",
+        "hayrat_nesriyat": "Artık dağlar yürütülmüş, öyle ki bir serab hâline gelmiştir!",
+        "diyanet_vakfi": "Dağlar yürütülür, serap haline gelir."
+      }
+    },
+    {
+      "id": 5693,
+      "verseNumber": 21,
+      "verseKey": "78:21",
+      "arabic": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+      "english": "Indeed, Hell is lying in ambush",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhakkak ki, cehennem bir gözetilen yerdir.",
+        "hayrat_nesriyat": "Muhakkak ki Cehennem, (kâfirlerin yolunu) gözetleme yeridir.",
+        "diyanet_vakfi": "(21-22) Şüphesiz, azgınların barınağı olacak cehennem pusuda beklemektedir."
+      }
+    },
+    {
+      "id": 5694,
+      "verseNumber": 22,
+      "verseKey": "78:22",
+      "arabic": "لِّلطَّـٰغِينَ مَـَٔابًا",
+      "english": "as a home for the transgressors,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Azgınlar için bir dolaşılıp gidilecek yerdir.",
+        "hayrat_nesriyat": "Azgınlar için varılacak bir yerdir!",
+        "diyanet_vakfi": "(21-22) Şüphesiz, azgınların barınağı olacak cehennem pusuda beklemektedir."
+      }
+    },
+    {
+      "id": 5695,
+      "verseNumber": 23,
+      "verseKey": "78:23",
+      "arabic": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+      "english": "where they will remain for ˹endless˺ ages.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(23-25) Onun içinde devirlerce kalıcılardır. Orada bir serinlik, içilecek bir su tadamazlar. Ancak bir kaynar su ve bir irin tadarlar.",
+        "hayrat_nesriyat": "(Onlar) orada sonsuz devirler boyu kalıcıdırlar!",
+        "diyanet_vakfi": "(23-26) (Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar."
+      }
+    },
+    {
+      "id": 5696,
+      "verseNumber": 24,
+      "verseKey": "78:24",
+      "arabic": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+      "english": "There they will not taste any coolness or drink,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(23-25) Onun içinde devirlerce kalıcılardır. Orada bir serinlik, içilecek bir su tadamazlar. Ancak bir kaynar su ve bir irin tadarlar.",
+        "hayrat_nesriyat": "(24-26) (Dünyada işledikleri amellere) uygun bir karşılık olarak, orada bir kaynar su ve bir irinden başka, ne bir serinlik, ne de bir içecek tadarlar!",
+        "diyanet_vakfi": "(23-26) (Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar."
+      }
+    },
+    {
+      "id": 5697,
+      "verseNumber": 25,
+      "verseKey": "78:25",
+      "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "english": "except boiling water and ˹oozing˺ pus—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(23-25) Onun içinde devirlerce kalıcılardır. Orada bir serinlik, içilecek bir su tadamazlar. Ancak bir kaynar su ve bir irin tadarlar.",
+        "hayrat_nesriyat": "(24-26) (Dünyada işledikleri amellere) uygun bir karşılık olarak, orada bir kaynar su ve bir irinden başka, ne bir serinlik, ne de bir içecek tadarlar!",
+        "diyanet_vakfi": "(23-26) (Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar."
+      }
+    },
+    {
+      "id": 5698,
+      "verseNumber": 26,
+      "verseKey": "78:26",
+      "arabic": "جَزَآءً وِفَاقًا",
+      "english": "a fitting reward.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(26-27) Uygun bir ceza olarak. Şüphe yok ki onlar, bir hesabı ummaz olmuşlardı.",
+        "hayrat_nesriyat": "(24-26) (Dünyada işledikleri amellere) uygun bir karşılık olarak, orada bir kaynar su ve bir irinden başka, ne bir serinlik, ne de bir içecek tadarlar!",
+        "diyanet_vakfi": "(23-26) (Azgınlar) orada çağlar boyu kalırlar, orada bir serinlik ya da (susuzluk gideren) bir içecek tatmazlar, ancak (dünyada yaptıklarına) uygun karşılık olarak kaynar su ve irin tadarlar."
+      }
+    },
+    {
+      "id": 5699,
+      "verseNumber": 27,
+      "verseKey": "78:27",
+      "arabic": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+      "english": "For they never expected any reckoning,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(26-27) Uygun bir ceza olarak. Şüphe yok ki onlar, bir hesabı ummaz olmuşlardı.",
+        "hayrat_nesriyat": "Çünki onlar (kendileri hakkında) bir hesab (görüleceğini) ummuyorlardı.",
+        "diyanet_vakfi": "Çünkü onlar hesap gününü (geleceğini) ummazlardı."
+      }
+    },
+    {
+      "id": 5700,
+      "verseNumber": 28,
+      "verseKey": "78:28",
+      "arabic": "وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا",
+      "english": "and totally rejected Our signs.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve âyetlerimizi yalan saymakla yalan sayar olmuşlardı.",
+        "hayrat_nesriyat": "Âyetlerimizi de yalanladıkça yalanlamışlardı.",
+        "diyanet_vakfi": "Bizim âyetlerimizi yalanladıkça yalanlamışlardı."
+      }
+    },
+    {
+      "id": 5701,
+      "verseNumber": 29,
+      "verseKey": "78:29",
+      "arabic": "وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ كِتَـٰبًا",
+      "english": "And We have everything recorded precisely.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve her ne şey var ise Biz onu bir kitapta saydık (kaydettik.)",
+        "hayrat_nesriyat": "Hâlbuki (biz) herşeyi yazarak, onu (Levh-i Mahfûz`da) kaydetmişizdir.",
+        "diyanet_vakfi": "Biz ise her şeyi bir kitapta sayıp yazmışızdır."
+      }
+    },
+    {
+      "id": 5702,
+      "verseNumber": 30,
+      "verseKey": "78:30",
+      "arabic": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+      "english": "˹So the deniers will be told,˺ “Taste ˹the punishment˺, for all you will get from Us is more torment.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık tadınız, imdi size azaptan başkasını artırmayacağız.",
+        "hayrat_nesriyat": "(Onlara o gün şöyle denilir:) `Şimdi tadın (cezânızı)! Artık size aslâ azabdan başka bir şey artırmayacağız!`",
+        "diyanet_vakfi": "Tadın! Bundan sonra yalnızca azabınızı arttıracağız."
+      }
+    },
+    {
+      "id": 5703,
+      "verseNumber": 31,
+      "verseKey": "78:31",
+      "arabic": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+      "english": "Indeed, the righteous will have salvation—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhakkak ki, muttakîler için necât bulacak bir yer vardır.",
+        "hayrat_nesriyat": "(31-34) Şübhesiz ki takvâ sâhibleri için (büyük) bir kurtuluş, bahçeler ve üzüm bağları, göğüsleri tomurcuklanmış aynı yaşta kızlar ve dolu kadehler vardır!",
+        "diyanet_vakfi": "(31-34) Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır."
+      }
+    },
+    {
+      "id": 5704,
+      "verseNumber": 32,
+      "verseKey": "78:32",
+      "arabic": "حَدَآئِقَ وَأَعْنَـٰبًا",
+      "english": "Gardens, vineyards,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bahçeler ve üzümler (vardır).",
+        "hayrat_nesriyat": "(31-34) Şübhesiz ki takvâ sâhibleri için (büyük) bir kurtuluş, bahçeler ve üzüm bağları, göğüsleri tomurcuklanmış aynı yaşta kızlar ve dolu kadehler vardır!",
+        "diyanet_vakfi": "(31-34) Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır."
+      }
+    },
+    {
+      "id": 5705,
+      "verseNumber": 33,
+      "verseKey": "78:33",
+      "arabic": "وَكَوَاعِبَ أَتْرَابًا",
+      "english": "and full-bosomed maidens of equal age,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve nar memeli, hep bir yaşta (cariyeler vardır).",
+        "hayrat_nesriyat": "(31-34) Şübhesiz ki takvâ sâhibleri için (büyük) bir kurtuluş, bahçeler ve üzüm bağları, göğüsleri tomurcuklanmış aynı yaşta kızlar ve dolu kadehler vardır!",
+        "diyanet_vakfi": "(31-34) Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır."
+      }
+    },
+    {
+      "id": 5706,
+      "verseNumber": 34,
+      "verseKey": "78:34",
+      "arabic": "وَكَأْسًا دِهَاقًا",
+      "english": "and full cups ˹of pure wine˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve dopdolu kaseler vardır.",
+        "hayrat_nesriyat": "(31-34) Şübhesiz ki takvâ sâhibleri için (büyük) bir kurtuluş, bahçeler ve üzüm bağları, göğüsleri tomurcuklanmış aynı yaşta kızlar ve dolu kadehler vardır!",
+        "diyanet_vakfi": "(31-34) Şüphesiz takvâ sahipleri için umulanı buldukları yer, bahçeler, üzüm bağları, göğüsleri tomurcuk gibi kabarmış yaşıt kızlar, içki dolu kâseler vardır."
+      }
+    },
+    {
+      "id": 5707,
+      "verseNumber": 35,
+      "verseKey": "78:35",
+      "arabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+      "english": "never to hear any idle talk or lying therein—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Orada bir boş lakırdı ve bir yalanlama işitmezler.",
+        "hayrat_nesriyat": "(Cennet ehli) orada boş bir söz ve yalan işitmezler.",
+        "diyanet_vakfi": "Onlar orada ne boş bir lâkırdı ne de yalan işitirler."
+      }
+    },
+    {
+      "id": 5708,
+      "verseNumber": 36,
+      "verseKey": "78:36",
+      "arabic": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+      "english": "a ˹fitting˺ reward as a generous gift from your Lord,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(Bunlar) Rabbinden bir mükâfaat ve bir kâfî ihsandır.",
+        "hayrat_nesriyat": "(Bunlar) Rabbinden bir mükâfât ve (O`nun fazlından, ziyâdesiyle) yeterli bir ihsân olarak (verilir).",
+        "diyanet_vakfi": "Bunlar Rabbinin yeterli bir bağışı, mükâfatıdır."
+      }
+    },
+    {
+      "id": 5709,
+      "verseNumber": 37,
+      "verseKey": "78:37",
+      "arabic": "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+      "english": "the Lord of the heavens and the earth and everything in between, the Most Compassionate. No one will dare speak to Him",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Göklerin ve yerin ve bunların aralarındakilerin Rabbi, Rahmân ki O’ndan bir hitaba mâlik olamazlar.",
+        "hayrat_nesriyat": "Göklerin ve yerin ve ikisi arasında bulunanların Rabbinden, o Rahmân`dan ki,(bütün mahlûkat, azametinden) O`na karşı bir hitâba mâlik olamazlar!",
+        "diyanet_vakfi": "O, göklerin, yerin ve ikisi arasında bulunanların Rabbidir. O, rahmândır. O gün insanlar O’na karşı konuşmaya yetkili değillerdir."
+      }
+    },
+    {
+      "id": 5710,
+      "verseNumber": 38,
+      "verseKey": "78:38",
+      "arabic": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا",
+      "english": "on the Day the ˹holy˺ spirit<sup foot_note=77583>1</sup> and the angels will stand in ranks. None will talk, except those granted permission by the Most Compassionate and whose words are true.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O gün ki Rûh ve melekler saf saf ayakta duracaklardır. Kendisine Rahmân’ın izin verdiğinden başkaları konuşamıyacaklar ve (o da) doğruyu söylemiş olur.",
+        "hayrat_nesriyat": "O gün ruh (Cebrâîl) ve melekler saf saf olarak ayakta durur. Rahmân`ın kendisine izin verdiği kimseden başkası konuşamaz; ve (o konuşan da ancak) doğruyu söyler!",
+        "diyanet_vakfi": "Ruh (Cebrail) ve melekler saf saf olup durduğu gün, Rahmân’ın izin verdiklerinden başkaları konuşmazlar; konuşan da doğruyu söyler."
+      }
+    },
+    {
+      "id": 5711,
+      "verseNumber": 39,
+      "verseKey": "78:39",
+      "arabic": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+      "english": "That Day is the ˹ultimate˺ truth. So let whoever wills take the path leading back to their Lord.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İşte bu, o hak olan gündür, artık kim dilerse Rabbine sığınacak bir mahal edinsin.",
+        "hayrat_nesriyat": "İşte bu, o hak olan gündür. Artık dileyen, Rabbine varan bir yol tutar.",
+        "diyanet_vakfi": "İşte o, kesin olarak gelecek gündür. O halde dileyen Rabbine varan bir yol tutsun."
+      }
+    },
+    {
+      "id": 5712,
+      "verseNumber": 40,
+      "verseKey": "78:40",
+      "arabic": "إِنَّآ أَنذَرْنَـٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "english": "Indeed, We have warned you of an imminent punishment—the Day every person will see ˹the consequences of˺ what their hands have done, and the disbelievers will cry, “I wish I were dust.”<sup foot_note=77584>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki Biz, sizi yakın bir azap ile korkutmuş olduk. O gün ki herkes iki elinin ne takdim etmiş olduğuna bakacaktır. Kâfir de, «Ah! Ben keşke, bir toprak olaydım,» diyecektir.",
+        "hayrat_nesriyat": "Şübhesiz ki biz, sizi yakın bir azâb ile korkuttuk. O gün kişi, ellerinin takdîm ettiği şeye (önceden işlediği ameline) bakar ve kâfir: `Ah! Keşke ben toprak olaydım!` der.",
+        "diyanet_vakfi": "Biz, yakın bir azap ile sizi uyardık. O gün kişi önceden yaptıklarına bakacak ve inkârcı kişi: «Keşke toprak olsaydım!» diyecektir."
+      }
+    }
+  ]
+}

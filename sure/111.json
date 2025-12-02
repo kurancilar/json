@@ -1,0 +1,64 @@
+{
+  "verses": [
+    {
+      "id": 6217,
+      "verseNumber": 1,
+      "verseKey": "111:1",
+      "arabic": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "english": "May the hands of Abu Lahab perish, and he ˹himself˺ perish!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ebû Leheb’in iki eli helâk oldu, kendisi de hüsrâna uğradı.",
+        "hayrat_nesriyat": "Ebû Leheb`in iki eli kurusun; kurudu da!",
+        "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      }
+    },
+    {
+      "id": 6218,
+      "verseNumber": 2,
+      "verseKey": "111:2",
+      "arabic": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "english": "Neither his wealth nor ˹worldly˺ gains will benefit him.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ona ne malı bir zenginlik verdi ve ne de kazandığı şey.",
+        "hayrat_nesriyat": "Ona, ne malı fayda verdi ne de kazandığı!",
+        "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      }
+    },
+    {
+      "id": 6219,
+      "verseNumber": 3,
+      "verseKey": "111:3",
+      "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "english": "He will burn in a flaming Fire,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bir alevli ateşe girecektir.",
+        "hayrat_nesriyat": "(O,) alevli bir ateşe girecektir!",
+        "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      }
+    },
+    {
+      "id": 6220,
+      "verseNumber": 4,
+      "verseKey": "111:4",
+      "arabic": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "english": "and ˹so will˺ his wife, the carrier of ˹thorny˺ kindling,<sup foot_note=77643>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Odun yüklenmiş olan karısı da.",
+        "hayrat_nesriyat": "Karısı da! Odun hamalı olarak!",
+        "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      }
+    },
+    {
+      "id": 6221,
+      "verseNumber": 5,
+      "verseKey": "111:5",
+      "arabic": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "english": "around her neck will be a rope of palm-fibre.<sup foot_note=77644>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Boynunda bükülmüş bir ip olduğu halde (ateşe atılacaktır).",
+        "hayrat_nesriyat": "Boynunda bükülmüş bir ip olduğu hâlde!",
+        "diyanet_vakfi": "(1-5) Ebu Leheb’in iki eli kurusun! Kurudu da. Malı ve kazandıkları ona fayda vermedi. O, alevli bir ateşte yanacak. Odun taşıyıcı olarak ve boynunda hurma lifinden bükülmüş bir ip olduğu halde karısı da (ateşe girecek)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "verses": [
+    {
+      "id": 6177,
+      "verseNumber": 1,
+      "verseKey": "103:1",
+      "arabic": " وَٱلْعَصْرِ",
+      "english": "By the ˹passage of˺ time!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Asr’a kasem olsun ki,",
+        "hayrat_nesriyat": "Asr`a yemîn olsun!",
+        "diyanet_vakfi": "(1-3) Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır."
+      }
+    },
+    {
+      "id": 6178,
+      "verseNumber": 2,
+      "verseKey": "103:2",
+      "arabic": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "english": "Surely humanity is in ˹grave˺ loss,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok insan, elbette bir ziyandadır.",
+        "hayrat_nesriyat": "Şübhesiz ki insan, gerçekten hüsrandadır!",
+        "diyanet_vakfi": "(1-3) Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır."
+      }
+    },
+    {
+      "id": 6179,
+      "verseNumber": 3,
+      "verseKey": "103:3",
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "english": "except those who have faith, do good, and urge each other to the truth, and urge each other to perseverance.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ancak o kimseler ki imân ettiler ve sâlih sâlih amellerde bulundular ve birbirlerine hakkı tavsiyede ve sabrı tavsiyede bulundular, onlar müstesna.",
+        "hayrat_nesriyat": "Ancak îmân edip sâlih ameller işleyenler, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler müstesnâdır.",
+        "diyanet_vakfi": "(1-3) Asra yemin ederim ki insan gerçekten ziyan içindedir. Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır."
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "verses": [
+    {
+      "id": 6099,
+      "verseNumber": 1,
+      "verseKey": "95:1",
+      "arabic": "وَٱلتِّينِ وَٱلزَّيْتُونِ",
+      "english": "By the fig and the olive ˹of Jerusalem˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Andolsun tin’e ve zeytûn’e. Ve Sina dağına.",
+        "hayrat_nesriyat": "Yemîn olsun tîn`e (incire) ve zeytine!",
+        "diyanet_vakfi": "(1-5) İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik."
+      }
+    },
+    {
+      "id": 6100,
+      "verseNumber": 2,
+      "verseKey": "95:2",
+      "arabic": "وَطُورِ سِينِينَ",
+      "english": "and Mount Sinai,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Andolsun tin’e ve zeytûn’e. Ve Sina dağına.",
+        "hayrat_nesriyat": "Ve Sînâ dağına!",
+        "diyanet_vakfi": "(1-5) İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik."
+      }
+    },
+    {
+      "id": 6101,
+      "verseNumber": 3,
+      "verseKey": "95:3",
+      "arabic": "وَهَـٰذَا ٱلْبَلَدِ ٱلْأَمِينِ",
+      "english": "and this secure city ˹of Mecca˺!<sup foot_note=77628>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve bu emin olan beldeye.",
+        "hayrat_nesriyat": "Ve bu emîn beldeye (Mekke`ye)!",
+        "diyanet_vakfi": "(1-5) İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik."
+      }
+    },
+    {
+      "id": 6102,
+      "verseNumber": 4,
+      "verseKey": "95:4",
+      "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍ",
+      "english": "Indeed, We created humans in the best form.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhakkak ki, Biz insanı en güzel bir biçimde yarattık.",
+        "hayrat_nesriyat": "Gerçekten (biz) insanı, en güzel bir biçimde yarattık!",
+        "diyanet_vakfi": "(1-5) İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik."
+      }
+    },
+    {
+      "id": 6103,
+      "verseNumber": 5,
+      "verseKey": "95:5",
+      "arabic": "ثُمَّ رَدَدْنَـٰهُ أَسْفَلَ سَـٰفِلِينَ",
+      "english": "But We will reduce them to the lowest of the low ˹in Hell˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sonra da onu aşağıların en aşağısına döndürdük.",
+        "hayrat_nesriyat": "Sonra onu, aşağıların aşağısına çevirdik.",
+        "diyanet_vakfi": "(1-5) İncire, zeytine, Sina dağına ve şu emîn beldeye yemin ederim ki, biz insanı en güzel biçimde yarattık. Sonra onu aşağıların aşağısına indirdik."
+      }
+    },
+    {
+      "id": 6104,
+      "verseNumber": 6,
+      "verseKey": "95:6",
+      "arabic": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "english": "except those who believe and do good—they will have a never-ending reward.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ancak o kimseler ki imân ettiler ve sâlih sâlih amellerde bulundular. Artık onlar için kesilmeyecek bir mükâfaat vardır.",
+        "hayrat_nesriyat": "Ancak îmân edip sâlih ameller işleyenler müstesnâ; artık onlar için, tükenmez bir mükâfât vardır.",
+        "diyanet_vakfi": "Fakat iman edip sâlih amel işleyenler için eksilmeyen devamlı bir ecir vardır."
+      }
+    },
+    {
+      "id": 6105,
+      "verseNumber": 7,
+      "verseKey": "95:7",
+      "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+      "english": "Now, what makes you deny the ˹final˺ Judgment?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O halde seni din hususunda bundan sonra kim tekzîp edebilir?",
+        "hayrat_nesriyat": "O hâlde (ey insan), bundan sonra sana dîni (hesab gününü) yalanlattıran nedir?",
+        "diyanet_vakfi": "Artık bundan sonra, ceza günü konusunda seni kim yalanlayabilir?"
+      }
+    },
+    {
+      "id": 6106,
+      "verseNumber": 8,
+      "verseKey": "95:8",
+      "arabic": "أَلَيْسَ ٱللَّهُ بِأَحْكَمِ ٱلْحَـٰكِمِينَ",
+      "english": "Is Allah not the most just of all judges?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Allah (Teâlâ) hakîmlerin en hakimi değil midir?",
+        "hayrat_nesriyat": "Allah, hükmedenlerin en (iyi) hükmedeni değil midir? (Evet!)",
+        "diyanet_vakfi": "Allah, hüküm verenlerin en üstünü değil midir?"
+      }
+    }
+  ]
+}

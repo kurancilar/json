@@ -1,0 +1,76 @@
+{
+  "verses": [
+    {
+      "id": 6231,
+      "verseNumber": 1,
+      "verseKey": "114:1",
+      "arabic": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "english": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of humankind,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «Nâsın Rabbine sığınırım.»",
+        "hayrat_nesriyat": "De ki: `Nâs`ın (insanların) Rabbine sığınırım!`",
+        "diyanet_vakfi": "(1-6) De ki: İnsanların kalplerine vesvese sokan, (insan Allah’ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!"
+      }
+    },
+    {
+      "id": 6232,
+      "verseNumber": 2,
+      "verseKey": "114:2",
+      "arabic": "مَلِكِ ٱلنَّاسِ",
+      "english": "the Master of humankind,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(2-3) «Nâsın Melik’ine. Nâsın ilâhına (sığınırım).»",
+        "hayrat_nesriyat": "`İnsanların Melik`ine (mutlak sâhib ve sultânına)!`",
+        "diyanet_vakfi": "(1-6) De ki: İnsanların kalplerine vesvese sokan, (insan Allah’ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!"
+      }
+    },
+    {
+      "id": 6233,
+      "verseNumber": 3,
+      "verseKey": "114:3",
+      "arabic": "إِلَـٰهِ ٱلنَّاسِ",
+      "english": "the God of humankind,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(2-3) «Nâsın Melik’ine. Nâsın ilâhına (sığınırım).»",
+        "hayrat_nesriyat": "`İnsanların İlâhına!`",
+        "diyanet_vakfi": "(1-6) De ki: İnsanların kalplerine vesvese sokan, (insan Allah’ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!"
+      }
+    },
+    {
+      "id": 6234,
+      "verseNumber": 4,
+      "verseKey": "114:4",
+      "arabic": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "english": "from the evil of the lurking whisperer—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«O gizlice vesvese verenin şerrinden.»",
+        "hayrat_nesriyat": "`O çok sinsi vesvese verenin şerrinden!`",
+        "diyanet_vakfi": "(1-6) De ki: İnsanların kalplerine vesvese sokan, (insan Allah’ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!"
+      }
+    },
+    {
+      "id": 6235,
+      "verseNumber": 5,
+      "verseKey": "114:5",
+      "arabic": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "english": "who whispers into the hearts of humankind—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«Ki O, nâsın göğüslerinde vesvesede bulunur.»",
+        "hayrat_nesriyat": "`O ki, insanların sînelerinde vesvese verir!`",
+        "diyanet_vakfi": "(1-6) De ki: İnsanların kalplerine vesvese sokan, (insan Allah’ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!"
+      }
+    },
+    {
+      "id": 6236,
+      "verseNumber": 6,
+      "verseKey": "114:6",
+      "arabic": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "english": "from among jinn and humankind.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "«(O vesvese veren) Gerek cinden ve gerek insandan (olsun, hepsinden de Allah’a iltica etmelidir).»",
+        "hayrat_nesriyat": "`Gerek cinlerden, gerekse insanlardan!`",
+        "diyanet_vakfi": "(1-6) De ki: İnsanların kalplerine vesvese sokan, (insan Allah’ı andığında) pusuya çekilen cin ve insan şeytanının şerrinden insanların Rabbine, insanların Melikine (mutlak sahip ve hakimine) insanların İlâhına sığınırım!"
+      }
+    }
+  ]
+}

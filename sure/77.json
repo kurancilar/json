@@ -1,0 +1,604 @@
+{
+  "verses": [
+    {
+      "id": 5623,
+      "verseNumber": 1,
+      "verseKey": "77:1",
+      "arabic": " وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+      "english": "By those ˹winds˺ sent forth successively,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Andolsun, marûf ile gönderilmişlere. Ve pek sür’atle esmekle esenlere.",
+        "hayrat_nesriyat": "Şahit olsun birbiri ardınca gönderilen (bu vahiyler)!",
+        "diyanet_vakfi": "Yemin olsun, (iyiliklerle) birbiri peşinden gönderilenlere;"
+      }
+    },
+    {
+      "id": 5624,
+      "verseNumber": 2,
+      "verseKey": "77:2",
+      "arabic": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+      "english": "and those blowing violently,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Andolsun, marûf ile gönderilmişlere. Ve pek sür’atle esmekle esenlere.",
+        "hayrat_nesriyat": "(1-2) Yemîn olsun (emirlerle) birbiri ardınca gönderilenlere (o mürselât`a) ve şiddetli bir şekilde estikçe esen (geçip giden melek)lere!",
+        "diyanet_vakfi": "Şiddetle eserek (zararlıları) savurup atanlara;"
+      }
+    },
+    {
+      "id": 5625,
+      "verseNumber": 3,
+      "verseKey": "77:3",
+      "arabic": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+      "english": "and those scattering ˹rainclouds˺ widely!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve yaymakla yayıverenlere.",
+        "hayrat_nesriyat": "Yaydıkça yayanlara,",
+        "diyanet_vakfi": "(Hakikat ve hayırları) yaydıkça yayanlara;"
+      }
+    },
+    {
+      "id": 5626,
+      "verseNumber": 4,
+      "verseKey": "77:4",
+      "arabic": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+      "english": "And ˹by˺ those ˹angels˺ fully distinguishing ˹truth from falsehood˺,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sonra ayrılmakla ayıranlara.",
+        "hayrat_nesriyat": "Artık (hak ile bâtılı) ayırdıkça ayıranlara!",
+        "diyanet_vakfi": "(Hak ile batılı) birbirinden iyice ayıranlara;"
+      }
+    },
+    {
+      "id": 5627,
+      "verseNumber": 5,
+      "verseKey": "77:5",
+      "arabic": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+      "english": "and those delivering revelation,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sonra bir öğüt bırakanlara.",
+        "hayrat_nesriyat": "(5-6) Hem (tevbe edenleri) ma`zur kılmak veya (günah işleyenleri) korkutmak için(peygamberlere) zikir (vahiy) bırakanlara!",
+        "diyanet_vakfi": "(5-6) (Allah’a yönelenleri) arıtmak, (kötüleri) sakındırmak için öğüt telkin edenlere;"
+      }
+    },
+    {
+      "id": 5628,
+      "verseNumber": 6,
+      "verseKey": "77:6",
+      "arabic": "عُذْرًا أَوْ نُذْرًا",
+      "english": "ending excuses and giving warnings.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Özür dilemek veya korkutmak için.",
+        "hayrat_nesriyat": "(5-6) Hem (tevbe edenleri) ma`zur kılmak veya (günah işleyenleri) korkutmak için(peygamberlere) zikir (vahiy) bırakanlara!",
+        "diyanet_vakfi": "(5-6) (Allah’a yönelenleri) arıtmak, (kötüleri) sakındırmak için öğüt telkin edenlere;"
+      }
+    },
+    {
+      "id": 5629,
+      "verseNumber": 7,
+      "verseKey": "77:7",
+      "arabic": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "english": "Surely, what you are promised will come to pass.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki vaad olunduğunuz şey, elbette vukû bulacaktır.",
+        "hayrat_nesriyat": "Şübhesiz ki va`d olunup durduğunuz (o kıyâmet) mutlaka vâki` (olacak)tır.",
+        "diyanet_vakfi": "Bilin ki size vadolunan şey gerçekleşecek!"
+      }
+    },
+    {
+      "id": 5630,
+      "verseNumber": 8,
+      "verseKey": "77:8",
+      "arabic": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "english": "So when the stars are put out,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Artık o zaman ki, yıldızların ziyaları gider. Ve o vakit ki, gök yarılır.",
+        "hayrat_nesriyat": "(8-11) Nihâyet yıldızlar söndürüldüğü zaman, gök yarıldığı zaman, dağlar ufalanıp savrulduğu zaman, peygamberlere (ümmetleri hakkında şâhidlik etmeleri için) vakit belirlendiği zaman!",
+        "diyanet_vakfi": "(8-11) Yıldızların ışığı söndürüldüğü, gökkubbe yarıldığı, dağlar ufalanıp savrulduğu ve peygamberlerin (ümmetleri hakkında şahitlik) vakti tayin edildiği zaman (artık kıyamet kopmuştur)."
+      }
+    },
+    {
+      "id": 5631,
+      "verseNumber": 9,
+      "verseKey": "77:9",
+      "arabic": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "english": "and the sky is torn apart,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Artık o zaman ki, yıldızların ziyaları gider. Ve o vakit ki, gök yarılır.",
+        "hayrat_nesriyat": "(8-11) Nihâyet yıldızlar söndürüldüğü zaman, gök yarıldığı zaman, dağlar ufalanıp savrulduğu zaman, peygamberlere (ümmetleri hakkında şâhidlik etmeleri için) vakit belirlendiği zaman!",
+        "diyanet_vakfi": "(8-11) Yıldızların ışığı söndürüldüğü, gökkubbe yarıldığı, dağlar ufalanıp savrulduğu ve peygamberlerin (ümmetleri hakkında şahitlik) vakti tayin edildiği zaman (artık kıyamet kopmuştur)."
+      }
+    },
+    {
+      "id": 5632,
+      "verseNumber": 10,
+      "verseKey": "77:10",
+      "arabic": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "english": "and the mountains are blown away,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve o an ki, dağlar dağılıverir.",
+        "hayrat_nesriyat": "(8-11) Nihâyet yıldızlar söndürüldüğü zaman, gök yarıldığı zaman, dağlar ufalanıp savrulduğu zaman, peygamberlere (ümmetleri hakkında şâhidlik etmeleri için) vakit belirlendiği zaman!",
+        "diyanet_vakfi": "(8-11) Yıldızların ışığı söndürüldüğü, gökkubbe yarıldığı, dağlar ufalanıp savrulduğu ve peygamberlerin (ümmetleri hakkında şahitlik) vakti tayin edildiği zaman (artık kıyamet kopmuştur)."
+      }
+    },
+    {
+      "id": 5633,
+      "verseNumber": 11,
+      "verseKey": "77:11",
+      "arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "english": "and the messengers’ time ˹to testify˺ comes up—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve o zaman ki, peygamberlere mahdut bir müddet verilmiş olur.",
+        "hayrat_nesriyat": "(8-11) Nihâyet yıldızlar söndürüldüğü zaman, gök yarıldığı zaman, dağlar ufalanıp savrulduğu zaman, peygamberlere (ümmetleri hakkında şâhidlik etmeleri için) vakit belirlendiği zaman!",
+        "diyanet_vakfi": "(8-11) Yıldızların ışığı söndürüldüğü, gökkubbe yarıldığı, dağlar ufalanıp savrulduğu ve peygamberlerin (ümmetleri hakkında şahitlik) vakti tayin edildiği zaman (artık kıyamet kopmuştur)."
+      }
+    },
+    {
+      "id": 5634,
+      "verseNumber": 12,
+      "verseKey": "77:12",
+      "arabic": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "english": "for which Day has all this been set?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(12-13) Hangi vakti tâcil olundu? Ayırma gününe (tecil edildi).",
+        "hayrat_nesriyat": "(Denilir ki:) `(Bu şâhidlik) hangi güne ertelendi?`",
+        "diyanet_vakfi": "(Bu alâmetler) hangi vakte ertelenmiştir?"
+      }
+    },
+    {
+      "id": 5635,
+      "verseNumber": 13,
+      "verseKey": "77:13",
+      "arabic": "لِيَوْمِ ٱلْفَصْلِ",
+      "english": "For the Day of ˹Final˺ Decision!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(12-13) Hangi vakti tâcil olundu? Ayırma gününe (tecil edildi).",
+        "hayrat_nesriyat": "(Mahlûkatın arasını) ayırma (hüküm verme) gününe!",
+        "diyanet_vakfi": "Ayırım gününe."
+      }
+    },
+    {
+      "id": 5636,
+      "verseNumber": 14,
+      "verseKey": "77:14",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "english": "And what will make you realize what the Day of Decision is?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O ayırma gününün ne olduğunu sana ne bildirdi?",
+        "hayrat_nesriyat": "O ayırma gününü sana ne bildirdi?",
+        "diyanet_vakfi": "(Resûlüm!) Ayırım gününün ne olduğunu sen nereden bileceksin!"
+      }
+    },
+    {
+      "id": 5637,
+      "verseNumber": 15,
+      "verseKey": "77:15",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(15-16) O gün vay haline yalanlayanların. Evvelkileri helâk etmedik mi?",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün (Peygamber’i ve ahireti) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5638,
+      "verseNumber": 16,
+      "verseKey": "77:16",
+      "arabic": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "english": "Did We not destroy earlier disbelievers?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(15-16) O gün vay haline yalanlayanların. Evvelkileri helâk etmedik mi?",
+        "hayrat_nesriyat": "Biz önceki (kâfir)leri (isyanları sebebiyle) helâk etmedik mi?",
+        "diyanet_vakfi": "Biz, (bunlar gibi inkârcı olan) öncekileri helâk etmedik mi?"
+      }
+    },
+    {
+      "id": 5639,
+      "verseNumber": 17,
+      "verseKey": "77:17",
+      "arabic": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+      "english": "And We will make the later disbelievers follow them.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(17-18) Sonra arkadakilerini onlara tâbi kılarız. İşte günahkârlara böyle yaparız.",
+        "hayrat_nesriyat": "Sonra geridekileri onların peşine takarız.",
+        "diyanet_vakfi": "Sonra arkadakileri de onların ardına takacağız."
+      }
+    },
+    {
+      "id": 5640,
+      "verseNumber": 18,
+      "verseKey": "77:18",
+      "arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "english": "This is how We deal with the wicked.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(17-18) Sonra arkadakilerini onlara tâbi kılarız. İşte günahkârlara böyle yaparız.",
+        "hayrat_nesriyat": "İşte o günahkârlara, böyle yaparız!",
+        "diyanet_vakfi": "İşte biz suçlulara böyle yaparız!"
+      }
+    },
+    {
+      "id": 5641,
+      "verseNumber": 19,
+      "verseKey": "77:19",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O gün vay haline yalanlayanların.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün, (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5642,
+      "verseNumber": 20,
+      "verseKey": "77:20",
+      "arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "english": "Did We not create you from a humble fluid,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sizi bir değersiz sudan yaratmadık mı?",
+        "hayrat_nesriyat": "(Ey insanlar!) Sizi hakir bir sudan yaratmadık mı?",
+        "diyanet_vakfi": "(Ey insanlar!) Biz sizi dayanıksız bir sudan yaratmadık mı?"
+      }
+    },
+    {
+      "id": 5643,
+      "verseNumber": 21,
+      "verseKey": "77:21",
+      "arabic": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "english": "placing it in a secure place",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İmdi onu bir sağlam karargâhta (bulunur) kıldık.",
+        "hayrat_nesriyat": "(21-22) Sonra onu belli bir zamâna kadar sağlam bir yerde (rahimde yerleşik) kıldık.",
+        "diyanet_vakfi": "(21-22) İşte o suyu, belli bir süreye kadar sağlam bir yere yerleştirdik."
+      }
+    },
+    {
+      "id": 5644,
+      "verseNumber": 22,
+      "verseKey": "77:22",
+      "arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "english": "until an appointed time?<sup foot_note=77579>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bir malum müddete kadar.",
+        "hayrat_nesriyat": "(21-22) Sonra onu belli bir zamâna kadar sağlam bir yerde (rahimde yerleşik) kıldık.",
+        "diyanet_vakfi": "(21-22) İşte o suyu, belli bir süreye kadar sağlam bir yere yerleştirdik."
+      }
+    },
+    {
+      "id": 5645,
+      "verseNumber": 23,
+      "verseKey": "77:23",
+      "arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+      "english": "We ˹perfectly˺ ordained ˹its development˺. How excellent are We in doing so!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İşte Biz kâdir olduk, artık ne güzel kâdir olanlarız.",
+        "hayrat_nesriyat": "Artık (bunu) kudretimizle yaptık; işte (biz) ne güzel güç yetirenler(iz)!",
+        "diyanet_vakfi": "Biz buna güç yetirmişizdir. Ve bizim gücümüz ne büyüktür!"
+      }
+    },
+    {
+      "id": 5646,
+      "verseNumber": 24,
+      "verseKey": "77:24",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O gün vay haline yalanlayanların.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5647,
+      "verseNumber": 25,
+      "verseKey": "77:25",
+      "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "english": "Have We not made the earth a lodging",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(25-26) Biz yeri bir toplantı mevzii yapmadık mı? Dirilere ve ölülere.",
+        "hayrat_nesriyat": "(25-26) (Biz,) arzı hayat sâhiblerine de ölülere de bir toplanma yeri yapmadık mı?",
+        "diyanet_vakfi": "(25-26) Biz, yeryüzünü dirilere ve ölülere toplanma yeri yapmadık mı?"
+      }
+    },
+    {
+      "id": 5648,
+      "verseNumber": 26,
+      "verseKey": "77:26",
+      "arabic": "أَحْيَآءً وَأَمْوَٰتًا",
+      "english": "for the living and the dead,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(25-26) Biz yeri bir toplantı mevzii yapmadık mı? Dirilere ve ölülere.",
+        "hayrat_nesriyat": "(25-26) (Biz,) arzı hayat sâhiblerine de ölülere de bir toplanma yeri yapmadık mı?",
+        "diyanet_vakfi": "(25-26) Biz, yeryüzünü dirilere ve ölülere toplanma yeri yapmadık mı?"
+      }
+    },
+    {
+      "id": 5649,
+      "verseNumber": 27,
+      "verseKey": "77:27",
+      "arabic": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+      "english": "and placed upon it towering, firm mountains, and given you fresh water to drink?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve orada yüksek, sabit dağlar kıldık ve size bir tatlı su içirdik.",
+        "hayrat_nesriyat": "Orada yüksek, sâbit dağlar meydana getirmedik mi? Hem size tatlı bir su içirmedik mi?",
+        "diyanet_vakfi": "Yeryüzünde haşmetli dağlar yarattık, sizlere tatlı sular içirdik."
+      }
+    },
+    {
+      "id": 5650,
+      "verseNumber": 28,
+      "verseKey": "77:28",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(28-29) O gün vay haline yalanlayanların. Kendisini yalanladığınız şeye gidiniz.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün, (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5651,
+      "verseNumber": 29,
+      "verseKey": "77:29",
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "english": "˹The disbelievers will be told,˺ “Proceed into that ˹Fire˺ which you used to deny!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(28-29) O gün vay haline yalanlayanların. Kendisini yalanladığınız şeye gidiniz.",
+        "hayrat_nesriyat": "(Ki o gün kâfirlere şöyle denilir:) `Kendisini, yalanlamakta olduğunuz (azâb)a gidin!`",
+        "diyanet_vakfi": "(İnkârcılara o gün şöyle denilir:) yalan sayageldiğiniz azaba doğru gidin!"
+      }
+    },
+    {
+      "id": 5652,
+      "verseNumber": 30,
+      "verseKey": "77:30",
+      "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+      "english": "Proceed into the shade ˹of smoke˺ which rises in three columns,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(30-31) Üç kola ayrılmış olan bir gölgeye gidiniz. Ne gölgelendiricidir ve ne de alevden koruyabilir.",
+        "hayrat_nesriyat": "`(Haydi!) Üç çatallı bir gölgeye (Cehennemin dumanına) gidin!`",
+        "diyanet_vakfi": "(30-31) Üç kola ayrılmış, (ama) ne gölgelendiren ne de alevden koruyan bir gölgeye gidin."
+      }
+    },
+    {
+      "id": 5653,
+      "verseNumber": 31,
+      "verseKey": "77:31",
+      "arabic": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "english": "providing neither coolness nor shelter from the flames.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(30-31) Üç kola ayrılmış olan bir gölgeye gidiniz. Ne gölgelendiricidir ve ne de alevden koruyabilir.",
+        "hayrat_nesriyat": "(O,) ne gölgelendiricidir ne de alevden korur.",
+        "diyanet_vakfi": "(30-31) Üç kola ayrılmış, (ama) ne gölgelendiren ne de alevden koruyan bir gölgeye gidin."
+      }
+    },
+    {
+      "id": 5654,
+      "verseNumber": 32,
+      "verseKey": "77:32",
+      "arabic": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "english": "Indeed, it hurls sparks ˹as big˺ as huge castles,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(32-33) Şüphe yok ki, o köşk gibi kıvılcımlar atar. Sanki o birer sarı erkek develerdir.",
+        "hayrat_nesriyat": "Çünki o (Cehennem), saray gibi (büyük) kıvılcımlar saçar.",
+        "diyanet_vakfi": "O, saray gibi kocaman kıvılcım saçar."
+      }
+    },
+    {
+      "id": 5655,
+      "verseNumber": 33,
+      "verseKey": "77:33",
+      "arabic": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+      "english": "and ˹as dark˺ as black camels.”<sup foot_note=77580>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(32-33) Şüphe yok ki, o köşk gibi kıvılcımlar atar. Sanki o birer sarı erkek develerdir.",
+        "hayrat_nesriyat": "Sanki o (sıçrayan kıvılcımlar, peşpeşe gelen) sarı develer gibidir.",
+        "diyanet_vakfi": "Her bir kıvılcım, sanki birer sarı deve gibidir."
+      }
+    },
+    {
+      "id": 5656,
+      "verseNumber": 34,
+      "verseKey": "77:34",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(34-35) O gün vay haline yalanlayanların. Bu bir gündür ki, konuşamazlar.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün, (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5657,
+      "verseNumber": 35,
+      "verseKey": "77:35",
+      "arabic": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "english": "On that Day they will not ˹be in a position to˺ speak,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(34-35) O gün vay haline yalanlayanların. Bu bir gündür ki, konuşamazlar.",
+        "hayrat_nesriyat": "Bu, (onların artık) konuşamayacakları bir gündür!",
+        "diyanet_vakfi": "Bu, (kâfirlerin) konuşamayacağı bir gündür."
+      }
+    },
+    {
+      "id": 5658,
+      "verseNumber": 36,
+      "verseKey": "77:36",
+      "arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "english": "nor will they be permitted to offer excuses.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve onlar için izin verilmez, itizarda da bulunamazlar.",
+        "hayrat_nesriyat": "Özür dilemelerine izin verilmeyecektir.",
+        "diyanet_vakfi": "Onlara izin de verilmez ki (sözde) mazeretlerini beyan etsinler."
+      }
+    },
+    {
+      "id": 5659,
+      "verseNumber": 37,
+      "verseKey": "77:37",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(37-38) O gün vay haline yalanlayanların. İşte bu, ayırd etme günüdür, sizleri de evvelkileri de toplayıverdik.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün, (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5660,
+      "verseNumber": 38,
+      "verseKey": "77:38",
+      "arabic": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+      "english": "˹They will be told by Allah,˺ “This is the Day of ˹Final˺ Decision: We have gathered you along with earlier disbelievers ˹for punishment˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(37-38) O gün vay haline yalanlayanların. İşte bu, ayırd etme günüdür, sizleri de evvelkileri de toplayıverdik.",
+        "hayrat_nesriyat": "(Onlara şöyle denilir:) `Bu, (hak ile bâtılın) ayırma (hüküm verme) günüdür! Sizi ve (sizden) öncekileri bir araya getirdik.`",
+        "diyanet_vakfi": "(O zaman şöyle denir:) Bu, ayırım günüdür. Sizi ve sizden öncekileri bir araya getirdik."
+      }
+    },
+    {
+      "id": 5661,
+      "verseNumber": 39,
+      "verseKey": "77:39",
+      "arabic": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "english": "So if you have a scheme ˹to save yourselves˺, then use it against Me.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(39-40) Artık sizin için bir hile var ise hemen bana hilede bulunun. O gün vay haline yalanlayanların.",
+        "hayrat_nesriyat": "`Artık (azabdan kurtulmak için) bir tuzağınız varsa, haydi bana tuzak kurun!`",
+        "diyanet_vakfi": "(Azaptan kurtulmanız için) bir hileniz varsa, gösterin bana hilenizi!"
+      }
+    },
+    {
+      "id": 5662,
+      "verseNumber": 40,
+      "verseKey": "77:40",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(39-40) Artık sizin için bir hile var ise hemen bana hilede bulunun. O gün vay haline yalanlayanların.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün, (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5663,
+      "verseNumber": 41,
+      "verseKey": "77:41",
+      "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+      "english": "Indeed, the righteous will be amid ˹cool˺ shade and springs",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki, muttakîler ise gölgelerde ve çeşmelerdedirler.",
+        "hayrat_nesriyat": "(41-42) Şübhesiz ki takvâ sâhibleri (ise, o gün) gölgelerde ve pınar başlarında, canlarının çekmekte olduğu meyveler arasındadırlar.",
+        "diyanet_vakfi": "(41-42) Şüphesiz (o gün) takvâ sahipleri, gölgeliklerde ve pınar başlarında, canlarının çektiğinden çeşit çeşit meyveler arasında olacaklardır."
+      }
+    },
+    {
+      "id": 5664,
+      "verseNumber": 42,
+      "verseKey": "77:42",
+      "arabic": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "english": "and any fruit they desire.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve canlarının istediğinden meyveler (içindedirler).",
+        "hayrat_nesriyat": "(41-42) Şübhesiz ki takvâ sâhibleri (ise, o gün) gölgelerde ve pınar başlarında, canlarının çekmekte olduğu meyveler arasındadırlar.",
+        "diyanet_vakfi": "(41-42) Şüphesiz (o gün) takvâ sahipleri, gölgeliklerde ve pınar başlarında, canlarının çektiğinden çeşit çeşit meyveler arasında olacaklardır."
+      }
+    },
+    {
+      "id": 5665,
+      "verseNumber": 43,
+      "verseKey": "77:43",
+      "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "english": "˹They will be told,˺ “Eat and drink happily for what you used to do.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yeyiniz ve içiniz, afiyet olsun yapar olduğunuz şey sebebiyle.",
+        "hayrat_nesriyat": "“Dünyada işlediklerinizden dolayı afiyetle yiyin için!”",
+        "diyanet_vakfi": "(Kendilerine:) «İşlediklerinizin karşılığı olarak şimdi âfiyetle yeyin için» (denir)."
+      }
+    },
+    {
+      "id": 5666,
+      "verseNumber": 44,
+      "verseKey": "77:44",
+      "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "english": "Surely this is how We reward the good-doers.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki, Biz muhsin olanları işte böyle mükâfaatlandırırız.",
+        "hayrat_nesriyat": "İşte biz, iyilik edenleri böyle mükâfâtlandırırız.",
+        "diyanet_vakfi": "İşte, biz iyilik yapanları böyle mükâfatlandırırız."
+      }
+    },
+    {
+      "id": 5667,
+      "verseNumber": 45,
+      "verseKey": "77:45",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "˹But˺ woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(45-47) O gün vay haline yalanlayanların. Yeyiniz ve menfaatleniniz biraz, muhakkak ki, siz günahkârlarsınız. O gün vay haline yalanlayanların.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün, (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5668,
+      "verseNumber": 46,
+      "verseKey": "77:46",
+      "arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "english": "“Eat and enjoy yourselves for a little while, ˹for˺ you are truly wicked.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(45-47) O gün vay haline yalanlayanların. Yeyiniz ve menfaatleniniz biraz, muhakkak ki, siz günahkârlarsınız. O gün vay haline yalanlayanların.",
+        "hayrat_nesriyat": "(Ey kâfirler! Siz de dünyada) az bir müddet yiyin, faydalanın! Çünki siz günahkârlarsınız.",
+        "diyanet_vakfi": "(Ey inkârcılar!) Yeyiniz, (dünyadan) faydalanınız biraz! Gerçek şu ki, sizler suçlusunuz!"
+      }
+    },
+    {
+      "id": 5669,
+      "verseNumber": 47,
+      "verseKey": "77:47",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(45-47) O gün vay haline yalanlayanların. Yeyiniz ve menfaatleniniz biraz, muhakkak ki, siz günahkârlarsınız. O gün vay haline yalanlayanların.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün, (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5670,
+      "verseNumber": 48,
+      "verseKey": "77:48",
+      "arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "english": "When it is said to them, “Bow down ˹before Allah,” they do not bow.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onlara «Rükû ediniz!» denildiği zaman rükû etmezler.",
+        "hayrat_nesriyat": "Hem onlara: `Rükû` edin!` denildiği zaman, rükû` etmezler.",
+        "diyanet_vakfi": "Onlar, kendilerine: «Allah’ın huzurunda eğilin!» denildiği vakit eğilmezler."
+      }
+    },
+    {
+      "id": 5671,
+      "verseNumber": 49,
+      "verseKey": "77:49",
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "english": "Woe on that Day to the deniers!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O gün vay haline yalanlayanların.",
+        "hayrat_nesriyat": "Yalanlayanların o gün vay hâline!",
+        "diyanet_vakfi": "O gün, (hakikatleri) yalan sayanların vay haline!"
+      }
+    },
+    {
+      "id": 5672,
+      "verseNumber": 50,
+      "verseKey": "77:50",
+      "arabic": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "english": "So what message after this ˹Quran˺ would they believe in?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık bundan sonra hangi bir söze inanıverirler?",
+        "hayrat_nesriyat": "(Onlar) artık bundan (Kur`ân`dan) sonra hangi söze inanacaklar?",
+        "diyanet_vakfi": "Onlar artık bundan (Kur’an’dan) sonra hangi söze inanacaklar."
+      }
+    }
+  ]
+}

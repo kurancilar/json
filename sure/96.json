@@ -1,0 +1,232 @@
+{
+  "verses": [
+    {
+      "id": 6107,
+      "verseNumber": 1,
+      "verseKey": "96:1",
+      "arabic": " ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "english": "Read, ˹O Prophet,˺ in the Name of your Lord Who created—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Oku, Rabbin ismiyle ki, o yaratmıştır. İnsanı bir uyuşmuş kandan yaratmıştır.",
+        "hayrat_nesriyat": "Yaratan Rabbinin ismiyle oku!",
+        "diyanet_vakfi": "(1-2) Yaratan Rabbinin adıyla oku! O, insanı bir aşılanmış yumurtadan yarattı."
+      }
+    },
+    {
+      "id": 6108,
+      "verseNumber": 2,
+      "verseKey": "96:2",
+      "arabic": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+      "english": "created humans from a clinging clot.<sup foot_note=77629>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Oku, Rabbin ismiyle ki, o yaratmıştır. İnsanı bir uyuşmuş kandan yaratmıştır.",
+        "hayrat_nesriyat": "(O,) insanı bir alak`dan yarattı.",
+        "diyanet_vakfi": "(1-2) Yaratan Rabbinin adıyla oku! O, insanı bir aşılanmış yumurtadan yarattı."
+      }
+    },
+    {
+      "id": 6109,
+      "verseNumber": 3,
+      "verseKey": "96:3",
+      "arabic": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "english": "Read! And your Lord is the Most Generous,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Oku, ve Rabbin bînihaye kerem sahibidir.",
+        "hayrat_nesriyat": "Oku! Çünki Rabbin, en büyük kerem sâhibidir.",
+        "diyanet_vakfi": "(3-5) Oku! İnsana bilmediklerini belleten, kalemle (yazmayı) öğreten Rabbin, en büyük kerem sahibidir."
+      }
+    },
+    {
+      "id": 6110,
+      "verseNumber": 4,
+      "verseKey": "96:4",
+      "arabic": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "english": "Who taught by the pen—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ki O, kalem ile öğretmiştir,",
+        "hayrat_nesriyat": "O, kalemle öğretendir.",
+        "diyanet_vakfi": "(3-5) Oku! İnsana bilmediklerini belleten, kalemle (yazmayı) öğreten Rabbin, en büyük kerem sahibidir."
+      }
+    },
+    {
+      "id": 6111,
+      "verseNumber": 5,
+      "verseKey": "96:5",
+      "arabic": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "english": "taught humanity what they knew not.<sup foot_note=77630>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İnsana bilmediği şeyleri bildirmiştir.",
+        "hayrat_nesriyat": "İnsana bilmediği şeyleri öğretti.",
+        "diyanet_vakfi": "(3-5) Oku! İnsana bilmediklerini belleten, kalemle (yazmayı) öğreten Rabbin, en büyük kerem sahibidir."
+      }
+    },
+    {
+      "id": 6112,
+      "verseNumber": 6,
+      "verseKey": "96:6",
+      "arabic": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+      "english": "Most certainly, one exceeds all bounds",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(6-7) Sakın. Şüphe yok ki, insan elbette azar. Kendisini ihtiyaçtan kurtulmuş görünce.",
+        "hayrat_nesriyat": "(6-7) Hayır! Şübhesiz insan, kendisini ihtiyaçtan kurtulmuş görmesinden dolayı gerçekten (isyân ederek) haddini aşar!",
+        "diyanet_vakfi": "(6-8) Gerçek şu ki, insan kendini kendine yeterli görerek azar. Kuşkusuz dönüş Rabbinedir."
+      }
+    },
+    {
+      "id": 6113,
+      "verseNumber": 7,
+      "verseKey": "96:7",
+      "arabic": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "english": "once they think they are self-sufficient.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(6-7) Sakın. Şüphe yok ki, insan elbette azar. Kendisini ihtiyaçtan kurtulmuş görünce.",
+        "hayrat_nesriyat": "(6-7) Hayır! Şübhesiz insan, kendisini ihtiyaçtan kurtulmuş görmesinden dolayı gerçekten (isyân ederek) haddini aşar!",
+        "diyanet_vakfi": "(6-8) Gerçek şu ki, insan kendini kendine yeterli görerek azar. Kuşkusuz dönüş Rabbinedir."
+      }
+    },
+    {
+      "id": 6114,
+      "verseNumber": 8,
+      "verseKey": "96:8",
+      "arabic": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "english": "˹But˺ surely to your Lord is the return ˹of all˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhakkak ki dönüş, ancak Rabbinedir.",
+        "hayrat_nesriyat": "Muhakkak ki dönüş, Rabbinedir.",
+        "diyanet_vakfi": "(6-8) Gerçek şu ki, insan kendini kendine yeterli görerek azar. Kuşkusuz dönüş Rabbinedir."
+      }
+    },
+    {
+      "id": 6115,
+      "verseNumber": 9,
+      "verseKey": "96:9",
+      "arabic": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "english": "Have you seen the man who prevents",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(9-10) O kimseyi gördün mü ki, men ediyordu? Bir kulu namaz kıldığı vakit.",
+        "hayrat_nesriyat": "(9-10) Bir kulu (peygamberi) namaz kılarken men` edeni gördün mü?",
+        "diyanet_vakfi": "(9-10) Namaz kılarken bir kulu (Peygamber’i namazdan) men edeni gördün mü?"
+      }
+    },
+    {
+      "id": 6116,
+      "verseNumber": 10,
+      "verseKey": "96:10",
+      "arabic": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "english": "a servant ˹of Ours˺ from praying?<sup foot_note=77631>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(9-10) O kimseyi gördün mü ki, men ediyordu? Bir kulu namaz kıldığı vakit.",
+        "hayrat_nesriyat": "(9-10) Bir kulu (peygamberi) namaz kılarken men` edeni gördün mü?",
+        "diyanet_vakfi": "(9-10) Namaz kılarken bir kulu (Peygamber’i namazdan) men edeni gördün mü?"
+      }
+    },
+    {
+      "id": 6117,
+      "verseNumber": 11,
+      "verseKey": "96:11",
+      "arabic": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "english": "What if this ˹servant˺ is ˹rightly˺ guided,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Gördün mü, eğer hidâyet üzere olmuş ise.",
+        "hayrat_nesriyat": "(11-12) Gördün mü, ya (o kul) hidâyet üzere ise veya (günahlardan) sakınmayı(takvâyı) emrediyorsa?",
+        "diyanet_vakfi": "(11-12) Ne dersin, o (Peygamber) doğru yolda ise yahut takvâyı emrediyorsa?"
+      }
+    },
+    {
+      "id": 6118,
+      "verseNumber": 12,
+      "verseKey": "96:12",
+      "arabic": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "english": "or encourages righteousness?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Veya takvâ ile emretmiş ise. (Artık, o menedilir mi?)",
+        "hayrat_nesriyat": "(11-12) Gördün mü, ya (o kul) hidâyet üzere ise veya (günahlardan) sakınmayı(takvâyı) emrediyorsa?",
+        "diyanet_vakfi": "(11-12) Ne dersin, o (Peygamber) doğru yolda ise yahut takvâyı emrediyorsa?"
+      }
+    },
+    {
+      "id": 6119,
+      "verseNumber": 13,
+      "verseKey": "96:13",
+      "arabic": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "english": "What if that ˹man˺ persists in denial and turns away?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Gördün mü, eğer tekzîp eder ve yüz çevirirse (iyi mi yapmış olur?)",
+        "hayrat_nesriyat": "Gördün mü, ya (bu men` eden, hakkı) yalanladı ve (ondan) yüz çevirdi ise?",
+        "diyanet_vakfi": "Ne dersin o (men eden, Peygamber’i) yalanlıyor ve doğru yoldan yüz çeviriyorsa?"
+      }
+    },
+    {
+      "id": 6120,
+      "verseNumber": 14,
+      "verseKey": "96:14",
+      "arabic": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "english": "Does he not know that Allah sees ˹all˺?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bilmez mi ki Allah Teâlâ şüphe yok görür.",
+        "hayrat_nesriyat": "Bilmedi mi ki, gerçekten Allah (onun yaptıklarını ve herşeyi) görür!",
+        "diyanet_vakfi": "(Bu adam) Allah’ın, (yaptıklarını) gördüğünü bilmez mi!"
+      }
+    },
+    {
+      "id": 6121,
+      "verseNumber": 15,
+      "verseKey": "96:15",
+      "arabic": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "english": "But no! If he does not desist, We will certainly drag him by the forelock—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yok, yok... Eğer nihâyet vermezse, elbette ki Biz o alnı sürükleyeceğizdir.",
+        "hayrat_nesriyat": "Hayır! Celâlim hakkı için, eğer (bundan) vazgeçmezse, elbette o perçem(in)den tutup (onu Cehenneme) sürükleriz!",
+        "diyanet_vakfi": "(15-19) Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah’a secde et ve (yalnızca O’na) yaklaş!"
+      }
+    },
+    {
+      "id": 6122,
+      "verseNumber": 16,
+      "verseKey": "96:16",
+      "arabic": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+      "english": "a lying, sinful forelock.<sup foot_note=77632>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yalancı, günahkâr olan bir alnı.",
+        "hayrat_nesriyat": "(O) yalancı, günahkâr perçemden!",
+        "diyanet_vakfi": "(15-19) Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah’a secde et ve (yalnızca O’na) yaklaş!"
+      }
+    },
+    {
+      "id": 6123,
+      "verseNumber": 17,
+      "verseKey": "96:17",
+      "arabic": "فَلْيَدْعُ نَادِيَهُۥ",
+      "english": "So let him call his associates.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık, o, encümeni çağırsın.",
+        "hayrat_nesriyat": "O zaman çağırsın (bakalım) meclisini!",
+        "diyanet_vakfi": "(15-19) Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah’a secde et ve (yalnızca O’na) yaklaş!"
+      }
+    },
+    {
+      "id": 6124,
+      "verseNumber": 18,
+      "verseKey": "96:18",
+      "arabic": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "english": "We will call the wardens of Hell.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Biz de çağıracağızdır zebanîleri.",
+        "hayrat_nesriyat": "(Artık kendisini Cehenneme atmak üzere) zebânîleri çağıracağız!",
+        "diyanet_vakfi": "(15-19) Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah’a secde et ve (yalnızca O’na) yaklaş!"
+      }
+    },
+    {
+      "id": 6125,
+      "verseNumber": 19,
+      "verseKey": "96:19",
+      "arabic": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "english": "Again, no! Never obey him ˹O Prophet˺! Rather, ˹continue to˺ prostrate and draw near ˹to Allah˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Hayır hayır. Ona itaat etme. Ve secde et ve Yaklaş.",
+        "hayrat_nesriyat": "Hayır! Ona itâat etme! Böylece secde (ve namazına devâm) et ve (Rabbine)yaklaş!",
+        "diyanet_vakfi": "(15-19) Hayır, hayır! Eğer vazgeçmezse, derhal onu alnından (perçeminden), o yalancı, günahkâr alından (perçemden) yakalarız (cehenneme atarız). O, hemen gidip meclisini (kendi taraftarlarını) çağırsın. Biz de zebânîleri çağıracağız. Hayır! Ona uyma! Allah’a secde et ve (yalnızca O’na) yaklaş!"
+      }
+    }
+  ]
+}

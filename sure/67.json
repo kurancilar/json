@@ -1,0 +1,364 @@
+{
+  "verses": [
+    {
+      "id": 5242,
+      "verseNumber": 1,
+      "verseKey": "67:1",
+      "arabic": " تَبَـٰرَكَ ٱلَّذِى بِيَدِهِ ٱلْمُلْكُ وَهُوَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "english": "Blessed is the One in Whose Hands rests all authority. And He is Most Capable of everything.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bütün mülk elinde yed-i kudretinde (olan) Allah Teâlâ pek yücedir. Ve o her şey üzerine hakkıyla kâdirdir.",
+        "hayrat_nesriyat": "(Bütün) mülk (ve hâkimiyet) elinde (tasarrufunda) olan (Allah) ne yücedir! Ve O, herşeye hakkıyla gücü yetendir.",
+        "diyanet_vakfi": "Mutlak hükümranlık elinde olan Allah, yüceler yücesidir ve O’nun her şeye gücü yeter."
+      }
+    },
+    {
+      "id": 5243,
+      "verseNumber": 2,
+      "verseKey": "67:2",
+      "arabic": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+      "english": "˹He is the One˺ Who created death and life in order to test which of you is best in deeds. And He is the Almighty, All-Forgiving.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O ki, ölümü ve hayatı yarattı, hanginizin amelce daha güzel olduğunuzu imtihan için ve o, bihakkın galiptir, çok yarlığayandır.",
+        "hayrat_nesriyat": "O ki, hanginiz amelce daha güzeldir diye sizi imtihân etmek için ölümü ve hayâtı yarattı. Ve O, Azîz (kudreti dâimâ üstün gelen)dir, Gafûr (çok mağfiret eden)dir.",
+        "diyanet_vakfi": "O ki, hanginizin daha güzel davranacağını sınamak için ölümü ve hayatı yaratmıştır. O, mutlak galiptir, çok bağışlayıcıdır."
+      }
+    },
+    {
+      "id": 5244,
+      "verseNumber": 3,
+      "verseKey": "67:3",
+      "arabic": "ٱلَّذِى خَلَقَ سَبْعَ سَمَـٰوَٰتٍ طِبَاقًا ۖ مَّا تَرَىٰ فِى خَلْقِ ٱلرَّحْمَـٰنِ مِن تَفَـٰوُتٍ ۖ فَٱرْجِعِ ٱلْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ",
+      "english": "˹He is the One˺ Who created seven heavens, one above the other. You will never see any imperfection in the creation of the Most Compassionate.<sup foot_note=77529>1</sup> So look again: do you see any flaws?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O’dur ki, yedi göğü tabaka tabaka olarak yarattı, o Rahmân’ın yaratmasında hiçbir uygunsuzluk göremezsin, imdi gözünü çevir (bak), hiçbir çatlak görebilir misin?",
+        "hayrat_nesriyat": "O ki, yedi göğü tabaka tabaka (birbiriyle âhenkli) olarak yarattı. Rahmân (olan Allah)`ın yarattığında hiçbir düzensizlik göremezsin! Haydi gözü(nü) çevir (de bir bak), hiçbir çatlak görecek misin?",
+        "diyanet_vakfi": "O ki, birbiri ile âhenktar yedi göğü yaratmıştır. Rahmân olan Allah’ın yaratışında hiçbir uygunsuzluk göremezsin. Gözünü çevir de bir bak, bir bozukluk görebiliyor musun?"
+      }
+    },
+    {
+      "id": 5245,
+      "verseNumber": 4,
+      "verseKey": "67:4",
+      "arabic": "ثُمَّ ٱرْجِعِ ٱلْبَصَرَ كَرَّتَيْنِ يَنقَلِبْ إِلَيْكَ ٱلْبَصَرُ خَاسِئًا وَهُوَ حَسِيرٌ",
+      "english": "Then look again and again—your sight will return frustrated and weary.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sonra gözünü iki def’a daha çevir, o göz sana yorgun bir halde olarak zelilâne bir sûrette geri dönmüş olsun.",
+        "hayrat_nesriyat": "Sonra gözü(nü) tekrar tekrar çevir (ve yine bak); o göz (aradığı kusûru bulamadan)zelil ve bitkin bir hâlde sana dönecektir!",
+        "diyanet_vakfi": "Sonra gözünü, tekrar tekrar çevir bak; göz (aradığı bozukluğu bulmaktan) âciz ve bitkin halde sana dönecektir."
+      }
+    },
+    {
+      "id": 5246,
+      "verseNumber": 5,
+      "verseKey": "67:5",
+      "arabic": "وَلَقَدْ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنْيَا بِمَصَـٰبِيحَ وَجَعَلْنَـٰهَا رُجُومًا لِّلشَّيَـٰطِينِ ۖ وَأَعْتَدْنَا لَهُمْ عَذَابَ ٱلسَّعِيرِ",
+      "english": "And indeed, We adorned the lowest heaven with ˹stars like˺ lamps, and made them ˹as missiles˺ for stoning ˹eavesdropping˺ devils, for whom We have also prepared the torment of the Blaze.<sup foot_note=77530>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Andolsun ki en yakın olan göğü kandiller ile bezedik ve onları şeytanlar için atılacak şeyler kıldık ve bunlar için alevli ateş azabı hazırladık.",
+        "hayrat_nesriyat": "And olsun ki, dünya semâsını kandillerle süsledik ve onları (kulak hırsızlığı yapan)şeytanlar için (atılacak) taşlar yaptık ve onlara alevli ateş azâbını hazırladık!",
+        "diyanet_vakfi": "Andolsun ki biz, (dünyaya) en yakın olan göğü kandillerle donattık. Bunları şeytanlara atış taneleri yaptık ve onlara alevli ateş azabını hazırladık."
+      }
+    },
+    {
+      "id": 5247,
+      "verseNumber": 6,
+      "verseKey": "67:6",
+      "arabic": "وَلِلَّذِينَ كَفَرُوا۟ بِرَبِّهِمْ عَذَابُ جَهَنَّمَ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "english": "Those who disbelieve in their Lord will suffer the punishment of Hell. What an evil destination!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve Rablerini inkar etmiş olanlar için cehennem azabı vardır. Ve ne fenâ dönüş yeri.",
+        "hayrat_nesriyat": "Rablerini inkâr edenler için de Cehennem azâbı vardır. O ne kötü varılacak yerdir!",
+        "diyanet_vakfi": "Rablerini inkâr edenler için cehennem azabı vardır. O, ne kötü dönüştür!"
+      }
+    },
+    {
+      "id": 5248,
+      "verseNumber": 7,
+      "verseKey": "67:7",
+      "arabic": "إِذَآ أُلْقُوا۟ فِيهَا سَمِعُوا۟ لَهَا شَهِيقًا وَهِىَ تَفُورُ",
+      "english": "When they are tossed into it, they will hear its roaring as it boils over,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Oraya atıldıkları zaman onun için bir hıçkırık işitmiş olurlar ve o, kaynar bir haldedir.",
+        "hayrat_nesriyat": "Oraya atıldıkları zaman, onun şiddetli homurdanmasını işitirler; çünki o kaynıyordur!",
+        "diyanet_vakfi": "Oraya atıldıklarında, onun kaynarken çıkardığı uğultuyu işitirler."
+      }
+    },
+    {
+      "id": 5249,
+      "verseNumber": 8,
+      "verseKey": "67:8",
+      "arabic": "تَكَادُ تَمَيَّزُ مِنَ ٱلْغَيْظِ ۖ كُلَّمَآ أُلْقِىَ فِيهَا فَوْجٌ سَأَلَهُمْ خَزَنَتُهَآ أَلَمْ يَأْتِكُمْ نَذِيرٌ",
+      "english": "almost bursting in fury. Every time a group is cast into it, its keepers will ask them, “Did a warner not come to you?”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Az kalır ki, (cehennem) öfkesinden dolayı parçalansın, her ne vakit, içine bir tâife atılınca onlara cehennem bekçileri sormuş olurlar ki: «Sizlere bir korkutucu (Peygamber) gelmedi mi?» Derler ki: «Evet.. Muhakkak ki bize bir korkutucu (peygamber) geldi, fakat biz tekzîp ettik ve dedik ki: «Allah bir şey indirmemiştir.» «Siz başka değil, ancak büyük bir sapıklık içindesiniz.»",
+        "hayrat_nesriyat": "Nerede ise öfkeden çatlayacak! Ne zaman oraya bir topluluk atılsa, (Cehennemin)bekçileri onlara: `Size (bu azâbı haber veren) bir korkutucu gelmedi mi?` diye sorar.",
+        "diyanet_vakfi": "Neredeyse cehennem öfkesinden çatlayacak! Her ne zaman oraya bir topluluk atılsa, onun bekçileri onlara: Size, (bu azap ile) korkutucu bir peygamber gelmemiş miydi? diye sorarlar."
+      }
+    },
+    {
+      "id": 5250,
+      "verseNumber": 9,
+      "verseKey": "67:9",
+      "arabic": "قَالُوا۟ بَلَىٰ قَدْ جَآءَنَا نَذِيرٌ فَكَذَّبْنَا وَقُلْنَا مَا نَزَّلَ ٱللَّهُ مِن شَىْءٍ إِنْ أَنتُمْ إِلَّا فِى ضَلَـٰلٍ كَبِيرٍ",
+      "english": "They will reply, “Yes, a warner did come to us, but we denied and said, ‘Allah has revealed nothing. You are extremely astray.’”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Az kalır ki, (cehennem) öfkesinden dolayı parçalansın, her ne vakit, içine bir tâife atılınca onlara cehennem bekçileri sormuş olurlar ki: «Sizlere bir korkutucu (Peygamber) gelmedi mi?» Derler ki: «Evet.. Muhakkak ki bize bir korkutucu (peygamber) geldi, fakat biz tekzîp ettik ve dedik ki: «Allah bir şey indirmemiştir.» «Siz başka değil, ancak büyük bir sapıklık içindesiniz.»",
+        "hayrat_nesriyat": "(Onlar) derler ki: `Evet! Gerçekten bize bir korkutucu geldi, fakat biz yalanladık ve(onlara): `Allah hiçbir şey indirmemiştir; siz ancak büyük bir dalâlet içindesiniz!` dedik.`",
+        "diyanet_vakfi": "Onlar şöyle cevap verirler: Evet, doğrusu bize, (bu azap ile) korkutan bir peygamber gelmişti; fakat biz (onu) yalan saymış ve: Allah’ın bir şey gönderdiği yok; siz olsa olsa büyük bir sapıklık içindesiniz! demiştik."
+      }
+    },
+    {
+      "id": 5251,
+      "verseNumber": 10,
+      "verseKey": "67:10",
+      "arabic": "وَقَالُوا۟ لَوْ كُنَّا نَسْمَعُ أَوْ نَعْقِلُ مَا كُنَّا فِىٓ أَصْحَـٰبِ ٱلسَّعِيرِ",
+      "english": "And they will lament, “If only we had listened and reasoned, we would not be among the residents of the Blaze!”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-11) Ve diyeceklerdir ki: «Eğer biz işitir olsa idik veya akilâne düşünse idik, biz bu çılgın cehennemin yârânı arasında bulunmuş olmaz idik.» İşte günahlarını itiraf etmiş olurlar. Artık o çılgın cehennem yârânı için (rahmet-i ilâhîyeden) bir uzaklık olsun.",
+        "hayrat_nesriyat": "Ve derler ki: `Eğer (biz) işitir veya akıl eder olsaydık, bu alevli ateş ashâbı arasında bulunmazdık!`",
+        "diyanet_vakfi": "Ve: Şayet kulak vermiş veya aklımızı kullanmış olsaydık, (şimdi) şu alevli cehennemin mahkûmları arasında olmazdık! diye ilâve ederler."
+      }
+    },
+    {
+      "id": 5252,
+      "verseNumber": 11,
+      "verseKey": "67:11",
+      "arabic": "فَٱعْتَرَفُوا۟ بِذَنۢبِهِمْ فَسُحْقًا لِّأَصْحَـٰبِ ٱلسَّعِيرِ",
+      "english": "And so they will confess their sins. So away with the residents of the Blaze!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-11) Ve diyeceklerdir ki: «Eğer biz işitir olsa idik veya akilâne düşünse idik, biz bu çılgın cehennemin yârânı arasında bulunmuş olmaz idik.» İşte günahlarını itiraf etmiş olurlar. Artık o çılgın cehennem yârânı için (rahmet-i ilâhîyeden) bir uzaklık olsun.",
+        "hayrat_nesriyat": "Böylece günahlarını i`tirâf ettiler. Öyleyse o Cehennemlikler (Allah`ın rahmetinden)uzak olsun!",
+        "diyanet_vakfi": "Böylece günahlarını itiraf ederler. Artık (Allah’ın rahmetinden) uzak olsun, o alevli cehennemin mahkûmları!"
+      }
+    },
+    {
+      "id": 5253,
+      "verseNumber": 12,
+      "verseKey": "67:12",
+      "arabic": "إِنَّ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+      "english": "Indeed, those in awe of their Lord without seeing Him<sup foot_note=77531>1</sup> will have forgiveness and a mighty reward.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok, o kimseler ki Rablerinden gıyaben korkarlar, onlar için bir mağfiret ve büyük bir mükâfaat vardır.",
+        "hayrat_nesriyat": "Şübhesiz ki görmeden Rablerinden korkanlara gelince, onlar için bir mağfiret ve büyük bir mükâfât vardır.",
+        "diyanet_vakfi": "Fakat daha görmeden Rablerinden (azabından) korkanlara gelince, onlar için gerçekten hem bağışlanma hem de büyük mükâfat vardır."
+      }
+    },
+    {
+      "id": 5254,
+      "verseNumber": 13,
+      "verseKey": "67:13",
+      "arabic": "وَأَسِرُّوا۟ قَوْلَكُمْ أَوِ ٱجْهَرُوا۟ بِهِۦٓ ۖ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+      "english": "Whether you speak secretly or openly—He surely knows best what is ˹hidden˺ in the heart.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Lakırdınızı gizleyiniz veya onu açıklayınız, şüphe yok ki O, (Hâlık-ı Azîm) gönüllerde olanı hakkıyla bilendir.",
+        "hayrat_nesriyat": "Sözünüzü (ister) gizleyin veya (ister) onu açıklayın (fark etmez)! Çünki O (Allah), sînelerin içinde olanı hakkıyla bilendir.",
+        "diyanet_vakfi": "Sözünüzü ister gizleyin, ister açığa vurun; bilin ki O, kalplerin içindekini bilmektedir."
+      }
+    },
+    {
+      "id": 5255,
+      "verseNumber": 14,
+      "verseKey": "67:14",
+      "arabic": "أَلَا يَعْلَمُ مَنْ خَلَقَ وَهُوَ ٱللَّطِيفُ ٱلْخَبِيرُ",
+      "english": "How could He not know His Own creation? For He ˹alone˺ is the Most Subtle, All-Aware.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yaratmış olan zât bilmez mi? Latîf, habîr olan O’dur.",
+        "hayrat_nesriyat": "(Hiç) yaratan bilmez mi? Çünki O, Latîf (kalblerdeki bütün incelikleri bilen)dir, Habîr (onlardan haberdâr olan)dır.",
+        "diyanet_vakfi": "Hiç yaratan bilmez mi? O, en ince işleri görüp bilmektedir ve her şeyden haberdardır."
+      }
+    },
+    {
+      "id": 5256,
+      "verseNumber": 15,
+      "verseKey": "67:15",
+      "arabic": "هُوَ ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ ذَلُولًا فَٱمْشُوا۟ فِى مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزْقِهِۦ ۖ وَإِلَيْهِ ٱلنُّشُورُ",
+      "english": "He is the One Who smoothed out the earth for you, so move about in its regions and eat from His provisions. And to Him is the resurrection ˹of all˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O, O’dur ki, sizin için yeri münkat kıldı, artık onun (yeryüzünün) omuzlarında yürüyün ve rızkından yeyin ve dönüş de O’nadır.",
+        "hayrat_nesriyat": "O, yeri sizin için itâatkâr kılandır; artık onun omuzlarında (yeryüzünde) yürüyün ve(Allah`ın) rızkından yiyin! Dönüş ise, ancak O`nadır.",
+        "diyanet_vakfi": "Yeryüzünü size boyun eğdiren O’dur. Şu halde yerin omuzlarında (üzerinde) dolaşın ve Allah’ın rızkından yeyin. Dönüş ancak O’nadır."
+      }
+    },
+    {
+      "id": 5257,
+      "verseNumber": 16,
+      "verseKey": "67:16",
+      "arabic": "ءَأَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يَخْسِفَ بِكُمُ ٱلْأَرْضَ فَإِذَا هِىَ تَمُورُ",
+      "english": "Do you feel secure that the One Who is in heaven will not cause the earth to swallow you up as it quakes violently?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Emin mi oldunuz, gökte olanın sizi yerin dibine geçirivermesinden? O vakit o yer, çalkanıverir.",
+        "hayrat_nesriyat": "Gökte olanın (kâinâtın tedbir ve idâresine vekil kılınan meleklerin) sizi yere batırmasından emin mi oldunuz? Bir de bakarsınız ki o (yer) sarsılıyordur!",
+        "diyanet_vakfi": "Gökte olanın, sizi yere batırıvermeyeceğinden emin misiniz? O zaman yer sarsıldıkça sarsılır."
+      }
+    },
+    {
+      "id": 5258,
+      "verseNumber": 17,
+      "verseKey": "67:17",
+      "arabic": "أَمْ أَمِنتُم مَّن فِى ٱلسَّمَآءِ أَن يُرْسِلَ عَلَيْكُمْ حَاصِبًا ۖ فَسَتَعْلَمُونَ كَيْفَ نَذِيرِ",
+      "english": "Or do you feel secure that the One Who is in heaven will not unleash upon you a storm of stones. Only then would you know how ˹serious˺ My warning was!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Emin mi oldunuz o gökte olanın üzerinize taş yağdıran bir rüzgar göndermesinden? Artık yakında bileceksiniz ki korkutmam nasıldır?",
+        "hayrat_nesriyat": "Yoksa gökte olan (o melekler)in (Allah`ın emri ile), üzerinize (taş yağdıran) bir rüzgâr göndermesinden emin mi oldunuz? Artık yakında benim tehdîdimin nasıl olduğunu bileceksiniz!",
+        "diyanet_vakfi": "Yahut gökte olanın üzerinize taş yağdıran (bir fırtına) göndermeyeceğinden emin misiniz? İşte (bu) tehdidimin ne demek olduğunu yakında bileceksiniz!"
+      }
+    },
+    {
+      "id": 5259,
+      "verseNumber": 18,
+      "verseKey": "67:18",
+      "arabic": "وَلَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ فَكَيْفَ كَانَ نَكِيرِ",
+      "english": "And certainly those before them denied ˹as well˺, then how severe was My response!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhakkak ki, onlardan evvelkiler tekzîp etmişlerdi. Artık nasıl oldu inkârım?",
+        "hayrat_nesriyat": "And olsun ki, onlardan (o müşriklerden) öncekiler de yalanlamıştı; fakat benim (de o inkâr edenleri) inkârım, (onlara olan azâbım) nasıl oldu (gördüler)!",
+        "diyanet_vakfi": "Andolsun ki, onlardan öncekiler de (bunu) yalan saymışlardı; ama benim karşılık olarak verdiğim azap nasıl olmuştu!"
+      }
+    },
+    {
+      "id": 5260,
+      "verseNumber": 19,
+      "verseKey": "67:19",
+      "arabic": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَـٰٓفَّـٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَـٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
+      "english": "Have they not seen the birds above them, spreading and folding their wings? None holds them up except the Most Compassionate. Indeed, He is All-Seeing of everything.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Üstlerinde olan kuşlara bakmazlar mı ki, kanatlarını açarlar ve kapayıverirler. Onları Rahmân’dan başkası tutuvermez. Şüphe yok ki o, her bir şeyi görücüdür.",
+        "hayrat_nesriyat": "Üzerlerinde (kanatlarını) açan ve kapatıveren o kuşları görmediler mi? Onları(havada) Rahmân`dan başkası tutmuyor. Şübhesiz ki O, herşeyi hakkıyla görendir.",
+        "diyanet_vakfi": "Üstlerinde kanatlarını aça kapata uçan kuşları (hiç) görmediler mi? Onları (havada) rahmân olan Allah’tan başkası tutmuyor. Şüphesiz O her şeyi görmektedir."
+      }
+    },
+    {
+      "id": 5261,
+      "verseNumber": 20,
+      "verseKey": "67:20",
+      "arabic": "أَمَّنْ هَـٰذَا ٱلَّذِى هُوَ جُندٌ لَّكُمْ يَنصُرُكُم مِّن دُونِ ٱلرَّحْمَـٰنِ ۚ إِنِ ٱلْكَـٰفِرُونَ إِلَّا فِى غُرُورٍ",
+      "english": "Also, which ˹powerless˺ force will come to your help instead of the Most Compassionate? Indeed, the disbelievers are only ˹lost˺ in delusion.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yoksa sizin için kimdir o Rahmân’ın berisinde size yardım edecek ordunuz? Kâfirler ise ancak bir gurur içindedirler.",
+        "hayrat_nesriyat": "Yâhut Rahmân`dan başka size yardım (edip azâbını sizden def`) edecek şu ordunuz kimdir? O kâfirler ancak bir aldanma içindedirler.",
+        "diyanet_vakfi": "Rahmân olan Allah’a karşı şu size yardım edecek askerleriniz hani kimlerdir? İnkârcılar ancak derin bir gaflet içinde bulunmaktadırlar."
+      }
+    },
+    {
+      "id": 5262,
+      "verseNumber": 21,
+      "verseKey": "67:21",
+      "arabic": "أَمَّنْ هَـٰذَا ٱلَّذِى يَرْزُقُكُمْ إِنْ أَمْسَكَ رِزْقَهُۥ ۚ بَل لَّجُّوا۟ فِى عُتُوٍّ وَنُفُورٍ",
+      "english": "Or who is it that will provide for you if He withholds His provision? In fact, they persist in arrogance and aversion ˹to the truth˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Eğer sizin rızkınızı kesmiş olursa, sizi merzûk edecek olan kimse kimdir? Hayır. Onlar bir böbürlenme ve bir kaçınma içinde devam eder dururlar.",
+        "hayrat_nesriyat": "Yâhut (Allah, size verdiği) rızkını tutsa (kesiverse), şu size rızık verecek olan kimdir? Hayır! (Onlar) isyan ve nefrette ısrâr etmişlerdir.",
+        "diyanet_vakfi": "Allah size verdiği rızkı kesiverse, size rızık verebilecek olan kimdir? Hayır, onlar azgınlık ve nefrette direnip durmaktadırlar."
+      }
+    },
+    {
+      "id": 5263,
+      "verseNumber": 22,
+      "verseKey": "67:22",
+      "arabic": "أَفَمَن يَمْشِى مُكِبًّا عَلَىٰ وَجْهِهِۦٓ أَهْدَىٰٓ أَمَّن يَمْشِى سَوِيًّا عَلَىٰ صِرَٰطٍ مُّسْتَقِيمٍ",
+      "english": "Who is ˹rightly˺ guided: the one who crawls facedown or the one who walks upright on the Straight Path?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İmdi yüzü üzerine kapanarak yürüyen mi daha çok hidâyete erendir, yoksa dosdoğru bir yol üzerinde dimdik yürüyen kimse mi?",
+        "hayrat_nesriyat": "Şimdi, yüz üstü kapanarak yürüyen (sürünen) mi daha doğru giden kimsedir, yoksa dosdoğru bir yolda dimdik (ve dümdüz) yürüyen mi?",
+        "diyanet_vakfi": "Şimdi (düşünün bakalım), yüz üstü kapanarak yürüyen mi (varılacak) yere daha iyi erişir, yoksa doğru yolda düzgün yürüyen mi?"
+      }
+    },
+    {
+      "id": 5264,
+      "verseNumber": 23,
+      "verseKey": "67:23",
+      "arabic": "قُلْ هُوَ ٱلَّذِىٓ أَنشَأَكُمْ وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۖ قَلِيلًا مَّا تَشْكُرُونَ",
+      "english": "Say, ˹O Prophet,˺ “He is the One Who brought you into being and gave you hearing, sight, and intellect. ˹Yet˺ you hardly give any thanks.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «O, o zâttır ki, sizi yarattı ve sizin için kulak ve gözler ve gönüller var kıldı. Pek az şükrediverirsiniz.»",
+        "hayrat_nesriyat": "(Ey Resûlüm!) De ki: `Sizi yaratan ve size kulak(lar), gözler ve kalbler veren O`dur. Ne kadar az şükrediyorsunuz!`",
+        "diyanet_vakfi": "(Resûlüm!) De ki: Sizi yaratan, size işitme duyusu, gözler ve kalpler veren O’dur. Ne az şükrediyorsunuz!"
+      }
+    },
+    {
+      "id": 5265,
+      "verseNumber": 24,
+      "verseKey": "67:24",
+      "arabic": "قُلْ هُوَ ٱلَّذِى ذَرَأَكُمْ فِى ٱلْأَرْضِ وَإِلَيْهِ تُحْشَرُونَ",
+      "english": "˹Also˺ say, “He is the One Who has dispersed you ˹all˺ over the earth, and to Him you will ˹all˺ be gathered.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «O, o (Zât)dır ki, sizi yeryüzünde (yaratıp) yaydı ve O’na toplanacaksınız.»",
+        "hayrat_nesriyat": "De ki: `Sizi yeryüzünde (yaratıp) yayan O`dur ve ancak O`nun huzûruna toplanacaksınız!`",
+        "diyanet_vakfi": "De ki: Sizi yeryüzünde çoğaltıp yayan O’dur; ancak O’nun huzuruna gelip toplanacaksınız."
+      }
+    },
+    {
+      "id": 5266,
+      "verseNumber": 25,
+      "verseKey": "67:25",
+      "arabic": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+      "english": "˹Still˺ they ask ˹the believers˺, “When will this threat come to pass, if what you say is true?”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve derler ki: «Şu vaadedilen, ne zamandır, eğer sâdıklar oldu iseniz?»",
+        "hayrat_nesriyat": "Hâlbuki (onlar:) `Eğer (iddiânızda) doğru kimseler iseniz, bu va`d (edilen kıyâmet ve haşir) ne zaman?` diyorlar.",
+        "diyanet_vakfi": "«Doğru sözlü iseniz (söyleyin), bu tehdit hani ne zaman (gerçekleşecek)?» derler."
+      }
+    },
+    {
+      "id": 5267,
+      "verseNumber": 26,
+      "verseKey": "67:26",
+      "arabic": "قُلْ إِنَّمَا ٱلْعِلْمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+      "english": "Say, ˹O Prophet,˺ “That knowledge is with Allah alone, and I am only sent with a clear warning.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «Şüphe yok, ona ait bilgi ancak Allah’ın indindedir ve ben muhakkak ki ancak açıkça bildiren bir korkutucu peygamberim.»",
+        "hayrat_nesriyat": "De ki: `O bilgi, yalnız Allah katındadır. Ben ise ancak (O`nun azâbını haber veren)apaçık bir korkutucuyum!`",
+        "diyanet_vakfi": "De ki: O bilgi, ancak Allah’a mahsustur. Ben ise sadece apaçık bir uyarıcıyım."
+      }
+    },
+    {
+      "id": 5268,
+      "verseNumber": 27,
+      "verseKey": "67:27",
+      "arabic": "فَلَمَّا رَأَوْهُ زُلْفَةً سِيٓـَٔتْ وُجُوهُ ٱلَّذِينَ كَفَرُوا۟ وَقِيلَ هَـٰذَا ٱلَّذِى كُنتُم بِهِۦ تَدَّعُونَ",
+      "english": "Then when they see the torment drawing near, the faces of the disbelievers will become gloomy, and it will be said ˹to them˺, “This is what you claimed would never come.”<sup foot_note=77532>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Vaktâ ki, onu (o azabı) yakın bir halde görüverdiler. Kâfir olmuş olanların yüzleri çirkinleşmiş oldu ve denildi ki: «İşte bu odur ki, siz bunu talep ettiniz.»",
+        "hayrat_nesriyat": "Nihâyet onu (o kıyâmeti) yakından gördüklerinde, inkâr edenlerin yüzleri kötüleşir ve (kendilerine): `İşte kendisini (acele ederek) isteyip durduğunuz (azab) budur!` denilir.",
+        "diyanet_vakfi": "Ama onu (azabı) yakından gördükleri zaman, inkâr edenlerin yüzleri kararacak ve (kendilerine): İşte sizin isteyip durduğunuz budur! denecektir."
+      }
+    },
+    {
+      "id": 5269,
+      "verseNumber": 28,
+      "verseKey": "67:28",
+      "arabic": "قُلْ أَرَءَيْتُمْ إِنْ أَهْلَكَنِىَ ٱللَّهُ وَمَن مَّعِىَ أَوْ رَحِمَنَا فَمَن يُجِيرُ ٱلْكَـٰفِرِينَ مِنْ عَذَابٍ أَلِيمٍ",
+      "english": "Say, ˹O Prophet,˺ “Consider this: whether Allah causes me and those with me to die or shows us mercy, who will save the disbelievers from a painful punishment?”<sup foot_note=77533>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «Gördünüz mü, eğer Allah beni ve benimle beraber olanları helâk etse veya bize rahmet buyursa, ya kâfirleri pek acıklı bir azabtan koruyacak kimdir?»",
+        "hayrat_nesriyat": "De ki: `Söyleyin bana! Eğer Allah, beni ve berâberimde bulunanları (sizin temennî ettiğiniz gibi) helâk etse (hepimizi öldürse) veya bize merhamet buyursa (da ecelimizi ertelese), artık kâfirleri (pek) elemli bir azabdan kim kurtaracak?`",
+        "diyanet_vakfi": "De ki: Allah beni ve beraberimdekileri (sizin istediğiniz üzere) yok etse veya (öyle olmayıp da) bizi esirgese, (söyleyin bakalım) inkârcıları yakıcı azaptan kurtaracak kimdir?"
+      }
+    },
+    {
+      "id": 5270,
+      "verseNumber": 29,
+      "verseKey": "67:29",
+      "arabic": "قُلْ هُوَ ٱلرَّحْمَـٰنُ ءَامَنَّا بِهِۦ وَعَلَيْهِ تَوَكَّلْنَا ۖ فَسَتَعْلَمُونَ مَنْ هُوَ فِى ضَلَـٰلٍ مُّبِينٍ",
+      "english": "Say, “He is the Most Compassionate—in Him ˹alone˺ we believe, and in Him ˹alone˺ we trust. You will soon know who is clearly astray.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «O Rahmân’dır ki, O’na imân ettik ve O’na tevekkülde bulunduk. Artık yakında bileceksiniz ki o apaçık sapıklıkta bulunan kim imiş?»",
+        "hayrat_nesriyat": "De ki: `O, Rahmândır; O`na îmân ettik ve ancak O`na tevekkül ettik. Artık kimin apaçık bir dalâlet içinde olduğunu yakında bileceksiniz!`",
+        "diyanet_vakfi": "De ki: (Sizi imana davet ettiğimiz) O (Allah) çok esirgeyicidir; biz O’na iman etmiş ve sırf O’na güvenip dayanmışızdır. Siz kimin apaçık bir sapıklık içinde olduğunu yakında öğreneceksiniz!"
+      }
+    },
+    {
+      "id": 5271,
+      "verseNumber": 30,
+      "verseKey": "67:30",
+      "arabic": "قُلْ أَرَءَيْتُمْ إِنْ أَصْبَحَ مَآؤُكُمْ غَوْرًا فَمَن يَأْتِيكُم بِمَآءٍ مَّعِينٍۭ",
+      "english": "Say, “Consider this: if your water were to sink ˹into the earth˺, then who ˹else˺ could bring you flowing water?”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "De ki: «Bana haber veriniz, eğer suyunuz yerin dibine gidip çekiliverecek olsa artık size kim bir akar su getirecektir?»",
+        "hayrat_nesriyat": "De ki: `Söyleyin bana! Eğer suyunuz (yerin dibine) çekilecek olsa, artık size kim bir akar su getirebilir?`",
+        "diyanet_vakfi": "De ki: Suyunuz çekiliverse, söyleyin bakalım, size kim bir akar su getirebilir?"
+      }
+    }
+  ]
+}

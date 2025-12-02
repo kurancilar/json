@@ -1,0 +1,364 @@
+{
+  "verses": [
+    {
+      "id": 5994,
+      "verseNumber": 1,
+      "verseKey": "89:1",
+      "arabic": " وَٱلْفَجْرِ",
+      "english": "By the dawn,<sup foot_note=77616>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Andolsun fecr’e.",
+        "hayrat_nesriyat": "Yemîn olsun fecr`e (şafak vaktine)!",
+        "diyanet_vakfi": "(1-5) Fecre, on geceye (haccın on gecesine), çifte ve teke, (her şeyi karanlığı ile) örttüğü an geceye yemin ederim ki, akıl sahibi için bunlarda elbette bir yemin (değeri) var, değil mi?"
+      }
+    },
+    {
+      "id": 5995,
+      "verseNumber": 2,
+      "verseKey": "89:2",
+      "arabic": "وَلَيَالٍ عَشْرٍ",
+      "english": "and the ten nights,<sup foot_note=77617>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(2-4) Ve on geceye. Ve çifte ve tek olana. Ve geçip gideceği zaman geceye.",
+        "hayrat_nesriyat": "Ve on geceye!",
+        "diyanet_vakfi": "(1-5) Fecre, on geceye (haccın on gecesine), çifte ve teke, (her şeyi karanlığı ile) örttüğü an geceye yemin ederim ki, akıl sahibi için bunlarda elbette bir yemin (değeri) var, değil mi?"
+      }
+    },
+    {
+      "id": 5996,
+      "verseNumber": 3,
+      "verseKey": "89:3",
+      "arabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "english": "and the even and the odd,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(2-4) Ve on geceye. Ve çifte ve tek olana. Ve geçip gideceği zaman geceye.",
+        "hayrat_nesriyat": "Hem çifte ve teke!",
+        "diyanet_vakfi": "(1-5) Fecre, on geceye (haccın on gecesine), çifte ve teke, (her şeyi karanlığı ile) örttüğü an geceye yemin ederim ki, akıl sahibi için bunlarda elbette bir yemin (değeri) var, değil mi?"
+      }
+    },
+    {
+      "id": 5997,
+      "verseNumber": 4,
+      "verseKey": "89:4",
+      "arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "english": "and the night when it passes!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(2-4) Ve on geceye. Ve çifte ve tek olana. Ve geçip gideceği zaman geceye.",
+        "hayrat_nesriyat": "Ve geçip giderken, geceye!",
+        "diyanet_vakfi": "(1-5) Fecre, on geceye (haccın on gecesine), çifte ve teke, (her şeyi karanlığı ile) örttüğü an geceye yemin ederim ki, akıl sahibi için bunlarda elbette bir yemin (değeri) var, değil mi?"
+      }
+    },
+    {
+      "id": 5998,
+      "verseNumber": 5,
+      "verseKey": "89:5",
+      "arabic": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "english": "Is all this ˹not˺ a sufficient oath for those who have sense?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bunda akıl sahibi için bir yemîn yok mudur?",
+        "hayrat_nesriyat": "Bunda bir akıl sâhibi için (ibret alınacak) bir yemin (bu yemine lâyık hakikatler)vardır, değil mi?",
+        "diyanet_vakfi": "(1-5) Fecre, on geceye (haccın on gecesine), çifte ve teke, (her şeyi karanlığı ile) örttüğü an geceye yemin ederim ki, akıl sahibi için bunlarda elbette bir yemin (değeri) var, değil mi?"
+      }
+    },
+    {
+      "id": 5999,
+      "verseNumber": 6,
+      "verseKey": "89:6",
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "english": "Did you not see how your Lord dealt with ’Ȃd—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(6-7) Görmedin mi ki Rabbin Âd’e nasıl yaptı? Direk sahibi olan İrem cemaatine.",
+        "hayrat_nesriyat": "Görmedin mi Rabbin, Âd (kavmin)e nasıl (azâb) etti?",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6000,
+      "verseNumber": 7,
+      "verseKey": "89:7",
+      "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "english": "˹the people˺ of Iram—with ˹their˺ great stature,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(6-7) Görmedin mi ki Rabbin Âd’e nasıl yaptı? Direk sahibi olan İrem cemaatine.",
+        "hayrat_nesriyat": "O (sütunlar üzerine kurulmuş binâlarla dolu) direkli İrem (şehrin)e!",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6001,
+      "verseNumber": 8,
+      "verseKey": "89:8",
+      "arabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+      "english": "unmatched in any other land;",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Bir belde (ahalisi) ki, o beldenin bir misli beldeler arasında yaratılmamıştı.",
+        "hayrat_nesriyat": "Ki şehirler içinde onun benzeri yaratılmamıştı.",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6002,
+      "verseNumber": 9,
+      "verseKey": "89:9",
+      "arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "english": "and Thamûd who carved ˹their homes into˺ the rocks in the ˹Stone˺ Valley;",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(9-10) Vadide kayaları söküp oyan Semûd’e (nasıl yaptı?). Ve pek büyük sabit binalar sahibi olan Fir’avun’a da nasıl yaptı?",
+        "hayrat_nesriyat": "Vâdide (ev yapmak için) kayaları oyan Semûd`a da (nasıl azâb etti)?",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6003,
+      "verseNumber": 10,
+      "verseKey": "89:10",
+      "arabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "english": "and the Pharaoh of mighty structures?<sup foot_note=77618>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(9-10) Vadide kayaları söküp oyan Semûd’e (nasıl yaptı?). Ve pek büyük sabit binalar sahibi olan Fir’avun’a da nasıl yaptı?",
+        "hayrat_nesriyat": "Ve kazıklar sâhibi Fira`vun`a?",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6004,
+      "verseNumber": 11,
+      "verseKey": "89:11",
+      "arabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+      "english": "They all transgressed throughout the land,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(11-12) İşte onlar ki beldelerde azgınlıkta bulunmuşlardı. Oralarda fesadı çoğaltmışlardı.",
+        "hayrat_nesriyat": "Onlar ki memleketler(in)de azgınlık etmişlerdi.",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6005,
+      "verseNumber": 12,
+      "verseKey": "89:12",
+      "arabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "english": "spreading much corruption there.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(11-12) İşte onlar ki beldelerde azgınlıkta bulunmuşlardı. Oralarda fesadı çoğaltmışlardı.",
+        "hayrat_nesriyat": "Böylece oralarda fesâdı çoğaltmışlardı.",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6006,
+      "verseNumber": 13,
+      "verseKey": "89:13",
+      "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "english": "So your Lord unleashed on them a scourge of punishment.<sup foot_note=77619>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(13-14) Artık Rabbin de onların üzerlerine bir azap kamçısı saldırdı. Şüphe yok ki, Rabbin görüp gözetmektedir.",
+        "hayrat_nesriyat": "Bundan dolayı Rabbin, onların üzerine bir azab kamçısı yağdırdı!",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6007,
+      "verseNumber": 14,
+      "verseKey": "89:14",
+      "arabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "english": "˹For˺ your Lord is truly vigilant.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(13-14) Artık Rabbin de onların üzerlerine bir azap kamçısı saldırdı. Şüphe yok ki, Rabbin görüp gözetmektedir.",
+        "hayrat_nesriyat": "Şübhesiz ki Rabbin, elbette (her an) gözetlemededir.",
+        "diyanet_vakfi": "(6-14) Görmedin mi, Rabbin ne yaptı Âd kavmine; direkleri (yüksek binaları) olan, ülkelerde benzeri yaratılmamış İrem şehrine, o vadide kayaları yontan Semûd kavmine, kazıklar (çadırlar, ordular) sahibi Firavun’a! Ki onların hepsi ülkelerinde azgınlık ettiler. Oralarda kötülüğü çoğalttılar. Bu yüzden Rabbin onların üstüne azap kamçısı yağdırdı. Çünkü Rabbin (her an) gözetlemededir."
+      }
+    },
+    {
+      "id": 6008,
+      "verseNumber": 15,
+      "verseKey": "89:15",
+      "arabic": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "english": "Now, whenever a human being is tested by their Lord through ˹His˺ generosity and blessings, they boast, “My Lord has ˹deservedly˺ honoured me!”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Rabbi onu imtihan edip kendisine ikramda bulunsa o vakit der ki: «Rabbim bana ikram etti.»",
+        "hayrat_nesriyat": "Fakat insan, Rabbi kendisini (varlıkla) imtihân edip, ona ikramda bulunduğu ve ona ni`met verdiği zaman, bunun üzerine: `Rabbim bana ikrâm etti!` der.",
+        "diyanet_vakfi": "İnsan var ya, Rabbi kendisini imtihan edip de ikramda bulunduğunda ve bol nimet verdiğinde «Rabbim bana ikram etti» der."
+      }
+    },
+    {
+      "id": 6009,
+      "verseNumber": 16,
+      "verseKey": "89:16",
+      "arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+      "english": "But when He tests them by limiting their provision, they protest, “My Lord has ˹undeservedly˺ humiliated me!”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Amma onu imtihan edip de rızkını darlaştırdığı vakit de der ki: «Rabbim bana ihanet etti.»",
+        "hayrat_nesriyat": "Hâlbuki onu (bu sefer yoklukla) imtihân edip de rızkını kendisine daralttığı zaman: `Rabbim bana ihânet etti!` der.",
+        "diyanet_vakfi": "Onu imtihan edip rızkını daralttığında ise «Rabbim beni önemsemedi» der."
+      }
+    },
+    {
+      "id": 6010,
+      "verseNumber": 17,
+      "verseKey": "89:17",
+      "arabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "english": "Absolutely not! In fact, you are not ˹even˺ gracious to the orphan,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yok, yok. Belki siz yetime ikram etmezsiniz.",
+        "hayrat_nesriyat": "Hayır! (Siz) doğrusu yetime ikrâm etmiyorsunuz!",
+        "diyanet_vakfi": "(17-20) Hayır! Doğrusu siz yetime ikram etmiyorsunuz, yoksulu yedirmeye birbirinizi teşvik etmiyorsunuz. Haram helâl demeden mirası yiyorsunuz. Malı aşırı biçimde seviyorsunuz."
+      }
+    },
+    {
+      "id": 6011,
+      "verseNumber": 18,
+      "verseKey": "89:18",
+      "arabic": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "english": "nor do you urge one another to feed the poor.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve yoksullara yiyecek vermek için birbirinizi teşvikte bulunmazsınız.",
+        "hayrat_nesriyat": "Ve yoksulu yedirmeye, birbirinizi teşvîk etmiyorsunuz!",
+        "diyanet_vakfi": "(17-20) Hayır! Doğrusu siz yetime ikram etmiyorsunuz, yoksulu yedirmeye birbirinizi teşvik etmiyorsunuz. Haram helâl demeden mirası yiyorsunuz. Malı aşırı biçimde seviyorsunuz."
+      }
+    },
+    {
+      "id": 6012,
+      "verseNumber": 19,
+      "verseKey": "89:19",
+      "arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "english": "And you devour ˹others’˺ inheritance greedily,<sup foot_note=77620>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve miras bırakılan malı şiddetlicesine yersiniz.",
+        "hayrat_nesriyat": "Hem mîrâsı, helâl haram demeyen bir yiyişle yiyorsunuz!",
+        "diyanet_vakfi": "(17-20) Hayır! Doğrusu siz yetime ikram etmiyorsunuz, yoksulu yedirmeye birbirinizi teşvik etmiyorsunuz. Haram helâl demeden mirası yiyorsunuz. Malı aşırı biçimde seviyorsunuz."
+      }
+    },
+    {
+      "id": 6013,
+      "verseNumber": 20,
+      "verseKey": "89:20",
+      "arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "english": "and love wealth fervently.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve malı pek çokça bir sevgi ile seversiniz.",
+        "hayrat_nesriyat": "Ve malı, aşırı bir sevgi ile seviyorsunuz!",
+        "diyanet_vakfi": "(17-20) Hayır! Doğrusu siz yetime ikram etmiyorsunuz, yoksulu yedirmeye birbirinizi teşvik etmiyorsunuz. Haram helâl demeden mirası yiyorsunuz. Malı aşırı biçimde seviyorsunuz."
+      }
+    },
+    {
+      "id": 6014,
+      "verseNumber": 21,
+      "verseKey": "89:21",
+      "arabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "english": "Enough! When the earth is entirely crushed over and over,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Hayır hayır. Yer dağılıp parça parça parçalanınca.",
+        "hayrat_nesriyat": "Hayır! Yer (çarpıla çarpıla) un ufak olarak dümdüz edildiği zaman!",
+        "diyanet_vakfi": "(21-22) Ama yeryüzü parça parça döküldüğü, Rabbin(in emri) geldiği ve melekler saf saf dizildiği zaman (her şey ortaya çıkacaktır)."
+      }
+    },
+    {
+      "id": 6015,
+      "verseNumber": 22,
+      "verseKey": "89:22",
+      "arabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "english": "and your Lord comes ˹to judge˺ with angels, rank upon rank,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve Rabbin (emri) gelip melekler de saf saf dizilince.",
+        "hayrat_nesriyat": "Rabbin(in emri) geldiği ve melekler saf saf dizildiği (zaman)!",
+        "diyanet_vakfi": "(21-22) Ama yeryüzü parça parça döküldüğü, Rabbin(in emri) geldiği ve melekler saf saf dizildiği zaman (her şey ortaya çıkacaktır)."
+      }
+    },
+    {
+      "id": 6016,
+      "verseNumber": 23,
+      "verseKey": "89:23",
+      "arabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "english": "and Hell is brought forth on that Day—this is when every ˹disbelieving˺ person will remember ˹their own sins˺. But what is the use of remembering then?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve o gün cehennem de getirilmiş olunca insan o gün anlamış olur. Ve artık o anlayıştan da ona ne faide!",
+        "hayrat_nesriyat": "O gün Cehennem de getirilir; insan o gün (günahlarını) hatırlar; artık o hatırlama(nın faydası) ona nereden olacak?",
+        "diyanet_vakfi": "O gün cehennem getirilir, insan yaptıklarını birer birer hatırlar. Fakat bu hatırlamanın ne faydası var!"
+      }
+    },
+    {
+      "id": 6017,
+      "verseNumber": 24,
+      "verseKey": "89:24",
+      "arabic": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "english": "They will cry, “I wish I had sent forth ˹something good˺ for my ˹true˺ life.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Der ki, «Keşke hayatım için (güzel ameller) takdim etmiş olsa idim.»",
+        "hayrat_nesriyat": "(O zaman insan:) `Keşke ben, (bu ebedî) hayâtım için önceden (dünyada iken iyi ameller) yapsaydım!` der.",
+        "diyanet_vakfi": "(İşte o zaman insan:) «Keşke bu hayatım için bir şeyler yapıp gönderseydim!» der."
+      }
+    },
+    {
+      "id": 6018,
+      "verseNumber": 25,
+      "verseKey": "89:25",
+      "arabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "english": "On that Day He will punish ˹them˺ severely, like no other,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık o gün O’nun yapacağı azabı bir kimse yapamaz.",
+        "hayrat_nesriyat": "Artık o gün, O`nun (Allah`ın) azâbı gibi, hiçkimse azâb edemez!",
+        "diyanet_vakfi": "Artık o gün, Allah’ın edeceği azabı kimse edemez."
+      }
+    },
+    {
+      "id": 6019,
+      "verseNumber": 26,
+      "verseKey": "89:26",
+      "arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "english": "and bind ˹them˺ tightly, like no other.<sup foot_note=77621>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve O’nun vuracağı bend ile kimse bend vurabilemez.",
+        "hayrat_nesriyat": "Ve O`nun bağı gibi, hiçkimse bağ vuramaz!",
+        "diyanet_vakfi": "O’nun vuracağı bağı kimse vuramaz."
+      }
+    },
+    {
+      "id": 6020,
+      "verseNumber": 27,
+      "verseKey": "89:27",
+      "arabic": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "english": "˹Allah will say to the righteous,˺ “O tranquil soul!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey mutmain olan nefs!",
+        "hayrat_nesriyat": "(Allah, mü`min kuluna ise:) `Ey nefs-i mutmainne (kâmil bir îman sâhibi olarak huzûra ermiş olan nefis)!`",
+        "diyanet_vakfi": "(27-30) Ey huzura kavuşmuş insan! Sen O’ndan hoşnut, O da senden hoşnut olarak Rabbine dön. (Seçkin) kullarım arasına katıl ve cennetime gir!"
+      }
+    },
+    {
+      "id": 6021,
+      "verseNumber": 28,
+      "verseKey": "89:28",
+      "arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "english": "Return to your Lord, well pleased ˹with Him˺ and well pleasing ˹to Him˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Rabbine dönüver, sen razı, O da senden razı olarak.",
+        "hayrat_nesriyat": "`(Hem) râzı olan, (hem) kendisinden râzı olunan (sen Rabbinden, O da senden râzı)olarak Rabbine dön!`",
+        "diyanet_vakfi": "(27-30) Ey huzura kavuşmuş insan! Sen O’ndan hoşnut, O da senden hoşnut olarak Rabbine dön. (Seçkin) kullarım arasına katıl ve cennetime gir!"
+      }
+    },
+    {
+      "id": 6022,
+      "verseNumber": 29,
+      "verseKey": "89:29",
+      "arabic": "فَٱدْخُلِى فِى عِبَـٰدِى",
+      "english": "So join My servants,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık kullarımın arasına gir.",
+        "hayrat_nesriyat": "`Artık (sâlih) kullarımın arasına katıl!`",
+        "diyanet_vakfi": "(27-30) Ey huzura kavuşmuş insan! Sen O’ndan hoşnut, O da senden hoşnut olarak Rabbine dön. (Seçkin) kullarım arasına katıl ve cennetime gir!"
+      }
+    },
+    {
+      "id": 6023,
+      "verseNumber": 30,
+      "verseKey": "89:30",
+      "arabic": "وَٱدْخُلِى جَنَّتِى",
+      "english": "and enter My Paradise.”",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve cennetime giriver.",
+        "hayrat_nesriyat": "`Ve (onlarla) Cennetime gir!`",
+        "diyanet_vakfi": "(27-30) Ey huzura kavuşmuş insan! Sen O’ndan hoşnut, O da senden hoşnut olarak Rabbine dön. (Seçkin) kullarım arasına katıl ve cennetime gir!"
+      }
+    }
+  ]
+}

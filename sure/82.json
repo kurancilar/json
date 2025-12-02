@@ -1,0 +1,232 @@
+{
+  "verses": [
+    {
+      "id": 5830,
+      "verseNumber": 1,
+      "verseKey": "82:1",
+      "arabic": " إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "english": "When the sky splits open,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Göğün yarıldığı vakit.",
+        "hayrat_nesriyat": "Gök, infitâr ettiği (yarıldığı) zaman!",
+        "diyanet_vakfi": "(1-5) Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar."
+      }
+    },
+    {
+      "id": 5831,
+      "verseNumber": 2,
+      "verseKey": "82:2",
+      "arabic": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+      "english": "and when the stars fall away,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve yıldızlar dökülüp dağıldığı vakit.",
+        "hayrat_nesriyat": "Yıldızlar, (dökülüp) saçıldığı zaman!",
+        "diyanet_vakfi": "(1-5) Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar."
+      }
+    },
+    {
+      "id": 5832,
+      "verseNumber": 3,
+      "verseKey": "82:3",
+      "arabic": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+      "english": "and when the seas burst forth,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(3-5) Ve denizlerin kaynayıp aktığı vakit. Ve mezarların alt üst olduğu vakit. Herkes, neyi ileri sürmüş ve neyi geriye bırakmış olduğunu bilir.",
+        "hayrat_nesriyat": "Denizler, (birbirine) açıldığı (ve yeryüzü düzlenerek hepsi bir deniz olduğu) zaman!",
+        "diyanet_vakfi": "(1-5) Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar."
+      }
+    },
+    {
+      "id": 5833,
+      "verseNumber": 4,
+      "verseKey": "82:4",
+      "arabic": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+      "english": "and when the graves spill out,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(3-5) Ve denizlerin kaynayıp aktığı vakit. Ve mezarların alt üst olduğu vakit. Herkes, neyi ileri sürmüş ve neyi geriye bırakmış olduğunu bilir.",
+        "hayrat_nesriyat": "Kabirler, alt üst edildiği (ölüler diriltilip çıkarıldığı) zaman!",
+        "diyanet_vakfi": "(1-5) Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar."
+      }
+    },
+    {
+      "id": 5834,
+      "verseNumber": 5,
+      "verseKey": "82:5",
+      "arabic": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "english": "˹then˺ each soul will know what it has sent forth or left behind.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(3-5) Ve denizlerin kaynayıp aktığı vakit. Ve mezarların alt üst olduğu vakit. Herkes, neyi ileri sürmüş ve neyi geriye bırakmış olduğunu bilir.",
+        "hayrat_nesriyat": "(O gün) her nefis, neyi (yapıp) öne sürdüğünü ve (neyi yapmayıp) geri bıraktığını bilir!",
+        "diyanet_vakfi": "(1-5) Gökyüzü yarıldığı, yıldızlar döküldüğü, denizler birbirine katıldığı, kabirlerin içindekiler dışarı çıkarıldığı zaman, insanoğlu (yapıp) gönderdiklerini ve (yapamayıp) geride bıraktıklarını bir bir anlar."
+      }
+    },
+    {
+      "id": 5835,
+      "verseNumber": 6,
+      "verseKey": "82:6",
+      "arabic": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+      "english": "O humanity! What has emboldened you against your Lord, the Most Generous,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ey insan! Seni o kerîm Rabbine karşı ne şey aldattı?",
+        "hayrat_nesriyat": "Ey insan! O Kerîm (çok cömert olan) Rabbine karşı seni aldatan nedir?",
+        "diyanet_vakfi": "(6-8) Ey insan! Seni yaratıp seni düzgün ve dengeli kılan, seni istediği bir şekilde birleştiren, ihsanı bol Rabbine karşı seni aldatan nedir?"
+      }
+    },
+    {
+      "id": 5836,
+      "verseNumber": 7,
+      "verseKey": "82:7",
+      "arabic": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "english": "Who created you, fashioned you, and perfected your design,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(7-8) O Rabbin ki, seni yarattı, sonra seni düzeltti de mutedil bir halde kıldı. Dilediği bir surette seni terkip etti.",
+        "hayrat_nesriyat": "O ki, seni yarattı da seni düzgün (yaratılışlı ve a`zâları tam bir insan) yaptı; nihâyet seni ölçülü (ve dengeli) kıldı.",
+        "diyanet_vakfi": "(6-8) Ey insan! Seni yaratıp seni düzgün ve dengeli kılan, seni istediği bir şekilde birleştiren, ihsanı bol Rabbine karşı seni aldatan nedir?"
+      }
+    },
+    {
+      "id": 5837,
+      "verseNumber": 8,
+      "verseKey": "82:8",
+      "arabic": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+      "english": "moulding you in whatever form He willed?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(7-8) O Rabbin ki, seni yarattı, sonra seni düzeltti de mutedil bir halde kıldı. Dilediği bir surette seni terkip etti.",
+        "hayrat_nesriyat": "Seni dilediği herhangi bir sûrette terkîb etti.",
+        "diyanet_vakfi": "(6-8) Ey insan! Seni yaratıp seni düzgün ve dengeli kılan, seni istediği bir şekilde birleştiren, ihsanı bol Rabbine karşı seni aldatan nedir?"
+      }
+    },
+    {
+      "id": 5838,
+      "verseNumber": 9,
+      "verseKey": "82:9",
+      "arabic": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+      "english": "But no! In fact, you deny the ˹final˺ Judgment,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Hayır hayır..Siz belki dini yalanlıyorsunuz.",
+        "hayrat_nesriyat": "Yapmayın ama; Hesap (Günü`nü) yalanlama (eğilimini) hep içinizde taşıyorsunuz;",
+        "diyanet_vakfi": "(9-12) Hayır! Bütün bunlara rağmen siz yine de dini yalanlıyorsunuz. Şunu iyi bilin ki üzerinizde bekçiler, değerli yazıcılar vardır; onlar, yapmakta olduklarınızı bilir."
+      }
+    },
+    {
+      "id": 5839,
+      "verseNumber": 10,
+      "verseKey": "82:10",
+      "arabic": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+      "english": "while you are certainly observed by vigilant,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-12) Ve şüphe yok ki, sizin üzerinizde bekçiler vardır. Çok mükerrem yazıcılar vardır. Ne yapar olduklarınızı bilirler.",
+        "hayrat_nesriyat": "Hem şübhesiz üzerinizde, elbette (amellerinizi) muhâfaza edici (melek)ler vardır.",
+        "diyanet_vakfi": "(9-12) Hayır! Bütün bunlara rağmen siz yine de dini yalanlıyorsunuz. Şunu iyi bilin ki üzerinizde bekçiler, değerli yazıcılar vardır; onlar, yapmakta olduklarınızı bilir."
+      }
+    },
+    {
+      "id": 5840,
+      "verseNumber": 11,
+      "verseKey": "82:11",
+      "arabic": "كِرَامًا كَـٰتِبِينَ",
+      "english": "honourable angels, recording ˹everything˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-12) Ve şüphe yok ki, sizin üzerinizde bekçiler vardır. Çok mükerrem yazıcılar vardır. Ne yapar olduklarınızı bilirler.",
+        "hayrat_nesriyat": "Kirâmen kâtibîn (şerefli yazıcılar)!",
+        "diyanet_vakfi": "(9-12) Hayır! Bütün bunlara rağmen siz yine de dini yalanlıyorsunuz. Şunu iyi bilin ki üzerinizde bekçiler, değerli yazıcılar vardır; onlar, yapmakta olduklarınızı bilir."
+      }
+    },
+    {
+      "id": 5841,
+      "verseNumber": 12,
+      "verseKey": "82:12",
+      "arabic": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "english": "They know whatever you do.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-12) Ve şüphe yok ki, sizin üzerinizde bekçiler vardır. Çok mükerrem yazıcılar vardır. Ne yapar olduklarınızı bilirler.",
+        "hayrat_nesriyat": "Her ne yaparsanız bilirler!",
+        "diyanet_vakfi": "(9-12) Hayır! Bütün bunlara rağmen siz yine de dini yalanlıyorsunuz. Şunu iyi bilin ki üzerinizde bekçiler, değerli yazıcılar vardır; onlar, yapmakta olduklarınızı bilir."
+      }
+    },
+    {
+      "id": 5842,
+      "verseNumber": 13,
+      "verseKey": "82:13",
+      "arabic": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "english": "Indeed, the virtuous will be in bliss,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Şüphe yok ki, muttakî zâtlar, hoş nîmetler içindedirler.",
+        "hayrat_nesriyat": "Şübhesiz ki ebrâr, (güzel amel sâhibi, içi dışı tertemiz hayırlı insanlar) ni`met içinde (Naîm Cennetinde)dirler!",
+        "diyanet_vakfi": "(13-16) İyiler muhakkak cennette, kötüler de cehennemdedirler. Ceza gününde oraya girerler. Onlar (kâfirler) oradan bir daha da ayrılmazlar."
+      }
+    },
+    {
+      "id": 5843,
+      "verseNumber": 14,
+      "verseKey": "82:14",
+      "arabic": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+      "english": "and the wicked will be in Hell,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(14-16) Ve muhakkak ki, facirler de yakıcı ateş içindedirler. Ceza günü oraya yaslanacaklardır. Ve onlar, ondan gaip olanlar değildirler.",
+        "hayrat_nesriyat": "Şübhesiz günahkârlar da, yakıcı ateş içinde (Cehennemde)dirler!",
+        "diyanet_vakfi": "(13-16) İyiler muhakkak cennette, kötüler de cehennemdedirler. Ceza gününde oraya girerler. Onlar (kâfirler) oradan bir daha da ayrılmazlar."
+      }
+    },
+    {
+      "id": 5844,
+      "verseNumber": 15,
+      "verseKey": "82:15",
+      "arabic": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+      "english": "burning in it on Judgment Day,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(14-16) Ve muhakkak ki, facirler de yakıcı ateş içindedirler. Ceza günü oraya yaslanacaklardır. Ve onlar, ondan gaip olanlar değildirler.",
+        "hayrat_nesriyat": "Dîn (hesab) günü oraya girerler!",
+        "diyanet_vakfi": "(13-16) İyiler muhakkak cennette, kötüler de cehennemdedirler. Ceza gününde oraya girerler. Onlar (kâfirler) oradan bir daha da ayrılmazlar."
+      }
+    },
+    {
+      "id": 5845,
+      "verseNumber": 16,
+      "verseKey": "82:16",
+      "arabic": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+      "english": "and they will have no escape from it.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(14-16) Ve muhakkak ki, facirler de yakıcı ateş içindedirler. Ceza günü oraya yaslanacaklardır. Ve onlar, ondan gaip olanlar değildirler.",
+        "hayrat_nesriyat": "Onlar oradan (çıkıp) kaybolacak kimseler de değildir!",
+        "diyanet_vakfi": "(13-16) İyiler muhakkak cennette, kötüler de cehennemdedirler. Ceza gününde oraya girerler. Onlar (kâfirler) oradan bir daha da ayrılmazlar."
+      }
+    },
+    {
+      "id": 5846,
+      "verseNumber": 17,
+      "verseKey": "82:17",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "english": "What will make you realize what Judgment Day is?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ceza gününün ne olduğunu sana ne şey bildirdi?",
+        "hayrat_nesriyat": "(Ey Resûlüm!) Dîn (hesab) gününün ne olduğunu sana ne bildirdi?",
+        "diyanet_vakfi": "(17-19) Ceza günü nedir bilir misin? Nedir acaba o ceza günü? O gün hiçbir kimse başkası için bir şey yapamaz. O gün iş Allah’a kalmıştır."
+      }
+    },
+    {
+      "id": 5847,
+      "verseNumber": 18,
+      "verseKey": "82:18",
+      "arabic": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "english": "Again, what will make you realize what Judgment Day is?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Sonra ceza gününün ne olduğunu sana ne şey öğretmiş oldu?",
+        "hayrat_nesriyat": "Sonra, dîn (hesab) gününün ne olduğunu sana ne bildirdi?",
+        "diyanet_vakfi": "(17-19) Ceza günü nedir bilir misin? Nedir acaba o ceza günü? O gün hiçbir kimse başkası için bir şey yapamaz. O gün iş Allah’a kalmıştır."
+      }
+    },
+    {
+      "id": 5848,
+      "verseNumber": 19,
+      "verseKey": "82:19",
+      "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "english": "˹It is˺ the Day no soul will be of ˹any˺ benefit to another whatsoever, for all authority on that Day belongs to Allah ˹entirely˺.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O günde hiçbir şahıs, bir şahıs için bir şeye malik olamaz. O günde emir, ancak Allah’a mahsustur.",
+        "hayrat_nesriyat": "O gün kimse, kimse nâmına bir şeye mâlik olamaz! Ve o gün emir ancak Allah`ındır!",
+        "diyanet_vakfi": "(17-19) Ceza günü nedir bilir misin? Nedir acaba o ceza günü? O gün hiçbir kimse başkası için bir şey yapamaz. O gün iş Allah’a kalmıştır."
+      }
+    }
+  ]
+}

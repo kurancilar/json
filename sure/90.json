@@ -1,0 +1,244 @@
+{
+  "verses": [
+    {
+      "id": 6024,
+      "verseNumber": 1,
+      "verseKey": "90:1",
+      "arabic": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+      "english": "I do swear by this city ˹of Mecca˺—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Yemin ederim bu beldeye. Ve sen bu beldede ikamet etmektesin.",
+        "hayrat_nesriyat": "Yemîn ederim bu beled`e (Mekke`ye)!",
+        "diyanet_vakfi": "(1-4) Bu beldeye -ki sen bu beldedesin-, babaya ve ondan meydana gelen çocuğa yemin ederim ki biz, insanı (yüzyüze geleceği nice) zorluklar içinde yarattık."
+      }
+    },
+    {
+      "id": 6025,
+      "verseNumber": 2,
+      "verseKey": "90:2",
+      "arabic": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+      "english": "even though you ˹O Prophet˺ are subject to abuse in this city—",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(1-2) Yemin ederim bu beldeye. Ve sen bu beldede ikamet etmektesin.",
+        "hayrat_nesriyat": "Ki sen bu beldede oturmaktasın.",
+        "diyanet_vakfi": "(1-4) Bu beldeye -ki sen bu beldedesin-, babaya ve ondan meydana gelen çocuğa yemin ederim ki biz, insanı (yüzyüze geleceği nice) zorluklar içinde yarattık."
+      }
+    },
+    {
+      "id": 6026,
+      "verseNumber": 3,
+      "verseKey": "90:3",
+      "arabic": "وَوَالِدٍ وَمَا وَلَدَ",
+      "english": "and by every parent and ˹their˺ child!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve bir pedere ve zürriyetine de (andolsun).",
+        "hayrat_nesriyat": "Ve (yemîn ederim) babaya ve doğan (çocuğ)a!",
+        "diyanet_vakfi": "(1-4) Bu beldeye -ki sen bu beldedesin-, babaya ve ondan meydana gelen çocuğa yemin ederim ki biz, insanı (yüzyüze geleceği nice) zorluklar içinde yarattık."
+      }
+    },
+    {
+      "id": 6027,
+      "verseNumber": 4,
+      "verseKey": "90:4",
+      "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+      "english": "Indeed, We have created humankind in ˹constant˺ struggle.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(4-5) Muhakkak ki, Biz insanı elbette bir meşakkat içinde (bulunacağı bir mahiyette) yarattık. Sanıyor mu ki onun üzerine hiçbir kimse güç yetiremiyecek.",
+        "hayrat_nesriyat": "(Ki) insanı, gerçekten bir meşakkat içinde (olmak üzere) yarattık.",
+        "diyanet_vakfi": "(1-4) Bu beldeye -ki sen bu beldedesin-, babaya ve ondan meydana gelen çocuğa yemin ederim ki biz, insanı (yüzyüze geleceği nice) zorluklar içinde yarattık."
+      }
+    },
+    {
+      "id": 6028,
+      "verseNumber": 5,
+      "verseKey": "90:5",
+      "arabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "english": "Do they think that no one has power over them,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(4-5) Muhakkak ki, Biz insanı elbette bir meşakkat içinde (bulunacağı bir mahiyette) yarattık. Sanıyor mu ki onun üzerine hiçbir kimse güç yetiremiyecek.",
+        "hayrat_nesriyat": "(O,) kendisine hiçkimsenin aslâ güç yetiremeyeceğini mi sanıyor?",
+        "diyanet_vakfi": "İnsan, hiç kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
+      }
+    },
+    {
+      "id": 6029,
+      "verseNumber": 6,
+      "verseKey": "90:6",
+      "arabic": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "english": "boasting, “I have wasted enormous wealth!”?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Der ki: «Ben yığın yığın mal telef ettim.»",
+        "hayrat_nesriyat": "(Övünerek:) `(İslâm düşmanlığı uğrunda) yığın yığın mal telef ettim!` diyor.",
+        "diyanet_vakfi": "«Pek çok mal harcadım» diyor."
+      }
+    },
+    {
+      "id": 6030,
+      "verseNumber": 7,
+      "verseKey": "90:7",
+      "arabic": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "english": "Do they think that no one sees them?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Zanneder mi ki onu hiçbir kimse görmemiş.",
+        "hayrat_nesriyat": "Kendisini kimsenin görmediğini mi sanıyor?",
+        "diyanet_vakfi": "Kimse onu görmedi mi sanıyor?"
+      }
+    },
+    {
+      "id": 6031,
+      "verseNumber": 8,
+      "verseKey": "90:8",
+      "arabic": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "english": "Have We not given them two eyes,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Onun için iki göz vermedik mi? Ve bir dil ile iki dudak vermedik mi?",
+        "hayrat_nesriyat": "(8-9) (Biz) ona (diğer insanlar gibi) iki göz, bir dil ve iki dudak vermedik mi?",
+        "diyanet_vakfi": "(8-10) Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona iki yolu (doğru ve eğriyi) göstermedik mi?"
+      }
+    },
+    {
+      "id": 6032,
+      "verseNumber": 9,
+      "verseKey": "90:9",
+      "arabic": "وَلِسَانًا وَشَفَتَيْنِ",
+      "english": "a tongue, and two lips;",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(8-9) Onun için iki göz vermedik mi? Ve bir dil ile iki dudak vermedik mi?",
+        "hayrat_nesriyat": "(8-9) (Biz) ona (diğer insanlar gibi) iki göz, bir dil ve iki dudak vermedik mi?",
+        "diyanet_vakfi": "(8-10) Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona iki yolu (doğru ve eğriyi) göstermedik mi?"
+      }
+    },
+    {
+      "id": 6033,
+      "verseNumber": 10,
+      "verseKey": "90:10",
+      "arabic": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+      "english": "and shown them the two ways ˹of right and wrong˺?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-12) Ve Biz ona iki de tepe yolu gösterdik. Fakat o, o sarp yokuşu geçemedi. O sarp yokuşun ne olduğunu sana ne şey bildirdi?",
+        "hayrat_nesriyat": "Ona da (hayır ve şer) iki yol gösterdik.",
+        "diyanet_vakfi": "(8-10) Biz ona iki göz, bir dil ve iki dudak vermedik mi? Ona iki yolu (doğru ve eğriyi) göstermedik mi?"
+      }
+    },
+    {
+      "id": 6034,
+      "verseNumber": 11,
+      "verseKey": "90:11",
+      "arabic": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "english": "If only they had attempted the challenging path ˹of goodness instead˺!",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-12) Ve Biz ona iki de tepe yolu gösterdik. Fakat o, o sarp yokuşu geçemedi. O sarp yokuşun ne olduğunu sana ne şey bildirdi?",
+        "hayrat_nesriyat": "Fakat (o), sarp yokuşu aşamadı.",
+        "diyanet_vakfi": "(11-16) Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç açık bir yoksulu doyurmaktır."
+      }
+    },
+    {
+      "id": 6035,
+      "verseNumber": 12,
+      "verseKey": "90:12",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "english": "And what will make you realize what ˹attempting˺ the challenging path is?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(10-12) Ve Biz ona iki de tepe yolu gösterdik. Fakat o, o sarp yokuşu geçemedi. O sarp yokuşun ne olduğunu sana ne şey bildirdi?",
+        "hayrat_nesriyat": "O sarp yokuşun ne olduğunu sana ne bildirdi?",
+        "diyanet_vakfi": "(11-16) Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç açık bir yoksulu doyurmaktır."
+      }
+    },
+    {
+      "id": 6036,
+      "verseNumber": 13,
+      "verseKey": "90:13",
+      "arabic": "فَكُّ رَقَبَةٍ",
+      "english": "It is to free a slave,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(O) Bir köle azad etmektir.",
+        "hayrat_nesriyat": "(O,) bir kölenin âzâd edilmesi (ve kişinin kendi nefsini ateşten kurtarması)dır.",
+        "diyanet_vakfi": "(11-16) Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç açık bir yoksulu doyurmaktır."
+      }
+    },
+    {
+      "id": 6037,
+      "verseNumber": 14,
+      "verseKey": "90:14",
+      "arabic": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "english": "or to give food in times of famine",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Yahut bir kıtlık gününde yemek yedirmektir.",
+        "hayrat_nesriyat": "(14-16) Veya bir açlık gününde akrabâlığı olan bir yetîmi veya toz toprak içinde kalmış bir yoksulu doyurmaktır.",
+        "diyanet_vakfi": "(11-16) Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç açık bir yoksulu doyurmaktır."
+      }
+    },
+    {
+      "id": 6038,
+      "verseNumber": 15,
+      "verseKey": "90:15",
+      "arabic": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "english": "to an orphaned relative",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(15-16) Karabet sahibi olan bir yetime. Veyahut yerlere serilmiş bir yoksula.",
+        "hayrat_nesriyat": "(14-16) Veya bir açlık gününde akrabâlığı olan bir yetîmi veya toz toprak içinde kalmış bir yoksulu doyurmaktır.",
+        "diyanet_vakfi": "(11-16) Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç açık bir yoksulu doyurmaktır."
+      }
+    },
+    {
+      "id": 6039,
+      "verseNumber": 16,
+      "verseKey": "90:16",
+      "arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "english": "or to a poor person in distress,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(15-16) Karabet sahibi olan bir yetime. Veyahut yerlere serilmiş bir yoksula.",
+        "hayrat_nesriyat": "(14-16) Veya bir açlık gününde akrabâlığı olan bir yetîmi veya toz toprak içinde kalmış bir yoksulu doyurmaktır.",
+        "diyanet_vakfi": "(11-16) Fakat o, sarp yokuşu aşamadı. O sarp yokuş nedir bilir misin? Köle azat etmek veya açlık gününde yakını olan bir yetimi, yahut aç açık bir yoksulu doyurmaktır."
+      }
+    },
+    {
+      "id": 6040,
+      "verseNumber": 17,
+      "verseKey": "90:17",
+      "arabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "english": "and—above all—to be one of those who have faith and urge each other to perseverance and urge each other to compassion.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(17-18) Sonra da imân etmiş olanlardan ve birbirlerine sabrı tavsiye edenlerden ve merhameti tavsiyede bulunanlardan olmaktır. İşte meymenet sahipleri onlardır.",
+        "hayrat_nesriyat": "Sonra (bütün bunları yaparken) îmân edenlerden, birbirlerine sabrı tavsiye edenlerden ve birbirlerine merhameti tavsiye edenlerden olmaktır.",
+        "diyanet_vakfi": "(17-18) Sonra iman edenlerden, birbirlerine sabrı tavsiye edenlerden ve birbirlerine acımayı öğütleyenlerden olmaktır. İşte bunlar sağdakilerdir."
+      }
+    },
+    {
+      "id": 6041,
+      "verseNumber": 18,
+      "verseKey": "90:18",
+      "arabic": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "english": "These are the people of the right.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "(17-18) Sonra da imân etmiş olanlardan ve birbirlerine sabrı tavsiye edenlerden ve merhameti tavsiyede bulunanlardan olmaktır. İşte meymenet sahipleri onlardır.",
+        "hayrat_nesriyat": "İşte onlar Ashâb-ı Meymene (amel defterleri sağ eline verilenler)dir.",
+        "diyanet_vakfi": "(17-18) Sonra iman edenlerden, birbirlerine sabrı tavsiye edenlerden ve birbirlerine acımayı öğütleyenlerden olmaktır. İşte bunlar sağdakilerdir."
+      }
+    },
+    {
+      "id": 6042,
+      "verseNumber": 19,
+      "verseKey": "90:19",
+      "arabic": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "english": "As for those who deny Our signs, they are the people of the left.<sup foot_note=77622>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve o kimseler ki, Bizim âyetlerimizi inkâr ettiler. Onlar da şeamet sahipleridir.",
+        "hayrat_nesriyat": "Âyetlerimizi inkâr edenler ise, onlar Ashâb-ı Meş`eme (amel defterleri sol eline verilenler)dir.",
+        "diyanet_vakfi": "(19-20) Âyetlerimizi inkâr edenler ise işte onlar soldakilerdir. Cezaları, kapıları üzerlerine sımsıkı kapatılmış bir ateştir."
+      }
+    },
+    {
+      "id": 6043,
+      "verseNumber": 20,
+      "verseKey": "90:20",
+      "arabic": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "english": "The Fire will be sealed over them.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onların üzerlerine her tarafı kapalı bir ateş vardır.",
+        "hayrat_nesriyat": "Üzerlerinde (kapıları sımsıkı) kapatılmış bir ateş vardır!",
+        "diyanet_vakfi": "(19-20) Âyetlerimizi inkâr edenler ise işte onlar soldakilerdir. Cezaları, kapıları üzerlerine sımsıkı kapatılmış bir ateştir."
+      }
+    }
+  ]
+}

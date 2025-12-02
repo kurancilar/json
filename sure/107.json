@@ -1,0 +1,88 @@
+{
+  "verses": [
+    {
+      "id": 6198,
+      "verseNumber": 1,
+      "verseKey": "107:1",
+      "arabic": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "english": "Have you seen the one who denies the ˹final˺ Judgment?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Gördün mü o kimseyi ki, dini tekzîp eder.",
+        "hayrat_nesriyat": "Dîni (hesab gününü) yalanlayanı gördün mü?",
+        "diyanet_vakfi": "Dini yalanlayanı gördün mü?"
+      }
+    },
+    {
+      "id": 6199,
+      "verseNumber": 2,
+      "verseKey": "107:2",
+      "arabic": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "english": "That is the one who repulses the orphan,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "İmdi o kimsedir ki yetimi itiverir.",
+        "hayrat_nesriyat": "İşte o, yetîmi itip kakandır.",
+        "diyanet_vakfi": "İşte o, yetimi itip kakar;"
+      }
+    },
+    {
+      "id": 6200,
+      "verseNumber": 3,
+      "verseKey": "107:3",
+      "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "english": "and does not encourage the feeding of the poor.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve yoksula yemek yedirilmesi için teşvikte bulunmaz.",
+        "hayrat_nesriyat": "Yoksulu doyurmağa da teşvîk etmez.",
+        "diyanet_vakfi": "Yoksulu doyurmaya teşvik etmez;"
+      }
+    },
+    {
+      "id": 6201,
+      "verseNumber": 4,
+      "verseKey": "107:4",
+      "arabic": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "english": "So woe to those ˹hypocrites˺ who pray",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Artık vay haline o namaz kılanların ki,",
+        "hayrat_nesriyat": "Artık vay o namaz kılanların hâline!",
+        "diyanet_vakfi": "(4-5) Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar."
+      }
+    },
+    {
+      "id": 6202,
+      "verseNumber": 5,
+      "verseKey": "107:5",
+      "arabic": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "english": "yet are unmindful of their prayers;",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O kimseler ki, onlar namazlarında yanılanlardır.",
+        "hayrat_nesriyat": "Ki onlar, namazlarından gaflet edenlerdir (ona ehemmiyet vermezler)!",
+        "diyanet_vakfi": "(4-5) Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar."
+      }
+    },
+    {
+      "id": 6203,
+      "verseNumber": 6,
+      "verseKey": "107:6",
+      "arabic": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "english": "those who ˹only˺ show off,",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O kimseler ki, onlar riyâkardırlar.",
+        "hayrat_nesriyat": "Onlar ki, riyâkârlık (gösteriş için ibâdet) ederler!",
+        "diyanet_vakfi": "(6-7) Onlar gösteriş yapanlardır; hayra da mâni olurlar."
+      }
+    },
+    {
+      "id": 6204,
+      "verseNumber": 7,
+      "verseKey": "107:7",
+      "arabic": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "english": "and refuse to give ˹even the simplest˺ aid.<sup foot_note=77641>1</sup> ",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Ve men edilmesi mutad olmayan bir şeyi bile men ediverirler.",
+        "hayrat_nesriyat": "Ve mâûn`u (zekâtı) men` ederler!",
+        "diyanet_vakfi": "(6-7) Onlar gösteriş yapanlardır; hayra da mâni olurlar."
+      }
+    }
+  ]
+}

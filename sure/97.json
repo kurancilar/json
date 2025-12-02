@@ -1,0 +1,64 @@
+{
+  "verses": [
+    {
+      "id": 6126,
+      "verseNumber": 1,
+      "verseKey": "97:1",
+      "arabic": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "english": "Indeed, ˹it is˺ We ˹Who˺ sent this ˹Quran˺ down on the Night of Glory.<sup foot_note=77633>1</sup>",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Muhakkak ki Biz onu Kâdir gecesinde indirdik.",
+        "hayrat_nesriyat": "Şübhe yok ki biz onu (o Kur`ân`ı), Kadir Gecesinde indirdik.",
+        "diyanet_vakfi": "Biz onu (Kur’an’ı) Kadir gecesinde indirdik."
+      }
+    },
+    {
+      "id": 6127,
+      "verseNumber": 2,
+      "verseKey": "97:2",
+      "arabic": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "english": "And what will make you realize what the Night of Glory is?",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Kâdir gecesinin ne olduğunu sana ne şey bildirdi?",
+        "hayrat_nesriyat": "Kadir Gecesinin ne olduğunu (onun kıymetini) sana ne bildirdi?",
+        "diyanet_vakfi": "Kadir gecesinin ne olduğunu sen bilir misin?"
+      }
+    },
+    {
+      "id": 6128,
+      "verseNumber": 3,
+      "verseKey": "97:3",
+      "arabic": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "english": "The Night of Glory is better than a thousand months.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Kâdir gecesi, bin aydan daha hayırlıdır.",
+        "hayrat_nesriyat": "Kadir Gecesi, bin aydan daha hayırlıdır.",
+        "diyanet_vakfi": "Kadir gecesi, bin aydan hayırlıdır."
+      }
+    },
+    {
+      "id": 6129,
+      "verseNumber": 4,
+      "verseKey": "97:4",
+      "arabic": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "english": "That night the angels and the ˹holy˺ spirit<sup foot_note=77634>1</sup> descend, by the permission of their Lord, for every ˹decreed˺ matter.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "Onda melekler ve Ruh, Rabbilerinin izni ile her bir emirden iniverir.",
+        "hayrat_nesriyat": "Melekler ve Ruh (Cebrâîl), onda (o gecede) Rablerinin izniyle her bir iş için peyderpey iner(ler).",
+        "diyanet_vakfi": "O gecede, Rablerinin izniyle melekler ve Ruh (Cebrail), her iş için iner dururlar."
+      }
+    },
+    {
+      "id": 6130,
+      "verseNumber": 5,
+      "verseKey": "97:5",
+      "arabic": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "english": "It is all peace until the break of dawn.",
+      "turkish": {
+        "omer_nasuhi_bilmen": "O (gece) tan yeri ağarıncaya değin bir selâmettir.",
+        "hayrat_nesriyat": "O (gece), fecrin doğuşuna (gün ağarana) kadar selâmettir.",
+        "diyanet_vakfi": "O gece, esenlik doludur. Ta fecrin doğuşuna kadar."
+      }
+    }
+  ]
+}
