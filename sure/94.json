@@ -12,7 +12,7 @@
         "diyanet_vakfi": "Biz senin göğsünü açıp genişletmedik mi?"
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/094/001.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/094/001.mp3"
       }
     },
     {
@@ -27,7 +27,7 @@
         "diyanet_vakfi": "(2-3) Belini büken yükünü senden alıp atmadık mı?"
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/094/002.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/094/002.mp3"
       }
     },
     {
@@ -42,7 +42,7 @@
         "diyanet_vakfi": "(2-3) Belini büken yükünü senden alıp atmadık mı?"
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/094/003.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/094/003.mp3"
       }
     },
     {
@@ -57,7 +57,7 @@
         "diyanet_vakfi": "Senin şânını ve ününü yüceltmedik mi?"
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/094/004.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/094/004.mp3"
       }
     },
     {
@@ -72,7 +72,7 @@
         "diyanet_vakfi": "(5-6) Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/094/005.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/094/005.mp3"
       }
     },
     {
@@ -87,7 +87,7 @@
         "diyanet_vakfi": "(5-6) Elbette zorluğun yanında bir kolaylık vardır. Gerçekten, zorlukla beraber bir kolaylık daha vardır."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/094/006.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/094/006.mp3"
       }
     },
     {
@@ -102,7 +102,7 @@
         "diyanet_vakfi": "(7-8) Boş kaldın mı hemen (başka) işe koyul ve yalnız Rabbine yönel."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/094/007.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/094/007.mp3"
       }
     },
     {
@@ -117,7 +117,7 @@
         "diyanet_vakfi": "(7-8) Boş kaldın mı hemen (başka) işe koyul ve yalnız Rabbine yönel."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/094/008.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/094/008.mp3"
       }
     }
   ]

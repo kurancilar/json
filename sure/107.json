@@ -12,7 +12,7 @@
         "diyanet_vakfi": "Dini yalanlayanı gördün mü?"
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/107/001.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/107/001.mp3"
       }
     },
     {
@@ -27,7 +27,7 @@
         "diyanet_vakfi": "İşte o, yetimi itip kakar;"
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/107/002.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/107/002.mp3"
       }
     },
     {
@@ -42,7 +42,7 @@
         "diyanet_vakfi": "Yoksulu doyurmaya teşvik etmez;"
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/107/003.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/107/003.mp3"
       }
     },
     {
@@ -57,7 +57,7 @@
         "diyanet_vakfi": "(4-5) Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/107/004.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/107/004.mp3"
       }
     },
     {
@@ -72,7 +72,7 @@
         "diyanet_vakfi": "(4-5) Yazıklar olsun o namaz kılanlara ki, onlar namazlarını ciddiye almazlar."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/107/005.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/107/005.mp3"
       }
     },
     {
@@ -87,7 +87,7 @@
         "diyanet_vakfi": "(6-7) Onlar gösteriş yapanlardır; hayra da mâni olurlar."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/107/006.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/107/006.mp3"
       }
     },
     {
@@ -102,7 +102,7 @@
         "diyanet_vakfi": "(6-7) Onlar gösteriş yapanlardır; hayra da mâni olurlar."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/107/007.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/107/007.mp3"
       }
     }
   ]

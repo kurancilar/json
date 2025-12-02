@@ -12,7 +12,7 @@
         "diyanet_vakfi": "Rahmân ve rahîm olan Allah’ın adıyla."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/001/001.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/001/001.mp3"
       }
     },
     {
@@ -27,7 +27,7 @@
         "diyanet_vakfi": "Hamd (övme ve övülme), âlemlerin Rabbi Allah’a mahsustur."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/001/002.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/001/002.mp3"
       }
     },
     {
@@ -42,7 +42,7 @@
         "diyanet_vakfi": "O, rahmândır ve rahîmdir."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/001/003.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/001/003.mp3"
       }
     },
     {
@@ -57,7 +57,7 @@
         "diyanet_vakfi": "Ceza gününün mâlikidir."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/001/004.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/001/004.mp3"
       }
     },
     {
@@ -72,7 +72,7 @@
         "diyanet_vakfi": "(Rabbimiz!) Ancak sana kulluk ederiz ve yalnız senden medet umarız."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/001/005.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/001/005.mp3"
       }
     },
     {
@@ -87,7 +87,7 @@
         "diyanet_vakfi": "Bize doğru yolu göster."
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/001/006.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/001/006.mp3"
       }
     },
     {
@@ -102,7 +102,7 @@
         "diyanet_vakfi": "Kendilerine lütuf ve ikramda bulunduğun kimselerin yolunu; gazaba uğramışların ve sapmışların yolunu değil!"
       },
       "audio": {
-        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/001/007.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/json/refs/heads/main/audio/ghamadi/001/007.mp3"
       }
     }
   ]
