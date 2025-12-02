@@ -12,7 +12,7 @@
         "diyanet_vakfi": "(1-4) De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/112/001.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/112/001.mp3"
       }
     },
     {
@@ -27,7 +27,7 @@
         "diyanet_vakfi": "(1-4) De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/112/002.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/112/002.mp3"
       }
     },
     {
@@ -42,7 +42,7 @@
         "diyanet_vakfi": "(1-4) De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/112/003.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/112/003.mp3"
       }
     },
     {
@@ -57,7 +57,7 @@
         "diyanet_vakfi": "(1-4) De ki: O, Allah birdir. Allah sameddir. O, doğurmamış ve doğmamıştır. Onun hiçbir dengi yoktur."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/112/004.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/112/004.mp3"
       }
     }
   ]

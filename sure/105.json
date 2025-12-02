@@ -12,7 +12,7 @@
         "diyanet_vakfi": "Rabbin fil sahiplerine neler etti, görmedin mi?"
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/001.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/105/001.mp3"
       }
     },
     {
@@ -27,7 +27,7 @@
         "diyanet_vakfi": "Onların kötü planlarını boşa çıkarmadı mı?"
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/002.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/105/002.mp3"
       }
     },
     {
@@ -42,7 +42,7 @@
         "diyanet_vakfi": "Onların üstüne sürü sürü kuşlar gönderdi."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/003.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/105/003.mp3"
       }
     },
     {
@@ -57,7 +57,7 @@
         "diyanet_vakfi": "O kuşlar, onların üzerlerine pişkin tuğladan yapılmış taşlar atıyordu."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/004.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/105/004.mp3"
       }
     },
     {
@@ -72,7 +72,7 @@
         "diyanet_vakfi": "Böylece Allah onları yenilip çiğnenmiş ekine çevirdi."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/105/005.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/105/005.mp3"
       }
     }
   ]

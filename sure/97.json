@@ -12,7 +12,7 @@
         "diyanet_vakfi": "Biz onu (Kur’an’ı) Kadir gecesinde indirdik."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/001.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/097/001.mp3"
       }
     },
     {
@@ -27,7 +27,7 @@
         "diyanet_vakfi": "Kadir gecesinin ne olduğunu sen bilir misin?"
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/002.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/097/002.mp3"
       }
     },
     {
@@ -42,7 +42,7 @@
         "diyanet_vakfi": "Kadir gecesi, bin aydan hayırlıdır."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/003.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/097/003.mp3"
       }
     },
     {
@@ -57,7 +57,7 @@
         "diyanet_vakfi": "O gecede, Rablerinin izniyle melekler ve Ruh (Cebrail), her iş için iner dururlar."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/004.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/097/004.mp3"
       }
     },
     {
@@ -72,7 +72,7 @@
         "diyanet_vakfi": "O gece, esenlik doludur. Ta fecrin doğuşuna kadar."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/097/005.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/097/005.mp3"
       }
     }
   ]

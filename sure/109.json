@@ -12,7 +12,7 @@
         "diyanet_vakfi": "(1-2) (Resûlüm!) De ki: Ey kâfirler! Ben sizin tapmakta olduklarınıza tapmam."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/109/001.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/109/001.mp3"
       }
     },
     {
@@ -27,7 +27,7 @@
         "diyanet_vakfi": "(1-2) (Resûlüm!) De ki: Ey kâfirler! Ben sizin tapmakta olduklarınıza tapmam."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/109/002.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/109/002.mp3"
       }
     },
     {
@@ -42,7 +42,7 @@
         "diyanet_vakfi": "Siz de benim taptığıma tapmıyorsunuz."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/109/003.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/109/003.mp3"
       }
     },
     {
@@ -57,7 +57,7 @@
         "diyanet_vakfi": "Ben de sizin taptıklarınıza asla tapacak değilim."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/109/004.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/109/004.mp3"
       }
     },
     {
@@ -72,7 +72,7 @@
         "diyanet_vakfi": "Evet, siz de benim taptığıma tapıyor değilsiniz."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/109/005.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/109/005.mp3"
       }
     },
     {
@@ -87,7 +87,7 @@
         "diyanet_vakfi": "Sizin dininiz size, benim dinim de banadır."
       },
       "audio": {
-        "ghamadi": "https://github.com/kurancilar/api/raw/refs/heads/main/audio/ghamadi/109/006.mp3"
+        "ghamadi": "https://raw.githubusercontent.com/kurancilar/api/refs/heads/main/audio/ghamadi/109/006.mp3"
       }
     }
   ]
