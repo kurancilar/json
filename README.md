@@ -24,16 +24,23 @@ Sure, ayet ve sesleri JSON dosyası olarak barındırın.
 
 **Vanilla JavaScript:**
 
-```js
-    fetch("https://kurancilar.github.io/json/sure/1.json")
-        .then(dat => dat.json())
-        .then(json => {
-            json.verses.forEach(ayet => {
-                document.write(ayet.arabic);
-                document.write("<br>");
+```html
+    <center>
+        <div style="text-align: right; width: 50%; font-size: 3rem" id="ayetler"></div>
+    </center>
+    <script>
+        fetch("https://kurancilar.github.io/json/sure/1.json")
+            .then(dat => dat.json())
+            .then(json => {
+                json.verses.forEach(ayet => {
+                    document.getElementById("ayetler").innerHTML +=
+                        "<span>" + ayet.arabic + "</span><br>";
+                })
             })
-        })
+    </script>
 ```
+
+![](/example.png)
 
 #### Lisans
 
