@@ -14,11 +14,26 @@ Sure, ayet ve sesleri JSON dosyası olarak barındırın.
     └── <SURE_NUMARASI>.json
 ```
 
-#### Raw
+#### Adresler
 
-`https://raw.githubusercontent.com/kurancilar/master/source/sure/<SURE_NUMARASI>.json`
+`https://kurancilar.github.io/json/sure/<SURE_NUMARASI>.json`
 
-`https://raw.githubusercontent.com/kurancilar/master/source/audio/<SURE_NUMARASI:001-114>.json`
+`https://kurancilar.github.io/json/audio/<SURE_NUMARASI:001-114>.json`
+
+#### Örnek Kullanım
+
+**Vanilla JavaScript:**
+
+```js
+    fetch("https://kurancilar.github.io/json/sure/1.json")
+        .then(dat => dat.json())
+        .then(json => {
+            json.verses.forEach(ayet => {
+                document.write(ayet.arabic);
+                document.write("<br>");
+            })
+        })
+```
 
 #### Lisans
 
